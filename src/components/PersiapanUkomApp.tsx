@@ -5,8 +5,11 @@ import {
   ArrowRight,
   BarChart3,
   BookOpen,
+  ChevronLeft,
+  ChevronRight,
   CheckCircle2,
   ClipboardCheck,
+  Home,
   Layers3,
   RotateCcw,
   XCircle
@@ -23,9 +26,15 @@ import {
 } from "@/lib/progress";
 import type { LearningQuestion, StoredAnswer, StudyPackage, TestAttempt } from "@/types/learning";
 
-type Mode = "flipcard" | "test";
+type Mode = "home" | "flipcard" | "test";
+type ChartScenario = "best-score" | "completion";
 
 const optionLabels = ["A", "B", "C", "D"];
+const chartSize = 400;
+const chartCenter = chartSize / 2;
+const chartRadius = 122;
+const labelRadius = 170;
+const chartLevels = [20, 40, 60, 80, 100];
 
 function getAnswerMap(answers: StoredAnswer[]) {
   return new Map(answers.map((answer) => [answer.questionId, answer.selectedOptionIndex]));
@@ -45,8 +54,35 @@ function createEmptyAnswers(questions: LearningQuestion[]): StoredAnswer[] {
   }));
 }
 
+function getCategoryDisplayName(category: (typeof studyCategories)[number]) {
+  if (category.id === "account-representative") {
+    return "Materi Level 1";
+  }
+
+  if (category.id === "penelaah-keberatan") {
+    return "Materi Level 2";
+  }
+
+  return category.shortName;
+}
+
+function getChartPoint(index: number, total: number, radius: number) {
+  const angle = (Math.PI * 2 * index) / total - Math.PI / 2;
+
+  return {
+    x: chartCenter + Math.cos(angle) * radius,
+    y: chartCenter + Math.sin(angle) * radius
+  };
+}
+
+function formatPoints(points: Array<{ x: number; y: number }>) {
+  return points.map((point) => `${point.x.toFixed(1)},${point.y.toFixed(1)}`).join(" ");
+}
+
 export function PersiapanUkomApp() {
-  const [mode, setMode] = useState<Mode>("flipcard");
+  const [mode, setMode] = useState<Mode>("home");
+  const [chartScenario, setChartScenario] = useState<ChartScenario>("best-score");
+  const [isSidebarExpanded, setIsSidebarExpanded] = useState(true);
   const [selectedPackageId, setSelectedPackageId] = useState(studyPackages[0]?.id ?? "");
   const [cardIndex, setCardIndex] = useState(0);
   const [isCardOpen, setIsCardOpen] = useState(false);
@@ -64,6 +100,9 @@ export function PersiapanUkomApp() {
 
   const attemptStore = useMemo(() => parseAttemptStore(attemptStoreSnapshot), [attemptStoreSnapshot]);
   const currentCategory = studyCategories.find((category) => category.id === currentPackage.categoryId);
+  const visiblePackages = useMemo(() => {
+    return studyPackages.filter((studyPackage) => studyPackage.categoryId === currentPackage.categoryId);
+  }, [currentPackage.categoryId]);
   const currentQuestion = currentPackage.questions[cardIndex];
   const packageAttempts = attemptStore[currentPackage.id] ?? [];
   const answerMap = getAnswerMap(answers);
@@ -71,6 +110,45 @@ export function PersiapanUkomApp() {
   const answeredNumbers = answers.flatMap((answer, index) => (answer.selectedOptionIndex !== null ? [index + 1] : []));
   const unansweredNumbers = answers.flatMap((answer, index) => (answer.selectedOptionIndex === null ? [index + 1] : []));
   const latestAttempt = packageAttempts.at(-1);
+  const chartData = useMemo(() => {
+    return studyCategories.map((category) => {
+      const categoryPackages = studyPackages.filter((studyPackage) => studyPackage.categoryId === category.id);
+      const attemptedPackages = categoryPackages.filter((studyPackage) => (attemptStore[studyPackage.id] ?? []).length > 0);
+      const bestScore = categoryPackages.reduce((best, studyPackage) => {
+        const attempts = attemptStore[studyPackage.id] ?? [];
+        const packageBest = attempts.reduce((currentBest, attempt) => Math.max(currentBest, attempt.percentage), 0);
+
+        return Math.max(best, packageBest);
+      }, 0);
+      const completion = categoryPackages.length > 0 ? Math.round((attemptedPackages.length / categoryPackages.length) * 100) : 0;
+
+      return {
+        id: category.id,
+        label: getCategoryDisplayName(category),
+        fullName: category.name,
+        packageCount: categoryPackages.length,
+        attemptedCount: attemptedPackages.length,
+        value: chartScenario === "best-score" ? bestScore : completion
+      };
+    });
+  }, [attemptStore, chartScenario]);
+  const chartPoints = chartData.map((item, index) => {
+    return getChartPoint(index, chartData.length, chartRadius * (item.value / 100));
+  });
+  const chartPolygon = formatPoints(chartPoints);
+  const chartAverage = chartData.length > 0
+    ? Math.round(chartData.reduce((total, item) => total + item.value, 0) / chartData.length)
+    : 0;
+  const strongestCategory = chartData.reduce<(typeof chartData)[number] | null>((strongest, item) => {
+    if (!strongest || item.value > strongest.value) {
+      return item;
+    }
+
+    return strongest;
+  }, null);
+  const chartDescription = chartScenario === "best-score"
+    ? "Skor terbaik dari seluruh percobaan tes pada setiap kategori."
+    : "Persentase paket yang sudah memiliki minimal satu percobaan tes pada setiap kategori.";
 
   function selectPackage(packageId: string) {
     const nextPackage = studyPackages.find((studyPackage) => studyPackage.id === packageId);
@@ -137,7 +215,7 @@ export function PersiapanUkomApp() {
       <a className="skip-link" href="#workspace">
         Lewati ke materi
       </a>
-      <main className="app-shell">
+      <main className={`app-shell ${isSidebarExpanded ? "" : "is-sidebar-collapsed"}`}>
         <aside className="side-rail" aria-label="Navigasi belajar">
           <div className="brand-block">
             <div className="brand-mark" aria-hidden="true">
@@ -149,6 +227,17 @@ export function PersiapanUkomApp() {
               <p className="brand-subtitle">Ujian Kompetensi DJP</p>
             </div>
           </div>
+
+          <button
+            aria-expanded={isSidebarExpanded}
+            aria-label={isSidebarExpanded ? "Ringkas sidebar kategori" : "Perluas sidebar kategori"}
+            className="sidebar-toggle"
+            onClick={() => setIsSidebarExpanded((value) => !value)}
+            type="button"
+          >
+            {isSidebarExpanded ? <ChevronLeft aria-hidden="true" size={18} /> : <ChevronRight aria-hidden="true" size={18} />}
+            <span>{isSidebarExpanded ? "Ringkas" : "Perluas"}</span>
+          </button>
 
           <nav className="topic-list" aria-label="Kategori materi">
             {studyCategories.map((category) => (
@@ -162,10 +251,11 @@ export function PersiapanUkomApp() {
                   }
                 }}
                 type="button"
+                title={getCategoryDisplayName(category)}
               >
                 <Layers3 aria-hidden="true" size={18} />
                 <span>
-                  <strong>{category.shortName}</strong>
+                  <strong>{getCategoryDisplayName(category)}</strong>
                   <small>{category.name}</small>
                 </span>
               </button>
@@ -181,10 +271,20 @@ export function PersiapanUkomApp() {
       <section className="workspace" id="workspace">
         <header className="topbar">
           <div>
-            <p className="eyebrow">{currentCategory?.name}</p>
-            <h2>{currentPackage.name}</h2>
+            <p className="eyebrow">{mode === "home" ? "Progres Belajar" : currentCategory?.name}</p>
+            <h2>{mode === "home" ? "Beranda" : currentPackage.name}</h2>
           </div>
           <div className="mode-switch" role="tablist" aria-label="Mode belajar">
+            <button
+              aria-selected={mode === "home"}
+              className={mode === "home" ? "is-active" : ""}
+              onClick={() => setMode("home")}
+              role="tab"
+              type="button"
+            >
+              <Home aria-hidden="true" size={18} />
+              Beranda
+            </button>
             <button
               aria-selected={mode === "flipcard"}
               className={mode === "flipcard" ? "is-active" : ""}
@@ -208,36 +308,149 @@ export function PersiapanUkomApp() {
           </div>
         </header>
 
-        <div className="package-strip" aria-label="Paket soal">
-          {studyPackages.map((studyPackage) => (
-            <button
-              className={studyPackage.id === currentPackage.id ? "is-active" : ""}
-              key={studyPackage.id}
-              onClick={() => selectPackage(studyPackage.id)}
-              type="button"
-            >
-              {studyPackage.name}
-              <span>{studyPackage.questions.length} soal</span>
-            </button>
-          ))}
-        </div>
+        {mode === "home" ? null : (
+          <>
+            <div className="package-strip" aria-label="Paket soal">
+              {visiblePackages.map((studyPackage) => (
+                <button
+                  className={studyPackage.id === currentPackage.id ? "is-active" : ""}
+                  key={studyPackage.id}
+                  onClick={() => selectPackage(studyPackage.id)}
+                  type="button"
+                >
+                  {studyPackage.name}
+                  <span>{studyPackage.questions.length} soal</span>
+                </button>
+              ))}
+            </div>
 
-        <section className="metrics-grid" aria-label="Statistik paket">
-          <div className="metric">
-            <span>Soal</span>
-            <strong>{currentPackage.questions.length}</strong>
-          </div>
-          <div className="metric">
-            <span>Percobaan</span>
-            <strong>{packageAttempts.length}</strong>
-          </div>
-          <div className="metric">
-            <span>Skor terakhir</span>
-            <strong>{latestAttempt ? `${latestAttempt.score}/${latestAttempt.total}` : "-"}</strong>
-          </div>
-        </section>
+            <section className="metrics-grid" aria-label="Statistik paket">
+              <div className="metric">
+                <span>Soal</span>
+                <strong>{currentPackage.questions.length}</strong>
+              </div>
+              <div className="metric">
+                <span>Percobaan</span>
+                <strong>{packageAttempts.length}</strong>
+              </div>
+              <div className="metric">
+                <span>Skor terakhir</span>
+                <strong>{latestAttempt ? `${latestAttempt.score}/${latestAttempt.total}` : "-"}</strong>
+              </div>
+            </section>
+          </>
+        )}
 
-        {mode === "flipcard" ? (
+        {mode === "home" ? (
+          <section className="home-dashboard" aria-label="Beranda progres belajar">
+            <div className="home-panel chart-panel">
+              <div className="section-heading">
+                <div>
+                  <p className="eyebrow">Spider chart</p>
+                  <h3>Ringkasan progres kategori</h3>
+                </div>
+                <div className="scenario-switch" role="radiogroup" aria-label="Skenario spider chart">
+                  <button
+                    aria-checked={chartScenario === "best-score"}
+                    className={chartScenario === "best-score" ? "is-active" : ""}
+                    onClick={() => setChartScenario("best-score")}
+                    role="radio"
+                    type="button"
+                  >
+                    Skor terbaik
+                  </button>
+                  <button
+                    aria-checked={chartScenario === "completion"}
+                    className={chartScenario === "completion" ? "is-active" : ""}
+                    onClick={() => setChartScenario("completion")}
+                    role="radio"
+                    type="button"
+                  >
+                    Paket dikerjakan
+                  </button>
+                </div>
+              </div>
+
+              <div className="chart-layout">
+                <figure className="spider-chart" aria-label={`${chartDescription} Rata-rata ${chartAverage} persen.`}>
+                  <svg viewBox={`0 0 ${chartSize} ${chartSize}`} role="img" aria-labelledby="spider-chart-title spider-chart-desc">
+                    <title id="spider-chart-title">Spider chart progres kategori</title>
+                    <desc id="spider-chart-desc">{chartDescription}</desc>
+                    {chartLevels.map((level) => (
+                      <polygon
+                        className="chart-ring"
+                        key={level}
+                        points={formatPoints(chartData.map((_, index) => getChartPoint(index, chartData.length, chartRadius * (level / 100))))}
+                      />
+                    ))}
+                    {chartData.map((item, index) => {
+                      const axisEnd = getChartPoint(index, chartData.length, chartRadius);
+                      const labelPoint = getChartPoint(index, chartData.length, labelRadius);
+
+                      return (
+                        <g key={item.id}>
+                          <line className="chart-axis" x1={chartCenter} x2={axisEnd.x} y1={chartCenter} y2={axisEnd.y} />
+                          <text className="chart-label" textAnchor="middle" x={labelPoint.x} y={labelPoint.y}>
+                            {item.label}
+                          </text>
+                        </g>
+                      );
+                    })}
+                    <polygon className="chart-area" points={chartPolygon} />
+                    <polyline className="chart-outline" points={`${chartPolygon} ${chartPoints[0]?.x.toFixed(1)},${chartPoints[0]?.y.toFixed(1)}`} />
+                    {chartPoints.map((point, index) => (
+                      <circle className="chart-dot" cx={point.x} cy={point.y} key={chartData[index].id} r="4" />
+                    ))}
+                  </svg>
+                </figure>
+
+                <div className="chart-summary">
+                  <p>{chartDescription}</p>
+                  <div>
+                    <span>Rata-rata</span>
+                    <strong>{chartAverage}%</strong>
+                  </div>
+                  <div>
+                    <span>Tertinggi</span>
+                    <strong>{strongestCategory ? `${strongestCategory.label} ${strongestCategory.value}%` : "-"}</strong>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="home-panel category-progress">
+              <div className="section-heading">
+                <div>
+                  <p className="eyebrow">Kategori</p>
+                  <h3>Detail progres</h3>
+                </div>
+              </div>
+              <div className="category-progress-list">
+                {chartData.map((item) => (
+                  <button
+                    className={item.id === currentPackage.categoryId ? "is-active" : ""}
+                    key={item.id}
+                    onClick={() => {
+                      const firstPackage = studyPackages.find((studyPackage) => studyPackage.categoryId === item.id);
+                      if (firstPackage) {
+                        selectPackage(firstPackage.id);
+                      }
+                    }}
+                    type="button"
+                  >
+                    <span>
+                      <strong>{item.label}</strong>
+                      <small>
+                        {item.attemptedCount}/{item.packageCount} paket dikerjakan
+                      </small>
+                    </span>
+                    <b>{item.value}%</b>
+                  </button>
+                ))}
+              </div>
+            </div>
+          </section>
+        ) : mode === "flipcard" ? (
           <section className="study-surface" aria-label="Flipcard">
             <div className="study-header">
               <div>

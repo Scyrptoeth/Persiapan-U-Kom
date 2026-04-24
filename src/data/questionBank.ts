@@ -123,8 +123,8 @@ export const studyCategories: StudyCategory[] = [
   { id: "internalisasi-kepatuhan", name: "Internalisasi Kepatuhan dan Disiplin", shortName: "IK", description: "Kode etik, kode perilaku, gratifikasi, benturan kepentingan, dan disiplin PNS." },
   { id: "organisasi", name: "Organisasi Kementerian Keuangan dan DJP", shortName: "Org", description: "Struktur, fungsi unit, staf ahli, KPP, KP2KP, dan UPT DJP." },
   { id: "pph", name: "Pajak Penghasilan", shortName: "PPh", description: "Subjek, objek, biaya fiskal, tarif, dan pemotongan atau pemungutan PPh." },
-  { id: "account-representative", name: "Account Representative", shortName: "AR", description: "Pengawasan Wajib Pajak, KPDL, SP2DK, LHP2DK, dan daftar prioritas." },
-  { id: "penelaah-keberatan", name: "Penelaah Keberatan", shortName: "PK", description: "Keberatan, Pasal 16, Pasal 36, banding, gugatan, dan peninjauan kembali." }
+  { id: "account-representative", name: "Materi Level 1", shortName: "Materi Level 1", description: "Pengawasan Wajib Pajak, KPDL, SP2DK, LHP2DK, dan daftar prioritas." },
+  { id: "penelaah-keberatan", name: "Materi Level 2", shortName: "Materi Level 2", description: "Keberatan, Pasal 16, Pasal 36, banding, gugatan, dan peninjauan kembali." }
 ];
 
 const questionSeeds: QuestionSeed[] = [
