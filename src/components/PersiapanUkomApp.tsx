@@ -24,7 +24,7 @@ import {
   subscribeToAttemptStore,
   writeAttemptStore
 } from "@/lib/progress";
-import type { LearningQuestion, StoredAnswer, StudyPackage, TestAttempt } from "@/types/learning";
+import type { CategoryId, LearningQuestion, StoredAnswer, StudyPackage, TestAttempt } from "@/types/learning";
 
 type Mode = "home" | "flipcard" | "test";
 type ChartScenario = "best-score" | "completion";
@@ -83,10 +83,11 @@ export function PersiapanUkomApp() {
   const [mode, setMode] = useState<Mode>("home");
   const [chartScenario, setChartScenario] = useState<ChartScenario>("best-score");
   const [isSidebarExpanded, setIsSidebarExpanded] = useState(true);
-  const [selectedPackageId, setSelectedPackageId] = useState(studyPackages[0]?.id ?? "");
+  const [selectedCategoryId, setSelectedCategoryId] = useState<CategoryId>(studyPackages[0]?.categoryId ?? studyCategories[0].id);
+  const [selectedPackageId, setSelectedPackageId] = useState<string | null>(null);
   const [cardIndex, setCardIndex] = useState(0);
   const [isCardOpen, setIsCardOpen] = useState(false);
-  const [answers, setAnswers] = useState<StoredAnswer[]>(() => createEmptyAnswers(studyPackages[0].questions));
+  const [answers, setAnswers] = useState<StoredAnswer[]>([]);
   const [submittedAttempt, setSubmittedAttempt] = useState<TestAttempt | null>(null);
   const attemptStoreSnapshot = useSyncExternalStore(
     subscribeToAttemptStore,
@@ -95,16 +96,20 @@ export function PersiapanUkomApp() {
   );
 
   const currentPackage = useMemo(() => {
-    return studyPackages.find((studyPackage) => studyPackage.id === selectedPackageId) ?? studyPackages[0];
+    if (!selectedPackageId) {
+      return null;
+    }
+
+    return studyPackages.find((studyPackage) => studyPackage.id === selectedPackageId) ?? null;
   }, [selectedPackageId]);
 
   const attemptStore = useMemo(() => parseAttemptStore(attemptStoreSnapshot), [attemptStoreSnapshot]);
-  const currentCategory = studyCategories.find((category) => category.id === currentPackage.categoryId);
+  const currentCategory = studyCategories.find((category) => category.id === selectedCategoryId) ?? studyCategories[0];
   const visiblePackages = useMemo(() => {
-    return studyPackages.filter((studyPackage) => studyPackage.categoryId === currentPackage.categoryId);
-  }, [currentPackage.categoryId]);
-  const currentQuestion = currentPackage.questions[cardIndex];
-  const packageAttempts = attemptStore[currentPackage.id] ?? [];
+    return studyPackages.filter((studyPackage) => studyPackage.categoryId === selectedCategoryId);
+  }, [selectedCategoryId]);
+  const currentQuestion = currentPackage?.questions[cardIndex] ?? null;
+  const packageAttempts = currentPackage ? attemptStore[currentPackage.id] ?? [] : [];
   const answerMap = getAnswerMap(answers);
   const answeredCount = answers.filter((answer) => answer.selectedOptionIndex !== null).length;
   const answeredNumbers = answers.flatMap((answer, index) => (answer.selectedOptionIndex !== null ? [index + 1] : []));
@@ -150,12 +155,22 @@ export function PersiapanUkomApp() {
     ? "Skor terbaik dari seluruh percobaan tes pada setiap kategori."
     : "Persentase paket yang sudah memiliki minimal satu percobaan tes pada setiap kategori.";
 
+  function selectCategory(categoryId: CategoryId) {
+    setSelectedCategoryId(categoryId);
+    setSelectedPackageId(null);
+    setCardIndex(0);
+    setIsCardOpen(false);
+    setAnswers([]);
+    setSubmittedAttempt(null);
+  }
+
   function selectPackage(packageId: string) {
     const nextPackage = studyPackages.find((studyPackage) => studyPackage.id === packageId);
     if (!nextPackage) {
       return;
     }
 
+    setSelectedCategoryId(nextPackage.categoryId);
     setSelectedPackageId(packageId);
     setCardIndex(0);
     setIsCardOpen(false);
@@ -176,6 +191,10 @@ export function PersiapanUkomApp() {
   }
 
   function submitTest() {
+    if (!currentPackage) {
+      return;
+    }
+
     const score = getPackageScore(currentPackage, answers);
     const attemptNumber = packageAttempts.length + 1;
     const attempt: TestAttempt = {
@@ -197,12 +216,20 @@ export function PersiapanUkomApp() {
   }
 
   function retakeTest() {
+    if (!currentPackage) {
+      return;
+    }
+
     setAnswers(createEmptyAnswers(currentPackage.questions));
     setSubmittedAttempt(null);
     setMode("test");
   }
 
   function moveCard(direction: -1 | 1) {
+    if (!currentPackage) {
+      return;
+    }
+
     setCardIndex((currentIndex) => {
       const nextIndex = currentIndex + direction;
       return Math.min(Math.max(nextIndex, 0), currentPackage.questions.length - 1);
@@ -242,14 +269,9 @@ export function PersiapanUkomApp() {
           <nav className="topic-list" aria-label="Kategori materi">
             {studyCategories.map((category) => (
               <button
-                className={`topic-button ${category.id === currentPackage.categoryId ? "is-active" : ""}`}
+                className={`topic-button ${category.id === selectedCategoryId ? "is-active" : ""}`}
                 key={category.id}
-                onClick={() => {
-                  const firstPackage = studyPackages.find((studyPackage) => studyPackage.categoryId === category.id);
-                  if (firstPackage) {
-                    selectPackage(firstPackage.id);
-                  }
-                }}
+                onClick={() => selectCategory(category.id)}
                 type="button"
                 title={getCategoryDisplayName(category)}
               >
@@ -261,18 +283,13 @@ export function PersiapanUkomApp() {
               </button>
             ))}
           </nav>
-
-          <div className="source-panel">
-            <p className="panel-label">Sumber Materi</p>
-            <p>{currentQuestion.source.title}</p>
-          </div>
         </aside>
 
       <section className="workspace" id="workspace">
         <header className="topbar">
           <div>
             <p className="eyebrow">{mode === "home" ? "Progres Belajar" : currentCategory?.name}</p>
-            <h2>{mode === "home" ? "Beranda" : currentPackage.name}</h2>
+            <h2>{mode === "home" ? "Beranda" : currentPackage ? currentPackage.name : `Pilih Paket ${getCategoryDisplayName(currentCategory)}`}</h2>
           </div>
           <div className="mode-switch" role="tablist" aria-label="Mode belajar">
             <button
@@ -309,36 +326,21 @@ export function PersiapanUkomApp() {
         </header>
 
         {mode === "home" ? null : (
-          <>
-            <div className="package-strip" aria-label="Paket soal">
+          <section className={`package-picker ${currentPackage ? "has-selection" : ""}`} aria-label="Pilih paket soal">
+            <div className="package-strip">
               {visiblePackages.map((studyPackage) => (
                 <button
-                  className={studyPackage.id === currentPackage.id ? "is-active" : ""}
+                  className={studyPackage.id === currentPackage?.id ? "is-active" : ""}
                   key={studyPackage.id}
                   onClick={() => selectPackage(studyPackage.id)}
                   type="button"
                 >
-                  {studyPackage.name}
-                  <span>{studyPackage.questions.length} soal</span>
+                  <span>{studyPackage.name}</span>
+                  <small>{studyPackage.questions.length} soal</small>
                 </button>
               ))}
             </div>
-
-            <section className="metrics-grid" aria-label="Statistik paket">
-              <div className="metric">
-                <span>Soal</span>
-                <strong>{currentPackage.questions.length}</strong>
-              </div>
-              <div className="metric">
-                <span>Percobaan</span>
-                <strong>{packageAttempts.length}</strong>
-              </div>
-              <div className="metric">
-                <span>Skor terakhir</span>
-                <strong>{latestAttempt ? `${latestAttempt.score}/${latestAttempt.total}` : "-"}</strong>
-              </div>
-            </section>
-          </>
+          </section>
         )}
 
         {mode === "home" ? (
@@ -428,13 +430,11 @@ export function PersiapanUkomApp() {
               <div className="category-progress-list">
                 {chartData.map((item) => (
                   <button
-                    className={item.id === currentPackage.categoryId ? "is-active" : ""}
+                    className={item.id === selectedCategoryId ? "is-active" : ""}
                     key={item.id}
                     onClick={() => {
-                      const firstPackage = studyPackages.find((studyPackage) => studyPackage.categoryId === item.id);
-                      if (firstPackage) {
-                        selectPackage(firstPackage.id);
-                      }
+                      selectCategory(item.id);
+                      setMode("flipcard");
                     }}
                     type="button"
                   >
@@ -450,7 +450,7 @@ export function PersiapanUkomApp() {
               </div>
             </div>
           </section>
-        ) : mode === "flipcard" ? (
+        ) : !currentPackage || !currentQuestion ? null : mode === "flipcard" ? (
           <section className="study-surface" aria-label="Flipcard">
             <div className="study-header">
               <div>
@@ -477,7 +477,6 @@ export function PersiapanUkomApp() {
                 <span aria-hidden={!isCardOpen} className="flipcard-face flipcard-back">
                   <span className="card-kicker">Jawaban</span>
                   <span className="card-text">{currentQuestion.answer}</span>
-                  <span className="card-note">{currentQuestion.explanation}</span>
                 </span>
               </span>
             </button>

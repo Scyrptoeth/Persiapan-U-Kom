@@ -143,7 +143,6 @@ button:disabled {
 
 .app-shell.is-sidebar-collapsed .brand-block > div:not(.brand-mark),
 .app-shell.is-sidebar-collapsed .topic-button span,
-.app-shell.is-sidebar-collapsed .source-panel,
 .app-shell.is-sidebar-collapsed .sidebar-toggle span {
   display: none;
 }
@@ -238,18 +237,6 @@ button:disabled {
   color: var(--muted);
 }
 
-.source-panel {
-  border-top: 1px solid rgba(255, 255, 255, 0.16);
-  margin-top: auto;
-  padding-top: 18px;
-}
-
-.source-panel p:last-child {
-  color: #dce3dd;
-  margin: 0;
-  overflow-wrap: anywhere;
-}
-
 .workspace {
   display: flex;
   flex-direction: column;
@@ -308,17 +295,35 @@ button:disabled {
   color: #ffffff;
 }
 
+.package-picker {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  padding: 8px;
+}
+
+.package-picker.has-selection {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
 .package-strip {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
   gap: 8px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 }
 
 .package-strip button {
   background: var(--surface);
   border: 1px solid var(--line);
   color: var(--ink);
-  padding: 9px 13px;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  justify-content: initial;
+  min-height: 58px;
+  padding: 10px 14px;
+  width: 100%;
 }
 
 .package-strip button:hover {
@@ -326,10 +331,18 @@ button:disabled {
 }
 
 .package-strip button span {
+  color: var(--ink);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.package-strip button small {
   color: var(--muted);
   font-family: var(--font-mono), monospace;
   font-size: 12px;
   font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 .package-strip button.is-active {
@@ -641,7 +654,7 @@ button:disabled {
 .flipcard-back {
   background: #f0f4ed;
   border-left-color: var(--accent);
-  grid-template-rows: auto minmax(0, 1fr) auto;
+  grid-template-rows: auto minmax(0, 1fr);
   transform: rotateY(180deg);
 }
 
@@ -658,28 +671,20 @@ button:disabled {
 }
 
 .card-text {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
+  align-self: center;
+  display: block;
   font-size: 30px;
   font-weight: 600;
-  justify-content: flex-start;
   line-height: 1.22;
-  max-width: 980px;
-  text-wrap: pretty;
+  max-width: none;
+  overflow-wrap: break-word;
+  text-align: justify;
+  width: 100%;
 }
 
 .flipcard .card-text {
   font-family: var(--font-sans), Arial, sans-serif;
   font-weight: 600;
-}
-
-.card-note {
-  border-top: 1px solid var(--line);
-  color: #3e4a45;
-  line-height: 1.56;
-  padding-top: 14px;
-  text-align: justify;
 }
 
 .action-row {
@@ -1043,7 +1048,6 @@ button:disabled {
     overflow: visible;
   }
 
-  .source-panel,
   .attempt-panel {
     position: static;
   }
