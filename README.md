@@ -2,9 +2,9 @@
 
 Website belajar personal/internal untuk persiapan Ujian Kompetensi DJP.
 
-## MVP Pilot
+## Learning Scope
 
-- Kategori awal: Pajak Pertambahan Nilai (PPN)
+- Kategori: PPN, Kepegawaian, PBB, KUP, Nilai-Nilai Kementerian Keuangan, Bea Meterai, Tata Naskah Dinas, TIK, Internalisasi Kepatuhan, Organisasi, PPh, Account Representative, dan Penelaah Keberatan
 - Modul: Flipcard dan Tes dari bank soal yang sama
 - Paket: otomatis, maksimal 20 soal per paket
 - Tes: pilihan A-D, urutan tetap, skor benar +1, salah/tidak jawab 0

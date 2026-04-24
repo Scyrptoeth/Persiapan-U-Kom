@@ -10,7 +10,7 @@
 ## Product Guardrails
 
 - Persiapan U-Kom is a personal/internal learning website for Ujian Kompetensi DJP.
-- MVP pilot focuses on PPN.
+- The original MVP pilot started with PPN; the current learning scope covers multiple U-Kom categories.
 - Flipcard and Tes must use the same question bank.
 - Packages are generated automatically by category/source order with a maximum of 20 questions per package.
 - Never randomize question order or option order.

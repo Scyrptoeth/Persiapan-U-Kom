@@ -1,4 +1,19 @@
-export type CategoryId = "ppn";
+export type CategoryId =
+  | "kup"
+  | "pph"
+  | "ppn"
+  | "pbb"
+  | "bea-meterai"
+  | "tik"
+  | "nilai-kemenkeu"
+  | "organisasi"
+  | "internalisasi-kepatuhan"
+  | "kepegawaian"
+  | "tata-naskah-dinas"
+  | "account-representative"
+  | "penelaah-keberatan";
+
+export type CorrectOptionIndex = 0 | 1 | 2 | 3;
 
 export type SourceRef = {
   title: string;
@@ -13,7 +28,7 @@ export type LearningQuestion = {
   question: string;
   answer: string;
   options: [string, string, string, string];
-  correctOptionIndex: 0 | 1 | 2 | 3;
+  correctOptionIndex: CorrectOptionIndex;
   explanation: string;
   source: SourceRef;
 };
