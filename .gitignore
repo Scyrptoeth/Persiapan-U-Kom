@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# next
+.next/
+out/
+
+# production
+build/
+
+# local env
+.env*
+
+# typecheck
+tsconfig.tsbuildinfo
+
+# verification artifacts
+.verification-*.png
+
+# system files
+.DS_Store
