@@ -19,7 +19,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-001",
     categoryId: "ppn",
     topic: "Dasar Hukum PPN",
-    question: "Sesuai materi PPN, sebutan untuk dasar hukum pemungutan PPN adalah apa?",
+    question: "Apa dasar hukum pemungutan PPN yang dikenal sebagai Undang-Undang PPN 1984?",
     answer: "Undang-Undang Pajak Pertambahan Nilai 1984.",
     options: [
       "Undang-Undang Pajak Penjualan 1951",
@@ -28,7 +28,7 @@ export const questionBank: LearningQuestion[] = [
       "Undang-Undang Ketentuan Umum Perpajakan"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi menyebut bahwa dasar hukum pemungutan PPN dapat disebut Undang-Undang Pajak Pertambahan Nilai 1984.",
+    explanation: "Dasar hukum pemungutan PPN dikenal sebagai Undang-Undang Pajak Pertambahan Nilai 1984.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Sebutan untuk Dasar Hukum PPN"
@@ -38,7 +38,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-002",
     categoryId: "ppn",
     topic: "Karakteristik PPN",
-    question: "Manakah yang termasuk karakteristik PPN menurut materi?",
+    question: "Manakah pernyataan yang menggambarkan karakteristik PPN?",
     answer: "Pajak atas konsumsi dalam negeri, pajak tidak langsung, multi stage non-cumulative, dan pajak objektif.",
     options: [
       "Pajak subjektif, single stage, dan final",
@@ -47,7 +47,7 @@ export const questionBank: LearningQuestion[] = [
       "Pajak atas penghasilan luar negeri, pajak langsung, dan single stage"
     ],
     correctOptionIndex: 2,
-    explanation: "Empat ciri yang ditampilkan dalam materi adalah pajak atas konsumsi di dalam negeri, pajak tidak langsung, multi stage non-cumulative, dan pajak objektif.",
+    explanation: "Karakteristik PPN meliputi pajak atas konsumsi di dalam negeri, pajak tidak langsung, multi stage non-cumulative, dan pajak objektif.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Karakteristik PPN"
@@ -66,7 +66,7 @@ export const questionBank: LearningQuestion[] = [
       "Seluruh transaksi yang dilakukan oleh non-PKP"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi menjelaskan nilai tambah timbul dari penggunaan faktor produksi pada setiap jalur usaha sampai barang atau jasa diterima konsumen.",
+    explanation: "Nilai tambah timbul dari penggunaan faktor produksi pada setiap jalur usaha sampai barang atau jasa diterima konsumen.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Apa itu Nilai Tambah?"
@@ -76,7 +76,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-004",
     categoryId: "ppn",
     topic: "Subjek PPN",
-    question: "Apa definisi Pengusaha Kena Pajak dalam materi PPN?",
+    question: "Apa definisi Pengusaha Kena Pajak berdasarkan UU PPN?",
     answer: "Pengusaha yang melakukan penyerahan BKP dan/atau JKP yang dikenai pajak berdasarkan UU PPN.",
     options: [
       "Setiap orang pribadi yang memiliki NPWP",
@@ -85,7 +85,7 @@ export const questionBank: LearningQuestion[] = [
       "Badan pemerintah yang memungut seluruh jenis pajak"
     ],
     correctOptionIndex: 2,
-    explanation: "Materi mengutip Pasal 1 angka 15 UU PPN untuk definisi Pengusaha Kena Pajak.",
+    explanation: "Pasal 1 angka 15 UU PPN mendefinisikan Pengusaha Kena Pajak sebagai pengusaha yang melakukan penyerahan BKP dan/atau JKP yang dikenai pajak.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Subjek Pajak - Pengusaha Kena Pajak"
@@ -95,7 +95,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-005",
     categoryId: "ppn",
     topic: "Subjek PPN",
-    question: "Batas peredaran bruto/penerimaan bruto Pengusaha Kecil dalam materi adalah berapa?",
+    question: "Berapa batas peredaran bruto dan/atau penerimaan bruto bagi Pengusaha Kecil?",
     answer: "Tidak lebih dari Rp4.800.000.000 dalam satu tahun buku.",
     options: [
       "Tidak lebih dari Rp500.000.000 dalam satu tahun buku",
@@ -104,7 +104,7 @@ export const questionBank: LearningQuestion[] = [
       "Tidak lebih dari Rp10.000.000.000 dalam satu tahun buku"
     ],
     correctOptionIndex: 2,
-    explanation: "Materi menyebut Pengusaha Kecil memiliki jumlah peredaran bruto dan/atau penerimaan bruto tidak lebih dari Rp4,8 miliar.",
+    explanation: "Pengusaha Kecil memiliki jumlah peredaran bruto dan/atau penerimaan bruto tidak lebih dari Rp4,8 miliar.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Subjek Pajak - Pengusaha Kecil"
@@ -114,7 +114,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-006",
     categoryId: "ppn",
     topic: "Objek PPN",
-    question: "Manakah yang merupakan objek PPN menurut Pasal 4 ayat (1) dalam materi?",
+    question: "Manakah yang merupakan objek PPN menurut Pasal 4 ayat (1) UU PPN?",
     answer: "Pemanfaatan JKP dari luar Daerah Pabean di dalam Daerah Pabean.",
     options: [
       "Pembayaran gaji karyawan oleh pemberi kerja",
@@ -123,7 +123,7 @@ export const questionBank: LearningQuestion[] = [
       "Penerimaan dividen oleh pemegang saham"
     ],
     correctOptionIndex: 1,
-    explanation: "Daftar objek PPN dalam materi mencakup pemanfaatan JKP dari luar Daerah Pabean di dalam Daerah Pabean.",
+    explanation: "Objek PPN mencakup pemanfaatan JKP dari luar Daerah Pabean di dalam Daerah Pabean.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Objek PPN"
@@ -133,11 +133,11 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-007",
     categoryId: "ppn",
     topic: "Tarif PPN",
-    question: "Menurut materi Webinar PPN 2025, tarif normal PPN sejak 1 Januari 2025 adalah berapa?",
+    question: "Berapa tarif normal PPN sejak 1 Januari 2025?",
     answer: "12%.",
     options: ["0%", "10%", "11%", "12%"],
     correctOptionIndex: 3,
-    explanation: "Materi terbaru yang digunakan untuk MVP mencantumkan tarif normal PPN sejak 1 Januari 2025 sebesar 12%.",
+    explanation: "Tarif normal PPN sejak 1 Januari 2025 sebesar 12%.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Tarif PPN"
@@ -147,7 +147,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-008",
     categoryId: "ppn",
     topic: "Tarif PPN",
-    question: "Berapa tarif PPN untuk ekspor BKP, ekspor BKP Tidak Berwujud, dan ekspor JKP dalam materi?",
+    question: "Berapa tarif PPN untuk ekspor BKP, ekspor BKP Tidak Berwujud, dan ekspor JKP?",
     answer: "0%.",
     options: ["0%", "5%", "11%", "12%"],
     correctOptionIndex: 0,
@@ -165,7 +165,7 @@ export const questionBank: LearningQuestion[] = [
     answer: "200 m2.",
     options: ["50 m2", "100 m2", "150 m2", "200 m2"],
     correctOptionIndex: 3,
-    explanation: "Materi KMS menyebut bangunan memiliki luas keseluruhan paling sedikit 200 m2.",
+    explanation: "Kriteria KMS mencakup bangunan dengan luas keseluruhan paling sedikit 200 m2.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Penyerahan Khusus - Kegiatan Membangun Sendiri"
@@ -175,7 +175,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-010",
     categoryId: "ppn",
     topic: "Kegiatan Membangun Sendiri",
-    question: "Formula PPN terutang atas KMS dalam materi adalah apa?",
+    question: "Bagaimana formula PPN terutang atas Kegiatan Membangun Sendiri?",
     answer: "20% x tarif PPN x total biaya, tidak termasuk biaya perolehan tanah.",
     options: [
       "12% x seluruh biaya termasuk tanah",
@@ -184,7 +184,7 @@ export const questionBank: LearningQuestion[] = [
       "Tarif PPh final x biaya pembangunan"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi menyajikan formula PPN KMS sebagai 20% x tarif PPN x total biaya, dengan pengecualian biaya perolehan tanah.",
+    explanation: "Formula PPN KMS adalah 20% x tarif PPN x total biaya, dengan pengecualian biaya perolehan tanah.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Penyerahan Khusus - Kegiatan Membangun Sendiri"
@@ -194,7 +194,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-011",
     categoryId: "ppn",
     topic: "Kegiatan Membangun Sendiri",
-    question: "Dalam contoh KMS Bapak Budi, biaya bangunan Rp180.000.000 dan upah Rp70.000.000. Dengan tarif PPN 12%, berapa PPN terutang menurut materi?",
+    question: "Dalam contoh KMS Bapak Budi, biaya bangunan Rp180.000.000 dan upah Rp70.000.000. Dengan tarif PPN 12%, berapa PPN terutang?",
     answer: "Rp6.000.000.",
     options: ["Rp3.000.000", "Rp5.500.000", "Rp6.000.000", "Rp30.000.000"],
     correctOptionIndex: 2,
@@ -208,7 +208,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-012",
     categoryId: "ppn",
     topic: "Penyerahan BKP",
-    question: "Manakah yang termasuk penyerahan BKP menurut Pasal 1A ayat (1) dalam materi?",
+    question: "Manakah yang termasuk penyerahan BKP menurut Pasal 1A ayat (1) UU PPN?",
     answer: "Pengalihan BKP karena perjanjian sewa beli dan/atau sewa guna usaha (leasing).",
     options: [
       "Penyerahan BKP untuk jaminan utang-piutang",
@@ -217,7 +217,7 @@ export const questionBank: LearningQuestion[] = [
       "Pengalihan BKP dalam pemusatan tempat pajak terutang"
     ],
     correctOptionIndex: 2,
-    explanation: "Materi memasukkan pengalihan BKP karena sewa beli atau leasing sebagai penyerahan BKP.",
+    explanation: "Pengalihan BKP karena sewa beli atau leasing termasuk penyerahan BKP.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Pasal 1A ayat (1) UU PPN - Yang termasuk penyerahan BKP"
@@ -227,7 +227,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-013",
     categoryId: "ppn",
     topic: "Penyerahan BKP",
-    question: "Apa yang dimaksud pemakaian sendiri dalam materi PPN?",
+    question: "Apa yang dimaksud dengan pemakaian sendiri dalam konteks PPN?",
     answer: "Pemakaian untuk kepentingan pengusaha sendiri, pengurus, atau karyawan, baik barang produksi sendiri maupun bukan produksi sendiri.",
     options: [
       "Pemakaian untuk kepentingan pengusaha sendiri, pengurus, atau karyawan",
@@ -236,7 +236,7 @@ export const questionBank: LearningQuestion[] = [
       "Pemakaian barang impor yang belum dikeluarkan dari pabean"
     ],
     correctOptionIndex: 0,
-    explanation: "Materi mendefinisikan pemakaian sendiri sebagai pemakaian untuk kepentingan pengusaha sendiri, pengurus, atau karyawan.",
+    explanation: "Pemakaian sendiri adalah pemakaian untuk kepentingan pengusaha sendiri, pengurus, atau karyawan.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Pasal 1A ayat (1) huruf d - Pemakaian Sendiri"
@@ -246,7 +246,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-014",
     categoryId: "ppn",
     topic: "Penyerahan BKP",
-    question: "Apa yang dimaksud pemberian cuma-cuma dalam materi PPN?",
+    question: "Apa yang dimaksud dengan pemberian cuma-cuma dalam konteks PPN?",
     answer: "Pemberian tanpa pembayaran, baik barang produksi sendiri maupun bukan produksi sendiri.",
     options: [
       "Pemberian dengan diskon tetapi tetap ada pembayaran",
@@ -255,7 +255,7 @@ export const questionBank: LearningQuestion[] = [
       "Penyerahan barang dari pusat ke cabang dalam pemusatan PPN"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi memberi contoh pemberian cuma-cuma seperti pemberian contoh barang untuk promosi kepada relasi atau pembeli.",
+    explanation: "Pemberian cuma-cuma mencakup pemberian tanpa pembayaran, misalnya pemberian contoh barang untuk promosi kepada relasi atau pembeli.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Pasal 1A ayat (1) huruf d - Pemberian Cuma-Cuma"
@@ -265,7 +265,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-015",
     categoryId: "ppn",
     topic: "Bukan BKP",
-    question: "Menurut tabel Non BKP setelah UU HPP, makanan dan minuman yang disajikan di hotel/restoran termasuk apa?",
+    question: "Berdasarkan ketentuan Non-BKP setelah UU HPP, makanan dan minuman yang disajikan di hotel atau restoran termasuk apa?",
     answer: "Objek pajak daerah dan retribusi daerah sesuai ketentuan peraturan di bidang pajak daerah dan retribusi daerah.",
     options: [
       "Selalu objek PPN dengan tarif normal",
@@ -274,7 +274,7 @@ export const questionBank: LearningQuestion[] = [
       "Objek PPN ekspor dengan tarif 0%"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi menyebut makanan/minuman di hotel, restoran, rumah makan, warung, dan sejenisnya sebagai objek pajak daerah dan retribusi daerah sesuai ketentuan terkait.",
+    explanation: "Makanan dan minuman di hotel, restoran, rumah makan, warung, dan sejenisnya merupakan objek pajak daerah dan retribusi daerah sesuai ketentuan terkait.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Bukan Barang Kena Pajak (Non BKP)"
@@ -293,7 +293,7 @@ export const questionBank: LearningQuestion[] = [
       "PPN dibebaskan dapat mengkreditkan Pajak Masukan, PPN tidak dipungut tidak dapat"
     ],
     correctOptionIndex: 2,
-    explanation: "Materi membandingkan bahwa PPN tidak dipungut tetap memungkinkan pengkreditan PM, sedangkan PPN dibebaskan tidak.",
+    explanation: "PPN tidak dipungut tetap memungkinkan pengkreditan Pajak Masukan, sedangkan PPN dibebaskan tidak.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Perbedaan PPN dibebaskan atau tidak dipungut"
@@ -303,7 +303,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-017",
     categoryId: "ppn",
     topic: "Dasar Pengenaan Pajak",
-    question: "Dalam definisi Harga Jual sebagai DPP, unsur apa yang tidak termasuk?",
+    question: "Dalam definisi Harga Jual sebagai DPP, unsur apa yang tidak termasuk di dalamnya?",
     answer: "PPN yang dipungut dan potongan harga yang dicantumkan dalam Faktur Pajak.",
     options: [
       "Biaya yang diminta penjual karena penyerahan BKP",
@@ -312,7 +312,7 @@ export const questionBank: LearningQuestion[] = [
       "Semua biaya yang diminta penjual sebelum PPN"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi mendefinisikan Harga Jual sebagai nilai berupa uang termasuk biaya yang diminta penjual, tidak termasuk PPN yang dipungut dan potongan harga dalam Faktur Pajak.",
+    explanation: "Harga Jual adalah nilai berupa uang termasuk biaya yang diminta penjual, tetapi tidak termasuk PPN yang dipungut dan potongan harga dalam Faktur Pajak.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Cara Menghitung Pajak - DPP"
@@ -326,7 +326,7 @@ export const questionBank: LearningQuestion[] = [
     answer: "16 digit.",
     options: ["10 digit", "13 digit", "15 digit", "16 digit"],
     correctOptionIndex: 3,
-    explanation: "Materi menyebut kode dan NSFP terdiri dari 2 digit kode transaksi, 1 digit kode status, dan 13 digit NSFP, total 16 digit.",
+    explanation: "Kode dan NSFP terdiri dari 2 digit kode transaksi, 1 digit kode status, dan 13 digit NSFP, sehingga totalnya 16 digit.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Kode dan Nomor Seri Faktur Pajak"
@@ -336,7 +336,7 @@ export const questionBank: LearningQuestion[] = [
     id: "ppn-019",
     categoryId: "ppn",
     topic: "Faktur Pajak",
-    question: "Apa contoh penyerahan yang menggunakan kode transaksi 09 menurut materi kode transaksi?",
+    question: "Apa contoh penyerahan yang menggunakan kode transaksi 09?",
     answer: "Penyerahan BKP berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan sesuai Pasal 16D UU PPN.",
     options: [
       "Penyerahan BKP/JKP kepada instansi pemerintah",
@@ -345,7 +345,7 @@ export const questionBank: LearningQuestion[] = [
       "Penyerahan ekspor BKP berwujud"
     ],
     correctOptionIndex: 2,
-    explanation: "Materi prioritas kode transaksi menampilkan kode 09 untuk penyerahan BKP berupa aktiva yang semula tidak untuk diperjualbelikan sesuai Pasal 16D.",
+    explanation: "Kode transaksi 09 digunakan untuk penyerahan BKP berupa aktiva yang semula tidak untuk diperjualbelikan sesuai Pasal 16D UU PPN.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Urutan Prioritas Penggunaan Kode Transaksi"
@@ -364,7 +364,7 @@ export const questionBank: LearningQuestion[] = [
       "Hanya dapat dikreditkan jika menjadi biaya dalam laporan keuangan"
     ],
     correctOptionIndex: 1,
-    explanation: "Materi menyebut prinsip pengkreditan Pajak Masukan adalah dikreditkan dengan Pajak Keluaran dalam Masa Pajak yang sama.",
+    explanation: "Prinsip pengkreditan Pajak Masukan adalah dikreditkan dengan Pajak Keluaran dalam Masa Pajak yang sama.",
     source: {
       ...PPN_2025_SOURCE,
       note: "Slide: Prinsip Pengkreditan Pajak Masukan"

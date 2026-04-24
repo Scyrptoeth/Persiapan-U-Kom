@@ -20,6 +20,8 @@
 
 ## Engineering
 
+- Treat `/Users/persiapantubel/Desktop/codex/persiapan-u-kom` as the local project root for all Persiapan U-Kom work.
+- User-provided local files for this project may be placed in this root; inspect them there when requested.
 - Use Next.js App Router and TypeScript.
 - Default to Server Components; use client components only for state, browser APIs, and event handlers.
 - Keep UI accessible: semantic HTML, focus states, keyboard-reachable controls, readable contrast, and mobile-friendly tap targets.

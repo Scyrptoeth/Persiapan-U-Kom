@@ -68,6 +68,8 @@ export function PersiapanUkomApp() {
   const packageAttempts = attemptStore[currentPackage.id] ?? [];
   const answerMap = getAnswerMap(answers);
   const answeredCount = answers.filter((answer) => answer.selectedOptionIndex !== null).length;
+  const answeredNumbers = answers.flatMap((answer, index) => (answer.selectedOptionIndex !== null ? [index + 1] : []));
+  const unansweredNumbers = answers.flatMap((answer, index) => (answer.selectedOptionIndex === null ? [index + 1] : []));
   const latestAttempt = packageAttempts.at(-1);
 
   function selectPackage(packageId: string) {
@@ -131,44 +133,52 @@ export function PersiapanUkomApp() {
   }
 
   return (
-    <main className="app-shell">
-      <aside className="side-rail" aria-label="Navigasi belajar">
-        <div className="brand-block">
-          <div className="brand-mark" aria-hidden="true">
-            UK
+    <>
+      <a className="skip-link" href="#workspace">
+        Lewati ke materi
+      </a>
+      <main className="app-shell">
+        <aside className="side-rail" aria-label="Navigasi belajar">
+          <div className="brand-block">
+            <div className="brand-mark" aria-hidden="true">
+              PU
+            </div>
+            <div>
+              <p className="eyebrow">DJP Learning Desk</p>
+              <h1>Persiapan U-Kom</h1>
+              <p className="brand-subtitle">Ujian Kompetensi DJP</p>
+            </div>
           </div>
-          <div>
-            <p className="eyebrow">Persiapan</p>
-            <h1>U-Kom</h1>
+
+          <nav className="topic-list" aria-label="Kategori materi">
+            {studyCategories.map((category) => (
+              <button
+                className={`topic-button ${category.id === currentPackage.categoryId ? "is-active" : ""}`}
+                key={category.id}
+                onClick={() => {
+                  const firstPackage = studyPackages.find((studyPackage) => studyPackage.categoryId === category.id);
+                  if (firstPackage) {
+                    selectPackage(firstPackage.id);
+                  }
+                }}
+                type="button"
+              >
+                <Layers3 aria-hidden="true" size={18} />
+                <span>
+                  <strong>{category.shortName}</strong>
+                  <small>{category.name}</small>
+                </span>
+              </button>
+            ))}
+          </nav>
+
+          <div className="source-panel">
+            <p className="panel-label">Sumber Materi</p>
+            <p>{currentQuestion.source.title}</p>
           </div>
-        </div>
+        </aside>
 
-        <nav className="topic-list" aria-label="Kategori materi">
-          {studyCategories.map((category) => (
-            <button
-              className={`topic-button ${category.id === currentPackage.categoryId ? "is-active" : ""}`}
-              key={category.id}
-              onClick={() => {
-                const firstPackage = studyPackages.find((studyPackage) => studyPackage.categoryId === category.id);
-                if (firstPackage) {
-                  selectPackage(firstPackage.id);
-                }
-              }}
-              type="button"
-            >
-              <Layers3 aria-hidden="true" size={18} />
-              <span>{category.shortName}</span>
-            </button>
-          ))}
-        </nav>
-
-        <div className="source-panel">
-          <p className="panel-label">Sumber pilot</p>
-          <p>{currentQuestion.source.title}</p>
-        </div>
-      </aside>
-
-      <section className="workspace">
+      <section className="workspace" id="workspace">
         <header className="topbar">
           <div>
             <p className="eyebrow">{currentCategory?.name}</p>
@@ -240,14 +250,23 @@ export function PersiapanUkomApp() {
             </div>
 
             <button
+              aria-label={isCardOpen ? "Tampilkan pertanyaan" : "Tampilkan jawaban"}
               aria-pressed={isCardOpen}
               className={`flipcard ${isCardOpen ? "is-open" : ""}`}
               onClick={() => setIsCardOpen((value) => !value)}
               type="button"
             >
-              <span className="card-kicker">{isCardOpen ? "Jawaban" : "Pertanyaan"}</span>
-              <span className="card-text">{isCardOpen ? currentQuestion.answer : currentQuestion.question}</span>
-              {isCardOpen ? <span className="card-note">{currentQuestion.explanation}</span> : null}
+              <span className="flipcard-inner">
+                <span aria-hidden={isCardOpen} className="flipcard-face flipcard-front">
+                  <span className="card-kicker">Pertanyaan</span>
+                  <span className="card-text">{currentQuestion.question}</span>
+                </span>
+                <span aria-hidden={!isCardOpen} className="flipcard-face flipcard-back">
+                  <span className="card-kicker">Jawaban</span>
+                  <span className="card-text">{currentQuestion.answer}</span>
+                  <span className="card-note">{currentQuestion.explanation}</span>
+                </span>
+              </span>
             </button>
 
             <div className="action-row">
@@ -285,6 +304,52 @@ export function PersiapanUkomApp() {
                 ) : null}
               </div>
 
+              <section className="answer-map" aria-label="Status pengerjaan soal">
+                <div className="answer-map-summary">
+                  <div>
+                    <span>Total soal</span>
+                    <strong>{currentPackage.questions.length}</strong>
+                  </div>
+                  <div>
+                    <span>Sudah dijawab</span>
+                    <strong>{answeredCount}</strong>
+                  </div>
+                  <div>
+                    <span>Belum dijawab</span>
+                    <strong>{currentPackage.questions.length - answeredCount}</strong>
+                  </div>
+                </div>
+              </section>
+
+              <section className="answer-map-pins" aria-label="Nomor soal berdasarkan status jawaban">
+                <div className="answer-map-columns">
+                  <div>
+                    <p>Nomor sudah dijawab</p>
+                    <div className="question-chips">
+                      {answeredNumbers.length > 0 ? (
+                        answeredNumbers.map((number) => (
+                          <a className="is-answered" href={`#question-${currentPackage.questions[number - 1].id}`} key={number}>
+                            {number}
+                          </a>
+                        ))
+                      ) : (
+                        <span className="chip-empty">Belum ada</span>
+                      )}
+                    </div>
+                  </div>
+                  <div>
+                    <p>Nomor belum dijawab</p>
+                    <div className="question-chips">
+                      {unansweredNumbers.map((number) => (
+                        <a className="is-unanswered" href={`#question-${currentPackage.questions[number - 1].id}`} key={number}>
+                          {number}
+                        </a>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              </section>
+
               <ol className="question-list">
                 {currentPackage.questions.map((question, questionIndex) => {
                   const selectedOptionIndex = answerMap.get(question.id) ?? null;
@@ -293,7 +358,7 @@ export function PersiapanUkomApp() {
                   const isUnanswered = submittedAttempt && selectedOptionIndex === null;
 
                   return (
-                    <li className="question-item" key={question.id}>
+                    <li className="question-item" id={`question-${question.id}`} key={question.id}>
                       <div className="question-heading">
                         <span>{questionIndex + 1}</span>
                         <div>
@@ -382,6 +447,7 @@ export function PersiapanUkomApp() {
           </section>
         )}
       </section>
-    </main>
+      </main>
+    </>
   );
 }

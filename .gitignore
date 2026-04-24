@@ -16,6 +16,7 @@ tsconfig.tsbuildinfo
 
 # verification artifacts
 .verification-*.png
+screenshot-untuk-revisi/
 
 # system files
 .DS_Store
