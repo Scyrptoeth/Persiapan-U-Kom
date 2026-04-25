@@ -4524,25 +4524,6 @@
   {
     "categoryId": "kup",
     "topic": "Wayground KUP 2",
-    "question": "Pembukuan meliputi data dan informasi keuangan apa selain kewajiban, modal, penghasilan, dan biaya?",
-    "answer": "Harta",
-    "options": [
-      "Harta",
-      "Kas",
-      "Utang",
-      "Piutang"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "Jawaban yang benar adalah Harta. Pilihan ini sesuai dengan kunci jawaban pada sumber Wayground yang telah divalidasi saat impor.",
-    "source": {
-      "title": "KUP_Sigit Indarupa2026 Kuis",
-      "url": "https://wayground.com/admin/quiz/69ea329457836815faa5a302",
-      "note": "Wayground nomor 6; opsi benar tervalidasi dari data quiz Wayground."
-    }
-  },
-  {
-    "categoryId": "kup",
-    "topic": "Wayground KUP 2",
     "question": "Manakah yang menjadi pengecualian dari pernyataan berikut: Pembukuan harus memenuhi ketentuan?",
     "answer": "Benar, jelas, lengkap",
     "options": [
@@ -4866,44 +4847,6 @@
   {
     "categoryId": "kup",
     "topic": "Wayground KUP 2",
-    "question": "Berapa besar kenaikan sanksi administratif atas kekurangan pajak yang terutang dalam SKPKBT?",
-    "answer": "100%",
-    "options": [
-      "100%",
-      "75%",
-      "50%",
-      "30%"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "Jawaban yang benar adalah 100%. Pilihan ini sesuai dengan kunci jawaban pada sumber Wayground yang telah divalidasi saat impor.",
-    "source": {
-      "title": "KUP_Sigit Indarupa2026 Kuis",
-      "url": "https://wayground.com/admin/quiz/69ea329457836815faa5a302",
-      "note": "Wayground nomor 27; opsi benar tervalidasi dari data quiz Wayground."
-    }
-  },
-  {
-    "categoryId": "kup",
-    "topic": "Wayground KUP 2",
-    "question": "Berikut yang bukan kondisi STP diterbitkan dalam hal terdapat imbalan bunga yang seharusnya tidak diberikan kepada Wajib Pajak adalah apa?",
-    "answer": "dinyatakan oleh pemeriksa pajak",
-    "options": [
-      "diterbitkan keputusan",
-      "diterima putusan",
-      "ditemukan data atau informasi",
-      "dinyatakan oleh pemeriksa pajak"
-    ],
-    "correctOptionIndex": 3,
-    "explanation": "Jawaban yang benar adalah dinyatakan oleh pemeriksa pajak. Pilihan ini sesuai dengan kunci jawaban pada sumber Wayground yang telah divalidasi saat impor.",
-    "source": {
-      "title": "KUP_Sigit Indarupa2026 Kuis",
-      "url": "https://wayground.com/admin/quiz/69ea329457836815faa5a302",
-      "note": "Wayground nomor 29; opsi benar tervalidasi dari data quiz Wayground."
-    }
-  },
-  {
-    "categoryId": "kup",
-    "topic": "Wayground KUP 2",
     "question": "Manakah yang bukan kriteria Wajib Pajak dengan kriteria tertentu sebagaimana diatur dalam Pasal 17C Undang-Undang KUP?",
     "answer": "Wajib Pajak orang pribadi yang tidak menjalankan usaha atau pekerjaan bebas",
     "options": [
@@ -5032,25 +4975,6 @@
       "title": "KUP_Sigit Indarupa2026 Kuis",
       "url": "https://wayground.com/admin/quiz/69ea329457836815faa5a302",
       "note": "Wayground nomor 36; opsi benar tervalidasi dari data quiz Wayground."
-    }
-  },
-  {
-    "categoryId": "kup",
-    "topic": "Wayground KUP 2",
-    "question": "Berikut yang bukan merupakan ruang lingkup pembetulan yang disebabkan karena kekeliruan dalam penerapan ketentuan tertentu dalam peraturan perundang-undangan perpajakan yaitu apa?",
-    "answer": "kekeliruan dalam penghitungan penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan",
-    "options": [
-      "kekeliruan penerapan sanksi administratif",
-      "kekeliruan dalam penghitungan penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan",
-      "kekeliruan dalam penerapan tarif",
-      "kekeliruan dalam pengkreditan pajak"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "Jawaban yang benar adalah kekeliruan dalam penghitungan penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan. Pilihan ini sesuai dengan kunci jawaban pada sumber Wayground yang telah divalidasi saat impor.",
-    "source": {
-      "title": "KUP_Sigit Indarupa2026 Kuis",
-      "url": "https://wayground.com/admin/quiz/69ea329457836815faa5a302",
-      "note": "Wayground nomor 39; opsi benar tervalidasi dari data quiz Wayground."
     }
   },
   {

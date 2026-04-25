@@ -1,4 +1,5 @@
 import waygroundQuestionData from "./waygroundQuestions.json";
+import localQuestionData from "./localQuestions.json";
 
 import type { CategoryId, CorrectOptionIndex, LearningQuestion, SourceRef, StudyCategory, StudyPackage } from "@/types/learning";
 
@@ -43,6 +44,7 @@ type ImportedQuestionSeed = {
 };
 
 const waygroundQuestionSeeds = waygroundQuestionData as ImportedQuestionSeed[];
+const localQuestionSeeds = localQuestionData as ImportedQuestionSeed[];
 
 const sourceRefs: Record<SourceKey, Omit<SourceRef, "note">> = {
   level1: {
@@ -314,7 +316,7 @@ export const contentSourceNotes = {
       },
       {
         title: "Wayground duplicate items",
-        count: 51,
+        count: 55,
         reason: "Normalized duplicate questions in the same category were skipped to prevent repeated identical test items."
       }
     ],
@@ -336,7 +338,7 @@ function buildExplanation(answer: string): string {
   return `Jawaban yang benar adalah ${punctuatedAnswer} Pilihan ini sesuai dengan kunci dan rujukan sumber yang dicatat pada soal.`;
 }
 
-function buildQuestionBank(seeds: QuestionSeed[], importedSeeds: ImportedQuestionSeed[]): LearningQuestion[] {
+function buildQuestionBank(seeds: QuestionSeed[], importedSeeds: ImportedQuestionSeed[], localSeeds: ImportedQuestionSeed[]): LearningQuestion[] {
   const categoryCounts = new Map<CategoryId, number>();
 
   const nextId = (categoryId: CategoryId) => {
@@ -351,7 +353,7 @@ function buildQuestionBank(seeds: QuestionSeed[], importedSeeds: ImportedQuestio
       categoryId,
       topic,
       question,
-      answer,
+      answer: options[correctOptionIndex],
       options,
       correctOptionIndex,
       explanation: buildExplanation(answer),
@@ -376,10 +378,24 @@ function buildQuestionBank(seeds: QuestionSeed[], importedSeeds: ImportedQuestio
     };
   });
 
-  return [...sourceBackedQuestions, ...importedQuestions];
+  const localQuestions = localSeeds.map((seed) => {
+    return {
+      id: nextId(seed.categoryId),
+      categoryId: seed.categoryId,
+      topic: seed.topic,
+      question: seed.question,
+      answer: seed.answer,
+      options: seed.options,
+      correctOptionIndex: seed.correctOptionIndex,
+      explanation: seed.explanation || buildExplanation(seed.answer),
+      source: seed.source
+    };
+  });
+
+  return [...sourceBackedQuestions, ...importedQuestions, ...localQuestions];
 }
 
-export const questionBank: LearningQuestion[] = buildQuestionBank(questionSeeds, waygroundQuestionSeeds);
+export const questionBank: LearningQuestion[] = buildQuestionBank(questionSeeds, waygroundQuestionSeeds, localQuestionSeeds);
 
 export function buildPackages(maxQuestionsPerPackage = 20): StudyPackage[] {
   const packageSize = Math.max(1, Math.min(20, maxQuestionsPerPackage));
