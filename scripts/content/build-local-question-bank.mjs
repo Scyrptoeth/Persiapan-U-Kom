@@ -1,9 +1,23 @@
+import { execFileSync } from "node:child_process";
 import { readFileSync, writeFileSync } from "node:fs";
 import { basename, join } from "node:path";
 
 const repoRoot = process.cwd();
 const cacheRoot = join(repoRoot, ".local-content-cache");
 const outputPath = join(repoRoot, "src/data/localQuestions.json");
+const unresolvedSummaryPath = join(cacheRoot, "current-content-resolution-summary.json");
+const importReportPath = join(cacheRoot, "unresolved-answer-key-import-report.json");
+const unresolvedAnswerKeyPath = "/Users/persiapantubel/Downloads/Persiapan U-Kom/Soal-Unresolved/jawaban-soal-unresolved-281.xlsx";
+const unresolvedPdfPath = "/Users/persiapantubel/Downloads/Persiapan U-Kom/Soal-Unresolved/soal-unresolved-281.pdf";
+const unresolvedAnswerKeyTitle = "jawaban-soal-unresolved-281.xlsx";
+const skippedUnresolvedNumbers = new Set([274, 275]);
+const deduplicatedUnresolvedNumbers = new Set([158, 195]);
+const answerIndexByLetter = new Map([
+  ["A", 0],
+  ["B", 1],
+  ["C", 2],
+  ["D", 3]
+]);
 
 const sources = {
   bm2025: {
@@ -57,8 +71,85 @@ const sources = {
   excelConcatenateMicrosoft: {
     title: "CONCATENATE function - Microsoft Support",
     url: "https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d"
+  },
+  unresolvedAnswerKey: {
+    title: unresolvedAnswerKeyTitle,
+    url: unresolvedAnswerKeyPath
   }
 };
+
+function decodeXml(value) {
+  return value
+    .replace(/&quot;/g, "\"")
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&");
+}
+
+function readZipEntry(zipPath, entryPath, { optional = false } = {}) {
+  try {
+    return execFileSync("unzip", ["-p", zipPath, entryPath], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 });
+  } catch (error) {
+    if (optional) {
+      return "";
+    }
+
+    throw error;
+  }
+}
+
+function parseSharedStrings(xlsxPath) {
+  const sharedStringsXml = readZipEntry(xlsxPath, "xl/sharedStrings.xml", { optional: true });
+
+  return [...sharedStringsXml.matchAll(/<si[^>]*>([\s\S]*?)<\/si>/g)].map(([, stringXml]) => {
+    const textParts = [...stringXml.matchAll(/<t[^>]*>([\s\S]*?)<\/t>/g)].map(([, text]) => decodeXml(text));
+    return textParts.join("");
+  });
+}
+
+function parseSimpleAnswerKey(xlsxPath) {
+  const sharedStrings = parseSharedStrings(xlsxPath);
+  const sheetXml = readZipEntry(xlsxPath, "xl/worksheets/sheet1.xml");
+  const rows = new Map();
+
+  for (const rowMatch of sheetXml.matchAll(/<row[^>]*r="(\d+)"[^>]*>([\s\S]*?)<\/row>/g)) {
+    const excelRow = Number(rowMatch[1]);
+    const row = {};
+
+    for (const cellMatch of rowMatch[2].matchAll(/<c([^>]*)>([\s\S]*?)<\/c>/g)) {
+      const attributes = cellMatch[1];
+      const body = cellMatch[2];
+      const reference = attributes.match(/\br="([A-Z]+)\d+"/)?.[1];
+      const type = attributes.match(/\bt="([^"]+)"/)?.[1];
+      const rawValue = body.match(/<v>([\s\S]*?)<\/v>/)?.[1] ?? body.match(/<t[^>]*>([\s\S]*?)<\/t>/)?.[1] ?? "";
+      const value = type === "s" ? sharedStrings[Number(rawValue)] : decodeXml(rawValue);
+
+      if (reference) {
+        row[reference] = String(value).trim();
+      }
+    }
+
+    rows.set(excelRow, row);
+  }
+
+  return [...rows.entries()].map(([excelRow, row]) => ({
+    excelRow,
+    unresolvedNumber: Number(row.A),
+    key: row.B
+  }));
+}
+
+function hasFooterNoise(question) {
+  return [...question.options, question.question].some((value) => {
+    return /Never give out your password|Microsoft Forms|privacy and security practices/i.test(value);
+  });
+}
+
+function punctuateSentence(value) {
+  const trimmed = value.trim();
+  return /[.!?]$/.test(trimmed) ? trimmed : `${trimmed}.`;
+}
 
 const curatedItems = [
   ["bm101.pdf", 1, 0, "Objek Bea Meterai", "bm2025", 7, "Surat pernyataan dan surat keterangan termasuk dokumen surat lainnya yang sejenis yang dikenai Bea Meterai."],
@@ -164,7 +255,7 @@ const curatedItems = [
   ["ppn101.pdf", 33, 3, "Restitusi Turis Asing", "ppn2025", 97, "Permintaan kembali PPN dan PPnBM oleh turis asing dilakukan dengan menunjukkan paspor, boarding pass, dan Faktur Pajak."],
   ["ppn101.pdf", 38, 0, "PPnBM", "ppn2025", 102, "PPnBM merupakan pungutan tambahan di samping PPN dan tidak dapat dikreditkan dengan PPN maupun PPnBM lainnya."],
   ["ppn101.pdf", 45, 1, "Pemungut PPN", "ppn2025", 112, "Pihak Lain Pasal 32A UU KUP mencakup pelaku usaha PMSE, Marketplace Pengadaan atau Ritel Daring Pengadaan, dan penyelenggara PMSE aset kripto; kontraktor PKP2B tidak tercantum."],
-  ["ppn101.pdf", 50, 1, "Penyetoran PPN", "ppn2025", 117, "Batas penyetoran PPN adalah paling lama akhir bulan berikutnya setelah berakhirnya masa pajak dan sebelum SPT Masa PPN disampaikan."],
+  ["ppn101.pdf", 50, 3, "Penyetoran PPN", "ppn2025", 117, "Batas penyetoran PPN adalah paling lama akhir bulan berikutnya setelah berakhirnya masa pajak dan sebelum SPT Masa PPN disampaikan."],
 
   ["tdn101.pdf", 3, 2, "Asas Tata Naskah Dinas", "tndDay4", 8, "Asas pembakuan berarti diproses berdasarkan tata cara dan bentuk yang dibakukan."],
   ["tdn101.pdf", 4, 0, "Dasar Tata Naskah Dinas", "tndDay4", 3, "Arsip Nasional Republik Indonesia berwenang menyusun pedoman umum TND."],
@@ -186,7 +277,7 @@ const curatedItems = [
 const extractedQuestions = JSON.parse(readFileSync(join(cacheRoot, "extracted-questions.json"), "utf8"));
 const questionByKey = new Map(extractedQuestions.map((question) => [`${question.sourceTitle}#${question.ordinal}`, question]));
 
-const localQuestions = curatedItems.map(([sourceTitle, ordinal, correctOptionIndex, topic, sourceKey, page, referenceNote]) => {
+function buildCuratedQuestion([sourceTitle, ordinal, correctOptionIndex, topic, sourceKey, page, referenceNote]) {
   const question = questionByKey.get(`${sourceTitle}#${ordinal}`);
   if (!question) {
     throw new Error(`Missing extracted question ${sourceTitle}#${ordinal}`);
@@ -216,13 +307,188 @@ const localQuestions = curatedItems.map(([sourceTitle, ordinal, correctOptionInd
       note
     }
   };
-});
+}
+
+function buildUnresolvedAnswerKeyQuestions() {
+  const summary = JSON.parse(readFileSync(unresolvedSummaryPath, "utf8"));
+  const summaryQuestions = summary.unresolvedQuestions;
+  if (!Array.isArray(summaryQuestions) || summaryQuestions.length !== 281) {
+    throw new Error(`Expected 281 unresolved questions, got ${summaryQuestions?.length ?? "none"}.`);
+  }
+
+  const rows = parseSimpleAnswerKey(unresolvedAnswerKeyPath);
+  if (rows.length !== 281) {
+    throw new Error(`Expected 281 answer-key rows, got ${rows.length}.`);
+  }
+
+  const imported = [];
+  const skipped = [];
+  const mismatches = [];
+  const repairedFooterNoise = [];
+  const seenNumbers = new Set();
+
+  for (const [index, row] of rows.entries()) {
+    const unresolvedNumber = index + 1;
+    const summaryQuestion = summaryQuestions[index];
+    const key = String(row.key ?? "").trim().toUpperCase();
+
+    if (row.excelRow !== unresolvedNumber || row.unresolvedNumber !== unresolvedNumber) {
+      mismatches.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        excelNumber: row.unresolvedNumber,
+        reason: "Excel row/number does not match unresolved order."
+      });
+      continue;
+    }
+
+    if (seenNumbers.has(row.unresolvedNumber)) {
+      mismatches.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        reason: "Duplicate unresolved number in answer key."
+      });
+      continue;
+    }
+    seenNumbers.add(row.unresolvedNumber);
+
+    if (skippedUnresolvedNumbers.has(unresolvedNumber)) {
+      skipped.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        key,
+        reason: "Skipped by instruction because the unresolved question is incomplete."
+      });
+      continue;
+    }
+
+    if (deduplicatedUnresolvedNumbers.has(unresolvedNumber)) {
+      skipped.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        key,
+        reason: "Skipped because the normalized question already exists in the same category."
+      });
+      continue;
+    }
+
+    const correctOptionIndex = answerIndexByLetter.get(key);
+    if (correctOptionIndex === undefined) {
+      mismatches.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        key,
+        reason: "Answer key is not A, B, C, or D."
+      });
+      continue;
+    }
+
+    const question = questionByKey.get(`${summaryQuestion.sourceTitle}#${summaryQuestion.ordinal}`);
+    if (!question) {
+      mismatches.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        key,
+        sourceTitle: summaryQuestion.sourceTitle,
+        ordinal: summaryQuestion.ordinal,
+        reason: "Source question was not found in extracted local PDFs."
+      });
+      continue;
+    }
+
+    if (!Array.isArray(question.options) || question.options.length !== 4 || question.options.some((option) => !option)) {
+      mismatches.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        key,
+        sourceTitle: question.sourceTitle,
+        ordinal: question.ordinal,
+        reason: "Source question does not have exactly four non-empty options."
+      });
+      continue;
+    }
+
+    if (hasFooterNoise(question)) {
+      mismatches.push({
+        unresolvedNumber,
+        excelRow: row.excelRow,
+        key,
+        sourceTitle: question.sourceTitle,
+        ordinal: question.ordinal,
+        reason: "Source question still contains Microsoft Forms footer noise."
+      });
+      continue;
+    }
+
+    const wasRepairedFromSourcePdf = hasFooterNoise(summaryQuestion);
+    if (wasRepairedFromSourcePdf) {
+      repairedFooterNoise.push({
+        unresolvedNumber,
+        sourceTitle: question.sourceTitle,
+        ordinal: question.ordinal
+      });
+    }
+
+    const answer = question.options[correctOptionIndex];
+    const repairNote = wasRepairedFromSourcePdf
+      ? " Opsi direkonstruksi dari PDF asal setelah footer Microsoft Forms diabaikan."
+      : "";
+
+    imported.push({
+      categoryId: question.categoryId,
+      topic: "Kunci Jawaban Lokal",
+      question: question.question,
+      answer,
+      options: question.options,
+      correctOptionIndex,
+      explanation: `Jawaban yang benar adalah ${punctuateSentence(answer)} Kunci jawaban bersumber dari ${unresolvedAnswerKeyTitle} baris ${row.excelRow}.`,
+      source: {
+        ...sources.unresolvedAnswerKey,
+        note: `Kunci Excel baris ${row.excelRow}; ${basename(unresolvedPdfPath)} soal ${unresolvedNumber}/281; PDF asal ${question.sourceTitle} nomor ${question.ordinal}.${repairNote}`
+      }
+    });
+  }
+
+  return {
+    imported,
+    skipped,
+    mismatches,
+    repairedFooterNoise
+  };
+}
+
+const curatedQuestions = curatedItems.map(buildCuratedQuestion);
+const unresolvedImport = buildUnresolvedAnswerKeyQuestions();
+const localQuestions = [...curatedQuestions, ...unresolvedImport.imported];
 
 writeFileSync(outputPath, `${JSON.stringify(localQuestions, null, 2)}\n`);
+writeFileSync(importReportPath, `${JSON.stringify({
+  excel: {
+    title: unresolvedAnswerKeyTitle,
+    path: unresolvedAnswerKeyPath,
+    rows: 281,
+    columns: ["nomor", "jawaban"]
+  },
+  skippedUnresolvedNumbers: [...skippedUnresolvedNumbers],
+  deduplicatedUnresolvedNumbers: [...deduplicatedUnresolvedNumbers],
+  imported: unresolvedImport.imported.length,
+  skipped: unresolvedImport.skipped,
+  mismatches: unresolvedImport.mismatches,
+  repairedFooterNoise: unresolvedImport.repairedFooterNoise,
+  localQuestions: localQuestions.length
+}, null, 2)}\n`);
+
+if (unresolvedImport.mismatches.length > 0) {
+  throw new Error(`Unresolved answer-key import has ${unresolvedImport.mismatches.length} mismatch item(s). See ${importReportPath}.`);
+}
 
 console.log(JSON.stringify({
   written: outputPath,
   count: localQuestions.length,
+  unresolvedAnswerKeyImported: unresolvedImport.imported.length,
+  skipped: unresolvedImport.skipped.length,
+  mismatches: unresolvedImport.mismatches.length,
+  repairedFooterNoise: unresolvedImport.repairedFooterNoise.length,
   byCategory: localQuestions.reduce((counts, question) => {
     counts[question.categoryId] = (counts[question.categoryId] ?? 0) + 1;
     return counts;

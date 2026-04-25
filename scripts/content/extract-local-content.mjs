@@ -63,6 +63,19 @@ function isNoiseLine(line) {
     /^https?:\/\/forms\.office\.com\//i.test(line) ||
     /^When you submit this form/i.test(line) ||
     /^unless you provide it yourself/i.test(line) ||
+    /^Never give out your password\. Report abuse$/i.test(line) ||
+    /^This content is created by the owner of the form/i.test(line) ||
+    /^the privacy or security practices of its customers/i.test(line) ||
+    /^privacy or security practices of its customers/i.test(line) ||
+    /^not responsible for the privacy or security practices/i.test(line) ||
+    /^including those of this form owner/i.test(line) ||
+    /^out your password\. Microsoft Forms/i.test(line) ||
+    /^out your password\.?$/i.test(line) ||
+    /^Microsoft Forms \|/i.test(line) ||
+    /^AI-Powered surveys, quizzes and polls/i.test(line) ||
+    /^Create my own form Privacy and cookies/i.test(line) ||
+    /^Health Privacy \| Terms of use$/i.test(line) ||
+    /Privacy and cookies \| Consumer Health Privacy \| Terms of use/i.test(line) ||
     /^\* Required$/i.test(line) ||
     /^\d{1,2}\/\d{1,2}\/\d{2},/.test(line) ||
     /^Page \d+/i.test(line)

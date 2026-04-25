@@ -178,37 +178,36 @@ async function runDesktopFlow(client, sessionId) {
   await clickSelector(client, sessionId, "[aria-label='Perluas sidebar kategori']");
   await expect(client, sessionId, "sidebar expands", `!document.querySelector(".app-shell")?.classList.contains("is-sidebar-collapsed")`);
 
+  await clickText(client, sessionId, "Bea Meterai");
   await clickSelector(client, sessionId, ".mode-switch button:nth-child(2)");
-  await expect(client, sessionId, "package picker first", `document.body.innerText.includes("Pilih Paket PPN") && Boolean(document.querySelector(".package-picker")) && !document.querySelector(".study-surface")`);
-  await clickText(client, sessionId, "PPN Paket 6");
-  for (let index = 0; index < 4; index += 1) {
-    await clickText(client, sessionId, "Berikutnya");
-  }
-  await expect(client, sessionId, "new flipcard question opens", `document.querySelector(".study-surface")?.innerText.includes("NSFP 08002500000000096")`);
+  await expect(client, sessionId, "package picker first", `document.body.innerText.includes("Pilih Paket BM") && Boolean(document.querySelector(".package-picker")) && !document.querySelector(".study-surface")`);
+  await clickText(client, sessionId, "BM Paket 3");
+  await expect(client, sessionId, "new flipcard question opens", `document.querySelector(".study-surface")?.innerText.includes("Pada tanggal 15 Januari 2025 Farah")`);
   await clickSelector(client, sessionId, ".flipcard");
   await expect(client, sessionId, "flipcard shows answer only", `
-    document.querySelector(".flipcard-back")?.innerText.includes("Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.") &&
+    document.querySelector(".flipcard-back")?.innerText.includes("22 Januari 2025") &&
     !document.querySelector(".flipcard-back")?.innerText.includes("Jawaban yang benar")
   `);
 
   await clickSelector(client, sessionId, ".mode-switch button:nth-child(3)");
   await expect(client, sessionId, "test package stays selected", `document.querySelector(".test-layout")?.innerText.toLowerCase().includes("tes tetap urut")`);
-  await clickSelector(client, sessionId, ".question-item:nth-child(5) .option-button:nth-child(3)");
+  await clickSelector(client, sessionId, ".question-item:nth-child(1) .option-button:nth-child(3)");
   await clickText(client, sessionId, "Submit tes");
   await expect(client, sessionId, "review shows answer explanation source", `
-    document.body.innerText.includes("Jawaban benar: Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.") &&
-    document.body.innerText.includes("Jawaban yang benar adalah Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.") &&
-    document.body.innerText.includes("ppn101.pdf nomor 28")
+    document.body.innerText.includes("Jawaban benar: 22 Januari 2025") &&
+    document.body.innerText.includes("Jawaban yang benar adalah 22 Januari 2025.") &&
+    document.body.innerText.includes("jawaban-soal-unresolved-281.xlsx") &&
+    document.body.innerText.includes("PDF asal bm101.pdf nomor 4")
   `);
   await expect(client, sessionId, "localStorage progress saved", `
-    JSON.parse(localStorage.getItem("persiapan-u-kom:test-attempts:v1") || "{}")["ppn-paket-6"]?.length === 1
+    JSON.parse(localStorage.getItem("persiapan-u-kom:test-attempts:v1") || "{}")["bea-meterai-paket-3"]?.length === 1
   `);
   await capture(client, sessionId, ".verification-desktop.png");
 
   return {
     viewport: "desktop",
-    package: "PPN Paket 6",
-    localStoragePackage: "ppn-paket-6",
+    package: "BM Paket 3",
+    localStoragePackage: "bea-meterai-paket-3",
     screenshot: ".verification-desktop.png"
   };
 }
@@ -218,18 +217,16 @@ async function runMobileFlow(client, sessionId) {
   await navigate(client, sessionId);
 
   await expect(client, sessionId, "mobile home renders", `document.body.innerText.includes("Beranda") && Boolean(document.querySelector(".spider-chart svg"))`);
+  await clickText(client, sessionId, "Bea Meterai");
   await clickSelector(client, sessionId, ".mode-switch button:nth-child(2)");
-  await expect(client, sessionId, "mobile package picker first", `document.body.innerText.includes("Pilih Paket PPN") && document.body.innerText.includes("PPN Paket 6") && !document.querySelector(".study-surface")`);
-  await clickText(client, sessionId, "PPN Paket 6");
-  for (let index = 0; index < 4; index += 1) {
-    await clickText(client, sessionId, "Berikutnya");
-  }
-  await expect(client, sessionId, "mobile flipcard renders new question", `document.querySelector(".study-surface")?.innerText.includes("NSFP 08002500000000096")`);
+  await expect(client, sessionId, "mobile package picker first", `document.body.innerText.includes("Pilih Paket BM") && document.body.innerText.includes("BM Paket 3") && !document.querySelector(".study-surface")`);
+  await clickText(client, sessionId, "BM Paket 3");
+  await expect(client, sessionId, "mobile flipcard renders new question", `document.querySelector(".study-surface")?.innerText.includes("Pada tanggal 15 Januari 2025 Farah")`);
   await capture(client, sessionId, ".verification-mobile.png");
 
   return {
     viewport: "mobile",
-    package: "PPN Paket 6",
+    package: "BM Paket 3",
     screenshot: ".verification-mobile.png"
   };
 }

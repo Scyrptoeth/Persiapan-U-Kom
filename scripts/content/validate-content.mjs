@@ -66,6 +66,10 @@ const localQuestions = require(join(questionBankDir, "localQuestions.json"));
 const { questionBank, studyPackages } = loadQuestionBankModule();
 const errors = [];
 const warnings = [];
+const expectedLocalQuestionCount = 388;
+const expectedAnswerKeyQuestionCount = 277;
+const answerKeySourceTitle = "jawaban-soal-unresolved-281.xlsx";
+const answerKeySourceUrl = "/Users/persiapantubel/Downloads/Persiapan U-Kom/Soal-Unresolved/jawaban-soal-unresolved-281.xlsx";
 
 function recordCheck(name, check) {
   try {
@@ -79,7 +83,7 @@ recordCheck("total question count", () => {
   const baselineQuestionCount = 500;
   const expectedTotal = baselineQuestionCount + localQuestions.length;
 
-  assert(localQuestions.length === 111, `Expected 111 curated local questions, got ${localQuestions.length}.`);
+  assert(localQuestions.length === expectedLocalQuestionCount, `Expected ${expectedLocalQuestionCount} curated local questions, got ${localQuestions.length}.`);
   assert(questionBank.length === expectedTotal, `Expected ${expectedTotal} total questions after local import, got ${questionBank.length}.`);
 });
 
@@ -102,6 +106,31 @@ recordCheck("source metadata completeness", () => {
     assert(question.source?.title, `${question.id} is missing source.title.`);
     assert(question.source?.url, `${question.id} is missing source.url.`);
     assert(question.source?.note, `${question.id} is missing source.note.`);
+  }
+});
+
+recordCheck("unresolved answer key import", () => {
+  const answerKeyQuestions = localQuestions.filter((question) => question.source?.title === answerKeySourceTitle);
+  assert(
+    answerKeyQuestions.length === expectedAnswerKeyQuestionCount,
+    `Expected ${expectedAnswerKeyQuestionCount} unresolved answer-key questions, got ${answerKeyQuestions.length}.`
+  );
+
+  for (const question of answerKeyQuestions) {
+    assert(question.source.url === answerKeySourceUrl, `${question.question} has unexpected answer-key source URL.`);
+    assert(/Kunci Excel baris \d+; soal-unresolved-281\.pdf soal \d+\/281; PDF asal .+ nomor \d+\./.test(question.source.note), `${question.question} has incomplete answer-key note.`);
+    assert(!/soal 274\/281|soal 275\/281/.test(question.source.note), `${question.question} should not import skipped unresolved item 274/275.`);
+  }
+});
+
+recordCheck("no Microsoft Forms footer noise", () => {
+  const footerPattern = /Never give out your password|Microsoft Forms|privacy and security practices/i;
+
+  for (const question of questionBank) {
+    assert(!footerPattern.test(question.question), `${question.id} question contains Microsoft Forms footer noise.`);
+    for (const option of question.options) {
+      assert(!footerPattern.test(option), `${question.id} option contains Microsoft Forms footer noise.`);
+    }
   }
 });
 
