@@ -181,18 +181,24 @@ async function runDesktopFlow(client, sessionId) {
   await clickSelector(client, sessionId, ".mode-switch button:nth-child(2)");
   await expect(client, sessionId, "package picker first", `document.body.innerText.includes("Pilih Paket PPN") && Boolean(document.querySelector(".package-picker")) && !document.querySelector(".study-surface")`);
   await clickText(client, sessionId, "PPN Paket 6");
-  await expect(client, sessionId, "new flipcard package opens", `document.querySelector(".study-surface")?.innerText.includes("Tarif Ekspor")`);
+  for (let index = 0; index < 4; index += 1) {
+    await clickText(client, sessionId, "Berikutnya");
+  }
+  await expect(client, sessionId, "new flipcard question opens", `document.querySelector(".study-surface")?.innerText.includes("NSFP 08002500000000096")`);
   await clickSelector(client, sessionId, ".flipcard");
-  await expect(client, sessionId, "flipcard shows answer only", `document.querySelector(".flipcard-back")?.innerText.includes("0%") && !document.querySelector(".flipcard-back")?.innerText.includes("Jawaban yang benar")`);
+  await expect(client, sessionId, "flipcard shows answer only", `
+    document.querySelector(".flipcard-back")?.innerText.includes("Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.") &&
+    !document.querySelector(".flipcard-back")?.innerText.includes("Jawaban yang benar")
+  `);
 
   await clickSelector(client, sessionId, ".mode-switch button:nth-child(3)");
   await expect(client, sessionId, "test package stays selected", `document.querySelector(".test-layout")?.innerText.toLowerCase().includes("tes tetap urut")`);
-  await clickSelector(client, sessionId, ".question-item:first-child .option-button:first-child");
+  await clickSelector(client, sessionId, ".question-item:nth-child(5) .option-button:nth-child(3)");
   await clickText(client, sessionId, "Submit tes");
   await expect(client, sessionId, "review shows answer explanation source", `
-    document.body.innerText.includes("Jawaban benar: 0%") &&
-    document.body.innerText.includes("Jawaban yang benar adalah 0%") &&
-    document.body.innerText.includes("ppn101.pdf nomor 20")
+    document.body.innerText.includes("Jawaban benar: Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.") &&
+    document.body.innerText.includes("Jawaban yang benar adalah Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.") &&
+    document.body.innerText.includes("ppn101.pdf nomor 28")
   `);
   await expect(client, sessionId, "localStorage progress saved", `
     JSON.parse(localStorage.getItem("persiapan-u-kom:test-attempts:v1") || "{}")["ppn-paket-6"]?.length === 1
@@ -215,7 +221,10 @@ async function runMobileFlow(client, sessionId) {
   await clickSelector(client, sessionId, ".mode-switch button:nth-child(2)");
   await expect(client, sessionId, "mobile package picker first", `document.body.innerText.includes("Pilih Paket PPN") && document.body.innerText.includes("PPN Paket 6") && !document.querySelector(".study-surface")`);
   await clickText(client, sessionId, "PPN Paket 6");
-  await expect(client, sessionId, "mobile flipcard renders new question", `document.querySelector(".study-surface")?.innerText.includes("Tarif Ekspor")`);
+  for (let index = 0; index < 4; index += 1) {
+    await clickText(client, sessionId, "Berikutnya");
+  }
+  await expect(client, sessionId, "mobile flipcard renders new question", `document.querySelector(".study-surface")?.innerText.includes("NSFP 08002500000000096")`);
   await capture(client, sessionId, ".verification-mobile.png");
 
   return {

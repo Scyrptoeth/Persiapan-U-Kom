@@ -1,6 +1,63 @@
 [
   {
     "categoryId": "bea-meterai",
+    "topic": "Objek Bea Meterai",
+    "question": "Rian mengikuti seleksi calon pegawai negeri sipil tahun 2025 di Kementerian Keuangan dan diminta mengumpulkan dokumen administrasi berupa surat pernyataan, surat keterangan, ijazah, dan sertifikat brevet pajak A dan B. Dokumen yang dikenai Bea Meterai adalah …",
+    "answer": "surat pernyataan dan surat keterangan",
+    "options": [
+      "surat pernyataan dan surat keterangan",
+      "surat pernyataan dan ijazah",
+      "surat keterangan dan sertifikat brevet pajak A dan B",
+      "ijazah dan sertifikat brevet pajak A dan B"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah surat pernyataan dan surat keterangan. Surat pernyataan dan surat keterangan termasuk dokumen surat lainnya yang sejenis yang dikenai Bea Meterai.",
+    "source": {
+      "title": "3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "note": "bm101.pdf nomor 1; diverifikasi dari halaman 7. Surat pernyataan dan surat keterangan termasuk dokumen surat lainnya yang sejenis yang dikenai Bea Meterai."
+    }
+  },
+  {
+    "categoryId": "bea-meterai",
+    "topic": "Objek Pemungutan Bea Meterai",
+    "question": "Berikut merupakan dokumen yang bukan merupakan objek pemungutan Bea Meterai adalah …",
+    "answer": "surat perjanjian",
+    "options": [
+      "surat keterangan",
+      "surat perjanjian",
+      "dokumen transaksi surat berharga",
+      "surat berharga berupa cek dan bilyet giro"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah surat perjanjian. Objek pemungutan Bea Meterai mencakup surat keterangan/pernyataan, transaksi surat berharga, serta cek dan bilyet giro; surat perjanjian tidak tercantum sebagai objek pemungutan.",
+    "source": {
+      "title": "3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "note": "bm101.pdf nomor 11; diverifikasi dari halaman 24. Objek pemungutan Bea Meterai mencakup surat keterangan/pernyataan, transaksi surat berharga, serta cek dan bilyet giro; surat perjanjian tidak tercantum sebagai objek pemungutan."
+    }
+  },
+  {
+    "categoryId": "bea-meterai",
+    "topic": "Pemungut Bea Meterai",
+    "question": "Di bawah ini yang bukan merupakan kriteria untuk dapat ditetapkan sebagai Pemungut Bea Meterai adalah …",
+    "answer": "menerbitkan dokumen tanda terima pembayaran gaji",
+    "options": [
+      "menerbitkan dokumen transaksi surat berharga",
+      "menerbitkan dokumen tanda terima pembayaran gaji",
+      "memfasilitasi penerbitan cek dan bilyet giro",
+      "memfasilitasi penerbitan dokumen transaksi kontrak berjangka"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah menerbitkan dokumen tanda terima pembayaran gaji. Kriteria pemungut mencakup penerbitan atau fasilitasi dokumen tertentu, bukan penerbitan dokumen tanda terima pembayaran gaji.",
+    "source": {
+      "title": "3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "note": "bm101.pdf nomor 12; diverifikasi dari halaman 24. Kriteria pemungut mencakup penerbitan atau fasilitasi dokumen tertentu, bukan penerbitan dokumen tanda terima pembayaran gaji."
+    }
+  },
+  {
+    "categoryId": "bea-meterai",
     "topic": "Pemungut Bea Meterai",
     "question": "Bea Meterai yang dipungut untuk setiap masa pajak wajib disetorkan paling lambat tanggal … setelah masa pajak berakhir",
     "answer": "15 (lima belas) bulan berikutnya",
@@ -16,6 +73,101 @@
       "title": "3. Materi Tayang Webinar Bea Meterai 2025.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/3. Materi Tayang Webinar Bea Meterai 2025.pdf",
       "note": "bm101.pdf nomor 14; diverifikasi dari halaman 27. Kewajiban penyetoran Bea Meterai oleh pemungut."
+    }
+  },
+  {
+    "categoryId": "bea-meterai",
+    "topic": "Pidana Bea Meterai",
+    "question": "Pihak yang meniru atau memalsu meterai yang dikeluarkan oleh Pemerintah Republik Indonesia dengan maksud untuk memakai atau meminta orang lain memakai meterai tersebut sebagai meterai asli dipidana dengan pidana penjara paling lama …",
+    "answer": "7 (tujuh) tahun",
+    "options": [
+      "5 (lima) tahun",
+      "7 (tujuh) tahun",
+      "9 (sembilan) tahun",
+      "3 (tiga) tahun"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah 7 (tujuh) tahun. Pemalsuan atau peniruan meterai dipidana penjara paling lama tujuh tahun.",
+    "source": {
+      "title": "3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "note": "bm101.pdf nomor 17; diverifikasi dari halaman 33. Pemalsuan atau peniruan meterai dipidana penjara paling lama tujuh tahun."
+    }
+  },
+  {
+    "categoryId": "bea-meterai",
+    "topic": "Pidana Bea Meterai",
+    "question": "Pidana denda bagi pihak yang meniru atau memalsu meterai yang dikeluarkan oleh Pemerintah Republik Indonesia dengan maksud untuk memakai atau meminta orang lain memakai meterai tersebut sebagai meterai asli adalah …*",
+    "answer": "paling banyak Rp500.000.000,00 (lima ratus juta rupiah)",
+    "options": [
+      "paling banyak Rp400.000.000,00 (empat ratus juta rupiah)",
+      "paling banyak Rp300.000.000,00 (tiga ratus juta rupiah)",
+      "paling banyak Rp500.000.000,00 (lima ratus juta rupiah)",
+      "paling banyak Rp200.000.000,00 (dua ratus juta rupiah)"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah paling banyak Rp500.000.000,00 (lima ratus juta rupiah). Pemalsuan atau peniruan meterai dipidana denda paling banyak Rp500.000.000,00.",
+    "source": {
+      "title": "3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/3. Materi Tayang Webinar Bea Meterai 2025.pdf",
+      "note": "bm101.pdf nomor 18; diverifikasi dari halaman 33. Pemalsuan atau peniruan meterai dipidana denda paling banyak Rp500.000.000,00."
+    }
+  },
+  {
+    "categoryId": "internalisasi-kepatuhan",
+    "topic": "Disiplin PNS",
+    "question": "Dasar hukum terbaru tentang Disiplin Pegawai Negeri Sipil yang menggatikan Peraturan Pemerintah Nomor 53 Tahun 2010 tentang Disiplin Pegawai Negeri Sipil adalah...",
+    "answer": "Peraturan Pemerintah Nomor 94 Tahun 2021",
+    "options": [
+      "Peraturan Pemerintah Nomor 94 Tahun 2020",
+      "Peraturan Menteri Keuangan Nomor 123 Tahun 2023",
+      "Peraturan Pemerintah Nomor 94 Tahun 2021",
+      "Peraturan Menteri Keuangan Nomor 123 Tahun 2022"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Peraturan Pemerintah Nomor 94 Tahun 2021. PP Nomor 94 Tahun 2021 menjadi dasar hukum terbaru disiplin PNS yang menggantikan PP Nomor 53 Tahun 2010.",
+    "source": {
+      "title": "10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Internalisasi Kepatuhan/10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "note": "internalisasi101.pdf nomor 6; diverifikasi dari halaman 57. PP Nomor 94 Tahun 2021 menjadi dasar hukum terbaru disiplin PNS yang menggantikan PP Nomor 53 Tahun 2010."
+    }
+  },
+  {
+    "categoryId": "internalisasi-kepatuhan",
+    "topic": "Gratifikasi",
+    "question": "Pilihan berikut ini yang bukan merupakan kewajiban penyelenggara negara dalam pengendalian gratifikasi adalah …",
+    "answer": "menerima penerimaan Gratifikasi yang berupa makanan yang sifatnya mudah rusak dan langsung menyalurkannya sebagai bantuan sosial kepada yang membutuhkan",
+    "options": [
+      "menolak Gratifikasi yang berhubungan dengan jabatan dan/atau berlawanan dengan kewajiban atau tugas yang bersangkutan",
+      "melaporkan penerimaan Gratifikasi yang tidak dapat ditolak sesuai ketentuan peratu- ran perundangundangan dan/atau penetapan KPK, melalui UPG atau secara langsung kepada KPK",
+      "menerima penerimaan Gratifikasi yang berupa makanan yang sifatnya mudah rusak dan langsung menyalurkannya sebagai bantuan sosial kepada yang membutuhkan",
+      "melaporkan penolakan atau penerimaan Gratifikasi melalui UPG atau secara langsung kepada KPK;"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah menerima penerimaan Gratifikasi yang berupa makanan yang sifatnya mudah rusak dan langsung menyalurkannya sebagai bantuan sosial kepada yang membutuhkan. Kewajiban penyelenggara negara dalam pengendalian gratifikasi mencakup menolak, melaporkan penolakan, dan melaporkan penerimaan gratifikasi yang tidak dapat ditolak; menyalurkan makanan mudah rusak sebagai bantuan sosial bukan kewajiban pada daftar tersebut.",
+    "source": {
+      "title": "10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Internalisasi Kepatuhan/10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "note": "internalisasi101.pdf nomor 12; diverifikasi dari halaman 32. Kewajiban penyelenggara negara dalam pengendalian gratifikasi mencakup menolak, melaporkan penolakan, dan melaporkan penerimaan gratifikasi yang tidak dapat ditolak; menyalurkan makanan mudah rusak sebagai bantuan sosial bukan kewajiban pada daftar tersebut."
+    }
+  },
+  {
+    "categoryId": "internalisasi-kepatuhan",
+    "topic": "Benturan Kepentingan",
+    "question": "Apa yang dimaksud dengan benturan kepentingan?",
+    "answer": "situasi pegawai memiliki atau patut diduga memiliki kepentingan pribadi dan/atau ke- pentingan kelompok untuk menguntungkan diri sendiri, orang lain, dan/atau golongan dalam menggunakan kewenangannya sehingga dapat memengaruhi objektivitas dan kualitas keputusan yang dibuat atau tidak dibuat dan/atau tindakan yang dilakukan atau tidak dilakukan.",
+    "options": [
+      "situasi pegawai memiliki atau patut diduga memiliki kepentingan pribadi dan/atau ke- pentingan kelompok untuk menguntungkan diri sendiri, orang lain, dan/atau golongan dalam menggunakan kewenangannya sehingga dapat memengaruhi objektivitas dan kualitas keputusan yang dibuat atau tidak dibuat dan/atau tindakan yang dilakukan atau tidak dilakukan.",
+      "semua jawaban salah.",
+      "suatu kondisi pertimbangan bersama yang mempengaruhi dan/atau dapat meny- ingkirkan profesionalitas seorang pejabat dalam mengemban tugas.",
+      "suatu kondisi pertimbangan organisasi yang mempengaruhi dan/atau dapat meny- ingkirkan profesionalitas seorang pejabat dalam mengemban tugas."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah situasi pegawai memiliki atau patut diduga memiliki kepentingan pribadi dan/atau ke- pentingan kelompok untuk menguntungkan diri sendiri, orang lain, dan/atau golongan dalam menggunakan kewenangannya sehingga dapat memengaruhi objektivitas dan kualitas keputusan yang dibuat atau tidak dibuat dan/atau tindakan yang dilakukan atau tidak dilakukan.. Definisi benturan kepentingan adalah situasi pegawai memiliki atau patut diduga memiliki kepentingan pribadi atau kelompok yang dapat memengaruhi objektivitas dan kualitas keputusan atau tindakan.",
+    "source": {
+      "title": "10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Internalisasi Kepatuhan/10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "note": "internalisasi101.pdf nomor 16; diverifikasi dari halaman 20. Definisi benturan kepentingan adalah situasi pegawai memiliki atau patut diduga memiliki kepentingan pribadi atau kelompok yang dapat memengaruhi objektivitas dan kualitas keputusan atau tindakan."
     }
   },
   {
@@ -35,6 +187,25 @@
       "title": "10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Internalisasi Kepatuhan/10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
       "note": "internalisasi101.pdf nomor 21; diverifikasi dari halaman 71. Kewajiban merahasiakan identitas pelapor."
+    }
+  },
+  {
+    "categoryId": "internalisasi-kepatuhan",
+    "topic": "Pengaduan Pelanggaran",
+    "question": "Hak Berikut ini merupakan petugas pengaduan yang dapat merekam pada aplikasi SIPP, kecuali...",
+    "answer": "Tim Pengkaji Pengaduan",
+    "options": [
+      "Direktorat KITSDA",
+      "Direktorat P2Humas",
+      "Tim Pengkaji Pengaduan",
+      "Direktorat Intelijen Perpajakan"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Tim Pengkaji Pengaduan. Petugas pengaduan yang dapat merekam pada SIPP mencakup Direktorat KITSDA, Direktorat P2Humas, Direktorat Intelijen Perpajakan, Kanwil, dan KPP; Tim Pengkaji Pengaduan tidak tercantum sebagai perekam.",
+    "source": {
+      "title": "10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Internalisasi Kepatuhan/10. Materi Tayang Webinar IK dan Penegakan Disiplin - Versi Lengkap.PDF",
+      "note": "internalisasi101.pdf nomor 22; diverifikasi dari halaman 68. Petugas pengaduan yang dapat merekam pada SIPP mencakup Direktorat KITSDA, Direktorat P2Humas, Direktorat Intelijen Perpajakan, Kanwil, dan KPP; Tim Pengkaji Pengaduan tidak tercantum sebagai perekam."
     }
   },
   {
@@ -96,6 +267,63 @@
   },
   {
     "categoryId": "kepegawaian",
+    "topic": "Kenaikan Pangkat",
+    "question": "Berikut merupakan periode kenaikan pangkat seseuai dengan Badan Kepegawaian Negara Nomor 4 Tahun 2023, kecuali …",
+    "answer": "1 Januari",
+    "options": [
+      "1 Februari",
+      "1 Desember",
+      "1 Juni",
+      "1 Januari"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah 1 Januari. Periode kenaikan pangkat menurut Peraturan BKN Nomor 4 Tahun 2023 adalah 1 Februari, 1 April, 1 Juni, 1 Agustus, 1 Oktober, dan 1 Desember; 1 Januari tidak termasuk.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 10; diverifikasi dari halaman 74. Periode kenaikan pangkat menurut Peraturan BKN Nomor 4 Tahun 2023 adalah 1 Februari, 1 April, 1 Juni, 1 Agustus, 1 Oktober, dan 1 Desember; 1 Januari tidak termasuk."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Pengembangan Kompetensi",
+    "question": "Berikut merupakan bentuk kegiatan Pembelajaran Klasikal, kecuali …",
+    "answer": "E-Learning",
+    "options": [
+      "In House Training (IHT)",
+      "Sosialisasi",
+      "E-Learning",
+      "Bimbingan Teknis"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah E-Learning. E-Learning dicantumkan sebagai contoh pembelajaran nonklasikal, bukan pembelajaran klasikal.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 24; diverifikasi dari halaman 23. E-Learning dicantumkan sebagai contoh pembelajaran nonklasikal, bukan pembelajaran klasikal."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Pengembangan Kompetensi",
+    "question": "Berikut merupakan bentuk kegiatan Pembelajaran NonKlasikal, kecuali …",
+    "answer": "Workshop",
+    "options": [
+      "Workshop",
+      "Benchmarking",
+      "Secondment",
+      "Pelatihan Jarak Jauh"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah Workshop. Workshop/Lokakarya dicantumkan sebagai contoh pembelajaran klasikal, bukan pembelajaran nonklasikal.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 25; diverifikasi dari halaman 23. Workshop/Lokakarya dicantumkan sebagai contoh pembelajaran klasikal, bukan pembelajaran nonklasikal."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
     "topic": "Tugas Belajar",
     "question": "Peraturan mana yang mengatur mengenai pengelolaan Tugas Belajar di lingkungan Kementerian Keuangan?",
     "answer": "PMK Nomor 34 Tahun 2024",
@@ -115,6 +343,82 @@
   },
   {
     "categoryId": "kepegawaian",
+    "topic": "Tugas Belajar",
+    "question": "Berapa besaran tunjangan kinerja yang diterima pegawai Tugas Belajar Dibiayai Diberhentikan?",
+    "answer": "75%",
+    "options": [
+      "80%",
+      "75%",
+      "65%",
+      "70%"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah 75%. Pegawai Tugas Belajar Dibiayai Diberhentikan menerima 75% dari total tunjangan kinerja dan/atau tunjangan lain yang melekat pada jabatan.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 32; diverifikasi dari halaman 43. Pegawai Tugas Belajar Dibiayai Diberhentikan menerima 75% dari total tunjangan kinerja dan/atau tunjangan lain yang melekat pada jabatan."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Tugas Belajar Mandiri",
+    "question": "Manakah dari hal berikut yang bukan merupakan kewajiban pegawai Tugas Belajar Mandiri?",
+    "answer": "menyerahkan asli ijazah dan transkrip bagi PNS Tugas Belajar Mandiri Tidak Diberhentika",
+    "options": [
+      "menjaga kehormatan dan nama baik Kemenkeu dan Pemerintah RI",
+      "menyelesaikan Tugas Belajar tepat waktu",
+      "menyerahkan asli ijazah dan transkrip bagi PNS Tugas Belajar Mandiri Tidak Diberhentika",
+      "menyampaikan Laporan Perkembangan Studi"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah menyerahkan asli ijazah dan transkrip bagi PNS Tugas Belajar Mandiri Tidak Diberhentika. Kewajiban pegawai Tugas Belajar Mandiri mencakup menyelesaikan tugas belajar tepat waktu, menjaga kehormatan dan nama baik Kementerian Keuangan, serta menyampaikan laporan perkembangan studi; menyerahkan asli ijazah dan transkrip untuk PNS Tugas Belajar Mandiri Tidak Diberhentikan tidak tercantum dalam daftar kewajiban tersebut.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 34; diverifikasi dari halaman 53. Kewajiban pegawai Tugas Belajar Mandiri mencakup menyelesaikan tugas belajar tepat waktu, menjaga kehormatan dan nama baik Kementerian Keuangan, serta menyampaikan laporan perkembangan studi; menyerahkan asli ijazah dan transkrip untuk PNS Tugas Belajar Mandiri Tidak Diberhentikan tidak tercantum dalam daftar kewajiban tersebut."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Tugas Belajar",
+    "question": "Berapa besaran tunjangan kinerja yang diterima pegawai Tugas Belajar Dibiayai Diberhentikan yang sedang menjalani perpanjangan Tugas Belajar?",
+    "answer": "tidak mendapatkan tunjangan kinerja",
+    "options": [
+      "75%",
+      "25%",
+      "tidak mendapatkan tunjangan kinerja",
+      "50%"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah tidak mendapatkan tunjangan kinerja. Pada Tugas Belajar Dibiayai Diberhentikan, tunjangan kinerja menjadi 0% jika pegawai menjalani perpanjangan.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 35; diverifikasi dari halaman 43. Pada Tugas Belajar Dibiayai Diberhentikan, tunjangan kinerja menjadi 0% jika pegawai menjalani perpanjangan."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Tugas Belajar",
+    "question": "Kegiatan pemantauan dan evaluasi Tugas Belajar dilakukan untuk semua tahapan. Manakah yang tidak termasuk kegiatan pemantauan dan evaluasi Tugas Belajar?",
+    "answer": "pemantauan dan evaluasi penugasan",
+    "options": [
+      "pemantauan dan evaluasi pelaksanaan",
+      "pemantauan dan evaluasi perencanaan",
+      "pemantauan dan evaluasi pasca-tugas belajar",
+      "pemantauan dan evaluasi penugasan"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah pemantauan dan evaluasi penugasan. Pemantauan dan evaluasi dilakukan terhadap proses perencanaan, pelaksanaan, dan pasca tugas belajar; penugasan tidak dicantumkan sebagai tahapan pemantauan tersendiri.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 39; diverifikasi dari halaman 39. Pemantauan dan evaluasi dilakukan terhadap proses perencanaan, pelaksanaan, dan pasca tugas belajar; penugasan tidak dicantumkan sebagai tahapan pemantauan tersendiri."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
     "topic": "Manajemen Kinerja",
     "question": "Salah satu ketentuan terkait manajemen kinerja yang berlaku di lingkungan Kementerian saat ini adalah:",
     "answer": "KMK-300/KMK.01/2022",
@@ -130,6 +434,25 @@
       "title": "DAY 5 - KEPEGAWAIAN.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/DAY 5 - KEPEGAWAIAN.pdf",
       "note": "kepegawaian101.pdf nomor 41; diverifikasi dari halaman 4. Dasar hukum manajemen kinerja di lingkungan Kementerian Keuangan."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Manajemen Kinerja",
+    "question": "Berikut ini yang tidak termasuk dalam klasifikasi manajemen kinerja di lingkungan Kementerian Keuangan:",
+    "answer": "Manajemen Kinerja Unit",
+    "options": [
+      "a, b, dan c salah",
+      "Manajemen Kinerja Organisasi",
+      "Manajemen Kinerja Unit",
+      "Manajemen Kinerja Pegawai"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Manajemen Kinerja Unit. Materi mengklasifikasikan manajemen kinerja menjadi Manajemen Kinerja Organisasi dan Manajemen Kinerja Individu/Pegawai; Manajemen Kinerja Unit tidak dicantumkan sebagai klasifikasi.",
+    "source": {
+      "title": "DAY 5 - KEPEGAWAIAN.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/DAY 5 - KEPEGAWAIAN.pdf",
+      "note": "kepegawaian101.pdf nomor 42; diverifikasi dari halaman 4. Materi mengklasifikasikan manajemen kinerja menjadi Manajemen Kinerja Organisasi dan Manajemen Kinerja Individu/Pegawai; Manajemen Kinerja Unit tidak dicantumkan sebagai klasifikasi."
     }
   },
   {
@@ -168,6 +491,234 @@
       "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
       "note": "kepegawaian101.pdf nomor 55; diverifikasi dari halaman 31. Formula NKP terdiri dari NHK 70% dan NPK 30%."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Budaya Kinerja",
+    "question": "Berikut ini adalah Nilai Kementerian Keuangan yang terkait dengan program budaya kinerja sebagaimana tertuang dalam nota dinas pelaksanaan program Internalisasi Corporate Value (ICV), kecuali:",
+    "answer": "Sinergi",
+    "options": [
+      "Profesionalisme",
+      "Kesempurnaan",
+      "Sinergi",
+      "Integritas"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Sinergi. Program Internalisasi Corporate Value yang ditampilkan memuat nilai Integritas, Profesionalisme, dan Kesempurnaan; Sinergi tidak tercantum pada daftar program budaya kinerja tersebut.",
+    "source": {
+      "title": "DAY 5 - KEPEGAWAIAN.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/DAY 5 - KEPEGAWAIAN.pdf",
+      "note": "kepegawaian101.pdf nomor 60; diverifikasi dari halaman 16. Program Internalisasi Corporate Value yang ditampilkan memuat nilai Integritas, Profesionalisme, dan Kesempurnaan; Sinergi tidak tercantum pada daftar program budaya kinerja tersebut."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Jabatan Pelaksana",
+    "question": "Jabatan Pelaksana berkedudukan di bawah jabatan berikut, kecuali …",
+    "answer": "Jabatan Fungsional Ahli Madya",
+    "options": [
+      "Jabatan Pimpinan Tinggi Pratama",
+      "Jabatan Pengawas",
+      "Jabatan Fungsional Ahli Madya",
+      "Jabatan Administrator"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Jabatan Fungsional Ahli Madya. Kedudukan Jabatan Pelaksana ditunjukkan di bawah jabatan pimpinan tinggi, administrator, dan pengawas; Jabatan Fungsional Ahli Madya tidak tercantum.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 61; diverifikasi dari halaman 55. Kedudukan Jabatan Pelaksana ditunjukkan di bawah jabatan pimpinan tinggi, administrator, dan pengawas; Jabatan Fungsional Ahli Madya tidak tercantum."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Sidang Penilaian",
+    "question": "Pada ketentuan umum pelaksanaan sidang penilaian, Sidang Penilaian diselenggarakan setelah pelaksanaan Evaluasi paling lambat tanggal …",
+    "answer": "31 Maret",
+    "options": [
+      "30 April",
+      "27 Februari",
+      "31 Maret",
+      "31 Januari"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah 31 Maret. Sidang Penilaian diselenggarakan paling lambat 31 Maret setelah pelaksanaan evaluasi.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 64; diverifikasi dari halaman 59. Sidang Penilaian diselenggarakan paling lambat 31 Maret setelah pelaksanaan evaluasi."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Sidang Penilaian",
+    "question": "Persyaratan pada saat penetapan jabatan dan peringkat pada jabatan pelaksana umum didasarkan pada, kecuali:",
+    "answer": "masa kerja PNS",
+    "options": [
+      "pendidikan",
+      "masa kerja PNS",
+      "golongan ruang",
+      "pangkat"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah masa kerja PNS. Ketentuan penetapan jabatan dan peringkat Pelaksana Umum mencakup pangkat/golongan ruang dan pendidikan; masa kerja PNS tidak dicantumkan sebagai dasar pada materi.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 66; diverifikasi dari halaman 59. Ketentuan penetapan jabatan dan peringkat Pelaksana Umum mencakup pangkat/golongan ruang dan pendidikan; masa kerja PNS tidak dicantumkan sebagai dasar pada materi."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Jabatan Pelaksana",
+    "question": "Jabatan Pelaksana terdiri atas empat jabatan di bawah ini, kecuali:",
+    "answer": "Pelaksana CPNS",
+    "options": [
+      "Pelaksana Khusus",
+      "Pelaksana CPNS",
+      "Pelaksana Tugas Belajar",
+      "Pelaksana Umum"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah Pelaksana CPNS. Jenis Jabatan Pelaksana mencakup Pelaksana Umum, Pelaksana Khusus, Pelaksana Tugas Belajar, dan Pelaksana Tertentu; Pelaksana CPNS tidak tercantum.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 69; diverifikasi dari halaman 55. Jenis Jabatan Pelaksana mencakup Pelaksana Umum, Pelaksana Khusus, Pelaksana Tugas Belajar, dan Pelaksana Tertentu; Pelaksana CPNS tidak tercantum."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Jabatan Pelaksana",
+    "question": "Jabatan pelaksana yang melaksanakan pengelolaan, verifikasi, dan penyusunan terhadap data, dan laporan berdasarkan urusan pemerintahan merupakan definisi untuk jabatan:",
+    "answer": "Pengolah Data dan Informasi",
+    "options": [
+      "Pengolah Data dan Informasi",
+      "Account Representative",
+      "Penelaah Keberatan",
+      "Pengadministrasi Perkantoran"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah Pengolah Data dan Informasi. Pengolah Data dan Informasi adalah Jabatan Pelaksana yang melaksanakan pengelolaan, verifikasi, dan penyusunan data serta laporan berdasarkan urusan pemerintahan.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 70; diverifikasi dari halaman 56. Pengolah Data dan Informasi adalah Jabatan Pelaksana yang melaksanakan pengelolaan, verifikasi, dan penyusunan data serta laporan berdasarkan urusan pemerintahan."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Presensi",
+    "question": "Jika Dinda melakukan terlambat masuk bekerja dan tidak melakukan absen pulang, apakah yang harus dilakukan?",
+    "answer": "Membuat Izin Terlambat dan membuat BA Lupa Absen",
+    "options": [
+      "Membuat Izin Terlambat dan membuat izin pulang sebelum waktunya",
+      "Membuat Izin Terlambat dan membuat BA Lupa Absen",
+      "Membuat Izin Pulang Sebelum Waktunya",
+      "Membuat Izin Terlambat"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah Membuat Izin Terlambat dan membuat BA Lupa Absen. Untuk keterlambatan diperlukan izin/pemberitahuan terlambat masuk bekerja, sedangkan tidak mengisi daftar hadir dibuktikan dengan berita acara lupa absen atau tangkapan layar CCTV.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 95; diverifikasi dari halaman 72. Untuk keterlambatan diperlukan izin/pemberitahuan terlambat masuk bekerja, sedangkan tidak mengisi daftar hadir dibuktikan dengan berita acara lupa absen atau tangkapan layar CCTV."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Izin Luar Negeri",
+    "question": "Penandatangan Surat Izin Luar Negeri dan Surat Izin Cuti yang dijalankan di Luar Negeri untuk golongan Ia sampai dengan Golongan IIId adalah",
+    "answer": "Kepala Bagian Perencanaan, Pengembangan, dan Pemberhentian Pegawai",
+    "options": [
+      "Sekretaris Direktorat Jenderal Pajak",
+      "Kepala Bagian Perencanaan, Pengembangan, dan Pemberhentian Pegawai",
+      "Direktur Jenderal Pajak",
+      "Kepala Kantor Wilayah"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah Kepala Bagian Perencanaan, Pengembangan, dan Pemberhentian Pegawai. Penandatangan surat izin ke luar negeri dan surat izin cuti yang dijalankan di luar negeri untuk Golongan Ia sampai IIId adalah Kabag P4.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 97; diverifikasi dari halaman 73. Penandatangan surat izin ke luar negeri dan surat izin cuti yang dijalankan di luar negeri untuk Golongan Ia sampai IIId adalah Kabag P4."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Laporan Perkawinan",
+    "question": "Laporan perkawinan pertama dibuat selambat-lambatnya …. terhitung mulai tanggal perkawinan itu dilakukan.",
+    "answer": "1 (satu) tahun",
+    "options": [
+      "1 (satu) minggu",
+      "1 (satu) tahun",
+      "1 (satu) bulan",
+      "1 (satu) hari"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah 1 (satu) tahun. Laporan perkawinan pertama harus dikirim paling lambat satu tahun terhitung mulai tanggal perkawinan dilangsungkan.",
+    "source": {
+      "title": "DAY 5 - KEPEGAWAIAN.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/DAY 5 - KEPEGAWAIAN.pdf",
+      "note": "kepegawaian101.pdf nomor 109; diverifikasi dari halaman 50. Laporan perkawinan pertama harus dikirim paling lambat satu tahun terhitung mulai tanggal perkawinan dilangsungkan."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Laporan Perkawinan",
+    "question": "Manakah dari daftar berikut yang bukan merupakan kelengkapan Laporan Perkawinan Pertama?",
+    "answer": "Surat Izin/Ket. Melakukan Perceraian",
+    "options": [
+      "Surat Izin/Ket. Melakukan Perceraian",
+      "Laporan Perkawinan Pertama",
+      "Pas Foto Istri/Suami Pegawai",
+      "akta nikah"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah Surat Izin/Ket. Melakukan Perceraian. Kelengkapan Laporan Perkawinan Pertama mencakup laporan perkawinan, salinan akta nikah, pas foto pegawai, dan pas foto istri/suami; surat izin atau keterangan perceraian merupakan kelengkapan untuk perkawinan duda/janda.",
+    "source": {
+      "title": "DAY 5 - KEPEGAWAIAN.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/DAY 5 - KEPEGAWAIAN.pdf",
+      "note": "kepegawaian101.pdf nomor 110; diverifikasi dari halaman 50. Kelengkapan Laporan Perkawinan Pertama mencakup laporan perkawinan, salinan akta nikah, pas foto pegawai, dan pas foto istri/suami; surat izin atau keterangan perceraian merupakan kelengkapan untuk perkawinan duda/janda."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Kartu ASN Virtual",
+    "question": "Pihak yang menerbitkan menerbitkan Kartu ASN Virtual melalui Sistem Informasi Aparatur Sipil Negara adalah …",
+    "answer": "Kepala Badan Kepegawaian Negara",
+    "options": [
+      "Presiden RI",
+      "Menteri Keuangan",
+      "Direktur Jenderal Pajak",
+      "Kepala Badan Kepegawaian Negara"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah Kepala Badan Kepegawaian Negara. Kartu ASN Virtual diterbitkan oleh Kepala Badan Kepegawaian Negara melalui Sistem Informasi Aparatur Sipil Negara.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 111; diverifikasi dari halaman 14. Kartu ASN Virtual diterbitkan oleh Kepala Badan Kepegawaian Negara melalui Sistem Informasi Aparatur Sipil Negara."
+    }
+  },
+  {
+    "categoryId": "kepegawaian",
+    "topic": "Kartu ASN Virtual",
+    "question": "Dalam penerbitan Kartu ASN Virtual PNS mengupload foto pada aplikasi …",
+    "answer": "MySAPK BKN",
+    "options": [
+      "Satu Kemenkeu",
+      "HRIS",
+      "SIKKA",
+      "MySAPK BKN"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah MySAPK BKN. Foto diri untuk Kartu ASN Virtual diunggah pada aplikasi MySAPK BKN.",
+    "source": {
+      "title": "9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/9. Materi Tayang Webinar Kepegawaian - Versi Lengkap.pdf",
+      "note": "kepegawaian101.pdf nomor 112; diverifikasi dari halaman 14. Foto diri untuk Kartu ASN Virtual diunggah pada aplikasi MySAPK BKN."
     }
   },
   {
@@ -229,6 +780,101 @@
   },
   {
     "categoryId": "kup",
+    "topic": "Pembukuan",
+    "question": "Wajib Pajak yang diwajibkan melakukan pembukuan adalah ….",
+    "answer": "Wajib Pajak Badan",
+    "options": [
+      "Bendahara Pemerintah",
+      "WP OP pegawai swasta",
+      "WP OP di bawah 4,8M",
+      "Wajib Pajak Badan"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah Wajib Pajak Badan. Wajib Pajak badan wajib menyelenggarakan pembukuan.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 8; diverifikasi dari halaman 18. Wajib Pajak badan wajib menyelenggarakan pembukuan."
+    }
+  },
+  {
+    "categoryId": "kup",
+    "topic": "Pemeriksaan",
+    "question": "Buku, catatan, dan dokumen, serta data, informasi, dan keterangan lain wajib dipenuhi oleh Wajib Pajak paling lama … sejak permintaan disampaikan.",
+    "answer": "satu bulan",
+    "options": [
+      "satu bulan",
+      "enam bulan",
+      "sebelum SPHP disampaikan",
+      "sebelum LHP terbit"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah satu bulan. Buku, catatan, dokumen, data, informasi, dan keterangan lain wajib dipenuhi paling lama satu bulan sejak permintaan disampaikan.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 23; diverifikasi dari halaman 53. Buku, catatan, dokumen, data, informasi, dan keterangan lain wajib dipenuhi paling lama satu bulan sejak permintaan disampaikan."
+    }
+  },
+  {
+    "categoryId": "kup",
+    "topic": "SKPKBT",
+    "question": "Jumlah kekurangan pajak yang terutang dalam SKPKBT ditambah dengan sanksi administratif berupa kenaikan sebesar … dari jumlah kekurangan pajak tersebut.",
+    "answer": "100%",
+    "options": [
+      "100%",
+      "50%",
+      "30%",
+      "75%"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah 100%. SKPKBT karena data baru yang mengakibatkan penambahan jumlah pajak terutang dikenai sanksi kenaikan 100%.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 27; diverifikasi dari halaman 66. SKPKBT karena data baru yang mengakibatkan penambahan jumlah pajak terutang dikenai sanksi kenaikan 100%."
+    }
+  },
+  {
+    "categoryId": "kup",
+    "topic": "Daluwarsa Penagihan",
+    "question": "Sejak tahun 2018, daluwarsa penagihan tertangguh apabila…",
+    "answer": "Diterbitkan surat paksa, adanya pengakuan dari Wajib Pajak, dan dilakukan penyidikan tindak pidana perpajakan.",
+    "options": [
+      "Diterbitkan surat teguran dan surat paksa, adanya pengakuan dari Wajib Pajak.",
+      "Diterbitkan surat paksa, adanya pengakuan langsung dan pengakuan tidak langsung dari Wajib Pajak.",
+      "Diterbitkan surat paksa, adanya pengakuan dari Wajib Pajak, dan dilakukan pemerik- saan bukti permulaan.",
+      "Diterbitkan surat paksa, adanya pengakuan dari Wajib Pajak, dan dilakukan penyidikan tindak pidana perpajakan."
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah Diterbitkan surat paksa, adanya pengakuan dari Wajib Pajak, dan dilakukan penyidikan tindak pidana perpajakan.. Untuk tahun pajak 2008 dan setelahnya, daluwarsa penagihan tertangguh jika diterbitkan Surat Paksa, ada pengakuan Wajib Pajak, atau dilakukan penyidikan tindak pidana perpajakan.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 33; diverifikasi dari halaman 80. Untuk tahun pajak 2008 dan setelahnya, daluwarsa penagihan tertangguh jika diterbitkan Surat Paksa, ada pengakuan Wajib Pajak, atau dilakukan penyidikan tindak pidana perpajakan."
+    }
+  },
+  {
+    "categoryId": "kup",
+    "topic": "Pembetulan",
+    "question": "Berikut yang bukan merupakan ruang lingkup pembetulan yang disebabkan karena kekeliruan dalam penerapan ketentuan tertentu dalam peraturan perundang-undangan perpajakan yaitu:",
+    "answer": "kekeliruan dalam penghitungan penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan",
+    "options": [
+      "kekeliruan dalam pengkreditan pajak",
+      "kekeliruan dalam penerapan tarif",
+      "kekeliruan dalam penghitungan penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan",
+      "kekeliruan penerapan sanksi administratif"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah kekeliruan dalam penghitungan penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan. Kesalahan penjumlahan, pengurangan, perkalian, atau pembagian merupakan kesalahan hitung, bukan kekeliruan penerapan ketentuan tertentu.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 39; diverifikasi dari halaman 84. Kesalahan penjumlahan, pengurangan, perkalian, atau pembagian merupakan kesalahan hitung, bukan kekeliruan penerapan ketentuan tertentu."
+    }
+  },
+  {
+    "categoryId": "kup",
     "topic": "Peninjauan Kembali",
     "question": "Peninjauan Kembali adalah…",
     "answer": "upaya hukum luar biasa",
@@ -244,6 +890,82 @@
       "title": "1. Materi Tayang Webinar KUP 2025.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
       "note": "kup101.pdf nomor 45; diverifikasi dari halaman 92. Peninjauan Kembali merupakan upaya hukum luar biasa."
+    }
+  },
+  {
+    "categoryId": "kup",
+    "topic": "Imbalan Bunga",
+    "question": "Menteri Keuangan menetapkan … tentang tarif bunga sebagai dasar penghitungan sanksi administratif berupa bunga dan pemberian imbalan bunga.",
+    "answer": "KMK",
+    "options": [
+      "PP",
+      "PMK",
+      "KMK",
+      "Per Dirjen"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah KMK. Menteri Keuangan menetapkan KMK tentang tarif bunga sebagai dasar penghitungan sanksi administratif bunga dan imbalan bunga.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 50; diverifikasi dari halaman 95. Menteri Keuangan menetapkan KMK tentang tarif bunga sebagai dasar penghitungan sanksi administratif bunga dan imbalan bunga."
+    }
+  },
+  {
+    "categoryId": "kup",
+    "topic": "Wakil Wajib Pajak",
+    "question": "Yang bukan termasuk wakil Wajib Pajak dalam menjalankan hak dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan, yaitu…",
+    "answer": "badan dalam PKPU oleh kurator",
+    "options": [
+      "badan oleh pengurus",
+      "warisan belum terbagi oleh ahli waris",
+      "orang yang dalam pengampuan oleh pengampu",
+      "badan dalam PKPU oleh kurator"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah badan dalam PKPU oleh kurator. Daftar wakil Wajib Pajak mencakup badan oleh pengurus, badan pailit oleh kurator, badan dalam pembubaran/likuidasi, warisan belum terbagi, serta anak belum dewasa atau orang dalam pengampuan; badan dalam PKPU oleh kurator tidak tercantum.",
+    "source": {
+      "title": "1. Materi Tayang Webinar KUP 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/1. Materi Tayang Webinar KUP 2025.pdf",
+      "note": "kup101.pdf nomor 51; diverifikasi dari halaman 97. Daftar wakil Wajib Pajak mencakup badan oleh pengurus, badan pailit oleh kurator, badan dalam pembubaran/likuidasi, warisan belum terbagi, serta anak belum dewasa atau orang dalam pengampuan; badan dalam PKPU oleh kurator tidak tercantum."
+    }
+  },
+  {
+    "categoryId": "organisasi",
+    "topic": "Visi dan Misi",
+    "question": "Visi dan Misi Kementerian Keuangan mendukung...",
+    "answer": "Visi dan Misi Presiden dan Wakil Presiden",
+    "options": [
+      "Visi dan Misi Kementerian lain",
+      "Visi dan Misi Kabinet Indonesia Maju",
+      "Visi dan Misi Unit Eselon I dibawah Kementerian Keuangan",
+      "Visi dan Misi Presiden dan Wakil Presiden"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah Visi dan Misi Presiden dan Wakil Presiden. Visi dan Misi Kementerian Keuangan mendukung Visi dan Misi Presiden dan Wakil Presiden.",
+    "source": {
+      "title": "7. Materi Tayang Webinar Organisasi 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Organisasi/7. Materi Tayang Webinar Organisasi 2025.pdf",
+      "note": "organisasi101.pdf nomor 1; diverifikasi dari halaman 5. Visi dan Misi Kementerian Keuangan mendukung Visi dan Misi Presiden dan Wakil Presiden."
+    }
+  },
+  {
+    "categoryId": "organisasi",
+    "topic": "Fungsi Kementerian Keuangan",
+    "question": "Di bawah ini yang bukan termasuk fungsi Kementerian Keuangan adalah …",
+    "answer": "mengelola neraca keuangan pusat yang inovatif dengan risiko minimum",
+    "options": [
+      "pelaksanaan pendidikan, pelatihan, sertifikasi kompetensi di bidang keuangan negara, dan manajemen pengetahuan",
+      "pelaksanaan pengembangan dan pengelolaan teknologi informasi dan komunikasi, serta pengelolaan data, informasi, dan intelijen keuangan",
+      "mengelola neraca keuangan pusat yang inovatif dengan risiko minimum",
+      "pelaksanaan bimbingan teknis dan supervisi atas pelaksanaan urusan Kementerian Keuangan di daerah"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah mengelola neraca keuangan pusat yang inovatif dengan risiko minimum. Fungsi Kementerian Keuangan mencakup pendidikan/pelatihan, TIK dan data, serta bimbingan teknis dan supervisi; mengelola neraca keuangan pusat yang inovatif dengan risiko minimum tidak tercantum sebagai fungsi.",
+    "source": {
+      "title": "7. Materi Tayang Webinar Organisasi 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Organisasi/7. Materi Tayang Webinar Organisasi 2025.pdf",
+      "note": "organisasi101.pdf nomor 4; diverifikasi dari halaman 7. Fungsi Kementerian Keuangan mencakup pendidikan/pelatihan, TIK dan data, serta bimbingan teknis dan supervisi; mengelola neraca keuangan pusat yang inovatif dengan risiko minimum tidak tercantum sebagai fungsi."
     }
   },
   {
@@ -263,6 +985,25 @@
       "title": "7. Materi Tayang Webinar Organisasi 2025.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Organisasi/7. Materi Tayang Webinar Organisasi 2025.pdf",
       "note": "organisasi101.pdf nomor 19; diverifikasi dari halaman 50. KPP Pratama Ambon memiliki jumlah KP2KP terbanyak pada materi."
+    }
+  },
+  {
+    "categoryId": "organisasi",
+    "topic": "Instansi Vertikal DJP",
+    "question": "KPP Pratama di Jakarta yang memiliki KP2KP adalah …",
+    "answer": "KPP Pratama Jakarta Pademangan",
+    "options": [
+      "KPP Pratama Jakarta Tanjung Priok",
+      "KPP Pratama Jakarta Pluit",
+      "KPP Pratama Jakarta Pademangan",
+      "KPP Pratama Jakarta Penjaringan"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah KPP Pratama Jakarta Pademangan. KPP Pratama Jakarta Pademangan merupakan satu-satunya KPP Pratama di Jakarta yang memiliki KP2KP Kepulauan Seribu.",
+    "source": {
+      "title": "7. Materi Tayang Webinar Organisasi 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Organisasi/7. Materi Tayang Webinar Organisasi 2025.pdf",
+      "note": "organisasi101.pdf nomor 20; diverifikasi dari halaman 49. KPP Pratama Jakarta Pademangan merupakan satu-satunya KPP Pratama di Jakarta yang memiliki KP2KP Kepulauan Seribu."
     }
   },
   {
@@ -301,6 +1042,82 @@
       "title": "7. Materi Tayang Webinar Organisasi 2025.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Organisasi/7. Materi Tayang Webinar Organisasi 2025.pdf",
       "note": "organisasi101.pdf nomor 24; diverifikasi dari halaman 51. KLIP adalah Kantor Layanan Informasi dan Pengaduan."
+    }
+  },
+  {
+    "categoryId": "pbb",
+    "topic": "Objek PBB Perkebunan",
+    "question": "Areal emplasemen perkebunan pada objek pajak PBB sektor perkebunan meliputi…",
+    "answer": "areal yang di atasnya dimanfaatkan untuk bangunan serta fasilitas penunjangnya",
+    "options": [
+      "areal yang tidak dapat diusahakan untuk kegiatan usaha perkebunan",
+      "areal yang di atasnya dimanfaatkan untuk bangunan serta fasilitas penunjangnya",
+      "areal yang dimanfaatkan sebagai pendukung dan pengaman kegiatan usaha perkebunan",
+      "areal yang belum ditanami tanaman perkebunan"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah areal yang di atasnya dimanfaatkan untuk bangunan serta fasilitas penunjangnya. Areal Emplasemen Perkebunan merupakan areal yang di atasnya dimanfaatkan untuk bangunan serta fasilitas penunjangnya.",
+    "source": {
+      "title": "PMK 186/PMK.03/2019 - DDTC",
+      "url": "https://perpajakan.ddtc.co.id/sumber-hukum/peraturan-pusat/peraturan-menteri-keuangan-186pmk-032019",
+      "note": "pbb101.pdf nomor 1; diverifikasi dari PMK 186/PMK.03/2019 Pasal 14 ayat (1) huruf e via DDTC; fallback karena materi lokal hanya memuat daftar kategori tanpa definisi areal. Areal Emplasemen Perkebunan merupakan areal yang di atasnya dimanfaatkan untuk bangunan serta fasilitas penunjangnya."
+    }
+  },
+  {
+    "categoryId": "pbb",
+    "topic": "Objek PBB Perhutanan",
+    "question": "Areal pada hutan alam dengan IUPHHK Restorasi Ekosistem yang belum tercapai keseimbangan ekosistem dan belum ada pemanfaatan hasil hutan bukan kayu termasuk dalam....",
+    "answer": "areal tidak produktif",
+    "options": [
+      "areal tidak produktif",
+      "areal belum produktif",
+      "areal pengaman perhutanan",
+      "areal perlindungan dan konsevasi"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah areal tidak produktif. Areal pada Hutan Alam dengan IUPHHK-RE yang belum tercapai keseimbangan ekosistem dan belum ada pemanfaatan hasil hutan bukan kayu merupakan Areal Tidak Produktif Perhutanan.",
+    "source": {
+      "title": "PMK 186/PMK.03/2019 - DDTC",
+      "url": "https://perpajakan.ddtc.co.id/sumber-hukum/peraturan-pusat/peraturan-menteri-keuangan-186pmk-032019",
+      "note": "pbb101.pdf nomor 2; diverifikasi dari PMK 186/PMK.03/2019 Pasal 15 ayat (1) huruf c via DDTC; fallback karena materi lokal hanya memuat daftar kategori tanpa definisi kondisi IUPHHK-RE. Areal pada Hutan Alam dengan IUPHHK-RE yang belum tercapai keseimbangan ekosistem dan belum ada pemanfaatan hasil hutan bukan kayu merupakan Areal Tidak Produktif Perhutanan."
+    }
+  },
+  {
+    "categoryId": "pbb",
+    "topic": "Objek PBB Minerba",
+    "question": "Objek pajak PBB sektor pertambangan mineral atau batubara yaitu bumi dan/atau bangunan yang berada dalam kawasan pertambangan mineral atau batubara yang tercantum dalam dokumen berikut ini, kecuali....",
+    "answer": "kontrak kerja sama",
+    "options": [
+      "izin usaha pertambangan",
+      "izin usaha pertambangan khusus",
+      "kontrak karya",
+      "kontrak kerja sama"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah kontrak kerja sama. Objek PBB sektor pertambangan mineral atau batubara tercantum dalam IUP, IUPK, Izin Pertambangan Rakyat, Kontrak Karya, atau PKP2B; kontrak kerja sama tidak tercantum.",
+    "source": {
+      "title": "5. Materi Tayang Webinar PBB 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Bumi dan Bangunan (PBB)/5. Materi Tayang Webinar PBB 2025.pdf",
+      "note": "pbb101.pdf nomor 3; diverifikasi dari halaman 10. Objek PBB sektor pertambangan mineral atau batubara tercantum dalam IUP, IUPK, Izin Pertambangan Rakyat, Kontrak Karya, atau PKP2B; kontrak kerja sama tidak tercantum."
+    }
+  },
+  {
+    "categoryId": "pbb",
+    "topic": "Penetapan NJOP PBB",
+    "question": "Di bawah ini adalah areal yang NJOP PBB-nya ditetapkan dengan keputusan Direktur Jenderal Pajak, kecuali….",
+    "answer": "areal emplasemen sektor perkebunan",
+    "options": [
+      "areal emplasemen sektor perkebunan",
+      "areal offshore sektor pertambangan minyak dan gas bumi",
+      "areal tubuh bumi ekplorasi yang belum berproduksi sektor pertambangan mineral atau batubara",
+      "areal tidak produktif sektor perhutanan"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah areal emplasemen sektor perkebunan. NJOP Areal Emplasemen Perkebunan ditentukan berdasarkan Perbandingan Harga dengan Objek Lain yang Sejenis, bukan ditetapkan dengan Keputusan Direktur Jenderal Pajak.",
+    "source": {
+      "title": "PMK 186/PMK.03/2019 - DDTC",
+      "url": "https://perpajakan.ddtc.co.id/sumber-hukum/peraturan-pusat/peraturan-menteri-keuangan-186pmk-032019",
+      "note": "pbb101.pdf nomor 13; diverifikasi dari PMK 186/PMK.03/2019 Pasal 14 ayat (2) huruf e dan Pasal 15 ayat (2) huruf d/g via DDTC; fallback untuk membedakan metode penetapan NJOP tiap areal. NJOP Areal Emplasemen Perkebunan ditentukan berdasarkan Perbandingan Harga dengan Objek Lain yang Sejenis, bukan ditetapkan dengan Keputusan Direktur Jenderal Pajak."
     }
   },
   {
@@ -396,6 +1213,44 @@
       "title": "4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Penghasilan (PPh)/4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
       "note": "pph101.pdf nomor 10; diverifikasi dari halaman 4. Kantor cabang badan luar negeri dapat menjadi BUT di Indonesia."
+    }
+  },
+  {
+    "categoryId": "pph",
+    "topic": "Natura dan Kenikmatan",
+    "question": "Imbalan berupa gaji, upah, tunjangan, honorarium, komisi, bonus, gratifikasi, uang pensiun, termasuk natura dan/atau kenikmatan yang diterima atau diperoleh orang pribadi atau badan dapat dikenakan pajak penghasilan. Apa yang dimaksud dengan natura:....",
+    "answer": "imbalan dalam bentuk barang selain uang",
+    "options": [
+      "imbalan dalam bentuk pemanfaatan hak",
+      "imbalan dalam bentuk kenikmatan",
+      "imbalan dalam bentuk barang selain uang",
+      "imbalan dalam bentuk fasilitas"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah imbalan dalam bentuk barang selain uang. Natura adalah imbalan berupa barang, sedangkan kenikmatan adalah imbalan berupa fasilitas atau pelayanan.",
+    "source": {
+      "title": "4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Penghasilan (PPh)/4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
+      "note": "pph101.pdf nomor 12; diverifikasi dari halaman 54. Natura adalah imbalan berupa barang, sedangkan kenikmatan adalah imbalan berupa fasilitas atau pelayanan."
+    }
+  },
+  {
+    "categoryId": "pph",
+    "topic": "Objek PPh",
+    "question": "Berikut adalah penghasilan yang merupakan objek pajak penghasilan, kecuali:....",
+    "answer": "warisan",
+    "options": [
+      "keuntungan penjualan harta",
+      "penghasilan dari pekerjaan",
+      "penghasilan dari usaha",
+      "warisan"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah warisan. Warisan termasuk penghasilan yang bukan objek Pajak Penghasilan.",
+    "source": {
+      "title": "4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Penghasilan (PPh)/4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
+      "note": "pph101.pdf nomor 14; diverifikasi dari halaman 11. Warisan termasuk penghasilan yang bukan objek Pajak Penghasilan."
     }
   },
   {
@@ -510,6 +1365,25 @@
       "title": "4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Penghasilan (PPh)/4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
       "note": "pph101.pdf nomor 32; diverifikasi dari halaman 14. Kerugian fiskal dapat dikompensasikan selama lima tahun berturut-turut."
+    }
+  },
+  {
+    "categoryId": "pph",
+    "topic": "PTKP",
+    "question": "Berikut ini yang merupakan contoh anggota keluarga semenda dalam garis keturunan lurus, kecuali….",
+    "answer": "anak kandung",
+    "options": [
+      "bapak mertua",
+      "anak kandung",
+      "anak tiri",
+      "ibu mertua"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah anak kandung. Anggota keluarga semenda dalam garis keturunan lurus mencakup mertua dan anak tiri; anak kandung merupakan keluarga sedarah.",
+    "source": {
+      "title": "4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Penghasilan (PPh)/4. Paparan Webinar Ukom 2025_PPh_FULL.pdf",
+      "note": "pph101.pdf nomor 33; diverifikasi dari halaman 47. Anggota keluarga semenda dalam garis keturunan lurus mencakup mertua dan anak tiri; anak kandung merupakan keluarga sedarah."
     }
   },
   {
@@ -874,6 +1748,101 @@
     }
   },
   {
+    "categoryId": "ppn",
+    "topic": "Faktur Pajak",
+    "question": "PT AYY merupakan PKP yang melakukan penyerahan BKP kepada CV MIU. PT AYY membuat Faktur Pajak atas penyerahan tersebut dengan NSFP 08002500000000096. Berdasarkan NSPF tersebut, manakah pernyataan di bawah ini yang benar?",
+    "answer": "Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.",
+    "options": [
+      "Faktur Pajak tersebut bukan Faktur Pajak normal.",
+      "Faktur Pajak tersebut dibuat sebelum tahun 2025.",
+      "Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.",
+      "Faktur Pajak tersebut merupakan Faktur Pajak pengganti ke-10."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Penyerahan BKP tersebut mendapatkan fasilitas dibebaskan dari pengenaan PPN.. Kode transaksi 08 pada Faktur Pajak menunjukkan penyerahan BKP/JKP yang mendapatkan fasilitas dibebaskan dari pengenaan PPN/PPnBM.",
+    "source": {
+      "title": "2. Materi Tayang Webinar PPN 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Pertambahan Nilai (PPN)/2. Materi Tayang Webinar PPN 2025.pdf",
+      "note": "ppn101.pdf nomor 28; diverifikasi dari halaman 68. Kode transaksi 08 pada Faktur Pajak menunjukkan penyerahan BKP/JKP yang mendapatkan fasilitas dibebaskan dari pengenaan PPN/PPnBM."
+    }
+  },
+  {
+    "categoryId": "ppn",
+    "topic": "Restitusi Turis Asing",
+    "question": "Dokumen yang harus ditunjukkan oleh turis asing pada saat meminta kembali PPN dan PPnBM yaitu:",
+    "answer": "paspor, boarding pass dan faktur pajak",
+    "options": [
+      "SPT Masa PPN, kartu NPWP, SK Pengukuhan PKP, paspor, boarding pass dan faktur pajak.",
+      "Kartu NPWP, SK Pengukuhan PKP, paspor, boarding pass dan faktur pajak",
+      "Kartu NPWP, paspor, boarding pass dan faktur pajak",
+      "paspor, boarding pass dan faktur pajak"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Jawaban yang benar adalah paspor, boarding pass dan faktur pajak. Permintaan kembali PPN dan PPnBM oleh turis asing dilakukan dengan menunjukkan paspor, boarding pass, dan Faktur Pajak.",
+    "source": {
+      "title": "2. Materi Tayang Webinar PPN 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Pertambahan Nilai (PPN)/2. Materi Tayang Webinar PPN 2025.pdf",
+      "note": "ppn101.pdf nomor 33; diverifikasi dari halaman 97. Permintaan kembali PPN dan PPnBM oleh turis asing dilakukan dengan menunjukkan paspor, boarding pass, dan Faktur Pajak."
+    }
+  },
+  {
+    "categoryId": "ppn",
+    "topic": "PPnBM",
+    "question": "Karakteristik PPnBM yang membedakan dengan PPN adalah:",
+    "answer": "Semua benar",
+    "options": [
+      "Semua benar",
+      "PPnBM tidak dapat dikreditkan dengan PPN",
+      "PPnBM merupakan pungutan tambahan di samping PPN",
+      "PPnBM tidak dapat dikreditkan dengan sesama PPnBM yang dipungut"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah Semua benar. PPnBM merupakan pungutan tambahan di samping PPN dan tidak dapat dikreditkan dengan PPN maupun PPnBM lainnya.",
+    "source": {
+      "title": "2. Materi Tayang Webinar PPN 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Pertambahan Nilai (PPN)/2. Materi Tayang Webinar PPN 2025.pdf",
+      "note": "ppn101.pdf nomor 38; diverifikasi dari halaman 102. PPnBM merupakan pungutan tambahan di samping PPN dan tidak dapat dikreditkan dengan PPN maupun PPnBM lainnya."
+    }
+  },
+  {
+    "categoryId": "ppn",
+    "topic": "Pemungut PPN",
+    "question": "Berikut ini merupakan Pihak Lain sebagai pemungut pajak, kecuali …",
+    "answer": "kontraktor perjanjian karya pengusahaan pertambangan batubara",
+    "options": [
+      "Ritel Daring",
+      "kontraktor perjanjian karya pengusahaan pertambangan batubara",
+      "Marketplace Pengadaan",
+      "Pelaku Usaha PMSE"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah kontraktor perjanjian karya pengusahaan pertambangan batubara. Pihak Lain Pasal 32A UU KUP mencakup pelaku usaha PMSE, Marketplace Pengadaan atau Ritel Daring Pengadaan, dan penyelenggara PMSE aset kripto; kontraktor PKP2B tidak tercantum.",
+    "source": {
+      "title": "2. Materi Tayang Webinar PPN 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Pertambahan Nilai (PPN)/2. Materi Tayang Webinar PPN 2025.pdf",
+      "note": "ppn101.pdf nomor 45; diverifikasi dari halaman 112. Pihak Lain Pasal 32A UU KUP mencakup pelaku usaha PMSE, Marketplace Pengadaan atau Ritel Daring Pengadaan, dan penyelenggara PMSE aset kripto; kontraktor PKP2B tidak tercantum."
+    }
+  },
+  {
+    "categoryId": "ppn",
+    "topic": "Penyetoran PPN",
+    "question": "Berdasarkan Pasal 15A ayat (1) Undang-Undang PPN, penyetoran PPN oleh PKP akibat selisih lebih Pajak Keluaran dari Pajak Masukan harus dilakukan paling lama akhir bulan berikutnya setelah berakhirnya Masa Pajak dan ... selisih lebih dapat dikreditkan sesuai ketentuan peraturan perundang-undangan atas penyetoran ini tidak dapat dikreditkan",
+    "answer": "sebelum Surat Pemberitahuan Masa PPN disampaikan",
+    "options": [
+      "sebelum dilakukan pemeriksaan",
+      "sebelum Surat Pemberitahuan Masa PPN disampaikan",
+      "Never give out your password. Report abuse",
+      "This content is created by the owner of the form. The data you submit will be sent to the form owner. Microsoft is not responsible for the privacy or security practices of its customers, including those of this form owner. Never give out your password. Microsoft Forms | AI-Powered surveys, quizzes and polls Create my own form Privacy and cookies | Consumer Health Privacy | Terms of use"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah sebelum Surat Pemberitahuan Masa PPN disampaikan. Batas penyetoran PPN adalah paling lama akhir bulan berikutnya setelah berakhirnya masa pajak dan sebelum SPT Masa PPN disampaikan.",
+    "source": {
+      "title": "2. Materi Tayang Webinar PPN 2025.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Pajak Pertambahan Nilai (PPN)/2. Materi Tayang Webinar PPN 2025.pdf",
+      "note": "ppn101.pdf nomor 50; diverifikasi dari halaman 117. Batas penyetoran PPN adalah paling lama akhir bulan berikutnya setelah berakhirnya masa pajak dan sebelum SPT Masa PPN disampaikan."
+    }
+  },
+  {
     "categoryId": "tata-naskah-dinas",
     "topic": "Asas Tata Naskah Dinas",
     "question": "Asas Pembakuan dalam penyelenggaraan Tata Naskah Dinas di lingkungan Kementerian keuangan, maksudnya adalah bahwa naskah dinas harus….",
@@ -909,6 +1878,25 @@
       "title": "DAY IV - TND.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
       "note": "tdn101.pdf nomor 4; diverifikasi dari halaman 3. Arsip Nasional Republik Indonesia berwenang menyusun pedoman umum TND."
+    }
+  },
+  {
+    "categoryId": "tata-naskah-dinas",
+    "topic": "Pernyataan Penutup",
+    "question": "Kalimat yang disampaikan dengan maksud untuk memberikan penekanan akhir pada isi Naskah Dinas dengan cara yang sopan dan dengan harapan agar penerima surat merasa dihargai dan bersedia menanggapi isi surat dengan lebih baik, merupakan maksud dari….",
+    "answer": "Pernyataan Penutup",
+    "options": [
+      "Paragraf",
+      "Tujuan Naskah Dinas",
+      "Pernyataan Penutup",
+      "Ruang Tanda Tangan"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Pernyataan Penutup. Pernyataan penutup memberikan penekanan akhir secara sopan agar penerima surat merasa dihargai dan bersedia menanggapi isi surat dengan lebih baik.",
+    "source": {
+      "title": "DAY IV - TND.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
+      "note": "tdn101.pdf nomor 9; diverifikasi dari halaman 14. Pernyataan penutup memberikan penekanan akhir secara sopan agar penerima surat merasa dihargai dan bersedia menanggapi isi surat dengan lebih baik."
     }
   },
   {
@@ -951,6 +1939,44 @@
   },
   {
     "categoryId": "tata-naskah-dinas",
+    "topic": "Surat Edaran",
+    "question": "Naskah Dinas yang memuat pemberitahuan mengenai ketentuan dalam suatu ketentuan peraturan perundang-undangan yang dianggap penting dan mendesak untuk segera dilaksanakan, merupakan pengertian dari Naskah Dinas….",
+    "answer": "Surat Edaran",
+    "options": [
+      "Surat Tugas",
+      "Surat Perintah",
+      "Surat Edaran",
+      "Surat Kuasa"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Surat Edaran. Surat Edaran adalah Naskah Dinas yang memuat pemberitahuan mengenai ketentuan dalam peraturan perundang-undangan yang penting dan mendesak untuk segera dilaksanakan.",
+    "source": {
+      "title": "DAY IV - TND.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
+      "note": "tdn101.pdf nomor 12; diverifikasi dari halaman 19. Surat Edaran adalah Naskah Dinas yang memuat pemberitahuan mengenai ketentuan dalam peraturan perundang-undangan yang penting dan mendesak untuk segera dilaksanakan."
+    }
+  },
+  {
+    "categoryId": "tata-naskah-dinas",
+    "topic": "Notula",
+    "question": "Catatan singkat (ringkas) mengenai jalannya rapat serta hal yang dibicarakan dan diputuskan, merupakan pengertian dari Naskah Dinas….",
+    "answer": "Notula",
+    "options": [
+      "Notula",
+      "Naskah Dinas Bersama",
+      "Berita Acara",
+      "Telaahan Staf"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah Notula. Notula adalah Naskah Dinas berupa catatan singkat mengenai jalannya rapat serta hal yang dibicarakan dan diputuskan.",
+    "source": {
+      "title": "DAY IV - TND.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
+      "note": "tdn101.pdf nomor 14; diverifikasi dari halaman 28. Notula adalah Naskah Dinas berupa catatan singkat mengenai jalannya rapat serta hal yang dibicarakan dan diputuskan."
+    }
+  },
+  {
+    "categoryId": "tata-naskah-dinas",
     "topic": "Nadine",
     "question": "Aplikasi yang digunakan dalam penanganan Naskah Dinas, baik Naskah Dinas masuk maupun Naskah Dinas keluar adalah….",
     "answer": "Naskah Dinas Elektronik (Nadine)",
@@ -966,6 +1992,25 @@
       "title": "DAY IV - TND.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
       "note": "tdn101.pdf nomor 16; diverifikasi dari halaman 2. Nadine digunakan dalam penanganan naskah dinas masuk dan keluar."
+    }
+  },
+  {
+    "categoryId": "tata-naskah-dinas",
+    "topic": "Pengelolaan Naskah Dinas",
+    "question": "Koordinasi antarpejabat dalam rangka pengelolaan Naskah Dinas di lingkungan Kementerian Keuangan, sebaiknya dilakukan dengan mengutamakan metode yang paling cepat dan tepat, seperti….",
+    "answer": "Semua Benar",
+    "options": [
+      "Jaringan telepon",
+      "Semua Benar",
+      "Kunjungan pribadi",
+      "Diskusi"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Jawaban yang benar adalah Semua Benar. Koordinasi dilakukan dengan metode yang paling cepat dan tepat, seperti diskusi, kunjungan pribadi, jaringan telepon, dan lain-lain.",
+    "source": {
+      "title": "DAY IV - TND.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
+      "note": "tdn101.pdf nomor 17; diverifikasi dari halaman 36. Koordinasi dilakukan dengan metode yang paling cepat dan tepat, seperti diskusi, kunjungan pribadi, jaringan telepon, dan lain-lain."
     }
   },
   {
@@ -1004,6 +2049,63 @@
       "title": "DAY IV - TND.pdf",
       "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Tata Naskah Dinas (TND)/DAY IV - TND.pdf",
       "note": "tdn101.pdf nomor 23; diverifikasi dari halaman 39. Kata sambung menandai teks yang berlanjut ke halaman berikutnya."
+    }
+  },
+  {
+    "categoryId": "tik",
+    "topic": "Keamanan Informasi",
+    "question": "Berikut merupakan aspek-aspek keamanan informasi, kecuali…",
+    "answer": "Security",
+    "options": [
+      "Confidentiality",
+      "Availability",
+      "Security",
+      "Integrity"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Security. Aspek keamanan informasi mencakup confidentiality, integrity, dan availability; security bukan salah satu aspek dalam daftar tersebut.",
+    "source": {
+      "title": "8. Materi Tayang Webinar TIK.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Teknologi Informasi dan Komunikasi (TIK)/8. Materi Tayang Webinar TIK.pdf",
+      "note": "tik101.pdf nomor 1; diverifikasi dari halaman 2. Aspek keamanan informasi mencakup confidentiality, integrity, dan availability; security bukan salah satu aspek dalam daftar tersebut."
+    }
+  },
+  {
+    "categoryId": "tik",
+    "topic": "Microsoft Word",
+    "question": "Manfaat Ms. Word adalah sebagai berikut, kecuali …",
+    "answer": "Akurasi Data",
+    "options": [
+      "Konsistensi dan Profesionalisme",
+      "Fleksibilitas Pemformatan",
+      "Akurasi Data",
+      "Produktivitas Tinggi"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "Jawaban yang benar adalah Akurasi Data. Manfaat Microsoft Word yang dicantumkan adalah produktivitas tinggi, fleksibilitas pemformatan, serta konsistensi dan profesionalisme; akurasi data tidak tercantum.",
+    "source": {
+      "title": "8. Materi Tayang Webinar TIK.pdf",
+      "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Teknologi Informasi dan Komunikasi (TIK)/8. Materi Tayang Webinar TIK.pdf",
+      "note": "tik101.pdf nomor 6; diverifikasi dari halaman 10. Manfaat Microsoft Word yang dicantumkan adalah produktivitas tinggi, fleksibilitas pemformatan, serta konsistensi dan profesionalisme; akurasi data tidak tercantum."
+    }
+  },
+  {
+    "categoryId": "tik",
+    "topic": "Microsoft Excel",
+    "question": "Manakah yang termasuk fungsi teks pada MS. Excel …",
+    "answer": "CONCATENATE",
+    "options": [
+      "CONCATENATE",
+      "INDEX",
+      "MATCH",
+      "MAX"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Jawaban yang benar adalah CONCATENATE. CONCATENATE adalah fungsi Excel untuk menggabungkan beberapa item teks menjadi satu item teks.",
+    "source": {
+      "title": "CONCATENATE function - Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d",
+      "note": "tik101.pdf nomor 7; diverifikasi dari Microsoft Support; fallback karena materi lokal hanya menampilkan MAX sebagai fungsi statistik, bukan daftar fungsi teks. CONCATENATE adalah fungsi Excel untuk menggabungkan beberapa item teks menjadi satu item teks."
     }
   }
 ]

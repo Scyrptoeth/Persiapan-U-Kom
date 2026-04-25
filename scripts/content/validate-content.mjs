@@ -79,7 +79,7 @@ recordCheck("total question count", () => {
   const baselineQuestionCount = 500;
   const expectedTotal = baselineQuestionCount + localQuestions.length;
 
-  assert(localQuestions.length === 53, `Expected 53 curated local questions, got ${localQuestions.length}.`);
+  assert(localQuestions.length === 111, `Expected 111 curated local questions, got ${localQuestions.length}.`);
   assert(questionBank.length === expectedTotal, `Expected ${expectedTotal} total questions after local import, got ${questionBank.length}.`);
 });
 
