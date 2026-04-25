@@ -31,6 +31,13 @@ export type LearningQuestion = {
   correctOptionIndex: CorrectOptionIndex;
   explanation: string;
   source: SourceRef;
+  providedPackage?: {
+    id: string;
+    label: string;
+    order: number;
+    questionNumber: number;
+    sourceTitle: string;
+  };
 };
 
 export type StudyCategory = {

@@ -41,6 +41,10 @@ function loadQuestionBankModule() {
       const localQuestionsPath = join(questionBankDir, "localQuestions.json");
       return existsSync(localQuestionsPath) ? require(localQuestionsPath) : [];
     }
+    if (specifier === "./providedQuestionPackages.json") {
+      const providedQuestionPackagesPath = join(questionBankDir, "providedQuestionPackages.json");
+      return existsSync(providedQuestionPackagesPath) ? require(providedQuestionPackagesPath) : [];
+    }
     if (specifier.startsWith("@/types/")) {
       return {};
     }
@@ -63,10 +67,13 @@ function assert(condition, message) {
 }
 
 const localQuestions = require(join(questionBankDir, "localQuestions.json"));
+const providedQuestionPackages = require(join(questionBankDir, "providedQuestionPackages.json"));
 const { questionBank, studyPackages } = loadQuestionBankModule();
 const errors = [];
 const warnings = [];
 const expectedLocalQuestionCount = 388;
+const expectedProvidedPackageCount = 49;
+const expectedProvidedQuestionCount = 980;
 const expectedAnswerKeyQuestionCount = 277;
 const answerKeySourceTitle = "jawaban-soal-unresolved-281.xlsx";
 const answerKeySourceUrl = "/Users/persiapantubel/Downloads/Persiapan U-Kom/Soal-Unresolved/jawaban-soal-unresolved-281.xlsx";
@@ -81,15 +88,41 @@ function recordCheck(name, check) {
 
 recordCheck("total question count", () => {
   const baselineQuestionCount = 500;
-  const expectedTotal = baselineQuestionCount + localQuestions.length;
+  const providedQuestionCount = providedQuestionPackages.reduce((total, studyPackage) => total + studyPackage.questions.length, 0);
+  const expectedTotal = baselineQuestionCount + localQuestions.length + providedQuestionCount;
 
   assert(localQuestions.length === expectedLocalQuestionCount, `Expected ${expectedLocalQuestionCount} curated local questions, got ${localQuestions.length}.`);
+  assert(providedQuestionPackages.length === expectedProvidedPackageCount, `Expected ${expectedProvidedPackageCount} provided PDF packages, got ${providedQuestionPackages.length}.`);
+  assert(providedQuestionCount === expectedProvidedQuestionCount, `Expected ${expectedProvidedQuestionCount} provided PDF questions, got ${providedQuestionCount}.`);
   assert(questionBank.length === expectedTotal, `Expected ${expectedTotal} total questions after local import, got ${questionBank.length}.`);
+});
+
+recordCheck("provided PDF packages", () => {
+  const studyPackageById = new Map(studyPackages.map((studyPackage) => [studyPackage.id, studyPackage]));
+
+  for (const providedPackage of providedQuestionPackages) {
+    assert(providedPackage.questions.length === 20, `${providedPackage.id} should contain exactly 20 source questions.`);
+    assert(/-paket-[a-z]$/.test(providedPackage.id), `${providedPackage.id} should use alphabetic package id.`);
+    assert(/ Paket [A-Z]$/.test(providedPackage.name), `${providedPackage.id} should use alphabetic display name.`);
+    const renderedPackage = studyPackageById.get(providedPackage.id);
+    assert(renderedPackage, `${providedPackage.id} is missing from studyPackages.`);
+    assert(renderedPackage.questions.length === 20, `${providedPackage.id} should render exactly 20 questions.`);
+
+    for (const [index, question] of providedPackage.questions.entries()) {
+      assert(question.providedPackage?.id === providedPackage.id, `${providedPackage.id} question ${index + 1} is missing providedPackage metadata.`);
+      assert(question.providedPackage.questionNumber === index + 1, `${providedPackage.id} question ${index + 1} has wrong providedPackage question number.`);
+      assert(question.source?.title === providedPackage.sourceTitle, `${providedPackage.id} question ${index + 1} has unexpected source title.`);
+      assert(question.source?.url === providedPackage.sourceUrl, `${providedPackage.id} question ${index + 1} has unexpected source URL.`);
+    }
+  }
 });
 
 recordCheck("four options and answer mapping", () => {
   for (const question of questionBank) {
     assert(Array.isArray(question.options) && question.options.length === 4, `${question.id} does not have exactly four options.`);
+    if (question.providedPackage) {
+      assert(new Set(question.options).size === 4, `${question.id} has duplicate options.`);
+    }
     assert(
       question.correctOptionIndex >= 0 && question.correctOptionIndex <= 3,
       `${question.id} has invalid correctOptionIndex ${question.correctOptionIndex}.`
@@ -178,6 +211,8 @@ console.log(JSON.stringify({
   ok: true,
   totals: {
     localQuestions: localQuestions.length,
+    providedQuestionPackages: providedQuestionPackages.length,
+    providedQuestions: providedQuestionPackages.reduce((total, studyPackage) => total + studyPackage.questions.length, 0),
     questionBank: questionBank.length,
     packages: studyPackages.length,
     maxPackageSize: Math.max(...studyPackages.map((studyPackage) => studyPackage.questions.length))

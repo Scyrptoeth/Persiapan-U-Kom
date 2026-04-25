@@ -1,5 +1,6 @@
 import waygroundQuestionData from "./waygroundQuestions.json";
 import localQuestionData from "./localQuestions.json";
+import providedQuestionPackageData from "./providedQuestionPackages.json";
 
 import type { CategoryId, CorrectOptionIndex, LearningQuestion, SourceRef, StudyCategory, StudyPackage } from "@/types/learning";
 
@@ -41,10 +42,28 @@ type ImportedQuestionSeed = {
   correctOptionIndex: CorrectOptionIndex;
   explanation: string;
   source: SourceRef;
+  providedPackage?: {
+    id: string;
+    label: string;
+    order: number;
+    questionNumber: number;
+    sourceTitle: string;
+  };
+};
+
+type ProvidedQuestionPackageSeed = {
+  id: string;
+  categoryId: CategoryId;
+  name: string;
+  packageLabel: string;
+  packageIndex: number;
+  questions: ImportedQuestionSeed[];
 };
 
 const waygroundQuestionSeeds = waygroundQuestionData as ImportedQuestionSeed[];
 const localQuestionSeeds = localQuestionData as ImportedQuestionSeed[];
+const providedQuestionPackageSeeds = providedQuestionPackageData as unknown as ProvidedQuestionPackageSeed[];
+const providedQuestionSeeds = providedQuestionPackageSeeds.flatMap((studyPackage) => studyPackage.questions);
 
 const sourceRefs: Record<SourceKey, Omit<SourceRef, "note">> = {
   level1: {
@@ -338,7 +357,12 @@ function buildExplanation(answer: string): string {
   return `Jawaban yang benar adalah ${punctuatedAnswer} Pilihan ini sesuai dengan kunci dan rujukan sumber yang dicatat pada soal.`;
 }
 
-function buildQuestionBank(seeds: QuestionSeed[], importedSeeds: ImportedQuestionSeed[], localSeeds: ImportedQuestionSeed[]): LearningQuestion[] {
+function buildQuestionBank(
+  seeds: QuestionSeed[],
+  importedSeeds: ImportedQuestionSeed[],
+  localSeeds: ImportedQuestionSeed[],
+  providedSeeds: ImportedQuestionSeed[]
+): LearningQuestion[] {
   const categoryCounts = new Map<CategoryId, number>();
 
   const nextId = (categoryId: CategoryId) => {
@@ -392,19 +416,38 @@ function buildQuestionBank(seeds: QuestionSeed[], importedSeeds: ImportedQuestio
     };
   });
 
-  return [...sourceBackedQuestions, ...importedQuestions, ...localQuestions];
+  const providedQuestions = providedSeeds.map((seed) => {
+    return {
+      id: nextId(seed.categoryId),
+      categoryId: seed.categoryId,
+      topic: seed.topic,
+      question: seed.question,
+      answer: seed.answer,
+      options: seed.options,
+      correctOptionIndex: seed.correctOptionIndex,
+      explanation: seed.explanation || buildExplanation(seed.answer),
+      source: seed.source,
+      providedPackage: seed.providedPackage
+    };
+  });
+
+  return [...sourceBackedQuestions, ...importedQuestions, ...localQuestions, ...providedQuestions];
 }
 
-export const questionBank: LearningQuestion[] = buildQuestionBank(questionSeeds, waygroundQuestionSeeds, localQuestionSeeds);
+export const questionBank: LearningQuestion[] = buildQuestionBank(
+  questionSeeds,
+  waygroundQuestionSeeds,
+  localQuestionSeeds,
+  providedQuestionSeeds
+);
 
 export function buildPackages(maxQuestionsPerPackage = 20): StudyPackage[] {
   const packageSize = Math.max(1, Math.min(20, maxQuestionsPerPackage));
 
   return studyCategories.flatMap((category) => {
-    const questions = questionBank.filter((question) => question.categoryId === category.id);
+    const questions = questionBank.filter((question) => question.categoryId === category.id && !question.providedPackage);
     const packageCount = Math.ceil(questions.length / packageSize);
-
-    return Array.from({ length: packageCount }, (_, index) => {
+    const generatedPackages = Array.from({ length: packageCount }, (_, index) => {
       const packageNumber = index + 1;
       return {
         id: `${category.id}-paket-${packageNumber}`,
@@ -413,6 +456,18 @@ export function buildPackages(maxQuestionsPerPackage = 20): StudyPackage[] {
         questions: questions.slice(index * packageSize, (index + 1) * packageSize)
       };
     });
+    const providedPackages = providedQuestionPackageSeeds
+      .filter((studyPackage) => studyPackage.categoryId === category.id)
+      .map((studyPackage) => {
+        return {
+          id: studyPackage.id,
+          categoryId: studyPackage.categoryId,
+          name: studyPackage.name,
+          questions: questionBank.filter((question) => question.providedPackage?.id === studyPackage.id)
+        };
+      });
+
+    return [...generatedPackages, ...providedPackages];
   });
 }
 
