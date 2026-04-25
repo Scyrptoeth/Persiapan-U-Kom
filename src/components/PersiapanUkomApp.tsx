@@ -144,6 +144,16 @@ export function PersiapanUkomApp() {
   const chartAverage = chartData.length > 0
     ? Math.round(chartData.reduce((total, item) => total + item.value, 0) / chartData.length)
     : 0;
+  const attemptedPackageCount = studyPackages.filter((studyPackage) => (attemptStore[studyPackage.id] ?? []).length > 0).length;
+  const totalAttemptCount = studyPackages.reduce((total, studyPackage) => total + (attemptStore[studyPackage.id] ?? []).length, 0);
+  const overallBestScore = studyPackages.reduce((best, studyPackage) => {
+    const packageBest = (attemptStore[studyPackage.id] ?? []).reduce(
+      (currentBest, attempt) => Math.max(currentBest, attempt.percentage),
+      0
+    );
+
+    return Math.max(best, packageBest);
+  }, 0);
   const strongestCategory = chartData.reduce<(typeof chartData)[number] | null>((strongest, item) => {
     if (!strongest || item.value > strongest.value) {
       return item;
@@ -246,7 +256,9 @@ export function PersiapanUkomApp() {
         <aside className="side-rail" aria-label="Navigasi belajar">
           <div className="brand-block">
             <div className="brand-mark" aria-hidden="true">
-              PU
+              <span />
+              <span />
+              <span />
             </div>
             <div>
               <p className="eyebrow">DJP Learning Desk</p>
@@ -271,6 +283,7 @@ export function PersiapanUkomApp() {
               <button
                 className={`topic-button ${category.id === selectedCategoryId ? "is-active" : ""}`}
                 key={category.id}
+                aria-current={category.id === selectedCategoryId ? "true" : undefined}
                 onClick={() => selectCategory(category.id)}
                 type="button"
                 title={getCategoryDisplayName(category)}
@@ -291,32 +304,29 @@ export function PersiapanUkomApp() {
             <p className="eyebrow">{mode === "home" ? "Progres Belajar" : currentCategory?.name}</p>
             <h2>{mode === "home" ? "Beranda" : currentPackage ? currentPackage.name : `Pilih Paket ${getCategoryDisplayName(currentCategory)}`}</h2>
           </div>
-          <div className="mode-switch" role="tablist" aria-label="Mode belajar">
+          <div className="mode-switch" aria-label="Mode belajar">
             <button
-              aria-selected={mode === "home"}
+              aria-pressed={mode === "home"}
               className={mode === "home" ? "is-active" : ""}
               onClick={() => setMode("home")}
-              role="tab"
               type="button"
             >
               <Home aria-hidden="true" size={18} />
               Beranda
             </button>
             <button
-              aria-selected={mode === "flipcard"}
+              aria-pressed={mode === "flipcard"}
               className={mode === "flipcard" ? "is-active" : ""}
               onClick={() => setMode("flipcard")}
-              role="tab"
               type="button"
             >
               <BookOpen aria-hidden="true" size={18} />
               Flipcard
             </button>
             <button
-              aria-selected={mode === "test"}
+              aria-pressed={mode === "test"}
               className={mode === "test" ? "is-active" : ""}
               onClick={() => setMode("test")}
-              role="tab"
               type="button"
             >
               <ClipboardCheck aria-hidden="true" size={18} />
@@ -332,6 +342,7 @@ export function PersiapanUkomApp() {
                 <button
                   className={studyPackage.id === currentPackage?.id ? "is-active" : ""}
                   key={studyPackage.id}
+                  aria-pressed={studyPackage.id === currentPackage?.id}
                   onClick={() => selectPackage(studyPackage.id)}
                   type="button"
                 >
@@ -345,27 +356,49 @@ export function PersiapanUkomApp() {
 
         {mode === "home" ? (
           <section className="home-dashboard" aria-label="Beranda progres belajar">
+            <div className="home-hero-card">
+              <div>
+                <p className="eyebrow">Snapshot lokal</p>
+                <h3>Belajar per paket, pantau progres per kategori.</h3>
+                <p>
+                  Peta latihan mandiri untuk menjaga ritme sebelum Ujian Kompetensi.
+                </p>
+              </div>
+              <dl className="home-kpis" aria-label="Ringkasan progres lokal">
+                <div>
+                  <dt>Paket dikerjakan</dt>
+                  <dd>{attemptedPackageCount}/{studyPackages.length}</dd>
+                </div>
+                <div>
+                  <dt>Skor terbaik</dt>
+                  <dd>{overallBestScore}%</dd>
+                </div>
+                <div>
+                  <dt>Percobaan</dt>
+                  <dd>{totalAttemptCount}</dd>
+                </div>
+              </dl>
+            </div>
+
             <div className="home-panel chart-panel">
               <div className="section-heading">
                 <div>
                   <p className="eyebrow">Spider chart</p>
                   <h3>Ringkasan progres kategori</h3>
                 </div>
-                <div className="scenario-switch" role="radiogroup" aria-label="Skenario spider chart">
+                <div className="scenario-switch" aria-label="Skenario spider chart">
                   <button
-                    aria-checked={chartScenario === "best-score"}
+                    aria-pressed={chartScenario === "best-score"}
                     className={chartScenario === "best-score" ? "is-active" : ""}
                     onClick={() => setChartScenario("best-score")}
-                    role="radio"
                     type="button"
                   >
                     Skor terbaik
                   </button>
                   <button
-                    aria-checked={chartScenario === "completion"}
+                    aria-pressed={chartScenario === "completion"}
                     className={chartScenario === "completion" ? "is-active" : ""}
                     onClick={() => setChartScenario("completion")}
-                    role="radio"
                     type="button"
                   >
                     Paket dikerjakan
@@ -432,6 +465,7 @@ export function PersiapanUkomApp() {
                   <button
                     className={item.id === selectedCategoryId ? "is-active" : ""}
                     key={item.id}
+                    aria-label={`Buka ${item.fullName}: ${item.attemptedCount} dari ${item.packageCount} paket dikerjakan`}
                     onClick={() => {
                       selectCategory(item.id);
                       setMode("flipcard");
@@ -540,7 +574,12 @@ export function PersiapanUkomApp() {
                     <div className="question-chips">
                       {answeredNumbers.length > 0 ? (
                         answeredNumbers.map((number) => (
-                          <a className="is-answered" href={`#question-${currentPackage.questions[number - 1].id}`} key={number}>
+                          <a
+                            aria-label={`Ke soal ${number}, sudah dijawab`}
+                            className="is-answered"
+                            href={`#question-${currentPackage.questions[number - 1].id}`}
+                            key={number}
+                          >
                             {number}
                           </a>
                         ))
@@ -553,7 +592,12 @@ export function PersiapanUkomApp() {
                     <p>Nomor belum dijawab</p>
                     <div className="question-chips">
                       {unansweredNumbers.map((number) => (
-                        <a className="is-unanswered" href={`#question-${currentPackage.questions[number - 1].id}`} key={number}>
+                        <a
+                          aria-label={`Ke soal ${number}, belum dijawab`}
+                          className="is-unanswered"
+                          href={`#question-${currentPackage.questions[number - 1].id}`}
+                          key={number}
+                        >
                           {number}
                         </a>
                       ))}
@@ -597,6 +641,7 @@ export function PersiapanUkomApp() {
                               className={`option-button ${optionState}`}
                               disabled={Boolean(submittedAttempt)}
                               key={option}
+                              aria-pressed={isSelected}
                               onClick={() => selectAnswer(question.id, optionIndex)}
                               type="button"
                             >
