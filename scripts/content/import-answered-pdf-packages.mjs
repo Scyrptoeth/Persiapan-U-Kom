@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process";
-import { mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { basename, join } from "node:path";
 
 const repoRoot = process.cwd();
@@ -406,22 +406,29 @@ for (const config of sourceFiles) {
 
 report.totals.packages = importedPackages.length;
 report.totals.questions = importedPackages.reduce((total, questionPackage) => total + questionPackage.questions.length, 0);
+const importedSourceTitles = new Set(sourceFiles.map((sourceFile) => sourceFile.fileName));
+const preservedPackages = existsSync(outputPath)
+  ? JSON.parse(readFileSync(outputPath, "utf8")).filter((questionPackage) => !importedSourceTitles.has(questionPackage.sourceTitle))
+  : [];
 
 mkdirSync(cacheRoot, { recursive: true });
-writeFileSync(reportPath, `${JSON.stringify({ ...report, errors }, null, 2)}\n`);
+writeFileSync(reportPath, `${JSON.stringify({ ...report, preservedPackages: preservedPackages.length, errors }, null, 2)}\n`);
 
 if (errors.length > 0) {
   console.error(JSON.stringify({ ok: false, errors, reportPath }, null, 2));
   process.exit(1);
 }
 
-writeFileSync(outputPath, `${JSON.stringify(importedPackages, null, 2)}\n`);
+writeFileSync(outputPath, `${JSON.stringify([...importedPackages, ...preservedPackages], null, 2)}\n`);
 console.log(JSON.stringify({
   ok: true,
   outputPath,
   reportPath,
-  packages: report.totals.packages,
-  questions: report.totals.questions,
+  importedPackages: report.totals.packages,
+  importedQuestions: report.totals.questions,
+  preservedPackages: preservedPackages.length,
+  packages: report.totals.packages + preservedPackages.length,
+  questions: report.totals.questions + preservedPackages.reduce((total, questionPackage) => total + questionPackage.questions.length, 0),
   sources: report.sources.map((source) => ({
     fileName: basename(source.fileName),
     packages: source.parsedPackages,

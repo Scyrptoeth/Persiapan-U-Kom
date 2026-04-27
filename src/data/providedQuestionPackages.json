@@ -26017,5 +26017,1067 @@
         }
       }
     ]
+  },
+  {
+    "id": "bea-meterai-studi-kasus-paket-a",
+    "categoryId": "bea-meterai",
+    "name": "BM (Studi Kasus) Paket A",
+    "sourceTitle": "Materi-Bea-Meterai-BM.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+    "packageLabel": "A",
+    "packageIndex": 0,
+    "questions": [
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Aruna dan PT Bima menandatangani surat perjanjian kerja sama pengadaan jasa konsultansi untuk periode satu tahun. Dokumen perjanjian dibuat dalam dua rangkap dengan substansi yang sama dan masing-masing pihak menerima satu rangkap yang telah ditandatangani. Staf administrasi PT Aruna berpendapat bahwa Bea Meterai cukup dibayar oleh pihak yang menyusun draf awal perjanjian. Sementara itu, bagian keuangan PT Bima meminta kepastian tentang pihak yang terutang dan saat terutangnya. Dalam menentukan kewajiban Bea Meterai, perlakuan yang paling tepat adalah ...",
+        "answer": "Bea Meterai terutang oleh masing-masing pihak atas dokumen yang diterimanya, pada saat dokumen dibubuhi tanda tangan.",
+        "options": [
+          "Bea Meterai terutang hanya oleh pihak yang pertama kali menyiapkan draf perjanjian, pada saat dokumen selesai diketik.",
+          "Bea Meterai terutang hanya oleh pihak yang menyimpan dokumen asli, pada saat dokumen diserahkan kepada kantor pajak.",
+          "Bea Meterai terutang oleh masing-masing pihak atas dokumen yang diterimanya, pada saat dokumen dibubuhi tanda tangan.",
+          "Bea Meterai tidak terutang karena surat perjanjian hanya mengatur hubungan perdata antara dua perusahaan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena surat perjanjian beserta rangkapnya merupakan objek Bea Meterai. Untuk dokumen yang ditandatangani para pihak, kewajiban melekat pada masing-masing pihak atas dokumen yang diterimanya, dan saat terutangnya terjadi ketika dokumen dibubuhi tanda tangan.\n\nOpsi A keliru karena kewajiban Bea Meterai tidak ditentukan oleh pihak yang pertama kali menyusun draf.\n\nOpsi B keliru karena kewajiban tidak hanya melekat pada pihak yang menyimpan dokumen asli.\n\nOpsi D keliru karena dokumen yang dibuat untuk menerangkan kejadian yang bersifat perdata justru termasuk objek Bea Meterai.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 1/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 1,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "CV Danasari menerima pembayaran dari pelanggan atas sebagian tagihan jasa perawatan mesin. Bagian kasir membuat tanda terima senilai Rp4.850.000,00 dan mencantumkan bahwa uang tersebut telah diterima sebagai pelunasan sebagian tagihan. Dokumen tersebut akan disimpan oleh pelanggan sebagai bukti transaksi. Manajer keuangan bertanya apakah dokumen tersebut otomatis menjadi objek Bea Meterai karena menyebutkan penerimaan uang. Bagaimana perlakuan Bea Meterai atas dokumen tersebut?",
+        "answer": "Tidak terutang Bea Meterai karena dokumen yang menyatakan jumlah uang baru menjadi objek jika nilai nominalnya lebih dari Rp5.000.000,00.",
+        "options": [
+          "Tidak terutang Bea Meterai karena dokumen yang menyatakan jumlah uang baru menjadi objek jika nilai nominalnya lebih dari Rp5.000.000,00.",
+          "Terutang Bea Meterai karena setiap dokumen yang menyebutkan penerimaan uang selalu menjadi objek tanpa memperhatikan nilai nominal.",
+          "Terutang Bea Meterai hanya jika dokumen tersebut dibuat dalam bentuk elektronik.",
+          "Tidak terutang Bea Meterai hanya jika dokumen tersebut digunakan untuk kepentingan internal organisasi."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena dokumen yang menyatakan jumlah uang dengan menyebutkan penerimaan uang atau pengakuan pelunasan utang menjadi objek Bea Meterai jika nilai nominalnya lebih dari Rp5.000.000,00. Dalam kasus ini, nilai dokumen Rp4.850.000,00 sehingga tidak melewati threshold.\n\nOpsi B keliru karena mengabaikan batas nilai lebih dari Rp5.000.000,00.\n\nOpsi C keliru karena bentuk elektronik bukan satu-satunya penentu objek Bea Meterai.\n\nOpsi D tidak tepat karena dokumen dalam kasus ini bukan tanda penerimaan uang untuk keperluan internal organisasi.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 2/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 2,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Unit kepatuhan sebuah kantor diminta menelaah beberapa dokumen sebelum dokumen tersebut digunakan dalam proses administrasi perusahaan. Dokumen yang dinilai terdiri dari ijazah pelatihan, tanda penerimaan uang untuk keperluan intern organisasi, dokumen Bank Indonesia terkait kebijakan moneter, dan surat pernyataan kesanggupan dari rekanan. Tim ingin memilah dokumen yang tidak dikenakan Bea Meterai dan dokumen yang tetap merupakan objek Bea Meterai. Penelaahan harus dilakukan hanya berdasarkan klasifikasi objek dan non-objek dalam materi Bea Meterai. Pilihan yang paling tepat adalah ...",
+        "answer": "Surat pernyataan kesanggupan dari rekanan kepada perusahaan, beserta rangkapnya.",
+        "options": [
+          "Ijazah pelatihan yang diterbitkan lembaga pendidikan.",
+          "Tanda penerimaan uang yang dibuat untuk keperluan intern organisasi.",
+          "Dokumen yang diterbitkan Bank Indonesia dalam rangka pelaksanaan kebijakan moneter.",
+          "Surat pernyataan kesanggupan dari rekanan kepada perusahaan, beserta rangkapnya."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena surat pernyataan atau surat lain yang sejenis, beserta rangkapnya, termasuk objek Bea Meterai.\n\nOpsi A keliru karena segala bentuk ijazah termasuk dokumen yang tidak dikenakan Bea Meterai.\n\nOpsi B keliru karena tanda penerimaan uang yang dibuat untuk keperluan intern organisasi termasuk non-objek.\n\nOpsi C keliru karena dokumen yang diterbitkan atau dihasilkan Bank Indonesia dalam rangka pelaksanaan kebijakan moneter termasuk non-objek.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 3/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 3,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Lestari menjadi pihak dalam perjanjian pembiayaan yang ditandatangani di luar negeri oleh para pihak terkait. Setelah kegiatan usaha berjalan, dokumen tersebut dibawa dan digunakan di Indonesia untuk memperoleh manfaat administratif dan hukum dari isi perjanjian. Bagian legal PT Lestari menilai bahwa dokumen tersebut tidak perlu diperhatikan dari sisi Bea Meterai karena dibuat di luar negeri. Bagian pajak meminta analisis tentang siapa pihak yang terutang dan kapan saat terutangnya. Siapa pihak yang terutang Bea Meterai dan kapan saat terutangnya?",
+        "answer": "Pihak yang menerima manfaat atas dokumen, pada saat dokumen digunakan di Indonesia.",
+        "options": [
+          "Pihak yang menandatangani dokumen pertama kali, pada saat dokumen ditandatangani di luar negeri.",
+          "Pihak yang menerima manfaat atas dokumen, pada saat dokumen digunakan di Indonesia.",
+          "Pihak yang menerbitkan dokumen, pada saat dokumen selesai dibuat.",
+          "Pihak yang mengajukan dokumen, pada saat dokumen diajukan ke pengadilan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena untuk dokumen yang dibuat di luar negeri, pihak yang terutang adalah pihak yang menerima manfaat atas dokumen, dan saat terutangnya terjadi ketika dokumen digunakan di Indonesia.\n\nOpsi A keliru karena saat terutang untuk dokumen luar negeri tidak ditentukan semata-mata oleh saat penandatanganan di luar negeri.\n\nOpsi C tidak tepat karena pihak penerbit dan saat selesai dibuat lebih sesuai untuk jenis dokumen tertentu seperti surat berharga.\n\nOpsi D tidak tepat karena pihak yang mengajukan dokumen dan saat diajukan ke pengadilan berlaku untuk dokumen yang digunakan sebagai alat bukti di pengadilan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 4/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 4,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Mandala sedang menghadapi sengketa perdata dengan salah satu rekanannya. Dalam proses persidangan, tim hukum perusahaan menyiapkan sebuah dokumen untuk diajukan sebagai alat bukti di pengadilan. Dokumen tersebut sebelumnya belum dibubuhi Meterai karena pada awalnya hanya dipakai sebagai arsip internal perusahaan. Panitera meminta agar perusahaan memastikan perlakuan Bea Meterai sebelum dokumen digunakan dalam persidangan. Perlakuan yang tepat adalah ...",
+        "answer": "Bea Meterai terutang oleh pihak yang mengajukan dokumen pada saat dokumen diajukan ke pengadilan.",
+        "options": [
+          "Bea Meterai terutang oleh panitera karena pengadilan menerima dokumen tersebut.",
+          "Bea Meterai terutang oleh pembuat dokumen pada saat dokumen selesai dibuat.",
+          "Bea Meterai terutang oleh pihak yang mengajukan dokumen pada saat dokumen diajukan ke pengadilan.",
+          "Bea Meterai tidak terutang karena dokumen yang menjadi alat bukti di pengadilan tidak termasuk dokumen perdata."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena dokumen yang digunakan sebagai alat bukti di pengadilan merupakan objek Bea Meterai. Pihak yang terutang adalah pihak yang mengajukan dokumen, dan saat terutangnya terjadi ketika dokumen diajukan ke pengadilan.\n\nOpsi A keliru karena kewajiban tidak dibebankan kepada panitera atau pejabat pengadilan yang menerima dokumen.\n\nOpsi B tidak tepat karena kategori dalam kasus ini adalah dokumen alat bukti di pengadilan, bukan dokumen yang saat terutangnya ditentukan saat selesai dibuat.\n\nOpsi D keliru karena dokumen yang digunakan sebagai alat bukti di pengadilan tetap merupakan objek Bea Meterai.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 5/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 5,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Sebuah yayasan keagamaan menerima pengalihan hak atas tanah dari seorang donatur. Tanah tersebut akan digunakan untuk membangun fasilitas kegiatan sosial dan keagamaan yang tidak dipungut biaya komersial. Dokumen pengalihan hak atas tanah akan dibuat untuk memenuhi kebutuhan administrasi pertanahan. Pengurus yayasan ingin mengetahui apakah dokumen tersebut tetap dikenakan Bea Meterai atau dapat memperoleh fasilitas tertentu. Berdasarkan materi Bea Meterai, perlakuan yang paling tepat atas dokumen pengalihan hak tersebut adalah ...",
+        "answer": "Dapat memperoleh fasilitas pembebasan dari pengenaan Bea Meterai karena digunakan untuk kegiatan keagamaan dan/atau sosial yang tidak bersifat komersial.",
+        "options": [
+          "Tetap dikenakan Bea Meterai karena semua dokumen pengalihan hak atas tanah dan bangunan merupakan objek tanpa fasilitas.",
+          "Dapat memperoleh fasilitas pembebasan dari pengenaan Bea Meterai karena digunakan untuk kegiatan keagamaan dan/atau sosial yang tidak bersifat komersial.",
+          "Tidak termasuk objek Bea Meterai karena semua dokumen yayasan merupakan non-objek.",
+          "Hanya dapat dibebaskan jika dokumen tersebut dibuat dalam bentuk elektronik."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena fasilitas pembebasan Bea Meterai diberikan untuk dokumen yang menyatakan pengalihan hak atas tanah dan/atau bangunan yang digunakan untuk kegiatan semata-mata keagamaan dan/atau sosial yang tidak bersifat komersial.\n\nOpsi A keliru karena mengabaikan adanya fasilitas pembebasan untuk kondisi tertentu.\n\nOpsi C terlalu luas karena tidak semua dokumen yayasan otomatis menjadi non-objek Bea Meterai.\n\nOpsi D keliru karena fasilitas pembebasan tersebut tidak bergantung pada apakah dokumen dibuat dalam bentuk elektronik.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 6/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 6,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Sebuah perusahaan sekuritas melakukan reviu atas beberapa dokumen transaksi surat berharga. Reviu tersebut dilakukan karena tidak semua dokumen transaksi surat berharga memiliki batas nilai pembebasan yang sama. Tim operasional menemukan transaksi di pasar perdana, bursa efek, penyelenggara pasar alternatif, dan layanan urun dana. Setiap dokumen harus dinilai berdasarkan jenis transaksi dan batas nilai yang sesuai. Dokumen yang memenuhi batas nilai pembebasan adalah ...",
+        "answer": "Trade confirmation transaksi di bursa efek dengan nilai Rp9.800.000,00.",
+        "options": [
+          "Formulir konfirmasi penjatahan efek di pasar perdana dengan nilai Rp5.400.000,00.",
+          "Dokumen transaksi melalui penyelenggara pasar alternatif dengan nilai Rp5.250.000,00.",
+          "Dokumen transaksi melalui layanan urun dana dengan nilai Rp5.100.000,00.",
+          "Trade confirmation transaksi di bursa efek dengan nilai Rp9.800.000,00."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena trade confirmation transaksi di bursa efek mendapat pembebasan jika nilainya paling banyak Rp10.000.000,00. Nilai Rp9.800.000,00 masih berada dalam batas tersebut.\n\nOpsi A keliru karena formulir konfirmasi penjatahan efek di pasar perdana memiliki batas paling banyak Rp5.000.000,00, sedangkan nilainya Rp5.400.000,00.\n\nOpsi B keliru karena transaksi melalui penyelenggara pasar alternatif memiliki batas paling banyak Rp5.000.000,00, sedangkan nilainya Rp5.250.000,00.\n\nOpsi C keliru karena transaksi melalui layanan urun dana memiliki batas paling banyak Rp5.000.000,00, sedangkan nilainya Rp5.100.000,00.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 7/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 7,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Seorang pegawai administrasi diminta menyiapkan dokumen kerja sama yang akan ditandatangani oleh pejabat perusahaan. Pegawai tersebut sudah membeli Meterai Tempel yang sah dan masih berlaku. Karena dokumen akan segera dipakai, ia ingin memastikan cara pembubuhan Meterai Tempel tidak menimbulkan masalah keabsahan. Atasan meminta agar meterai ditempatkan dan ditandatangani sesuai tata cara yang benar. Cara yang sesuai dengan ketentuan adalah ...",
+        "answer": "Meterai Tempel direkatkan utuh dan tidak rusak di tempat tanda tangan, lalu tanda tangan dibubuhkan sebagian di atas kertas dan sebagian di atas Meterai Tempel disertai tanggal, bulan, dan tahun.",
+        "options": [
+          "Meterai Tempel direkatkan utuh dan tidak rusak di tempat tanda tangan, lalu tanda tangan dibubuhkan sebagian di atas kertas dan sebagian di atas Meterai Tempel disertai tanggal, bulan, dan tahun.",
+          "Meterai Tempel ditempel di halaman terakhir tanpa harus beririsan dengan tanda tangan, sepanjang nilai nominal meterai terlihat jelas.",
+          "Meterai Tempel boleh dipakai ulang jika bekas tanda tangan sebelumnya sudah tertutup oleh tanda tangan baru.",
+          "Meterai Tempel cukup ditempel setelah dokumen ditandatangani tanpa pencantuman tanggal penandatanganan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena Meterai Tempel harus sah, berlaku, belum pernah dipakai, direkatkan utuh dan tidak rusak di tempat tanda tangan akan dibubuhkan. Tanda tangan harus dibubuhkan sebagian di atas kertas dan sebagian di atas Meterai Tempel, disertai pencantuman tanggal, bulan, dan tahun.\n\nOpsi B keliru karena tanda tangan tidak boleh dilepaskan dari posisi pembubuhan meterai yang benar.\n\nOpsi C keliru karena Meterai Tempel yang sudah pernah dipakai tidak boleh dipakai ulang.\n\nOpsi D keliru karena pembubuhan setelah dokumen ditandatangani tanpa tanggal penandatanganan tidak memenuhi tata cara pembubuhan yang benar.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 8/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 8,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Nawasena mulai mengalihkan proses kontraknya ke dokumen digital. Bagian pengadaan ingin memakai Meterai Elektronik agar pembubuhan meterai dilakukan melalui sistem tertentu. Sebelum membeli kuota, tim melakukan pemeriksaan atas unsur yang harus terlihat pada Meterai Elektronik. Pemeriksaan ini diperlukan agar tim tidak salah membedakan Meterai Elektronik dengan Meterai Tempel, Meterai Teraan, atau Meterai Percetakan. Salah satu ciri yang harus ada pada Meterai Elektronik adalah ...",
+        "answer": "Kode unik 22 digit.",
+        "options": [
+          "Nomor mesin dan warna teraan merah.",
+          "Frasa \"METERAI TEMPEL\" dan bentuk carik.",
+          "Kode unik 22 digit.",
+          "Nama Wajib Pajak pemilik izin pencetakan dokumen sekuriti."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena Meterai Elektronik memiliki unsur 22 digit kode unik, selain gambar lambang negara Garuda Pancasila, tulisan \"METERAI ELEKTRONIK\", serta angka dan tulisan yang menunjukkan tarif Bea Meterai.\n\nOpsi A keliru karena nomor mesin dan warna teraan merah lebih berkaitan dengan Meterai Teraan.\n\nOpsi B keliru karena frasa \"METERAI TEMPEL\" dan bentuk carik merupakan ciri Meterai Tempel.\n\nOpsi D keliru karena nama Wajib Pajak pemilik izin pencetakan dokumen sekuriti berkaitan dengan Meterai Percetakan, bukan Meterai Elektronik.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 9/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 9,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Cakrawala telah ditetapkan sebagai Pemungut Bea Meterai dan sedang menyiapkan integrasi API dengan sistem meterai elektronik. Pada masa transisi, sistem internal perusahaan belum dapat membubuhkan Meterai Elektronik secara normal pada seluruh dokumen elektronik. Tim teknologi informasi menyampaikan bahwa integrasi masih berada dalam jangka waktu yang diperkenankan. Bagian pajak harus menentukan cara pemungutan sementara tanpa menghilangkan kewajiban pemungutan dan pelaporan. Tindakan yang paling sesuai adalah ...",
+        "answer": "Membubuhkan tanda pemungutan selama proses integrasi dalam jangka waktu yang diperkenankan, lalu melaporkannya sesuai ketentuan.",
+        "options": [
+          "Menunda seluruh pemungutan sampai integrasi selesai tanpa kewajiban pelaporan.",
+          "Menggunakan Meterai Tempel untuk semua dokumen elektronik tanpa batas waktu.",
+          "Menghapus kewajiban Bea Meterai karena sistem elektronik belum siap.",
+          "Membubuhkan tanda pemungutan selama proses integrasi dalam jangka waktu yang diperkenankan, lalu melaporkannya sesuai ketentuan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena selama proses integrasi API, pemungut dapat membubuhkan tanda pemungutan dalam jangka waktu yang diperkenankan dan tetap melaporkan pemungutan tersebut. Materi menyebutkan integrasi API paling lama 6 bulan dan dapat diperpanjang 3 bulan.\n\nOpsi A keliru karena proses integrasi tidak menghapus kewajiban pemungutan dan pelaporan.\n\nOpsi B tidak tepat karena kasusnya berkaitan dengan dokumen elektronik dan mekanisme pemungut yang sedang mengintegrasikan sistem.\n\nOpsi C keliru karena ketidaksiapan sistem tidak menghapus kewajiban Bea Meterai.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 10/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 10,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Samudra menerbitkan dokumen surat berharga selain cek dan bilyet giro dalam jumlah besar setiap bulan. Dalam bulan berjalan, perusahaan menerbitkan 1.500 dokumen dan seluruh proses administrasinya sudah memakai sistem komputer. Manajemen ingin menggunakan Meterai Komputerisasi agar pembubuhan meterai lebih efisien. Bagian pajak harus menilai kriteria, kode pembayaran deposit, dan kewajiban laporan pembuatan meterai. Kombinasi kewajiban yang paling tepat adalah ...",
+        "answer": "Menggunakan KAP 411611 dan KJS 101, serta menyampaikan laporan pembuatan meterai ke KPP paling lambat tanggal 10 setiap bulan.",
+        "options": [
+          "Menggunakan KAP 411611 dan KJS 201, tanpa kewajiban laporan pembuatan meterai.",
+          "Menggunakan KAP 411611 dan KJS 101, serta menyampaikan laporan pembuatan meterai ke KPP paling lambat tanggal 10 setiap bulan.",
+          "Tidak perlu izin KPP karena semua Wajib Pajak yang memiliki komputer otomatis dapat menggunakan Meterai Komputerisasi.",
+          "Menggunakan tanda pemungutan \"BEA METERAI LUNAS\" sebagai pengganti permanen Meterai Komputerisasi."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena Meterai Komputerisasi dapat digunakan oleh Wajib Pajak yang memenuhi kriteria, antara lain menerbitkan dokumen surat berharga selain cek dan bilyet giro dengan jumlah lebih dari 1.000 dokumen dalam satu bulan dan memiliki komputer. Deposit dilakukan dengan KAP 411611 dan KJS 101, serta laporan pembuatan meterai disampaikan paling lambat tanggal 10 setiap bulan.\n\nOpsi A keliru karena KJS 201 berkaitan dengan Meterai Teraan, bukan Meterai Komputerisasi.\n\nOpsi C keliru karena penggunaan Meterai Komputerisasi tetap memerlukan izin kepada Kepala KPP tempat Wajib Pajak terdaftar.\n\nOpsi D tidak tepat karena tanda pemungutan bukan pengganti permanen Meterai Komputerisasi dalam kondisi normal.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 11/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 11,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Pada tahun 2025, hasil pemeriksaan menemukan bahwa PT Wiyata memiliki sejumlah dokumen yang terutang Bea Meterai sejak tahun 2024. Dokumen-dokumen tersebut seharusnya telah dibayar Bea Meterainya, tetapi perusahaan belum melakukan pembayaran. Tim pajak perusahaan kemudian menyiapkan Pemeteraian Kemudian untuk menyelesaikan kekurangan tersebut. Direktur keuangan meminta perhitungan komponen pembayaran yang harus dilakukan karena dokumen terutang setelah 1 Januari 2021. Perlakuan jumlah bayar yang tepat adalah ...",
+        "answer": "Membayar Bea Meterai yang terutang ditambah sanksi administratif 100%.",
+        "options": [
+          "Membayar Bea Meterai yang terutang ditambah sanksi administratif 100%.",
+          "Membayar Bea Meterai yang terutang saja karena dokumen dibuat setelah 1 Januari 2021.",
+          "Membayar Bea Meterai yang terutang ditambah sanksi administratif 200%.",
+          "Membayar sanksi administratif saja karena pokok Bea Meterai sudah kedaluwarsa."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena untuk dokumen yang Bea Meterainya tidak atau kurang dibayar dan terutang sejak 1 Januari 2021, Pemeteraian Kemudian dilakukan dengan membayar Bea Meterai yang terutang ditambah sanksi administratif 100%.\n\nOpsi B keliru karena pembayaran pokok saja tidak cukup; sanksi administratif tetap dikenakan.\n\nOpsi C keliru karena sanksi administratif 200% berlaku untuk dokumen yang terutang sebelum 1 Januari 2021.\n\nOpsi D tidak tepat karena kasus tidak menyatakan bahwa kewajiban telah kedaluwarsa.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 12/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 12,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Dalam penelusuran arsip lama, sebuah perusahaan menemukan dokumen yang terutang Bea Meterai sebelum 1 Januari 2021. Dokumen tersebut belum dilunasi Bea Meterainya pada saat seharusnya dibayar. Petugas menyimpulkan bahwa dokumen tersebut masih relevan untuk dilakukan Pemeteraian Kemudian. Bagian kepatuhan perlu membedakan perlakuan dokumen lama tersebut dari dokumen yang terutang sejak 1 Januari 2021. Jumlah yang harus dibayar adalah ...",
+        "answer": "Bea Meterai yang terutang ditambah sanksi administratif 200%.",
+        "options": [
+          "Bea Meterai yang terutang tanpa sanksi administratif.",
+          "Bea Meterai yang terutang ditambah sanksi administratif 50%.",
+          "Bea Meterai yang terutang ditambah sanksi administratif 100%.",
+          "Bea Meterai yang terutang ditambah sanksi administratif 200%."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena untuk dokumen yang Bea Meterainya tidak atau kurang dibayar dan terutang sebelum 1 Januari 2021, Pemeteraian Kemudian dilakukan dengan membayar Bea Meterai yang terutang ditambah sanksi administratif 200%.\n\nOpsi A keliru karena pembayaran tanpa sanksi tidak sesuai dengan ketentuan Pemeteraian Kemudian untuk kondisi tersebut.\n\nOpsi B keliru karena materi tidak menetapkan sanksi administratif 50% untuk kasus ini.\n\nOpsi C keliru karena sanksi administratif 100% berlaku untuk dokumen yang terutang sejak 1 Januari 2021.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 13/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 13,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Kencana melakukan Pemeteraian Kemudian atas beberapa dokumen yang sebelumnya belum dibayar Bea Meterainya. Perusahaan memilih pembayaran Bea Meterai terutang dengan menggunakan Meterai Elektronik karena sebagian dokumennya sudah berbentuk digital. Setelah pembayaran dilakukan, staf administrasi ingin meminta pengesahan kepada Pejabat Pos terdekat. Staf tersebut beralasan bahwa lokasi kantor pajak jauh dan Pejabat Pos juga disebut dalam mekanisme pengesahan. Respons yang tepat adalah ...",
+        "answer": "Pengesahan dengan Meterai Elektronik tidak dilakukan oleh Pejabat Pos karena Pejabat Pos hanya dapat mengesahkan Pemeteraian Kemudian yang menggunakan Meterai Tempel.",
+        "options": [
+          "Pejabat Pos dapat mengesahkan semua jenis Pemeteraian Kemudian sepanjang bukti bayar tersedia.",
+          "Pejabat Pos dapat mengesahkan Pemeteraian Kemudian dengan Meterai Elektronik jika dokumen berbentuk elektronik.",
+          "Pengesahan dengan Meterai Elektronik tidak dilakukan oleh Pejabat Pos karena Pejabat Pos hanya dapat mengesahkan Pemeteraian Kemudian yang menggunakan Meterai Tempel.",
+          "Pemeteraian Kemudian tidak memerlukan pengesahan jika menggunakan Meterai Elektronik."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena Pemeteraian Kemudian disahkan oleh Pejabat Pos atau Pejabat DJP, tetapi Pejabat Pos hanya dapat melakukan pengesahan atas Pemeteraian Kemudian yang dilakukan dengan menggunakan Meterai Tempel. Dalam kasus ini, pembayaran dilakukan dengan Meterai Elektronik.\n\nOpsi A keliru karena kewenangan Pejabat Pos tidak mencakup semua jenis Pemeteraian Kemudian.\n\nOpsi B keliru karena bentuk elektronik dokumen tidak membuat Pejabat Pos berwenang mengesahkan Pemeteraian Kemudian dengan Meterai Elektronik.\n\nOpsi D keliru karena Pemeteraian Kemudian tetap memerlukan pengesahan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 14/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 14,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Sebuah bank memfasilitasi penerbitan cek dan bilyet giro bagi para nasabah korporasinya. Dalam proses internal, bank menilai apakah kegiatan tersebut dapat menempatkannya dalam kriteria Pemungut Bea Meterai. Salah satu pegawai berpendapat bahwa dokumen perbankan selalu bukan objek Bea Meterai karena berkaitan dengan simpanan uang. Pegawai lain menilai bahwa cek dan bilyet giro perlu dilihat sebagai surat berharga dalam objek pemungutan. Berdasarkan objek dan kriteria Pemungut Bea Meterai, penilaian yang paling tepat adalah ...",
+        "answer": "Bank dapat termasuk kriteria pemungut karena Wajib Pajak yang memfasilitasi penerbitan cek dan bilyet giro termasuk kriteria pemungut untuk objek tersebut.",
+        "options": [
+          "Bank dapat termasuk kriteria pemungut karena Wajib Pajak yang memfasilitasi penerbitan cek dan bilyet giro termasuk kriteria pemungut untuk objek tersebut.",
+          "Bank tidak dapat menjadi pemungut karena cek dan bilyet giro bukan objek pemungutan Bea Meterai.",
+          "Bank otomatis dibebaskan dari pemungutan karena semua dokumen perbankan merupakan non-objek Bea Meterai.",
+          "Bank hanya dapat memungut jika dokumen cek dan bilyet giro digunakan sebagai alat bukti di pengadilan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena surat berharga berupa cek dan bilyet giro termasuk objek pemungutan, dan kriteria pemungutnya adalah Wajib Pajak yang memfasilitasi penerbitan dokumen.\n\nOpsi B keliru karena cek dan bilyet giro justru tercantum sebagai objek pemungutan.\n\nOpsi C terlalu luas karena tidak semua dokumen perbankan merupakan non-objek Bea Meterai.\n\nOpsi D keliru karena pemungutan cek dan bilyet giro tidak mensyaratkan dokumen tersebut digunakan sebagai alat bukti di pengadilan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 15/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 15,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Mahesa mengajukan permohonan untuk ditetapkan sebagai Pemungut Bea Meterai. Setelah dilakukan penelitian, Kepala KPP menerbitkan Surat Penetapan sebagai Pemungut Bea Meterai pada tanggal 20 Maret 2025. Bagian pajak perusahaan harus menentukan kapan kewajiban sebagai pemungut mulai berjalan. Penentuan tanggal mulai berlaku diperlukan agar perusahaan dapat menyiapkan pemungutan, penyetoran, dan pelaporan masa pajak berikutnya. Kapan penetapan tersebut mulai berlaku?",
+        "answer": "Pada awal bulan berikutnya setelah tanggal Surat Penetapan, yaitu 1 April 2025.",
+        "options": [
+          "Pada tanggal 20 Maret 2025.",
+          "Pada awal bulan berikutnya setelah tanggal Surat Penetapan, yaitu 1 April 2025.",
+          "Pada tanggal 15 April 2025 setelah masa pajak Maret berakhir.",
+          "Setelah PT Mahesa menyampaikan SPT Masa Bea Meterai pertama."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena penetapan sebagai Pemungut Bea Meterai berlaku pada awal bulan berikutnya setelah tanggal Surat Penetapan. Karena Surat Penetapan diterbitkan tanggal 20 Maret 2025, mulai berlakunya adalah 1 April 2025.\n\nOpsi A keliru karena penetapan tidak mulai berlaku pada tanggal surat diterbitkan.\n\nOpsi C keliru karena tanggal 15 April berkaitan dengan batas penyetoran atau pelaporan masa pajak tertentu, bukan saat mulai berlakunya penetapan.\n\nOpsi D keliru karena keberlakuan penetapan tidak menunggu penyampaian SPT Masa Bea Meterai pertama.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 16/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 16,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Renjana sebelumnya telah ditetapkan sebagai Pemungut Bea Meterai. Setelah perubahan model bisnis, perusahaan tidak lagi memenuhi kriteria sebagai pemungut selama tiga bulan berturut-turut. Perusahaan kemudian mengajukan permohonan pencabutan penetapan dan melampirkan surat pernyataan bahwa kriteria tersebut tidak lagi dipenuhi. Kepala KPP menyetujui permohonan tersebut dan menerbitkan surat pencabutan penetapan. Jika disetujui, kapan pencabutan penetapan mulai berlaku?",
+        "answer": "Terhitung sejak tanggal surat pencabutan penetapan.",
+        "options": [
+          "Pada awal bulan berikutnya setelah masa tiga bulan berakhir.",
+          "Pada tanggal perusahaan pertama kali tidak memenuhi kriteria.",
+          "Pada tanggal permohonan diterima oleh KPP.",
+          "Terhitung sejak tanggal surat pencabutan penetapan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena pencabutan penetapan mulai berlaku terhitung sejak tanggal surat pencabutan penetapan.\n\nOpsi A keliru karena awal bulan berikutnya bukan saat mulai berlakunya pencabutan.\n\nOpsi B keliru karena pencabutan tidak berlaku surut sejak perusahaan pertama kali tidak memenuhi kriteria.\n\nOpsi C keliru karena tanggal penerimaan permohonan bukan saat mulai berlakunya pencabutan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 17/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 17,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "PT Sagara telah ditetapkan sebagai Pemungut Bea Meterai dan melakukan pemungutan selama Masa Pajak Maret 2025. Setelah masa pajak berakhir, bagian keuangan menyiapkan penyetoran Bea Meterai yang telah dipungut. Bagian pajak juga menyiapkan SPT Masa Bea Meterai untuk dilaporkan ke kantor Direktorat Jenderal Pajak. Perusahaan ingin memastikan batas waktu penyetoran, urutan penyetoran sebelum pelaporan, dan kode pembayaran yang digunakan. Perlakuan yang paling tepat adalah ...",
+        "answer": "Penyetoran dilakukan paling lambat 15 April 2025 sebelum pelaporan SPT Masa Bea Meterai, menggunakan KAP 411611 dan KJS 900.",
+        "options": [
+          "Penyetoran dilakukan paling lambat 15 April 2025 sebelum pelaporan SPT Masa Bea Meterai, menggunakan KAP 411611 dan KJS 900.",
+          "Penyetoran dilakukan paling lambat akhir April 2025, sedangkan pelaporan dapat dilakukan pada akhir bulan berikutnya.",
+          "Penyetoran menggunakan KAP 411611 dan KJS 101 karena semua pemungutan Bea Meterai memakai kode yang sama dengan Meterai Komputerisasi.",
+          "Pelaporan dilakukan hanya jika terdapat dokumen yang tidak dapat dibubuhi Meterai Elektronik."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena Bea Meterai yang dipungut untuk setiap masa pajak wajib disetorkan paling lambat tanggal 15 bulan berikutnya setelah masa pajak berakhir sebelum pelaporan SPT Masa Bea Meterai. Penyetoran pemungutan menggunakan KAP 411611 dan KJS 900.\n\nOpsi B keliru karena batas waktu penyetoran dan pelaporan bukan akhir bulan berikutnya.\n\nOpsi C keliru karena KJS 101 berkaitan dengan Meterai Komputerisasi, bukan penyetoran atas pemungutan Bea Meterai.\n\nOpsi D keliru karena pelaporan SPT Masa Bea Meterai merupakan kewajiban pemungut, bukan hanya dilakukan ketika terdapat dokumen yang tidak dapat dibubuhi Meterai Elektronik.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 18/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 18,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Dalam satu masa pajak, PT Taruna sebagai Pemungut Bea Meterai mengalami gangguan sistem pada sebagian dokumen elektronik. Akibat gangguan tersebut, beberapa dokumen tidak dapat dibubuhi Meterai Elektronik dan harus dilaporkan dengan mekanisme yang sesuai. Pada masa yang sama, perusahaan juga menerbitkan beberapa dokumen yang mendapat fasilitas pembebasan dari pengenaan Bea Meterai. Staf pelaporan harus mengisi lampiran SPT Masa Bea Meterai tanpa mencampuradukkan jenis daftar dokumen. Penempatan lampiran SPT Masa Bea Meterai yang paling tepat adalah ...",
+        "answer": "Dokumen yang tidak dapat dibubuhi Meterai Elektronik dicantumkan pada Formulir L3, sedangkan dokumen yang mendapat fasilitas pembebasan dicantumkan pada Formulir L4.",
+        "options": [
+          "Seluruh dokumen tersebut dicantumkan pada Formulir L1 karena sama-sama terkait pemungutan.",
+          "Dokumen gagal dibubuhi Meterai Elektronik dicantumkan pada Formulir L2, sedangkan dokumen fasilitas pembebasan tidak perlu dilaporkan.",
+          "Dokumen yang tidak dapat dibubuhi Meterai Elektronik dicantumkan pada Formulir L3, sedangkan dokumen yang mendapat fasilitas pembebasan dicantumkan pada Formulir L4.",
+          "Kedua jenis dokumen hanya dicantumkan pada Induk SPT tanpa lampiran."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena SPT Masa Bea Meterai memiliki Formulir L3 untuk daftar dokumen yang tidak dapat dibubuhi Meterai Elektronik dan Formulir L4 untuk daftar dokumen yang mendapat fasilitas pembebasan dari pengenaan Bea Meterai.\n\nOpsi A keliru karena Formulir L1 terkait daftar pemungutan menggunakan Meterai Percetakan.\n\nOpsi B keliru karena Formulir L2 terkait pemungutan dengan menggunakan Meterai Elektronik, bukan daftar dokumen yang tidak dapat dibubuhi Meterai Elektronik; dokumen fasilitas pembebasan juga memiliki lampiran tersendiri.\n\nOpsi D keliru karena struktur SPT Masa Bea Meterai mencakup lampiran yang spesifik, bukan hanya Induk SPT.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 19/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 19,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket A",
+        "question": "Seorang pelaku memperoleh sejumlah Meterai Pemerintah Republik Indonesia yang sebelumnya sudah digunakan pada dokumen lama. Pelaku tersebut menghilangkan tanda pemakaian agar meterai tampak seolah-olah belum pernah dipakai. Setelah itu, ia menawarkan meterai tersebut kembali kepada pihak lain sebagai meterai yang masih dapat digunakan. Petugas harus membedakan perbuatan ini dari pemalsuan meterai baru atau pelanggaran administratif pemungut. Ancaman pidana yang sesuai dengan materi adalah ...",
+        "answer": "Pidana penjara paling lama 3 tahun atau pidana denda paling banyak Rp200.000.000,00 karena berkaitan dengan penggunaan kembali Meterai yang tanda pemakaiannya dihilangkan.",
+        "options": [
+          "Pidana penjara paling lama 7 tahun dan denda paling banyak Rp500.000.000,00 karena termasuk pemalsuan Meterai.",
+          "Pidana penjara paling lama 3 tahun atau pidana denda paling banyak Rp200.000.000,00 karena berkaitan dengan penggunaan kembali Meterai yang tanda pemakaiannya dihilangkan.",
+          "Sanksi administratif 100% dari Bea Meterai yang tidak atau kurang dipungut.",
+          "Surat Tagihan Pajak sesuai ketentuan umum perpajakan karena merupakan keterlambatan pelaporan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena menghilangkan tanda, tanda tangan, ciri, atau tanggal pemakaian pada Meterai Pemerintah yang telah dipakai dengan maksud agar tampak belum digunakan, termasuk memakai atau menawarkan meterai tersebut, dikenai ancaman pidana penjara paling lama 3 tahun atau pidana denda paling banyak Rp200.000.000,00.\n\nOpsi A keliru karena ancaman pidana 7 tahun dan denda paling banyak Rp500.000.000,00 lebih sesuai untuk pemalsuan atau pembuatan meterai secara melawan hukum.\n\nOpsi C keliru karena sanksi administratif 100% berkaitan dengan Pemungut Bea Meterai yang tidak melaksanakan pemungutan atau penyetoran.\n\nOpsi D keliru karena Surat Tagihan Pajak dalam konteks materi berkaitan dengan keterlambatan penyetoran atau pelaporan pemungut, bukan perbuatan menghilangkan tanda pemakaian meterai.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket A soal 20/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 20,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bea-meterai-studi-kasus-paket-b",
+    "categoryId": "bea-meterai",
+    "name": "BM (Studi Kasus) Paket B",
+    "sourceTitle": "Materi-Bea-Meterai-BM.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+    "packageLabel": "B",
+    "packageIndex": 1,
+    "questions": [
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Indracipta membuat satu dokumen perjanjian kerja sama dalam bentuk cetakan dan menyimpan salinan digitalnya di sistem arsip internal. Dokumen cetakan tersebut telah dibubuhi Bea Meterai sesuai ketentuan. Beberapa hari kemudian, bagian legal mengunggah hasil pindai dokumen yang sama ke sistem elektronik perusahaan. Seorang staf mengusulkan agar Bea Meterai dikenakan lagi karena sekarang dokumen tersebut juga tersedia dalam bentuk elektronik. Perlakuan yang paling tepat adalah ...",
+        "answer": "Bea Meterai dikenakan satu kali untuk setiap dokumen, sehingga tidak otomatis dikenakan ulang hanya karena dokumen yang sama disimpan secara elektronik.",
+        "options": [
+          "Bea Meterai dikenakan lagi karena setiap perubahan media penyimpanan membuat dokumen baru.",
+          "Bea Meterai dikenakan satu kali untuk setiap dokumen, sehingga tidak otomatis dikenakan ulang hanya karena dokumen yang sama disimpan secara elektronik.",
+          "Bea Meterai tidak pernah dikenakan atas dokumen cetakan jika perusahaan sudah memiliki arsip elektronik.",
+          "Bea Meterai hanya dikenakan pada dokumen elektronik, bukan pada dokumen cetakan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena Bea Meterai dikenakan satu kali untuk setiap dokumen. Materi juga menjelaskan bahwa dokumen dapat berupa tulisan tangan, cetakan, atau elektronik, sehingga bentuk media tidak otomatis membuat pemungutan berulang atas dokumen yang sama.\n\nOpsi A keliru karena perubahan media penyimpanan tidak berarti Bea Meterai dikenakan berkali-kali atas dokumen yang sama.\n\nOpsi C keliru karena dokumen cetakan tetap dapat menjadi objek Bea Meterai jika memenuhi ketentuan objek.\n\nOpsi D keliru karena Bea Meterai tidak hanya berlaku untuk dokumen elektronik.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 1/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 1,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Jagaraga mulai menggunakan kontrak elektronik dalam transaksi dengan rekanan. Salah satu manajer berpendapat bahwa Bea Meterai hanya relevan untuk dokumen kertas karena ia mengingat pengaturan lama yang berfokus pada dokumen kertas. Tim pajak diminta menjelaskan perubahan cakupan pengenaan Bea Meterai berdasarkan materi yang sedang dipelajari. Penjelasan tersebut harus membedakan masa pengaturan lama dengan pengaturan yang berlaku sejak 2021. Kesimpulan yang paling tepat adalah ...",
+        "answer": "Pengaturan sejak 2021 memperluas objek Bea Meterai sehingga mencakup seluruh jenis dokumen, termasuk dokumen elektronik.",
+        "options": [
+          "Dokumen elektronik tidak termasuk dokumen karena tidak ditulis dengan tangan.",
+          "Bea Meterai sejak 2021 hanya mengatur surat berharga dan tidak lagi mengatur perjanjian.",
+          "Dokumen elektronik hanya menjadi objek jika dicetak terlebih dahulu.",
+          "Pengaturan sejak 2021 memperluas objek Bea Meterai sehingga mencakup seluruh jenis dokumen, termasuk dokumen elektronik."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menjelaskan bahwa sejak berlakunya UU 10/2020 pada tahun 2021, objek Bea Meterai diperluas mencakup seluruh jenis dokumen, termasuk dokumen elektronik.\n\nOpsi A keliru karena dokumen dalam materi dapat berbentuk tulisan tangan, cetakan, atau elektronik.\n\nOpsi B keliru karena pengaturan Bea Meterai tidak hanya mengatur surat berharga.\n\nOpsi C keliru karena dokumen elektronik termasuk dalam cakupan dokumen tanpa syarat harus dicetak terlebih dahulu.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 2/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 2,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Logisindo bergerak dalam jasa pengangkutan barang dan penumpang. Dalam satu hari, perusahaan menerbitkan konosemen, surat angkutan barang, bukti pengiriman, dan beberapa bukti penerimaan barang. Staf administrasi baru mengira seluruh dokumen yang berkaitan dengan transaksi bisnis pasti dikenakan Bea Meterai. Supervisor meminta staf tersebut mengidentifikasi perlakuan yang sesuai untuk dokumen lalu lintas orang dan barang. Penilaian yang paling tepat adalah ...",
+        "answer": "Dokumen terkait lalu lintas orang dan barang seperti konosemen, surat angkutan, bukti pengiriman, dan bukti penerimaan barang tidak dikenakan Bea Meterai.",
+        "options": [
+          "Dokumen terkait lalu lintas orang dan barang seperti konosemen, surat angkutan, bukti pengiriman, dan bukti penerimaan barang tidak dikenakan Bea Meterai.",
+          "Semua dokumen angkutan dikenakan Bea Meterai karena diterbitkan oleh perusahaan komersial.",
+          "Dokumen angkutan hanya tidak dikenakan Bea Meterai jika nilainya paling banyak Rp5.000.000,00.",
+          "Dokumen angkutan hanya tidak dikenakan Bea Meterai jika digunakan untuk arsip internal."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena dokumen yang terkait lalu lintas orang dan barang, antara lain konosemen, surat angkutan penumpang dan barang, bukti pengiriman, dan bukti penerimaan barang, termasuk dokumen yang tidak dikenakan Bea Meterai.\n\nOpsi B keliru karena status perusahaan komersial tidak mengubah daftar non-objek tersebut.\n\nOpsi C keliru karena non-objek lalu lintas orang dan barang tidak ditentukan oleh threshold Rp5.000.000,00.\n\nOpsi D keliru karena pengecualian dokumen lalu lintas orang dan barang tidak bergantung pada penggunaan untuk arsip internal.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 3/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 3,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Bendahara PT Mahitala menyiapkan tanda terima pembayaran gaji, tunjangan, dan pembayaran pensiun untuk pegawai dan mantan pegawai. Dokumen tersebut akan diberikan kepada penerima pembayaran sebagai bukti administrasi. Seorang pegawai mempertanyakan apakah tanda terima tersebut harus dibubuhi Bea Meterai karena menyebutkan pembayaran uang. Bendahara perlu menilai dokumen tersebut berdasarkan daftar dokumen yang tidak dikenakan Bea Meterai. Perlakuan yang paling tepat adalah ...",
+        "answer": "Tanda terima pembayaran gaji, uang tunggu, pensiun, tunjangan, dan pembayaran lain terkait hubungan kerja tidak dikenakan Bea Meterai.",
+        "options": [
+          "Semua tanda terima pembayaran gaji dan tunjangan dikenakan Bea Meterai karena menyebutkan jumlah uang.",
+          "Tanda terima pembayaran tersebut hanya dikenakan Bea Meterai jika penerimanya bukan pegawai aktif.",
+          "Tanda terima pembayaran gaji, uang tunggu, pensiun, tunjangan, dan pembayaran lain terkait hubungan kerja tidak dikenakan Bea Meterai.",
+          "Tanda terima pembayaran tersebut dikenakan Bea Meterai jika dibuat dalam bentuk cetakan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena tanda terima pembayaran gaji, uang tunggu, pensiun, uang tunjangan, dan pembayaran lain yang berkaitan dengan hubungan kerja termasuk dokumen yang tidak dikenakan Bea Meterai.\n\nOpsi A keliru karena tidak semua dokumen yang menyebutkan pembayaran uang otomatis menjadi objek Bea Meterai.\n\nOpsi B keliru karena pengecualian dalam materi tidak dibatasi hanya untuk pegawai aktif.\n\nOpsi D keliru karena bentuk cetakan tidak menghilangkan status dokumen tersebut sebagai non-objek.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 4/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 4,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Seorang bendahara satuan kerja menerima setoran penerimaan negara melalui kas negara dan bank yang ditunjuk. Dari transaksi tersebut, diterbitkan tanda bukti penerimaan uang negara dan kuitansi untuk jenis pajak tertentu. Petugas baru mengira dokumen tersebut harus dikenakan Bea Meterai karena menjadi bukti penerimaan uang. Kepala subbagian meminta penjelasan yang sesuai dengan materi Bea Meterai. Penjelasan yang paling tepat adalah ...",
+        "answer": "Tanda bukti penerimaan uang negara dan kuitansi pajak dari kas negara atau lembaga yang ditunjuk termasuk dokumen yang tidak dikenakan Bea Meterai.",
+        "options": [
+          "Kuitansi pajak hanya tidak dikenakan Bea Meterai jika dibuat secara elektronik.",
+          "Semua bukti penerimaan uang negara tetap dikenakan Bea Meterai karena nilainya biasanya besar.",
+          "Tanda bukti penerimaan uang negara dan kuitansi pajak dari kas negara atau lembaga yang ditunjuk termasuk dokumen yang tidak dikenakan Bea Meterai.",
+          "Bukti penerimaan uang negara hanya tidak dikenakan Bea Meterai jika diterbitkan oleh perusahaan swasta."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena tanda bukti penerimaan uang negara dari kas negara, kas pemerintah daerah, bank, dan lembaga lain yang ditunjuk, serta kuitansi untuk semua jenis pajak dan penerimaan lain yang dipersamakan dengan itu dari lembaga tersebut, termasuk dokumen yang tidak dikenakan Bea Meterai.\n\nOpsi B keliru karena nilai besar tidak mengubah status non-objek untuk dokumen yang disebutkan dalam materi.\n\nOpsi A keliru karena pengecualian tersebut tidak bergantung pada bentuk elektronik.\n\nOpsi D keliru karena pengecualian justru terkait kas negara, kas pemerintah daerah, bank, dan lembaga yang ditunjuk oleh negara.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 5/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 5,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Koperasi Sejahtera menerbitkan dokumen yang menyebutkan simpanan uang anggota dan pembayaran uang simpanan kepada anggota. Pada saat yang sama, kustodian menerbitkan dokumen pengeluaran surat berharga kepada nasabahnya. Seorang analis menganggap seluruh dokumen tersebut sama dengan dokumen pengakuan pelunasan utang yang dikenakan Bea Meterai jika nilainya besar. Pimpinan meminta klasifikasi berdasarkan daftar non-objek dalam materi. Pilihan yang paling tepat adalah ...",
+        "answer": "Dokumen simpanan uang, pembayaran uang simpanan oleh koperasi, dan pengeluaran surat berharga oleh kustodian kepada nasabah tidak dikenakan Bea Meterai.",
+        "options": [
+          "Dokumen simpanan uang, pembayaran uang simpanan oleh koperasi, dan pengeluaran surat berharga oleh kustodian kepada nasabah tidak dikenakan Bea Meterai.",
+          "Dokumen simpanan uang selalu dikenakan Bea Meterai jika nilainya lebih dari Rp5.000.000,00.",
+          "Dokumen kustodian hanya tidak dikenakan Bea Meterai jika digunakan sebagai alat bukti di pengadilan.",
+          "Dokumen koperasi hanya tidak dikenakan Bea Meterai jika dibuat untuk keperluan internal organisasi."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena dokumen yang menyebutkan simpanan uang atau surat berharga, pembayaran uang simpanan kepada penyimpan oleh bank, koperasi, dan badan lain, serta pengeluaran surat berharga oleh kustodian kepada nasabah termasuk non-objek Bea Meterai.\n\nOpsi B keliru karena dokumen simpanan yang disebutkan dalam materi termasuk non-objek dan tidak ditentukan oleh threshold tersebut.\n\nOpsi C keliru karena penggunaan sebagai alat bukti di pengadilan bukan syarat pengecualian untuk dokumen kustodian yang dimaksud.\n\nOpsi D keliru karena pengecualian dokumen koperasi dalam kasus ini bukan karena keperluan internal organisasi, melainkan karena jenis dokumen simpanan yang disebut dalam materi.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 6/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 6,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Setelah terjadi bencana alam di suatu daerah, pemerintah mempercepat proses penanganan dan pemulihan kondisi sosial ekonomi masyarakat. Dalam program tersebut, beberapa dokumen pengalihan hak atas tanah dan bangunan harus disiapkan. Petugas lapangan menanyakan apakah dokumen pengalihan hak tersebut tetap dikenakan Bea Meterai seperti transaksi biasa. Koordinator program meminta jawaban berdasarkan fasilitas pembebasan yang tersedia dalam materi. Perlakuan yang paling tepat adalah ...",
+        "answer": "Dokumen yang menyatakan pengalihan hak atas tanah dan/atau bangunan dalam rangka percepatan penanganan dan pemulihan kondisi sosial ekonomi akibat bencana alam dapat memperoleh fasilitas pembebasan Bea Meterai.",
+        "options": [
+          "Dokumen tersebut tetap dikenakan Bea Meterai karena semua pengalihan hak atas tanah dan bangunan selalu diperlakukan sama.",
+          "Dokumen tersebut hanya dibebaskan jika dibuat oleh yayasan keagamaan.",
+          "Dokumen tersebut tidak termasuk dokumen karena dibuat dalam rangka pemulihan bencana.",
+          "Dokumen yang menyatakan pengalihan hak atas tanah dan/atau bangunan dalam rangka percepatan penanganan dan pemulihan kondisi sosial ekonomi akibat bencana alam dapat memperoleh fasilitas pembebasan Bea Meterai."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena fasilitas pembebasan diberikan atas dokumen yang menyatakan pengalihan hak atas tanah dan/atau bangunan dalam rangka percepatan proses penanganan dan pemulihan kondisi sosial ekonomi suatu daerah akibat bencana alam.\n\nOpsi A keliru karena materi menyediakan fasilitas pembebasan untuk kondisi tertentu.\n\nOpsi B keliru karena pembebasan akibat bencana alam tidak dibatasi hanya pada yayasan keagamaan.\n\nOpsi C keliru karena dokumen tersebut tetap merupakan dokumen, tetapi dapat memperoleh fasilitas pembebasan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 7/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 7,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Sebuah lembaga keuangan menyiapkan dokumen transaksi surat berharga terkait produk investasi berbentuk kontrak investasi kolektif. Dokumen tersebut berupa konfirmasi pembelian unit penyertaan dengan nilai Rp9.750.000,00. Tim operasional ingin memastikan apakah dokumen itu masuk batas pembebasan yang sama dengan transaksi layanan urun dana. Petugas pajak internal menjelaskan bahwa setiap jenis transaksi surat berharga memiliki batas nilai tertentu. Perlakuan yang paling tepat adalah ...",
+        "answer": "Dokumen tersebut mendapat pembebasan karena konfirmasi pembelian atau penjualan kembali unit penyertaan produk investasi berbentuk kontrak investasi kolektif dibebaskan jika nilainya paling banyak Rp10.000.000,00.",
+        "options": [
+          "Dokumen tersebut tidak mendapat pembebasan karena semua transaksi kontrak investasi kolektif hanya dibebaskan sampai Rp5.000.000,00.",
+          "Dokumen tersebut mendapat pembebasan karena konfirmasi pembelian atau penjualan kembali unit penyertaan produk investasi berbentuk kontrak investasi kolektif dibebaskan jika nilainya paling banyak Rp10.000.000,00.",
+          "Dokumen tersebut baru mendapat pembebasan jika nilainya tepat Rp10.000.000,00.",
+          "Dokumen tersebut tidak pernah mendapat pembebasan karena terkait produk investasi."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena dokumen konfirmasi pembelian atau penjualan kembali unit penyertaan produk investasi berbentuk kontrak investasi kolektif mendapat pembebasan jika nilainya paling banyak Rp10.000.000,00. Nilai Rp9.750.000,00 berada dalam batas tersebut.\n\nOpsi A keliru karena batas Rp5.000.000,00 berlaku untuk jenis transaksi surat berharga tertentu lainnya, bukan untuk dokumen kontrak investasi kolektif ini.\n\nOpsi C keliru karena frasa paling banyak Rp10.000.000,00 mencakup nilai di bawah batas tersebut.\n\nOpsi D keliru karena materi secara khusus mencantumkan pembebasan untuk dokumen transaksi produk investasi berbentuk kontrak investasi kolektif.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 8/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 8,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Kementerian terkait melaksanakan perjanjian internasional yang telah mengikat berdasarkan ketentuan peraturan perundang-undangan di bidang perjanjian internasional. Dalam pelaksanaannya, beberapa dokumen harus dibuat untuk mendukung pelaksanaan kewajiban antarnegara. Pejabat administrasi bertanya apakah dokumen tersebut dapat memperoleh fasilitas Bea Meterai. Tim hukum juga menyebut kemungkinan penggunaan asas timbal balik dalam pelaksanaan dokumen tersebut. Penilaian yang paling tepat adalah ...",
+        "answer": "Dokumen yang terkait pelaksanaan perjanjian internasional yang telah mengikat atau berdasarkan asas timbal balik dapat memperoleh fasilitas pembebasan dari pengenaan Bea Meterai.",
+        "options": [
+          "Dokumen yang terkait pelaksanaan perjanjian internasional yang telah mengikat atau berdasarkan asas timbal balik dapat memperoleh fasilitas pembebasan dari pengenaan Bea Meterai.",
+          "Dokumen perjanjian internasional selalu dikenakan Bea Meterai karena melibatkan pihak lintas negara.",
+          "Dokumen tersebut hanya dibebaskan jika digunakan sebagai alat bukti di pengadilan.",
+          "Dokumen tersebut hanya dibebaskan jika dibuat di luar negeri dan digunakan di Indonesia."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi mencantumkan fasilitas pembebasan untuk dokumen yang terkait pelaksanaan perjanjian internasional yang telah mengikat atau berdasarkan asas timbal balik.\n\nOpsi B keliru karena keterlibatan lintas negara tidak meniadakan fasilitas pembebasan yang disebutkan.\n\nOpsi C keliru karena penggunaan sebagai alat bukti di pengadilan bukan syarat fasilitas pembebasan perjanjian internasional.\n\nOpsi D keliru karena dokumen luar negeri yang digunakan di Indonesia adalah kategori lain terkait saat terutang dan pihak terutang, bukan syarat pembebasan ini.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 9/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 9,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Primantara memiliki mesin teraan meterai digital dan ingin menggunakan Meterai Teraan untuk dokumen perusahaan. Bagian pajak menyiapkan pengajuan izin kepada Kepala KPP tempat perusahaan terdaftar. Sebelum mengajukan, staf harus memastikan kewajiban deposit dan unsur yang berkaitan dengan Meterai Teraan. Ia juga harus membedakan Meterai Teraan dari Meterai Komputerisasi yang sudah dibahas di unit lain. Kombinasi yang paling tepat adalah ...",
+        "answer": "Meterai Teraan merupakan meterai yang dibubuhkan dengan mesin teraan meterai digital dan depositnya menggunakan KAP 411611 serta KJS 201.",
+        "options": [
+          "Meterai Teraan menggunakan KAP 411611 dan KJS 101 serta tidak memiliki unsur nomor mesin.",
+          "Meterai Teraan tidak memerlukan deposit karena pembubuhan selalu dilakukan oleh Pemungut Bea Meterai.",
+          "Meterai Teraan hanya boleh digunakan oleh perusahaan percetakan dokumen sekuriti.",
+          "Meterai Teraan merupakan meterai yang dibubuhkan dengan mesin teraan meterai digital dan depositnya menggunakan KAP 411611 serta KJS 201."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena Meterai Teraan dibubuhkan dengan menggunakan mesin teraan meterai digital. Materi juga mencantumkan deposit Meterai Teraan menggunakan KAP 411611 dan KJS 201.\n\nOpsi A keliru karena KJS 101 terkait Meterai Komputerisasi, bukan Meterai Teraan, dan Meterai Teraan memiliki unsur nomor mesin.\n\nOpsi B keliru karena Meterai Teraan memerlukan deposit sesuai kode yang disebutkan.\n\nOpsi C keliru karena kriteria perusahaan percetakan dokumen sekuriti berkaitan dengan Meterai Percetakan, bukan Meterai Teraan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 10/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 10,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Cetak Aman memiliki izin operasional di bidang pencetakan dokumen sekuriti. Perusahaan menerima permintaan dari Pemungut Bea Meterai untuk membubuhkan Meterai Percetakan pada dokumen tertentu. Bagian kepatuhan ingin memastikan apakah mekanisme ini memerlukan deposit dari pembuat meterai seperti Meterai Teraan atau Meterai Komputerisasi. Mereka juga harus memahami masa berlaku izin yang terkait dengan izin operasional perusahaan. Pernyataan yang paling tepat adalah ...",
+        "answer": "Meterai Percetakan dilakukan berdasarkan permintaan Pemungut tanpa deposit, dan masa berlaku izinnya mengikuti masa berlaku izin operasional pencetakan dokumen sekuriti.",
+        "options": [
+          "Meterai Percetakan hanya dapat dibuat oleh Wajib Pajak yang memiliki komputer dan menerbitkan lebih dari 1.000 dokumen surat berharga per bulan.",
+          "Meterai Percetakan dilakukan berdasarkan permintaan Pemungut tanpa deposit, dan masa berlaku izinnya mengikuti masa berlaku izin operasional pencetakan dokumen sekuriti.",
+          "Meterai Percetakan selalu menggunakan KAP 411611 dan KJS 201 untuk deposit.",
+          "Meterai Percetakan hanya dapat dilakukan oleh PT Pos Indonesia."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena Meterai Percetakan dilakukan berdasarkan permintaan Pemungut tanpa deposit, dan izin berlaku sampai masa berlaku izin operasional dari Badan Koordinasi Pemberantasan Rupiah Palsu berakhir.\n\nOpsi A keliru karena kriteria tersebut berkaitan dengan Meterai Komputerisasi.\n\nOpsi C keliru karena deposit KAP 411611 dan KJS 201 berkaitan dengan Meterai Teraan.\n\nOpsi D keliru karena PT Pos Indonesia berperan dalam mendistribusikan dan menjual Meterai Tempel, bukan sebagai satu-satunya pihak untuk Meterai Percetakan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 11/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 11,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Andalas telah ditetapkan sebagai Pemungut Bea Meterai dan akan menggunakan Meterai Teraan Digital. Perusahaan menanyakan apakah masih perlu mengajukan izin seperti Wajib Pajak yang menggunakan Meterai Teraan atau Meterai Komputerisasi. Tim pajak juga ingin memastikan apakah penggunaan Meterai Teraan Digital mengharuskan deposit terlebih dahulu. Bagian kepatuhan harus mengaitkan status pemungut dengan izin dan kewajiban penyetoran serta pelaporan. Penjelasan yang paling tepat adalah ...",
+        "answer": "Izin Meterai Teraan Digital diberikan otomatis kepada Wajib Pajak yang telah ditetapkan sebagai Pemungut Bea Meterai, pembubuhan dilakukan oleh Pemungut tanpa deposit, dan Pemungut tetap wajib melakukan penyetoran serta pelaporan.",
+        "options": [
+          "Meterai Teraan Digital wajib diajukan oleh setiap Wajib Pajak kepada Kepala KPP dan selalu memerlukan deposit.",
+          "Meterai Teraan Digital hanya dapat digunakan oleh Wajib Pajak yang menyelenggarakan usaha percetakan dokumen sekuriti.",
+          "Izin Meterai Teraan Digital diberikan otomatis kepada Wajib Pajak yang telah ditetapkan sebagai Pemungut Bea Meterai, pembubuhan dilakukan oleh Pemungut tanpa deposit, dan Pemungut tetap wajib melakukan penyetoran serta pelaporan.",
+          "Meterai Teraan Digital hanya boleh digunakan jika sistem Meterai Elektronik gagal diakses."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena izin Meterai Teraan Digital diberikan secara otomatis kepada Wajib Pajak yang telah ditetapkan sebagai Pemungut Bea Meterai. Materi juga menyebutkan pembubuhan dilakukan oleh Pemungut tanpa deposit dan Pemungut wajib melakukan penyetoran serta pelaporan.\n\nOpsi A keliru karena izin Meterai Teraan Digital bagi Pemungut diberikan otomatis, bukan melalui pola izin yang sama dengan Meterai Teraan atau Komputerisasi.\n\nOpsi B keliru karena kriteria usaha percetakan dokumen sekuriti berkaitan dengan Meterai Percetakan.\n\nOpsi D keliru karena kegagalan sistem bukan satu-satunya konteks penggunaan Meterai Teraan Digital.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 12/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 12,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Sebuah unit pengadaan ingin memastikan rantai pengadaan, pengelolaan, dan penjualan meterai. Unit tersebut perlu membedakan peran Perum Peruri, distributor Meterai Elektronik, dan PT Pos Indonesia. Ada usulan agar perusahaan membeli langsung semua jenis meterai dari PT Pos Indonesia karena dianggap sebagai satu-satunya penjual meterai. Pejabat pengadaan meminta penjelasan peran setiap pihak berdasarkan materi. Penjelasan yang paling tepat adalah ...",
+        "answer": "Perum Peruri mencetak Meterai Tempel serta membuat dan mendistribusikan Meterai Elektronik bekerja sama dengan distributor, sedangkan PT Pos Indonesia mendistribusikan dan menjual Meterai Tempel.",
+        "options": [
+          "PT Pos Indonesia membuat dan mendistribusikan Meterai Elektronik, sedangkan Perum Peruri hanya menjual Meterai Tempel.",
+          "Distributor Meterai Elektronik mencetak Meterai Tempel dan menjualnya melalui kantor pos.",
+          "Semua pengadaan dan penjualan meterai dilakukan langsung oleh Kepala KPP.",
+          "Perum Peruri mencetak Meterai Tempel serta membuat dan mendistribusikan Meterai Elektronik bekerja sama dengan distributor, sedangkan PT Pos Indonesia mendistribusikan dan menjual Meterai Tempel."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menyebutkan Perum Peruri mencetak Meterai Tempel, membuat dan mendistribusikan Meterai Elektronik bekerja sama dengan distributor, dan PT Pos Indonesia mendistribusikan serta menjual Meterai Tempel.\n\nOpsi A keliru karena PT Pos Indonesia bukan pihak yang membuat dan mendistribusikan Meterai Elektronik.\n\nOpsi B keliru karena distributor Meterai Elektronik tidak disebut sebagai pihak yang mencetak Meterai Tempel.\n\nOpsi C keliru karena pengadaan dan penjualan meterai tidak seluruhnya dilakukan langsung oleh Kepala KPP.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 13/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 13,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Wiratama memiliki 65 dokumen yang Bea Meterainya belum dibayar sebagaimana mestinya. Perusahaan akan melakukan pembayaran menggunakan Surat Setoran Pajak karena jumlah dokumen lebih dari 50. Bagian administrasi menyiapkan daftar dokumen agar bukti pembayaran dapat dilekatkan secara benar. Direktur keuangan meminta urutan tindakan yang sesuai dengan tata cara pembayaran menggunakan SSP. Urutan yang paling tepat adalah ...",
+        "answer": "Membayar Bea Meterai yang terutang dengan SSP atau sarana yang disamakan, membuat daftar dokumen karena jumlahnya lebih dari satu, lalu melekatkan SSP atau bukti penerimaan yang telah divalidasi NTPN atau bukti Pbk dengan dokumen atau daftar dokumen.",
+        "options": [
+          "Membayar Bea Meterai yang terutang dengan SSP atau sarana yang disamakan, membuat daftar dokumen karena jumlahnya lebih dari satu, lalu melekatkan SSP atau bukti penerimaan yang telah divalidasi NTPN atau bukti Pbk dengan dokumen atau daftar dokumen.",
+          "Membuat daftar dokumen terlebih dahulu, lalu menunggu pengesahan Pejabat Pos tanpa perlu membayar Bea Meterai.",
+          "Membubuhkan tanda pemungutan \"BEA METERAI LUNAS\" tanpa SSP karena jumlah dokumen lebih dari 50.",
+          "Melaporkan dokumen pada Formulir L4 karena semua dokumen yang dibayar dengan SSP mendapat fasilitas pembebasan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena tata cara pembayaran menggunakan SSP mencakup membayar Bea Meterai yang terutang dengan SSP atau sarana administrasi lain yang disamakan, membuat daftar dokumen jika pembayaran dilakukan atas dua dokumen atau lebih, dan melekatkan SSP atau bukti penerimaan yang telah divalidasi NTPN atau bukti Pbk dengan dokumen atau daftar dokumen.\n\nOpsi B keliru karena pengesahan tidak menggantikan kewajiban pembayaran Bea Meterai.\n\nOpsi C keliru karena tanda pemungutan bukan tata cara umum pembayaran SSP dalam kasus dokumen yang Bea Meterainya belum dibayar.\n\nOpsi D keliru karena pembayaran dengan SSP tidak berarti dokumen mendapat fasilitas pembebasan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 14/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 14,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Dalam sebuah perkara, perusahaan harus mengajukan 80 dokumen sebagai alat bukti di pengadilan. Dokumen-dokumen tersebut memerlukan Pemeteraian Kemudian sebelum diajukan. Staf administrasi bertanya apakah seluruh dokumen harus dibubuhi Meterai Tempel satu per satu atau dapat memakai mekanisme pembayaran lain. Bagian pajak merujuk pada materi pembayaran dan Pemeteraian Kemudian untuk dokumen alat bukti di pengadilan. Pilihan yang paling tepat adalah ...",
+        "answer": "Untuk dokumen yang digunakan sebagai alat bukti di pengadilan dengan jumlah lebih dari 50 dokumen, pembayaran Pemeteraian Kemudian dapat menggunakan SSP.",
+        "options": [
+          "Dokumen alat bukti di pengadilan tidak dapat dilakukan Pemeteraian Kemudian.",
+          "Pembayaran hanya boleh dilakukan dengan Meterai Tempel meskipun jumlah dokumen lebih dari 50.",
+          "Untuk dokumen yang digunakan sebagai alat bukti di pengadilan dengan jumlah lebih dari 50 dokumen, pembayaran Pemeteraian Kemudian dapat menggunakan SSP.",
+          "Dokumen alat bukti di pengadilan selalu mendapat fasilitas pembebasan dari pengenaan Bea Meterai."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi reviu pembayaran menunjukkan bahwa Pemeteraian Kemudian atas dokumen yang digunakan sebagai alat bukti di pengadilan dengan jumlah lebih dari 50 dokumen dapat menggunakan SSP.\n\nOpsi A keliru karena dokumen yang digunakan sebagai alat bukti di pengadilan termasuk objek Pemeteraian Kemudian.\n\nOpsi B keliru karena untuk jumlah lebih dari 50 dokumen terdapat mekanisme SSP.\n\nOpsi D keliru karena dokumen alat bukti di pengadilan bukan otomatis dokumen yang mendapat fasilitas pembebasan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 15/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 15,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Pada tahun 2026, tim kepatuhan menemukan dokumen yang saat terutang Bea Meterainya terjadi pada tahun 2020. Dokumen tersebut tidak pernah dibayar Bea Meterainya dan tidak pernah dilakukan Pemeteraian Kemudian. Manajer meminta tim menghitung apakah hak penagihan masih dapat diperlakukan sama seperti dokumen baru. Tim kemudian meninjau aturan kedaluwarsa yang tercantum dalam materi. Kesimpulan yang paling tepat adalah ...",
+        "answer": "Bea Meterai yang terutang menjadi kedaluwarsa setelah 5 tahun sejak saat terutang.",
+        "options": [
+          "Bea Meterai tidak pernah kedaluwarsa karena merupakan pajak atas dokumen.",
+          "Bea Meterai yang terutang menjadi kedaluwarsa setelah 5 tahun sejak saat terutang.",
+          "Kedaluwarsa hanya berlaku untuk Meterai Elektronik.",
+          "Kedaluwarsa dihitung sejak dokumen ditemukan oleh pemeriksa."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyatakan bahwa Bea Meterai yang terutang menjadi kedaluwarsa setelah jangka waktu 5 tahun sejak saat terutang.\n\nOpsi A keliru karena materi secara eksplisit mencantumkan jangka waktu kedaluwarsa.\n\nOpsi C keliru karena kedaluwarsa tidak dibatasi hanya untuk Meterai Elektronik.\n\nOpsi D keliru karena titik awal kedaluwarsa adalah saat terutang, bukan saat dokumen ditemukan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 16/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 16,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Narapati menerbitkan akta notaris dan salinannya dalam rangka transaksi perusahaan. Dokumen tersebut merupakan objek Bea Meterai dan harus diperhatikan oleh pihak yang menerima dokumen. Namun, staf pemungutan bertanya apakah semua objek Bea Meterai otomatis menjadi objek pemungutan oleh Pemungut Bea Meterai. Kepala seksi meminta contoh penilaian yang membedakan objek Bea Meterai dan objek pemungutan. Penilaian yang paling tepat adalah ...",
+        "answer": "Tidak seluruh objek Bea Meterai menjadi objek pemungutan; akta notaris termasuk objek Bea Meterai, tetapi tidak termasuk daftar objek pemungutan yang disebutkan dalam materi pemungutan.",
+        "options": [
+          "Tidak seluruh objek Bea Meterai menjadi objek pemungutan; akta notaris termasuk objek Bea Meterai, tetapi tidak termasuk daftar objek pemungutan yang disebutkan dalam materi pemungutan.",
+          "Semua objek Bea Meterai otomatis menjadi objek pemungutan oleh Pemungut Bea Meterai.",
+          "Akta notaris hanya menjadi objek pemungutan jika dibuat dalam bentuk elektronik.",
+          "Dokumen yang mendapat fasilitas pembebasan tetap harus dipungut oleh Pemungut Bea Meterai."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menegaskan bahwa tidak seluruh objek Bea Meterai yang diatur menjadi objek pemungutan. Objek pemungutan yang dicantumkan terbatas pada jenis tertentu seperti cek dan bilyet giro, dokumen transaksi surat berharga, surat keterangan atau pernyataan tertentu, dan dokumen jumlah uang tertentu.\n\nOpsi B keliru karena bertentangan dengan penegasan bahwa tidak semua objek Bea Meterai menjadi objek pemungutan.\n\nOpsi C keliru karena bentuk elektronik bukan dasar untuk menjadikan akta notaris sebagai objek pemungutan.\n\nOpsi D keliru karena dokumen yang mendapat fasilitas pembebasan dikecualikan dari pemungutan Bea Meterai.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 17/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 17,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Pemungut Bea Meterai PT Sadewa telah menyampaikan SPT Masa Bea Meterai. Setelah pelaporan, ditemukan salah hitung pada salah satu lampiran SPT. Pada bulan yang sama, terdapat pula cek yang Bea Meterainya telah dipungut tetapi ternyata tidak digunakan. Bagian pajak mempertimbangkan apakah keadaan tersebut dapat diperbaiki melalui pembetulan SPT. Penilaian yang paling tepat adalah ...",
+        "answer": "Pembetulan SPT dapat dilakukan jika terdapat salah tulis atau salah hitung, atau cek dan/atau bilyet giro yang Bea Meterainya telah dipungut tetapi tidak digunakan.",
+        "options": [
+          "Pembetulan SPT tidak diperbolehkan dalam SPT Masa Bea Meterai.",
+          "Pembetulan hanya dapat dilakukan jika terdapat dokumen yang mendapat fasilitas pembebasan.",
+          "Pembetulan SPT dapat dilakukan jika terdapat salah tulis atau salah hitung, atau cek dan/atau bilyet giro yang Bea Meterainya telah dipungut tetapi tidak digunakan.",
+          "Pembetulan hanya dapat dilakukan jika pemungut terlambat menyetor Bea Meterai."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebutkan pembetulan SPT dapat dilakukan dalam hal terdapat salah tulis atau salah hitung, atau cek dan/atau bilyet giro yang Bea Meterainya telah dipungut tetapi tidak digunakan.\n\nOpsi A keliru karena materi menyediakan mekanisme pembetulan SPT.\n\nOpsi B keliru karena pembetulan tidak dibatasi hanya pada dokumen yang mendapat fasilitas pembebasan.\n\nOpsi D keliru karena keterlambatan penyetoran berkaitan dengan sanksi atau STP, bukan alasan pembetulan yang disebutkan.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 18/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 18,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "PT Yudhistira adalah Pemungut Bea Meterai yang dalam satu masa pajak tidak memungut sebagian Bea Meterai yang seharusnya dipungut. Pada kasus lain, perusahaan yang sama telah memungut Bea Meterai tetapi terlambat menyetorkan dan terlambat melaporkannya. Kepala bagian pajak meminta staf membedakan konsekuensi antara tidak memungut atau tidak menyetor dengan keterlambatan penyetoran atau pelaporan. Pembedaan ini diperlukan agar staf tidak menyamakan SKP dan STP. Pernyataan yang paling tepat adalah ...",
+        "answer": "Jika pemungut tidak melaksanakan kewajiban pemungutan dan/atau penyetoran, diterbitkan SKP untuk menagih Bea Meterai yang tidak atau kurang dipungut dan/atau disetor ditambah sanksi administratif 100%; sedangkan keterlambatan penyetoran dan/atau pelaporan diterbitkan STP sesuai ketentuan.",
+        "options": [
+          "Semua kesalahan pemungut selalu diselesaikan dengan pembetulan SPT tanpa sanksi.",
+          "Tidak memungut dan terlambat melaporkan selalu dikenai pidana penjara.",
+          "Keterlambatan pelaporan dikenai SKP dengan sanksi administratif 200%.",
+          "Jika pemungut tidak melaksanakan kewajiban pemungutan dan/atau penyetoran, diterbitkan SKP untuk menagih Bea Meterai yang tidak atau kurang dipungut dan/atau disetor ditambah sanksi administratif 100%; sedangkan keterlambatan penyetoran dan/atau pelaporan diterbitkan STP sesuai ketentuan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi membedakan konsekuensi bagi Pemungut Bea Meterai. Tidak melaksanakan kewajiban pemungutan dan/atau penyetoran ditindaklanjuti dengan SKP untuk menagih Bea Meterai yang tidak atau kurang dipungut dan/atau disetor ditambah sanksi administratif 100%, sedangkan keterlambatan penyetoran dan/atau pelaporan diterbitkan STP.\n\nOpsi A keliru karena tidak semua kesalahan pemungut diselesaikan melalui pembetulan SPT tanpa sanksi.\n\nOpsi B keliru karena materi sanksi pemungut pada kasus tersebut membahas SKP dan STP, bukan otomatis pidana penjara.\n\nOpsi C keliru karena keterlambatan pelaporan dikaitkan dengan STP, bukan SKP dengan sanksi administratif 200%.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 19/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 19,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      },
+      {
+        "categoryId": "bea-meterai",
+        "topic": "BM (Studi Kasus) Paket B",
+        "question": "Seorang pedagang memperoleh sejumlah Meterai yang ternyata dipalsu dan dibuat seolah-olah asli. Ia kemudian menawarkan Meterai tersebut kepada beberapa pembeli dan menyimpan sebagian persediaan untuk dijual kemudian. Dalam pemeriksaan, petugas harus membedakan perbuatan tersebut dari tindakan menghilangkan tanda pemakaian pada meterai bekas. Petugas juga harus menentukan ancaman pidana yang sesuai berdasarkan materi. Ancaman pidana yang tepat adalah ...",
+        "answer": "Pidana penjara paling lama 7 tahun dan pidana denda paling banyak Rp500.000.000,00.",
+        "options": [
+          "Pidana penjara paling lama 3 tahun atau denda paling banyak Rp200.000.000,00.",
+          "Pidana penjara paling lama 7 tahun dan pidana denda paling banyak Rp500.000.000,00.",
+          "Sanksi administratif 100% dari Bea Meterai yang tidak dipungut.",
+          "STP sesuai ketentuan umum perpajakan karena pedagang terlambat melapor."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena memakai, menjual, menawarkan, menyerahkan, mempunyai persediaan untuk dijual, atau memasukkan ke wilayah Indonesia Meterai yang dipalsu atau dibuat secara melawan hukum seolah-olah asli dikenai pidana penjara paling lama 7 tahun dan pidana denda paling banyak Rp500.000.000,00.\n\nOpsi A keliru karena pidana penjara paling lama 3 tahun atau denda paling banyak Rp200.000.000,00 berkaitan dengan penghilangan tanda atau ciri agar meterai bekas tampak belum dipakai.\n\nOpsi C keliru karena sanksi administratif 100% berkaitan dengan kewajiban pemungutan dan/atau penyetoran oleh Pemungut Bea Meterai.\n\nOpsi D keliru karena STP dalam materi berkaitan dengan keterlambatan penyetoran atau pelaporan pemungutan Bea Meterai, bukan peredaran Meterai palsu.",
+        "source": {
+          "title": "Materi-Bea-Meterai-BM.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Bea Meterai (BM)/Materi-Bea-Meterai-BM.pdf",
+          "note": "BM (Studi Kasus) Paket B soal 20/20; disusun dari Materi-Bea-Meterai-BM.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "bea-meterai-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 20,
+          "sourceTitle": "Materi-Bea-Meterai-BM.pdf"
+        }
+      }
+    ]
   }
 ]

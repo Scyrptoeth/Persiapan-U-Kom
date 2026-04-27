@@ -1149,6 +1149,16 @@ button:disabled {
   margin: 4px 0;
 }
 
+.review-explanation {
+  display: grid;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.review-explanation p {
+  margin: 0;
+}
+
 .review-box small {
   color: var(--muted);
   display: block;

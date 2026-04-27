@@ -79,6 +79,13 @@ function formatPoints(points: Array<{ x: number; y: number }>) {
   return points.map((point) => `${point.x.toFixed(1)},${point.y.toFixed(1)}`).join(" ");
 }
 
+function getExplanationParagraphs(explanation: string) {
+  return explanation
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+}
+
 export function PersiapanUkomApp() {
   const [mode, setMode] = useState<Mode>("home");
   const [chartScenario, setChartScenario] = useState<ChartScenario>("best-score");
@@ -660,7 +667,11 @@ export function PersiapanUkomApp() {
                               {isCorrect ? "Benar" : isWrong ? "Jawaban belum tepat" : isUnanswered ? "Tidak dijawab" : "Review"}
                             </strong>
                             <p>Jawaban benar: {question.answer}</p>
-                            <p>{question.explanation}</p>
+                            <div className="review-explanation">
+                              {getExplanationParagraphs(question.explanation).map((paragraph) => (
+                                <p key={paragraph}>{paragraph}</p>
+                              ))}
+                            </div>
                             <small>{question.source.note}</small>
                           </div>
                         </div>
