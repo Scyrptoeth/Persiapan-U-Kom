@@ -31327,5 +31327,1598 @@
         }
       }
     ]
+  },
+  {
+    "id": "nilai-kemenkeu-studi-kasus-paket-a",
+    "categoryId": "nilai-kemenkeu",
+    "name": "NILAI (Studi Kasus) Paket A",
+    "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+    "packageLabel": "A",
+    "packageIndex": 3,
+    "questions": [
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang CPNS DJP baru menerima Surat Pernyataan Melaksanakan Tugas dan mulai aktif bekerja pada tanggal 2 April. Pada tahun tersebut, tanggal 1 April bukan hari libur. CPNS tersebut mengira gaji bulan April tetap akan dibayarkan penuh karena ia sudah bekerja hampir seluruh bulan. Kepala subbagian umum diminta memberi arahan sesuai ketentuan umum pembayaran gaji dalam materi. Arahan mana yang paling tepat?",
+        "answer": "Gaji dibayarkan mulai bulan berikutnya setelah melaksanakan tugas karena mulai tugas tanggal 2 ketika tanggal 1 bukan hari libur.",
+        "options": [
+          "Gaji dibayarkan sejak tanggal 2 April secara proporsional karena pelaksanaan tugas sudah dimulai dalam bulan April.",
+          "Gaji dibayarkan mulai bulan berikutnya setelah melaksanakan tugas karena mulai tugas tanggal 2 ketika tanggal 1 bukan hari libur.",
+          "Gaji dibayarkan mulai bulan April karena CPNS selalu berhak atas gaji sejak tanggal SPMT tanpa melihat kondisi awal bulan.",
+          "Gaji baru dibayarkan setelah CPNS bekerja tiga bulan karena pembayaran gaji dilakukan setelah masa orientasi."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyatakan gaji PNS/CPNS dibayarkan berdasarkan kondisi awal bulan pegawai. Jika pelaksanaan tugas dimulai pada tanggal 2 dan tanggal 1 bukan hari libur, gaji dibayarkan mulai bulan berikutnya setelah melaksanakan tugas.\n\nOpsi A keliru karena materi tidak mengatur pembayaran proporsional sejak tanggal 2 dalam contoh tersebut.\n\nOpsi C keliru karena pembayaran gaji tidak semata-mata mengikuti tanggal SPMT, tetapi berdasarkan kondisi awal bulan pegawai.\n\nOpsi D keliru karena materi tidak menyebut masa tunggu tiga bulan untuk pembayaran gaji CPNS.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 1/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 1,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Unit keuangan menerima berkas CPNS yang mulai melaksanakan tugas pada tanggal 1 Desember 2023. Berkas tersebut sudah dilengkapi Surat Pernyataan Melaksanakan Tugas. Bendahara ragu apakah tunjangan kinerja harus dibayarkan setelah bulan berjalan atau dapat dihitung sejak awal bulan tersebut. Atasan meminta keputusan yang sesuai dengan ketentuan umum tunjangan kinerja dalam materi. Keputusan mana yang paling tepat?",
+        "answer": "Tunjangan kinerja dibayarkan terhitung mulai tanggal 1 Desember 2023 karena dibayarkan berdasarkan kondisi awal bulan dengan sistem pembayaran di muka.",
+        "options": [
+          "Tunjangan kinerja dibayarkan mulai Januari 2024 karena setiap tunjangan kinerja dibayarkan setelah pegawai bekerja satu bulan penuh.",
+          "Tunjangan kinerja dibayarkan mulai tanggal 2 Desember 2023 karena hari pertama hanya digunakan untuk administrasi SPMT.",
+          "Tunjangan kinerja tidak dibayarkan kepada CPNS karena materi hanya mengatur tunjangan kinerja PNS.",
+          "Tunjangan kinerja dibayarkan terhitung mulai tanggal 1 Desember 2023 karena dibayarkan berdasarkan kondisi awal bulan dengan sistem pembayaran di muka."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menyatakan tunjangan kinerja PNS/CPNS dibayarkan berdasarkan kondisi awal bulan pegawai dengan sistem pembayaran di muka. Contoh dalam materi juga menyebut CPNS yang melaksanakan tugas berdasarkan SPMT tanggal 1 Desember 2023 dibayarkan tunjangan kinerja terhitung mulai tanggal 1 Desember 2023.\n\nOpsi A keliru karena sistem pembayaran tunjangan kinerja dalam materi adalah pembayaran di muka, bukan menunggu satu bulan penuh.\n\nOpsi B keliru karena contoh materi secara eksplisit menggunakan tanggal 1 Desember sebagai awal pembayaran.\n\nOpsi C keliru karena materi menyebut tunjangan kinerja PNS/CPNS, bukan hanya PNS.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 2/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 2,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang PNS memiliki seorang isteri dan tiga anak yang menurut unit kepegawaian memenuhi syarat administratif. Ia meminta simulasi komponen tunjangan keluarga dari gaji pokoknya. Staf pengelola gaji harus menjelaskan bahwa tunjangan anak memiliki batas jumlah anak yang diperhitungkan. Pejabat eselon IV diminta memastikan penjelasan staf tidak melebihi ketentuan dalam materi. Penjelasan mana yang paling tepat?",
+        "answer": "Tunjangan isteri/suami sebesar 10% dari gaji pokok dan tunjangan anak sebesar 2% untuk tiap anak dengan maksimal 2 anak.",
+        "options": [
+          "Tunjangan isteri/suami sebesar 10% dari gaji pokok dan tunjangan anak sebesar 2% untuk tiap anak dengan maksimal 2 anak.",
+          "Tunjangan isteri/suami sebesar 10% dari gaji pokok dan tunjangan anak sebesar 2% untuk seluruh anak tanpa batas.",
+          "Tunjangan isteri/suami sebesar 2% dari gaji pokok dan tunjangan anak sebesar 10% untuk tiap anak dengan maksimal 2 anak.",
+          "Tunjangan keluarga hanya diberikan jika pegawai memangku jabatan struktural atau fungsional tertentu."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi mencantumkan tunjangan isteri/suami sebesar 10% dari gaji pokok dan tunjangan anak sebesar 2% dari gaji pokok untuk tiap-tiap anak dengan maksimal 2 anak serta syarat tertentu.\n\nOpsi B keliru karena materi membatasi tunjangan anak maksimal 2 anak.\n\nOpsi C keliru karena persentase tunjangan isteri/suami dan tunjangan anak tertukar.\n\nOpsi D keliru karena syarat memangku jabatan tertentu berkaitan dengan tunjangan jabatan, bukan tunjangan keluarga.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 3/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 3,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Bendahara satuan kerja sedang meneliti slip gaji pegawai yang menerima gaji, tunjangan umum, tunjangan keluarga, tunjangan beras, tunjangan lainnya, dan tunjangan kinerja. Dalam rapat kecil, muncul usulan agar Iuran Wajib Pegawai dihitung dari seluruh penghasilan bulanan seperti BPJS Kesehatan. Staf lain menyatakan bahwa dasar IWP berbeda dan memiliki pembagian program tersendiri. Pejabat penanggung jawab harus memilih arahan yang sesuai dengan materi. Arahan mana yang benar?",
+        "answer": "BPJS Kesehatan dipotong 1% dari total penghasilan sebulan dengan batas maksimal Rp120.000,00, sedangkan IWP dipotong 8% dari gaji pokok ditambah tunjangan keluarga.",
+        "options": [
+          "BPJS Kesehatan dan IWP sama-sama dihitung 8% dari seluruh penghasilan sebulan pegawai.",
+          "IWP dihitung 1% dari total penghasilan sebulan dengan batas maksimal Rp120.000,00.",
+          "BPJS Kesehatan dipotong 1% dari total penghasilan sebulan dengan batas maksimal Rp120.000,00, sedangkan IWP dipotong 8% dari gaji pokok ditambah tunjangan keluarga.",
+          "IWP hanya dipotong dari tunjangan kinerja karena tunjangan kinerja merupakan komponen penghasilan terbesar."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut BPJS Kesehatan sebesar 1% dari total penghasilan sebulan, yaitu gaji, tunjangan umum, tunjangan keluarga, tunjangan beras, tunjangan lainnya, dan tunjangan kinerja, dengan maksimal Rp120.000,00. Materi juga menyebut IWP sebesar 8% dari gaji pokok ditambah tunjangan keluarga, terdiri atas 3,25% untuk Program THT dan 4,75% untuk Program Pensiun.\n\nOpsi A keliru karena tarif dan dasar BPJS Kesehatan berbeda dari IWP.\n\nOpsi B keliru karena tarif 1% dengan batas maksimal Rp120.000,00 adalah untuk BPJS Kesehatan, bukan IWP.\n\nOpsi D keliru karena materi menetapkan dasar IWP pada gaji pokok ditambah tunjangan keluarga, bukan hanya tunjangan kinerja.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 4/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 4,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Kepala kantor ingin menjelaskan kepada pegawai baru mengapa besaran tunjangan kinerja DJP tidak hanya dilihat dari nominal jabatan. Dalam bahan paparan, ia ingin memasukkan komponen capaian kinerja yang menjadi variabel tunjangan kinerja. Staf menyusun beberapa alternatif bobot antara capaian kinerja organisasi dan capaian kinerja pegawai. Anda diminta memilih alternatif yang sesuai dengan materi. Alternatif mana yang benar?",
+        "answer": "Capaian Kinerja Organisasi 60% dan Capaian Kinerja Pegawai 40%.",
+        "options": [
+          "Capaian Kinerja Organisasi 40% dan Capaian Kinerja Pegawai 60%.",
+          "Capaian Kinerja Organisasi 60% dan Capaian Kinerja Pegawai 40%.",
+          "Capaian Kinerja Organisasi 50% dan Capaian Kinerja Pegawai 50%.",
+          "Capaian Kinerja Organisasi 70% dan Capaian Kinerja Pegawai 30%."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi pada bagian besaran tunjangan kinerja menunjukkan variabel tunjangan kinerja berupa Capaian Kinerja Organisasi sebesar 60% dan Capaian Kinerja Pegawai sebesar 40%.\n\nOpsi A keliru karena membalik bobot CKO dan CKP.\n\nOpsi C keliru karena materi tidak menetapkan pembagian sama besar 50% dan 50%.\n\nOpsi D keliru karena materi tidak menggunakan bobot 70% dan 30% untuk variabel tersebut.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 5/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 5,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai dijatuhi hukuman disiplin ringan berupa teguran tertulis. Setelah keputusan diterima, pengelola keuangan harus menerapkan potongan tunjangan kinerja. Pegawai tersebut berpendapat bahwa potongan hanya berlaku satu bulan karena pelanggarannya tidak berat. Pejabat eselon IV perlu memastikan potongan sesuai tabel hukuman disiplin dalam materi. Tindakan pemotongan mana yang tepat?",
+        "answer": "Tunjangan kinerja dipotong 25% selama 3 bulan.",
+        "options": [
+          "Tunjangan kinerja dipotong 25% selama 3 bulan.",
+          "Tunjangan kinerja dipotong 25% selama 2 bulan.",
+          "Tunjangan kinerja dipotong 50% selama 6 bulan.",
+          "Tunjangan kinerja dipotong 85% selama 12 bulan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi potongan tunjangan kinerja untuk hukuman disiplin ringan mencantumkan teguran tertulis dengan pemotongan 25% selama 3 bulan.\n\nOpsi B keliru karena 25% selama 2 bulan berlaku untuk teguran lisan.\n\nOpsi C keliru karena 50% selama 6 bulan berlaku untuk salah satu hukuman disiplin sedang, yaitu penundaan kenaikan gaji berkala selama 1 tahun.\n\nOpsi D keliru karena 85% selama 12 bulan berlaku untuk hukuman disiplin berat berupa penurunan jabatan setingkat lebih rendah selama 12 bulan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 6/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 6,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Pada hari Selasa biasa, seorang pegawai DJP melakukan presensi masuk pukul 08.45. Hari tersebut tidak berkaitan dengan pengaturan Senin/Jumat atau Selasa-Kamis yang bersinggungan dengan libur long weekend. Operator presensi mengklasifikasikan keterlambatan berdasarkan uraian potongan sesuai PMK-93/PMK.01/2018 yang ditampilkan dalam materi. Pejabat pembina diminta memutuskan besaran potongan tunjangan kinerja untuk hari itu. Keputusan mana yang paling tepat?",
+        "answer": "TL 2 dengan potongan 1,25% karena pegawai masuk pukul 08.31 sampai dengan kurang dari 09.01.",
+        "options": [
+          "TL 1 dengan potongan 1% karena pegawai masuk setelah pukul 08.01 sampai dengan kurang dari 08.31.",
+          "TL 3 dengan potongan 2,5% karena setiap keterlambatan di atas pukul 08.30 langsung masuk TL 3.",
+          "Alpa/ijin dengan potongan 5% karena pegawai tidak hadir tepat waktu.",
+          "TL 2 dengan potongan 1,25% karena pegawai masuk pukul 08.31 sampai dengan kurang dari 09.01."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena untuk Selasa, Rabu, dan Kamis sesuai PMK-93/PMK.01/2018 dalam materi, TL 2 berlaku untuk waktu masuk bekerja pukul 08.31 sampai dengan kurang dari 09.01 dengan potongan 1,25%.\n\nOpsi A keliru karena TL 1 berlaku untuk pukul 08.01 sampai dengan kurang dari 08.31, sedangkan pegawai masuk pukul 08.45.\n\nOpsi B keliru karena TL 3 berlaku untuk pukul 09.01 atau lebih dan/atau tidak mengisi daftar hadir masuk bekerja.\n\nOpsi C keliru karena pegawai tetap melakukan presensi masuk, sehingga kondisi tersebut bukan tidak masuk kantor karena alpa maupun izin.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 7/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 7,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai mengajukan cuti sakit rawat jalan selama 5 hari kerja. Unit kepegawaian menyetujui cuti tersebut dan meminta bendahara menghitung dampaknya terhadap tunjangan kinerja. Pegawai mengira seluruh hari cuti sakit rawat jalan tidak dikenai potongan karena alasan kesehatan. Atasan meminta rumusan yang sesuai dengan tabel cuti tertentu dalam materi. Rumusan mana yang paling tepat?",
+        "answer": "Paling lama 3 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 2,5%.",
+        "options": [
+          "Seluruh 5 hari kerja tidak dikenai potongan karena cuti sakit rawat jalan selalu termasuk potongan 0%.",
+          "Hari pertama dikenai 2,5%, sedangkan hari kedua sampai kelima tidak dikenai potongan.",
+          "Paling lama 3 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 2,5%.",
+          "Seluruh 5 hari kerja dikenai potongan 5% karena setiap cuti tertentu diperlakukan sama dengan cuti alasan penting."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi potongan tunjangan kinerja untuk cuti tertentu menyebut cuti sakit rawat jalan memperoleh potongan 0% paling lama 3 hari kerja, sedangkan potongan hari berikutnya adalah 2,5%.\n\nOpsi A keliru karena potongan 0% untuk cuti sakit rawat jalan dibatasi paling lama 3 hari kerja.\n\nOpsi B keliru karena materi tidak menetapkan pola hari pertama dipotong lalu hari berikutnya bebas potongan.\n\nOpsi D keliru karena potongan 5% pada hari berikutnya dalam materi berlaku untuk jenis CAP tertentu, bukan cuti sakit rawat jalan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 8/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 8,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang PNS Golongan III hadir bekerja penuh selama hari kerja dalam bulan berjalan. Bendahara menyusun daftar uang makan berdasarkan daftar hadir pegawai ASN. Saat menghitung kewajiban pajak final atas uang makan, staf baru menyamakan tarif Golongan III dengan Golongan IV. Pejabat pengelola keuangan harus mengoreksi perhitungan sesuai materi. Pernyataan mana yang benar?",
+        "answer": "Uang makan Golongan III sebesar Rp37.000,00 dengan tarif PPh Pasal 21 Final sebesar 5%.",
+        "options": [
+          "Uang makan Golongan III sebesar Rp37.000,00 dengan tarif PPh Pasal 21 Final sebesar 5%.",
+          "Uang makan Golongan III sebesar Rp35.000,00 dengan tarif PPh Pasal 21 Final sebesar 0%.",
+          "Uang makan Golongan III sebesar Rp41.000,00 dengan tarif PPh Pasal 21 Final sebesar 15%.",
+          "Uang makan Golongan III tidak diberikan berdasarkan daftar hadir, melainkan berdasarkan Surat Perintah Kerja Lembur."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi uang makan mencantumkan tarif uang makan Golongan III sebesar Rp37.000,00 dan tarif PPh Pasal 21 Final Golongan III sebesar 5%. Materi juga menyebut uang makan diberikan berdasarkan daftar hadir pegawai ASN pada hari kerja dalam satu bulan.\n\nOpsi B keliru karena Rp35.000,00 dan tarif 0% berlaku untuk Golongan I dan II.\n\nOpsi C keliru karena Rp41.000,00 dan tarif 15% berlaku untuk Golongan IV.\n\nOpsi D keliru karena Surat Perintah Kerja Lembur menjadi dasar uang lembur, bukan uang makan hari kerja biasa.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 9/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 9,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai ASN Golongan II menerima Surat Perintah Kerja Lembur dari pejabat yang berwenang. Ia bekerja lembur selama lebih dari 2 jam secara berturut-turut pada satu hari kerja. Bendahara harus menghitung hak uang lembur per jam dan memastikan apakah uang makan lembur dapat diberikan. Pejabat eselon IV meminta jawaban yang sesuai dengan PMK Nomor 49 Tahun 2023 sebagaimana dicantumkan dalam materi. Pernyataan mana yang tepat?",
+        "answer": "Uang lembur per jam Golongan II adalah Rp24.000,00 dan uang makan lembur Golongan I/II sebesar Rp35.000,00 dapat diberikan maksimal 1 kali per hari setelah lembur paling kurang 2 jam berturut-turut.",
+        "options": [
+          "Uang lembur per jam Golongan II adalah Rp18.000,00 dan uang makan lembur tidak diberikan karena hanya berlaku untuk Golongan IV.",
+          "Uang lembur per jam Golongan II adalah Rp30.000,00 dan uang makan lembur diberikan tanpa batas frekuensi selama lembur dilakukan.",
+          "Uang lembur per jam Golongan II adalah Rp24.000,00, tetapi uang makan lembur hanya diberikan jika lembur dilakukan pada hari libur.",
+          "Uang lembur per jam Golongan II adalah Rp24.000,00 dan uang makan lembur Golongan I/II sebesar Rp35.000,00 dapat diberikan maksimal 1 kali per hari setelah lembur paling kurang 2 jam berturut-turut."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi uang lembur mencantumkan tarif uang lembur per jam Golongan II sebesar Rp24.000,00. Materi juga menyebut uang makan lembur diberikan setelah bekerja lembur paling kurang 2 jam secara berturut-turut dan maksimal 1 kali per hari, dengan tarif Golongan I dan II sebesar Rp35.000,00.\n\nOpsi A keliru karena Rp18.000,00 adalah tarif uang lembur per jam Golongan I, bukan Golongan II.\n\nOpsi B keliru karena Rp30.000,00 adalah tarif uang lembur per jam Golongan III dan uang makan lembur tetap dibatasi maksimal 1 kali per hari.\n\nOpsi C keliru karena materi tidak mensyaratkan uang makan lembur hanya pada hari libur; syaratnya adalah lembur paling kurang 2 jam berturut-turut.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 10/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 10,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai mengikuti tugas belajar luar negeri. Ia tidak memiliki tanggungan keluarga dan pada gajinya tidak melekat tunjangan keluarga. Saat menyusun proyeksi penghasilan, unit keuangan perlu menentukan persentase gaji bersih yang masih diterima selama tugas belajar. Pegawai tersebut meminta agar diperlakukan sama dengan pegawai tugas belajar luar negeri yang masih memiliki tanggungan keluarga. Berdasarkan materi, keputusan mana yang paling tepat?",
+        "answer": "Pegawai menerima 50% dari gaji bersih karena ia tidak memiliki tanggungan keluarga dan pada gajinya tidak melekat tunjangan keluarga.",
+        "options": [
+          "Pegawai menerima 100% dari gaji bersih karena seluruh pegawai tugas belajar luar negeri memperoleh perlakuan yang sama.",
+          "Pegawai menerima 50% dari gaji bersih karena ia tidak memiliki tanggungan keluarga dan pada gajinya tidak melekat tunjangan keluarga.",
+          "Pegawai tidak menerima gaji bersih karena tugas belajar luar negeri selalu menghentikan pembayaran gaji.",
+          "Pegawai menerima 75% dari gaji bersih karena angka tersebut berlaku untuk semua pegawai tugas belajar yang diberhentikan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi penghasilan pegawai tugas belajar menyebut pegawai tugas belajar luar negeri yang tidak memiliki tanggungan keluarga dan pada gajinya tidak melekat tunjangan keluarga menerima 50% dari gaji bersih pegawai tugas belajar yang bersangkutan.\n\nOpsi A keliru karena 100% dari gaji bersih untuk tugas belajar luar negeri dalam materi berlaku bagi pegawai yang memiliki tanggungan keluarga dan terdapat tunjangan keluarga yang melekat pada gajinya.\n\nOpsi C keliru karena materi tetap mengatur pembayaran persentase gaji bersih, bukan penghentian total gaji.\n\nOpsi D keliru karena 75% dalam materi berkaitan dengan total tunjangan kinerja bagi PNS tugas belajar dibiayai diberhentikan, bukan persentase gaji bersih pada kasus ini.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 11/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 11,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Sebuah bidang mengusulkan perjalanan dinas untuk menghadiri kegiatan yang manfaatnya belum jelas bagi pencapaian kinerja kantor. Anggaran kegiatan memang masih tersedia, tetapi pimpinan menilai substansi penugasan perlu diuji lebih dahulu. Dalam rapat, beberapa pegawai menyebut bahwa perjalanan dinas dapat dilaksanakan selama ada undangan. Pejabat eselon IV diminta mengingatkan prinsip perjalanan dinas dalam materi. Pernyataan mana yang paling lengkap?",
+        "answer": "Perjalanan dinas harus memperhatikan prinsip selektif, ketersediaan anggaran dan kesesuaian dengan pencapaian kinerja, efisiensi belanja negara, serta akuntabilitas perintah dan pembebanan biaya.",
+        "options": [
+          "Perjalanan dinas cukup didasarkan pada ketersediaan anggaran karena semua biaya akan dipertanggungjawabkan setelah selesai.",
+          "Perjalanan dinas dapat dilakukan untuk setiap undangan eksternal sepanjang pelaksana SPD bersedia membuat laporan.",
+          "Perjalanan dinas harus memperhatikan prinsip selektif, ketersediaan anggaran dan kesesuaian dengan pencapaian kinerja, efisiensi belanja negara, serta akuntabilitas perintah dan pembebanan biaya.",
+          "Perjalanan dinas hanya memerlukan prinsip efisiensi karena prinsip lain sudah tercakup dalam dokumen SPD."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi mencantumkan prinsip perjalanan dinas berupa selektif, ketersediaan anggaran dan kesesuaian dengan pencapaian kinerja Kementerian Negara/Lembaga, efisiensi penggunaan belanja negara, serta akuntabilitas pemberian perintah pelaksanaan dan pembebanan biaya perjalanan dinas.\n\nOpsi A keliru karena ketersediaan anggaran bukan satu-satunya prinsip perjalanan dinas.\n\nOpsi B keliru karena undangan eksternal dan laporan saja tidak cukup tanpa prinsip selektif, kesesuaian kinerja, efisiensi, dan akuntabilitas.\n\nOpsi D keliru karena materi memuat lebih dari satu prinsip, bukan hanya efisiensi.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 12/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 12,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai sedang menjalankan flexible working space di kota yang berbeda dari kantor asalnya. Dari lokasi tersebut, ia mendapat surat tugas untuk berangkat ke tempat tujuan perjalanan dinas. Pengelola keuangan menanyakan apakah keberangkatan harus selalu dari tempat kedudukan kantor asal atau dapat dari lokasi pegawai berada secara sah. PPK meminta pertimbangan berdasarkan perubahan ketentuan perjalanan dinas dalam materi. Pertimbangan mana yang tepat?",
+        "answer": "Keberangkatan dapat dilakukan dari Tempat Sah, termasuk lokasi FWS, dan dibayarkan sesuai biaya riil paling banyak sebesar estimasi biaya transportasi dari Tempat Kedudukan ke Tempat Tujuan.",
+        "options": [
+          "Keberangkatan dapat dilakukan dari Tempat Sah, termasuk lokasi FWS, dan dibayarkan sesuai biaya riil paling banyak sebesar estimasi biaya transportasi dari Tempat Kedudukan ke Tempat Tujuan.",
+          "Keberangkatan wajib selalu dari Tempat Kedudukan karena PMK 119 Tahun 2023 tidak mengubah ketentuan tempat keberangkatan.",
+          "Keberangkatan dari lokasi FWS dapat dilakukan, tetapi seluruh biaya transportasi dari lokasi tersebut harus dibayar tanpa batas estimasi.",
+          "Keberangkatan dari lokasi FWS hanya dapat dilakukan jika pegawai sedang cuti resmi dan tidak memiliki surat tugas."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi perubahan ketentuan perjalanan dinas menyebut PMK 119 Tahun 2023 memungkinkan keberangkatan ke Tempat Tujuan dan kepulangan dari dan ke selain Tempat Kedudukan, yaitu Tempat Sah. Materi juga menjelaskan Tempat Sah antara lain lokasi FWS, lokasi cuti, lokasi libur resmi, dan tujuan penugasan lainnya, dengan pembayaran sesuai biaya riil paling banyak sebesar estimasi biaya transportasi dari Tempat Kedudukan ke Tempat Tujuan.\n\nOpsi B keliru karena materi justru menunjukkan perubahan dari ketentuan PMK 113 Tahun 2012 ke PMK 119 Tahun 2023.\n\nOpsi C keliru karena pembayaran dari Tempat Sah tetap dibatasi paling banyak sebesar estimasi biaya transportasi dari Tempat Kedudukan ke Tempat Tujuan.\n\nOpsi D keliru karena FWS sendiri termasuk contoh Tempat Sah, tidak harus berstatus cuti resmi.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 13/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 13,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Dalam pembelian tiket perjalanan dinas, pegawai dikenai biaya platform dan biaya bagasi yang tidak termasuk dalam harga tiket. Bukti pembayaran menunjukkan komponen biaya tersebut secara terpisah. Pelaksana SPD menyatakan biaya itu diperlukan untuk pelaksanaan tugas, dan PPK menyetujui pernyataan tersebut. Pengelola keuangan perlu menentukan apakah biaya layanan tersebut dapat dibebankan. Keputusan mana yang sesuai materi?",
+        "answer": "Biaya layanan dapat diberikan sepanjang terdapat bukti pembayaran dan pernyataan tertulis atau sistem dari Pelaksana SPD setelah mendapat persetujuan PPK bahwa biaya tersebut dibutuhkan untuk pelaksanaan tugas.",
+        "options": [
+          "Biaya layanan tidak dapat dibebankan dalam kondisi apa pun karena seluruh biaya selain harga tiket dilarang.",
+          "Biaya layanan dapat dibebankan tanpa bukti pembayaran sepanjang pegawai menyatakan secara lisan bahwa biaya itu diperlukan.",
+          "Biaya layanan dapat diberikan sepanjang terdapat bukti pembayaran dan pernyataan tertulis atau sistem dari Pelaksana SPD setelah mendapat persetujuan PPK bahwa biaya tersebut dibutuhkan untuk pelaksanaan tugas.",
+          "Biaya layanan hanya dapat dibebankan untuk perjalanan dinas pindah, bukan perjalanan dinas jabatan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut biaya layanan dan sejenisnya, seperti biaya platform, biaya penyedia layanan, biaya bagasi, dan biaya lain yang tidak termasuk dalam harga tiket, dapat diberikan sepanjang terdapat pernyataan tertulis atau sistem dari Pelaksana SPD setelah mendapat persetujuan PPK bahwa biaya tersebut dibutuhkan untuk pelaksanaan tugas.\n\nOpsi A keliru karena materi PMK 119 Tahun 2023 memperbolehkan biaya layanan dan sejenisnya sepanjang memenuhi syarat.\n\nOpsi B keliru karena materi mensyaratkan pernyataan tertulis atau secara sistem dan persetujuan PPK, bukan sekadar pernyataan lisan tanpa bukti.\n\nOpsi D keliru karena pembahasan biaya layanan dalam materi berada pada perubahan ketentuan perjalanan dinas dan komponen biaya transpor perjalanan dinas jabatan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 14/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 14,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai selesai melaksanakan perjalanan dinas jabatan melewati batas kota. Ia menyerahkan Surat Tugas, tiket pesawat, boarding pass, daftar pengeluaran riil, dan bukti hotel. Namun SPD lembar kedua belum diisi tanggal tiba dan tanggal berangkat oleh pejabat di tempat pelaksanaan perjalanan dinas. Bendahara ragu apakah dokumen tersebut sudah cukup untuk pertanggungjawaban. Arahan mana yang paling tepat?",
+        "answer": "SPD yang ditandatangani PPK dan pejabat di tempat pelaksanaan atau pihak terkait tetap diperlukan, dan SPD lembar kedua harus diisi tanggal tiba dan berangkat.",
+        "options": [
+          "Dokumen sudah cukup karena tiket, boarding pass, dan bukti hotel membuktikan pegawai benar-benar berangkat.",
+          "SPD lembar kedua tidak diperlukan apabila perjalanan dinas menggunakan transportasi udara.",
+          "Dokumen cukup diganti dengan daftar hadir kantor asal karena perjalanan dinas sudah selesai dilaksanakan.",
+          "SPD yang ditandatangani PPK dan pejabat di tempat pelaksanaan atau pihak terkait tetap diperlukan, dan SPD lembar kedua harus diisi tanggal tiba dan berangkat."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi dokumen pertanggungjawaban perjalanan dinas melewati batas kota mencantumkan SPD yang telah ditandatangani oleh PPK dan pejabat di tempat pelaksanaan perjalanan dinas atau pihak terkait yang menjadi Tempat Tujuan Perjalanan Dinas. Materi juga menyebut SPD lembar kedua harus diisi tanggal tiba dan berangkat.\n\nOpsi A keliru karena bukti transportasi dan hotel tidak menggantikan kewajiban kelengkapan SPD sebagaimana dicantumkan dalam materi.\n\nOpsi B keliru karena materi tetap mensyaratkan SPD untuk perjalanan dinas melewati batas kota, tidak mengecualikan transportasi udara.\n\nOpsi C keliru karena daftar hadir kantor asal bukan pengganti SPD lembar kedua dalam daftar dokumen pertanggungjawaban tersebut.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 15/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 15,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai mendapat penugasan dalam kota selama 6 jam untuk menghadiri koordinasi teknis. Untuk penugasan tersebut tidak diterbitkan SPD. Setelah kegiatan selesai, pegawai menyerahkan Surat Tugas dan bukti pembayaran transportasi. Pengelola keuangan meminta satu dokumen tambahan yang sesuai dengan daftar pertanggungjawaban perjalanan dinas dalam kota sampai dengan 8 jam. Dokumen apa yang tepat?",
+        "answer": "Form Bukti Kehadiran karena SPD tidak diterbitkan.",
+        "options": [
+          "Bukti pembayaran hotel atau tempat menginap lainnya.",
+          "Form Bukti Kehadiran karena SPD tidak diterbitkan.",
+          "Surat keputusan pindah sebagai dasar penerbitan SPD.",
+          "Daftar pengeluaran riil untuk biaya penginapan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi dokumen pertanggungjawaban perjalanan dinas dalam kota sampai dengan 8 jam menyebut Surat Tugas, SPD jika diterbitkan, Form Bukti Kehadiran jika tidak diterbitkan SPD, dan bukti pembayaran transportasi.\n\nOpsi A keliru karena bukti pembayaran hotel atau tempat menginap lainnya tercantum untuk perjalanan dinas dalam kota lebih dari 8 jam dan perjalanan melewati batas kota, bukan kasus 6 jam tanpa SPD.\n\nOpsi C keliru karena surat keputusan pindah berkaitan dengan perjalanan dinas pindah, bukan perjalanan dinas jabatan dalam kota 6 jam.\n\nOpsi D keliru karena daftar pengeluaran riil tidak menjadi dokumen tambahan yang disebut untuk kondisi dalam kota sampai dengan 8 jam tanpa SPD.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 16/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 16,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Kantor mulai menggunakan e-Perjadin untuk mengelola perjalanan dinas. Beberapa pegawai menganggap sistem tersebut hanya aplikasi untuk membeli tiket dan memesan hotel. Dalam pengarahan, pejabat eselon IV perlu menjelaskan cakupan sistem agar pegawai memahami proses dari awal sampai akhir. Penjelasan harus sesuai dengan definisi dan cakupan e-Perjadin dalam materi. Penjelasan mana yang tepat?",
+        "answer": "e-Perjadin adalah sistem terintegrasi atas seluruh proses perjalanan dinas yang mencakup perencanaan, pelaksanaan, pertanggungjawaban, penerbitan surat tugas dan SPD, perhitungan biaya, pengadaan dan pembayaran tiket, geotagging, serta pertanggungjawaban biaya dan pelaksanaan.",
+        "options": [
+          "e-Perjadin adalah sistem terintegrasi atas seluruh proses perjalanan dinas yang mencakup perencanaan, pelaksanaan, pertanggungjawaban, penerbitan surat tugas dan SPD, perhitungan biaya, pengadaan dan pembayaran tiket, geotagging, serta pertanggungjawaban biaya dan pelaksanaan.",
+          "e-Perjadin adalah aplikasi pemesanan tiket saja sehingga dokumen pertanggungjawaban tetap seluruhnya disimpan manual di luar sistem.",
+          "e-Perjadin hanya digunakan setelah perjalanan dinas selesai untuk mengunggah kuitansi dan tidak mencakup penerbitan surat tugas atau SPD.",
+          "e-Perjadin hanya berlaku untuk perjalanan dinas pindah dan tidak dipakai dalam perjalanan dinas jabatan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi mendefinisikan Sistem Elektronik Perjalanan Dinas sebagai sistem terintegrasi atas seluruh proses perjalanan dinas, meliputi perencanaan, pelaksanaan, dan pertanggungjawaban. Materi juga mencantumkan cakupan e-Perjadin berupa penerbitan surat tugas dan SPD, perhitungan biaya, pengadaan dan pembayaran tiket, moda transportasi, penginapan, geotagging, pertanggungjawaban biaya, dan pertanggungjawaban pelaksanaan perjalanan dinas.\n\nOpsi B keliru karena e-Perjadin tidak hanya aplikasi pemesanan tiket dan penyimpanan dokumen dalam proses bisnis baru dilakukan dalam database e-Perjadin.\n\nOpsi C keliru karena cakupan e-Perjadin dimulai dari penerbitan surat tugas dan SPD serta perhitungan biaya, bukan hanya setelah perjalanan selesai.\n\nOpsi D keliru karena bagian e-Perjadin dalam materi dibahas pada perjalanan dinas jabatan menggunakan sistem elektronik.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 17/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 17,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Pelaksana perjalanan dinas berangkat dari Tempat Kedudukan menuju Tempat Tujuan dengan e-Perjadin. Saat tiba di salah satu lokasi, telepon genggamnya bermasalah sehingga ia tidak dapat melakukan geotagging. Ia tetap hadir dan melaksanakan tugas, tetapi khawatir pertanggungjawabannya dianggap tidak lengkap. PPK meminta pegawai mengikuti alternatif yang diatur dalam materi. Langkah mana yang tepat?",
+        "answer": "Mengunggah foto yang menunjukkan pelaksana ada di Tempat Kedudukan, Tempat Tujuan, dan/atau Tempat Sah; jika tidak dapat mengunggah foto, menyampaikan surat pernyataan hadir dan melaksanakan tugas dengan persetujuan PPK.",
+        "options": [
+          "Mengabaikan geotagging karena gangguan perangkat otomatis menghapus kewajiban bukti kehadiran.",
+          "Mengganti semua geotagging dengan tiket transportasi karena tiket selalu cukup untuk membuktikan lokasi pegawai.",
+          "Menunggu sampai kembali ke kantor asal lalu membuat catatan pribadi tanpa persetujuan PPK.",
+          "Mengunggah foto yang menunjukkan pelaksana ada di Tempat Kedudukan, Tempat Tujuan, dan/atau Tempat Sah; jika tidak dapat mengunggah foto, menyampaikan surat pernyataan hadir dan melaksanakan tugas dengan persetujuan PPK."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi geotagging menyebut jika pelaksana perjalanan dinas tidak dapat melakukan geotagging, pegawai harus mengunggah foto yang menunjukkan bahwa pelaksana ada di Tempat Kedudukan, Tempat Tujuan, dan/atau Tempat Sah. Apabila tidak dapat mengunggah foto, pegawai menyampaikan surat pernyataan bahwa ia hadir dan melaksanakan tugas dengan persetujuan PPK.\n\nOpsi A keliru karena materi tetap menyediakan alternatif bukti ketika geotagging tidak dapat dilakukan.\n\nOpsi B keliru karena tiket transportasi tidak disebut sebagai pengganti langsung geotagging dalam ketentuan alternatif tersebut.\n\nOpsi C keliru karena surat pernyataan memerlukan persetujuan PPK, bukan sekadar catatan pribadi.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 18/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 18,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pegawai Golongan III melaksanakan perjalanan dinas pindah karena pindah tugas ke kota lain. Ia ingin memasukkan isteri yang sah, anak laki-laki berusia 24 tahun yang belum menikah dan tidak memiliki penghasilan sendiri, anak laki-laki berusia 26 tahun yang sudah menikah, dan pembantu rumah tangga ke dalam perhitungan biaya. Pengelola keuangan harus menentukan pihak yang dapat diperhitungkan sebagai keluarga yang sah atau biaya tambahan sesuai materi. Pegawai tersebut bukan Pejabat Eselon III dan belum mencapai Golongan IV. Keputusan mana yang paling tepat?",
+        "answer": "Isteri yang sah dan anak berusia 24 tahun yang belum menikah serta tidak mempunyai penghasilan sendiri dapat diperhitungkan, sedangkan anak berusia 26 tahun yang sudah menikah dan pembantu rumah tangga tidak termasuk dalam kondisi kasus ini.",
+        "options": [
+          "Semua pihak dapat diperhitungkan karena perjalanan dinas pindah selalu mencakup seluruh anggota rumah tangga pegawai.",
+          "Hanya pegawai yang dapat dibiayai karena perjalanan dinas pindah tidak pernah mencakup keluarga.",
+          "Isteri yang sah dan anak berusia 24 tahun yang belum menikah serta tidak mempunyai penghasilan sendiri dapat diperhitungkan, sedangkan anak berusia 26 tahun yang sudah menikah dan pembantu rumah tangga tidak termasuk dalam kondisi kasus ini.",
+          "Pembantu rumah tangga dapat diperhitungkan karena semua pegawai pindah tugas berhak membawa 1 orang pembantu rumah tangga."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi daftar keluarga menyebut keluarga yang sah mencakup isteri/suami yang sah dan anak kandung, anak tiri, atau anak angkat yang sah berumur paling tinggi 25 tahun pada waktu berangkat, belum pernah menikah, dan tidak mempunyai penghasilan sendiri. Materi juga menyebut pembantu rumah tangga hanya diperkenankan bagi Pegawai Negeri paling rendah Golongan IV atau Pejabat Eselon III, sedangkan kasus ini menyebut pegawai Golongan III dan bukan Pejabat Eselon III.\n\nOpsi A keliru karena materi membatasi siapa saja yang termasuk keluarga yang sah dan syarat membawa pembantu rumah tangga.\n\nOpsi B keliru karena perjalanan dinas pindah dapat dilaksanakan oleh Pelaksana SPD beserta keluarga yang sah.\n\nOpsi D keliru karena hak membawa pembantu rumah tangga tidak berlaku untuk semua pegawai, melainkan bagi Pegawai Negeri paling rendah Golongan IV atau Pejabat Eselon III.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 19/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 19,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket A",
+        "question": "Seorang pensiunan mengajukan SPD Pindah Pensiun 14 bulan setelah pensiun pertamanya dibayarkan. Dalam berkas, ia melampirkan fotokopi SK Pensiun dan meminta tujuan pensiun sesuai kota yang tercantum dalam SK tersebut. Pengelola keuangan menilai permohonan perlu diuji terhadap batas waktu pengajuan dan syarat kota tujuan pensiun. Atasan meminta jawaban berdasarkan ketentuan pengajuan SPD Pindah Pensiun dalam materi. Jawaban mana yang paling tepat?",
+        "answer": "Permohonan tidak memenuhi batas waktu karena pengajuan SPD Pindah Pensiun dilakukan paling lambat 1 tahun sejak tanggal dibayarkan pensiun pertama; selain itu pembayaran mensyaratkan kota tujuan sesuai kota kelahiran pegawai atau kota pengangkatan CPNS.",
+        "options": [
+          "Permohonan dapat diproses karena SPD Pindah Pensiun tidak memiliki batas waktu pengajuan selama kota tujuan tercantum dalam SK Pensiun.",
+          "Permohonan tidak memenuhi batas waktu karena pengajuan SPD Pindah Pensiun dilakukan paling lambat 1 tahun sejak tanggal dibayarkan pensiun pertama; selain itu pembayaran mensyaratkan kota tujuan sesuai kota kelahiran pegawai atau kota pengangkatan CPNS.",
+          "Permohonan tetap wajib dibayar karena setiap pensiunan berhak memilih kota tujuan mana pun tanpa pembuktian tambahan.",
+          "Permohonan hanya ditolak jika diajukan lebih dari 2 tahun setelah pensiun pertama dibayarkan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi pengajuan SPD Pindah Pensiun menyebut pengajuan dilakukan paling lambat 1 tahun terhitung sejak tanggal dibayarkan pensiun pertama. Materi juga menyebut dapat dibayarkan apabila kota tujuan pensiun yang tercantum dalam fotokopi SK Pensiun sesuai dengan kota kelahiran pegawai atau kota pengangkatan CPNS yang dibuktikan dengan fotokopi pengangkatan CPNS.\n\nOpsi A keliru karena materi menetapkan batas waktu paling lambat 1 tahun sejak tanggal dibayarkan pensiun pertama.\n\nOpsi C keliru karena materi mengaitkan pembayaran dengan kesesuaian kota tujuan pensiun dengan kota kelahiran pegawai atau kota pengangkatan CPNS.\n\nOpsi D keliru karena batas waktu dalam materi adalah 1 tahun, bukan 2 tahun.\n\n## Rekap Kunci Jawaban\n\n| No. | Kunci |\n|---:|:---:|\n| 1 | B |\n| 2 | D |\n| 3 | A |\n| 4 | C |\n| 5 | B |\n| 6 | A |\n| 7 | D |\n| 8 | C |\n| 9 | A |\n| 10 | D |\n| 11 | B |\n| 12 | C |\n| 13 | A |\n| 14 | C |\n| 15 | D |\n| 16 | B |\n| 17 | A |\n| 18 | D |\n| 19 | C |\n| 20 | B |\n\n## Quality Gate Report\n\n**Output type**: Document\n**Gate result**: PASS\n\n### Findings\n\nTidak ada temuan blocking pada pemeriksaan manual dan validasi otomatis.\n\n### What was verified\n\n- Validator skill mendeteksi 20 soal.\n- Setiap soal memakai opsi A-D.\n- Setiap soal memiliki kunci dan pembahasan opsi salah.\n- Distribusi kunci tervalidasi seimbang: A=5, B=5, C=5, D=5.\n- Tidak ada label tingkat kesulitan.\n- Setiap stem soal memenuhi minimal 4 kalimat.\n- Substansi bersumber dari isi aktual PDF.\n\n### Recommendation\n\nSHIP.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket A soal 20/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-a",
+          "label": "A",
+          "order": 3,
+          "questionNumber": 20,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nilai-kemenkeu-studi-kasus-paket-b",
+    "categoryId": "nilai-kemenkeu",
+    "name": "NILAI (Studi Kasus) Paket B",
+    "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+    "packageLabel": "B",
+    "packageIndex": 4,
+    "questions": [
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pejabat eselon IV diminta menjelaskan kebijakan sentralisasi pembayaran belanja pegawai kepada pegawai baru di unitnya. Dalam sesi orientasi, muncul pertanyaan apakah gaji dan tunjangan kinerja masih dibayarkan oleh kantor masing-masing. Pejabat tersebut juga diminta menyebutkan dasar internal dan waktu mulai sentralisasi untuk DJP sebagaimana tercantum dalam materi. Penjelasan harus singkat, tetapi tetap membedakan gaji dan tunjangan kinerja secara tepat. Penjelasan mana yang paling sesuai?",
+        "answer": "Pembayaran dilakukan langsung ke pegawai oleh Sekretariat Jenderal Kementerian Keuangan; sentralisasi gaji DJP dimulai sejak September 2022 berdasarkan KMK 249/KMK.01/2022 dan sentralisasi tunjangan kinerja DJP sejak Desember 2022 berdasarkan KMK 403/KMK.01/2022.",
+        "options": [
+          "Gaji dan tunjangan kinerja dibayarkan oleh masing-masing KPP; gaji mulai disentralisasi pada Desember 2022 dan tunjangan kinerja pada September 2022.",
+          "Pembayaran dilakukan oleh Direktorat Jenderal Pajak langsung kepada bendahara unit; gaji dan tunjangan kinerja mulai disentralisasi bersamaan sejak Januari 2025.",
+          "Pembayaran dilakukan langsung ke pegawai oleh Sekretariat Jenderal Kementerian Keuangan; sentralisasi gaji DJP dimulai sejak September 2022 berdasarkan KMK 249/KMK.01/2022 dan sentralisasi tunjangan kinerja DJP sejak Desember 2022 berdasarkan KMK 403/KMK.01/2022.",
+          "Pembayaran dilakukan oleh Kementerian PANRB; gaji DJP mulai disentralisasi sejak PMK 119 Tahun 2023 dan tunjangan kinerja sejak PMK 49 Tahun 2023."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyatakan sentralisasi pembayaran gaji dan tunjangan kinerja dilakukan melalui mekanisme pembayaran langsung ke pegawai oleh Sekretariat Jenderal Kementerian Keuangan. Materi juga mencantumkan gaji berdasarkan KMK Nomor 249/KMK.01/2022 dengan sentralisasi pembayaran gaji DJP mulai September 2022, serta tunjangan kinerja berdasarkan KMK Nomor 403/KMK.01/2022 dengan sentralisasi pembayaran tukin DJP mulai Desember 2022.\n\nOpsi A keliru karena materi tidak menyebut pembayaran tetap oleh masing-masing KPP dan bulan mulai sentralisasi gaji serta tunjangan kinerja tertukar.\n\nOpsi B keliru karena materi menyebut pembayaran langsung ke pegawai oleh Sekretariat Jenderal Kementerian Keuangan, bukan oleh DJP kepada bendahara unit, dan tidak menyebut Januari 2025 sebagai awal sentralisasi.\n\nOpsi D keliru karena PMK 119 Tahun 2023 berkaitan dengan perjalanan dinas, sedangkan PMK 49 Tahun 2023 berkaitan dengan standar biaya seperti uang makan dan uang lembur, bukan dasar sentralisasi gaji dan tunjangan kinerja.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 1/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 1,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang CPNS baru bertanya kepada bagian keuangan mengenai besaran gaji pokok yang akan diterimanya. Ia melihat daftar gaji pokok PNS berdasarkan golongan ruang dan mengira akan menerima 100% seperti PNS penuh. Staf keuangan perlu menjelaskan perlakuan khusus CPNS tanpa membuat perhitungan di luar materi. Kepala subbagian meminta jawaban yang dapat dijadikan pedoman komunikasi kepada pegawai. Pernyataan mana yang tepat?",
+        "answer": "CPNS diberikan gaji pokok sebesar 80% dari gaji pokok sebulan sesuai golongan ruangnya.",
+        "options": [
+          "CPNS diberikan gaji pokok sebesar 80% dari gaji pokok sebulan sesuai golongan ruangnya.",
+          "CPNS diberikan gaji pokok sebesar 100% sejak pengangkatan karena masa kerja belum diperhitungkan.",
+          "CPNS tidak memperoleh gaji pokok, tetapi hanya memperoleh tunjangan kinerja sampai diangkat menjadi PNS.",
+          "CPNS diberikan gaji pokok sebesar 50% apabila belum memiliki masa kerja golongan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi komponen penghasilan gaji menyebut seseorang yang diangkat menjadi CPNS diberikan gaji pokok sebesar 80% dari gaji pokok sebulan. Materi juga menjelaskan PNS yang diangkat dalam suatu pangkat diberikan gaji pokok berdasarkan golongan ruang yang ditetapkan untuk pangkat tersebut.\n\nOpsi B keliru karena materi membedakan CPNS dengan menyebut besaran 80%, bukan 100%.\n\nOpsi C keliru karena materi tetap mengatur gaji pokok CPNS, bukan hanya tunjangan kinerja.\n\nOpsi D keliru karena materi tidak menyebut besaran 50% untuk gaji pokok CPNS.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 2/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 2,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Unit kepegawaian sedang menyusun bahan pembinaan mengenai komponen penghasilan gaji. Salah satu pegawai bertanya apakah tunjangan jabatan dapat diberikan kepada setiap PNS yang bekerja di kantor, meskipun tidak memangku jabatan tertentu. Pejabat eselon IV ingin menjelaskan konsep tunjangan jabatan sekaligus jenisnya secara benar. Ia harus menghindari penjelasan yang mencampuradukkan tunjangan jabatan dengan tunjangan keluarga atau tunjangan beras. Penjelasan mana yang paling tepat?",
+        "answer": "Tunjangan jabatan diberikan kepada PNS yang memangku jabatan tertentu berdasarkan prinsip profesionalisme sesuai kompetensi, prestasi kerja, jenjang pangkat, dan persyaratan lainnya; jenisnya mencakup tunjangan struktural, fungsional, dan umum/tambahan tunjangan umum.",
+        "options": [
+          "Tunjangan jabatan diberikan kepada semua PNS sebagai pengganti tunjangan keluarga dan hanya terdiri dari tunjangan beras.",
+          "Tunjangan jabatan diberikan hanya kepada CPNS yang belum menerima gaji pokok penuh dan terdiri dari tunjangan Papua serta tunjangan daerah terpencil.",
+          "Tunjangan jabatan diberikan kepada PNS yang bekerja pada hari libur dan terdiri dari uang lembur serta uang makan lembur.",
+          "Tunjangan jabatan diberikan kepada PNS yang memangku jabatan tertentu berdasarkan prinsip profesionalisme sesuai kompetensi, prestasi kerja, jenjang pangkat, dan persyaratan lainnya; jenisnya mencakup tunjangan struktural, fungsional, dan umum/tambahan tunjangan umum."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menjelaskan tunjangan jabatan sebagai tunjangan yang diberikan kepada PNS yang memangku jabatan tertentu berdasarkan prinsip profesionalisme sesuai kompetensi, prestasi kerja, jenjang pangkat, dan persyaratan lainnya. Materi juga menampilkan jenis tunjangan struktural, tunjangan fungsional, dan tunjangan umum/tambahan tunjangan umum.\n\nOpsi A keliru karena tunjangan jabatan bukan pengganti tunjangan keluarga dan bukan hanya tunjangan beras.\n\nOpsi B keliru karena materi tidak membatasi tunjangan jabatan hanya untuk CPNS dan tidak mengelompokkannya sebagai tunjangan Papua atau daerah terpencil.\n\nOpsi C keliru karena uang lembur dan uang makan lembur merupakan kompensasi terkait kerja lembur, bukan jenis tunjangan jabatan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 3/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 3,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang CPNS ditempatkan pada unit kerja di Provinsi Papua Barat. Dalam diskusi internal, ada pegawai yang menyatakan bahwa tunjangan khusus Papua hanya berlaku bagi PNS, Hakim, anggota TNI, dan anggota Polri, tetapi tidak mencakup CPNS. Pegawai lain menyatakan bahwa tunjangan tersebut juga terkait dengan lokasi bekerja atau bertugas. Pejabat pengelola kepegawaian perlu menjawab berdasarkan materi. Jawaban mana yang paling tepat?",
+        "answer": "Tunjangan khusus Papua diberikan kepada PNS, Hakim, anggota TNI/Polri termasuk CPNS yang bekerja atau bertugas pada daerah Provinsi Papua, Papua Barat, dan pemekarannya.",
+        "options": [
+          "CPNS tidak dapat memperoleh tunjangan khusus Papua karena materi hanya menyebut PNS yang telah definitif.",
+          "Tunjangan khusus Papua diberikan kepada PNS, Hakim, anggota TNI/Polri termasuk CPNS yang bekerja atau bertugas pada daerah Provinsi Papua, Papua Barat, dan pemekarannya.",
+          "Tunjangan khusus Papua hanya diberikan kepada pegawai yang bekerja di wilayah terpencil selain Papua dan Papua Barat.",
+          "Tunjangan khusus Papua hanya diberikan jika pegawai juga menerima uang lembur pada hari libur."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut tunjangan khusus Papua diberikan kepada PNS, Hakim, anggota TNI/Polri termasuk CPNS yang bekerja atau bertugas pada daerah Provinsi Papua, Papua Barat, dan pemekarannya.\n\nOpsi A keliru karena materi secara eksplisit memasukkan CPNS dalam cakupan tunjangan khusus Papua.\n\nOpsi C keliru karena materi membedakan tunjangan khusus Papua dari tunjangan daerah terpencil dan menyebut Papua, Papua Barat, serta pemekarannya.\n\nOpsi D keliru karena tunjangan khusus Papua tidak dikaitkan dengan pelaksanaan kerja lembur.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 4/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 4,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang PNS menerima informasi bahwa penghasilannya sudah melebihi Penghasilan Tidak Kena Pajak. Ia bertanya apakah tunjangan pajak penghasilan Pasal 21 tetap dapat diberikan dan bagaimana besarannya dalam bulan berjalan. Staf keuangan juga diminta membedakan ketentuan ini dari tunjangan beras agar tidak terjadi salah input pada aplikasi penggajian. Pejabat eselon IV harus memberi arahan berdasarkan materi gaji. Arahan mana yang benar?",
+        "answer": "Tunjangan PPh Pasal 21 diberikan apabila PNS dikenakan pajak penghasilan karena penghasilannya melebihi PTKP, dan besarannya sebesar PPh Pasal 21 terutang bagi PNS dalam bulan berkenaan.",
+        "options": [
+          "Tunjangan PPh Pasal 21 diberikan apabila PNS dikenakan pajak penghasilan karena penghasilannya melebihi PTKP, dan besarannya sebesar PPh Pasal 21 terutang bagi PNS dalam bulan berkenaan.",
+          "Tunjangan PPh Pasal 21 diberikan kepada semua PNS tanpa melihat PTKP, dan besarannya selalu sama dengan tunjangan beras per orang per bulan.",
+          "Tunjangan PPh Pasal 21 hanya diberikan kepada PNS yang bekerja di Papua, dan besarannya sebesar 10% dari gaji pokok.",
+          "Tunjangan PPh Pasal 21 hanya diberikan jika pegawai menerima uang makan lembur, dan besarannya mengikuti tarif uang makan lembur."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut tunjangan untuk PPh Pasal 21 diberikan apabila PNS dikenakan pajak penghasilan karena penghasilannya melebihi PTKP. Materi juga menyatakan besarnya tunjangan PPh Pasal 21 sebesar PPh Pasal 21 terutang bagi PNS dalam bulan berkenaan.\n\nOpsi B keliru karena materi mengaitkan tunjangan PPh Pasal 21 dengan kondisi penghasilan melebihi PTKP dan tidak menyamakannya dengan tunjangan beras.\n\nOpsi C keliru karena tunjangan khusus Papua berbeda dari tunjangan PPh Pasal 21.\n\nOpsi D keliru karena uang makan lembur tidak menjadi syarat pemberian tunjangan PPh Pasal 21.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 5/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 5,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang analis diminta menyiapkan ringkasan besaran tunjangan kinerja DJP untuk bahan rapat. Ia membaca bahwa besaran tunjangan kinerja mengacu pada Peraturan Presiden Nomor 37 Tahun 2015 sebagaimana diubah dengan Peraturan Presiden Nomor 96 Tahun 2017 dan juga PMK Nomor 211/PMK.03/2017. Dalam diskusi, ia perlu menjelaskan batas variasi besaran tunjangan kinerja dari lampiran Peraturan Presiden. Pejabat eselon IV meminta agar rumusan tidak keliru antara batas kenaikan dan penurunan. Rumusan mana yang sesuai materi?",
+        "answer": "Besaran tunjangan kinerja dapat paling banyak 30% lebih tinggi dan paling banyak 10% lebih rendah dari besaran dalam lampiran Peraturan Presiden Nomor 37 Tahun 2015.",
+        "options": [
+          "Besaran tunjangan kinerja dapat paling banyak 10% lebih tinggi dan paling banyak 30% lebih rendah dari lampiran Peraturan Presiden Nomor 37 Tahun 2015.",
+          "Besaran tunjangan kinerja selalu sama untuk semua unit DJP dan tidak dipengaruhi klasifikasi unit atau wilayah.",
+          "Besaran tunjangan kinerja dapat paling banyak 30% lebih tinggi dan paling banyak 10% lebih rendah dari besaran dalam lampiran Peraturan Presiden Nomor 37 Tahun 2015.",
+          "Besaran tunjangan kinerja hanya ditentukan oleh uang makan dan uang lembur pegawai dalam bulan berjalan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut besaran tunjangan kinerja berdasarkan Peraturan Presiden Nomor 96 Tahun 2017 tentang perubahan atas Peraturan Presiden Nomor 37 Tahun 2015 dan PMK Nomor 211/PMK.03/2017 dapat paling banyak 30% lebih tinggi dan paling banyak 10% lebih rendah dari besaran tunjangan kinerja dalam lampiran Peraturan Presiden Nomor 37 Tahun 2015.\n\nOpsi A keliru karena membalik batas paling banyak lebih tinggi dan lebih rendah.\n\nOpsi B keliru karena materi menunjukkan adanya variabel dan klasifikasi, termasuk klasifikasi unit dan klasifikasi wilayah.\n\nOpsi D keliru karena uang makan dan uang lembur bukan dasar utama penentuan besaran tunjangan kinerja dalam bagian tersebut.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 6/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 6,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai dijatuhi hukuman disiplin sedang berupa penundaan kenaikan pangkat selama 1 tahun. Unit keuangan perlu menerapkan pemotongan tunjangan kinerja sesuai tabel hukuman disiplin. Pegawai tersebut membandingkan kasusnya dengan penundaan kenaikan gaji berkala dan berpendapat masa potongannya sama. Atasan meminta keputusan berdasarkan jenis hukuman yang benar dalam materi. Keputusan mana yang tepat?",
+        "answer": "Pemotongan 50% selama 9 bulan karena hukuman berupa penundaan kenaikan pangkat selama 1 tahun.",
+        "options": [
+          "Pemotongan 25% selama 6 bulan karena semua hukuman sedang diperlakukan seperti pernyataan tidak puas secara tertulis.",
+          "Pemotongan 50% selama 9 bulan karena hukuman berupa penundaan kenaikan pangkat selama 1 tahun.",
+          "Pemotongan 50% selama 6 bulan karena semua penundaan dalam hukuman sedang memiliki masa potongan yang sama.",
+          "Pemotongan 85% selama 12 bulan karena penundaan kenaikan pangkat termasuk hukuman disiplin berat."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi potongan tunjangan kinerja untuk hukuman disiplin sedang menyebut penundaan kenaikan pangkat selama 1 tahun dikenai pemotongan 50% selama 9 bulan.\n\nOpsi A keliru karena 25% selama 6 bulan berlaku untuk hukuman disiplin ringan berupa pernyataan tidak puas secara tertulis.\n\nOpsi C keliru karena penundaan kenaikan gaji berkala selama 1 tahun dikenai 50% selama 6 bulan, sedangkan penundaan kenaikan pangkat selama 1 tahun dikenai 50% selama 9 bulan.\n\nOpsi D keliru karena penundaan kenaikan pangkat selama 1 tahun berada pada tabel hukuman disiplin sedang, bukan hukuman disiplin berat.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 7/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 7,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pejabat dikenai hukuman disiplin berat berupa pembebasan dari jabatannya menjadi jabatan pelaksana selama 12 bulan. Pengelola keuangan harus menerapkan potongan tunjangan kinerja mulai bulan berikutnya sesuai ketentuan dalam materi. Pegawai tersebut beranggapan bahwa potongan maksimal untuk semua hukuman berat adalah 85%. Pejabat eselon IV perlu mengoreksi berdasarkan tabel. Pemotongan mana yang benar?",
+        "answer": "Pemotongan 95% selama 12 bulan.",
+        "options": [
+          "Pemotongan 50% selama 12 bulan.",
+          "Pemotongan 85% selama 12 bulan.",
+          "Pemotongan 100% tanpa memperhatikan jenis hukuman.",
+          "Pemotongan 95% selama 12 bulan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi hukuman disiplin berat menyebut pembebasan dari jabatannya menjadi jabatan pelaksana selama 12 bulan dikenai pemotongan tunjangan kinerja 95% selama 12 bulan.\n\nOpsi A keliru karena 50% selama 12 bulan berlaku untuk hukuman disiplin sedang berupa penurunan pangkat setingkat lebih rendah selama 1 tahun.\n\nOpsi B keliru karena 85% selama 12 bulan berlaku untuk penurunan jabatan setingkat lebih rendah selama 12 bulan.\n\nOpsi C keliru karena pemotongan 100% dalam materi berkaitan dengan pemberhentian dengan hormat tidak atas permintaan sendiri sebagai PNS, bukan hukuman pada kasus ini.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 8/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 8,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Pada hari Jumat, seorang pegawai DJP baru melakukan presensi masuk pukul 10.05. Hari tersebut mengikuti uraian potongan sesuai PMK-221/PMK.01/2021 untuk Senin dan Jumat sebagaimana ditampilkan dalam materi. Operator presensi mengusulkan TL 2 karena pegawai hanya terlambat beberapa menit dari batas sebelumnya. Kepala subbagian harus menentukan klasifikasi dan potongan yang tepat. Keputusan mana yang benar?",
+        "answer": "TL 3 dengan potongan 2,5% karena waktu masuk bekerja pukul 10.01 atau lebih.",
+        "options": [
+          "TL 1 dengan potongan 1% karena pegawai masuk setelah pukul 09.01.",
+          "TL 2 dengan potongan 1,25% karena semua keterlambatan sebelum siang masuk TL 2.",
+          "TL 3 dengan potongan 2,5% karena waktu masuk bekerja pukul 10.01 atau lebih.",
+          "Alpa/ijin dengan potongan 5% karena pegawai tetap masuk kantor setelah pukul 10.00."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi untuk Senin dan Jumat sesuai PMK-221/PMK.01/2021 menyebut TL 3 berlaku untuk waktu masuk bekerja pukul 10.01 atau lebih dan/atau tidak mengisi daftar hadir masuk bekerja, dengan potongan 2,5%.\n\nOpsi A keliru karena TL 1 untuk Senin dan Jumat berlaku pada pukul 09.01 sampai dengan kurang dari 09.31.\n\nOpsi B keliru karena TL 2 untuk Senin dan Jumat berlaku pada pukul 09.31 sampai dengan kurang dari 10.01.\n\nOpsi D keliru karena alpa/ijin berlaku untuk tidak masuk kantor baik alpa maupun izin, sedangkan kasus menyebut pegawai melakukan presensi masuk.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 9/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 9,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai meninggalkan kantor lebih cepat 100 menit dari waktu pulang yang seharusnya. Ia tetap mengisi daftar hadir pulang kerja, tetapi sistem mencatat waktu pulang tersebut jauh sebelum waktunya. Unit keuangan perlu menerapkan potongan tunjangan kinerja berdasarkan klasifikasi pulang sebelum waktunya. Pejabat eselon IV meminta klasifikasi yang sesuai materi. Klasifikasi dan potongan mana yang tepat?",
+        "answer": "PSW 4 dengan potongan 2,5% karena pulang sebelum waktunya 91 menit atau lebih.",
+        "options": [
+          "PSW 4 dengan potongan 2,5% karena pulang sebelum waktunya 91 menit atau lebih.",
+          "PSW 3 dengan potongan 1,25% karena semua pulang sebelum waktunya di atas 61 menit masuk PSW 3 tanpa batas.",
+          "PSW 2 dengan potongan 1% karena pegawai tetap mengisi daftar hadir pulang kerja.",
+          "PSW 1 dengan potongan 0,5% karena pegawai tidak alpa."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi potongan tunjangan kinerja untuk pulang sebelum waktunya menyebut PSW 4 berlaku bagi yang pulang sebelum waktunya 91 menit atau lebih dan/atau tidak mengisi daftar hadir pulang kerja, dengan potongan 2,5%.\n\nOpsi B keliru karena PSW 3 berlaku untuk 61 menit sampai dengan kurang dari 91 menit.\n\nOpsi C keliru karena PSW 2 berlaku untuk 31 menit sampai dengan kurang dari 61 menit.\n\nOpsi D keliru karena PSW 1 berlaku sampai dengan kurang dari 31 menit, bukan 100 menit.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 10/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 10,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai mengajukan Cuti Alasan Penting selama 7 hari kerja karena orang tuanya sakit keras. Unit kepegawaian menyetujui cuti tersebut sesuai ketentuan yang berlaku. Pegawai mengira seluruh 7 hari kerja tidak berdampak pada tunjangan kinerja karena alasan keluarganya mendesak. Pengelola keuangan harus mengikuti tabel cuti tertentu dalam materi. Perlakuan potongan mana yang tepat?",
+        "answer": "Paling lama 5 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 5%.",
+        "options": [
+          "Seluruh 7 hari kerja dikenai potongan 0% karena alasan orang tua sakit keras selalu dikecualikan dari potongan.",
+          "Seluruh 7 hari kerja dikenai potongan 2,5% karena semua cuti kesehatan keluarga diperlakukan seperti cuti sakit rawat jalan.",
+          "Hanya hari pertama yang dikenai potongan 5% dan sisanya dikenai potongan 0%.",
+          "Paling lama 5 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 5%."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi cuti tertentu menyebut CAP untuk orang tua, mertua, istri/suami, anak, saudara kandung, atau menantu sakit keras atau meninggal dunia memperoleh potongan 0% paling lama 5 hari kerja, dengan potongan hari berikutnya 5%.\n\nOpsi A keliru karena potongan 0% untuk jenis CAP tersebut dibatasi paling lama 5 hari kerja.\n\nOpsi B keliru karena 2,5% pada hari berikutnya dalam materi berlaku untuk cuti sakit rawat jalan atau rawat inap, bukan CAP orang tua sakit keras.\n\nOpsi C keliru karena materi tidak menetapkan pola hari pertama dipotong dan sisanya bebas potongan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 11/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 11,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang PNS Golongan IV hadir bekerja sesuai daftar hadir pada beberapa hari kerja dalam bulan berjalan. Staf baru menghitung uang makan Golongan IV dengan tarif Golongan III dan menerapkan PPh final Golongan III. Bendahara meminta koreksi agar sesuai tabel uang makan dalam materi. Pejabat eselon IV juga mengingatkan bahwa pemberian uang makan didasarkan pada daftar hadir pegawai ASN. Koreksi mana yang benar?",
+        "answer": "Uang makan Golongan IV sebesar Rp41.000,00 dengan tarif PPh Pasal 21 Final 15%.",
+        "options": [
+          "Uang makan Golongan IV sebesar Rp37.000,00 dengan tarif PPh Pasal 21 Final 5%.",
+          "Uang makan Golongan IV sebesar Rp41.000,00 dengan tarif PPh Pasal 21 Final 15%.",
+          "Uang makan Golongan IV sebesar Rp35.000,00 dengan tarif PPh Pasal 21 Final 0%.",
+          "Uang makan Golongan IV hanya dibayarkan jika ada Surat Perintah Kerja Lembur."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi uang makan mencantumkan tarif uang makan Golongan IV sebesar Rp41.000,00 dan tarif PPh Pasal 21 Final sebesar 15%. Materi juga menyebut uang makan diberikan kepada pegawai ASN berdasarkan daftar hadir pegawai ASN pada hari kerja dalam satu bulan.\n\nOpsi A keliru karena Rp37.000,00 dan PPh Final 5% berlaku untuk Golongan III.\n\nOpsi C keliru karena Rp35.000,00 dan PPh Final 0% berlaku untuk Golongan I dan II.\n\nOpsi D keliru karena Surat Perintah Kerja Lembur menjadi dasar uang lembur, bukan uang makan hari kerja biasa.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 12/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 12,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai ASN Golongan IV menerima Surat Perintah Kerja Lembur untuk bekerja pada hari libur. Ia bekerja lebih dari 2 jam secara berturut-turut pada hari tersebut. Bendahara harus menjelaskan tarif uang lembur per jam dasar, perlakuan hari libur, dan uang makan lembur yang dapat diberikan. Pejabat eselon IV meminta rumusan yang tidak mencampuradukkan Golongan IV dengan golongan lain. Rumusan mana yang tepat?",
+        "answer": "Tarif uang lembur per jam Golongan IV adalah Rp36.000,00; untuk hari libur tarif uang lembur dihitung 200%; uang makan lembur Golongan IV sebesar Rp41.000,00 dapat diberikan maksimal 1 kali per hari setelah lembur paling kurang 2 jam berturut-turut.",
+        "options": [
+          "Tarif uang lembur per jam Golongan IV adalah Rp36.000,00; untuk hari libur tarif uang lembur dihitung 200%; uang makan lembur Golongan IV sebesar Rp41.000,00 dapat diberikan maksimal 1 kali per hari setelah lembur paling kurang 2 jam berturut-turut.",
+          "Tarif uang lembur per jam Golongan IV adalah Rp24.000,00; untuk hari libur tarif uang lembur tetap 100%; uang makan lembur tidak diberikan kepada Golongan IV.",
+          "Tarif uang lembur per jam Golongan IV adalah Rp30.000,00; untuk hari libur tarif uang lembur dihitung 150%; uang makan lembur diberikan setiap 2 jam tanpa batas harian.",
+          "Tarif uang lembur per jam Golongan IV adalah Rp18.000,00; untuk hari libur pegawai hanya menerima uang makan lembur tanpa uang lembur."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi uang lembur mencantumkan tarif uang lembur per jam Golongan IV sebesar Rp36.000,00 dan keterangan hari libur 200%. Materi juga mencantumkan uang makan lembur Golongan IV sebesar Rp41.000,00, diberikan setelah bekerja lembur paling kurang 2 jam berturut-turut dan maksimal 1 kali per hari.\n\nOpsi B keliru karena Rp24.000,00 adalah tarif uang lembur per jam Golongan II, bukan Golongan IV, dan materi tetap mencantumkan uang makan lembur Golongan IV.\n\nOpsi C keliru karena Rp30.000,00 adalah tarif uang lembur per jam Golongan III dan materi menyebut hari libur 200%, bukan 150%.\n\nOpsi D keliru karena Rp18.000,00 adalah tarif uang lembur per jam Golongan I dan materi tidak menghapus uang lembur pada hari libur.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 13/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 13,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Tiga pegawai sedang membandingkan hak tunjangan kinerja selama tugas belajar. Pegawai pertama adalah PNS tugas belajar dibiayai diberhentikan. Pegawai kedua adalah PNS tugas belajar dibiayai tidak diberhentikan. Pegawai ketiga adalah PNS tugas belajar mandiri diberhentikan. Pengelola keuangan harus menjelaskan persentase tunjangan kinerja masing-masing berdasarkan materi. Penjelasan mana yang benar?",
+        "answer": "Pegawai pertama 75%, pegawai kedua 100%, dan pegawai ketiga 50% dari total tunjangan kinerja.",
+        "options": [
+          "Pegawai pertama 100%, pegawai kedua 75%, dan pegawai ketiga 100% dari total tunjangan kinerja.",
+          "Pegawai pertama 50%, pegawai kedua 50%, dan pegawai ketiga 75% dari total tunjangan kinerja.",
+          "Pegawai pertama 75%, pegawai kedua 100%, dan pegawai ketiga 50% dari total tunjangan kinerja.",
+          "Pegawai pertama 75%, pegawai kedua 50%, dan pegawai ketiga 100% dari total tunjangan kinerja."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi penghasilan pegawai tugas belajar menyebut PNS tugas belajar dibiayai diberhentikan menerima 75% dari total tunjangan kinerja, PNS tugas belajar dibiayai tidak diberhentikan menerima 100%, dan PNS tugas belajar mandiri diberhentikan menerima 50%.\n\nOpsi A keliru karena membalik hak pegawai pertama dan ketiga serta menurunkan pegawai kedua menjadi 75%.\n\nOpsi B keliru karena tidak sesuai dengan ketiga persentase yang tercantum dalam materi.\n\nOpsi D keliru karena pegawai kedua seharusnya 100% dan pegawai ketiga seharusnya 50%.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 14/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 14,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Satuan kerja sedang menyusun pedoman internal pelaksanaan dan pertanggungjawaban perjalanan dinas yang dibebankan pada APBN. Dalam rapat, muncul pertanyaan siapa saja yang termasuk dalam ruang lingkup pengaturan tersebut. Seorang staf mengira hanya PNS yang dapat menjadi pelaksana perjalanan dinas. Pejabat eselon IV perlu meluruskan berdasarkan bagian ruang lingkup dalam materi. Pernyataan mana yang paling tepat?",
+        "answer": "Ruang lingkup mengatur perjalanan dinas yang dibebankan pada APBN untuk Pejabat Negara, Pegawai Negeri, Pegawai Tidak Tetap, dan Pihak Lain; Pegawai Negeri termasuk PNS, CPNS, anggota TNI, dan anggota Polri.",
+        "options": [
+          "Perjalanan dinas yang dibebankan pada APBN hanya mengatur PNS dan tidak mencakup Pejabat Negara, Pegawai Tidak Tetap, atau Pihak Lain.",
+          "Pegawai Negeri dalam materi hanya berarti PNS, sehingga CPNS, anggota TNI, dan anggota Polri tidak termasuk.",
+          "Perjalanan dinas dalam negeri hanya meliputi perjalanan dinas jabatan, sedangkan perjalanan dinas pindah tidak termasuk ruang lingkup.",
+          "Ruang lingkup mengatur perjalanan dinas yang dibebankan pada APBN untuk Pejabat Negara, Pegawai Negeri, Pegawai Tidak Tetap, dan Pihak Lain; Pegawai Negeri termasuk PNS, CPNS, anggota TNI, dan anggota Polri."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi ruang lingkup perjalanan dinas dalam negeri menyebut pelaksanaan dan pertanggungjawaban perjalanan dinas yang dibebankan pada APBN untuk Pejabat Negara, Pegawai Negeri, Pegawai Tidak Tetap, dan Pihak Lain. Materi juga merinci Pegawai Negeri termasuk PNS, CPNS, anggota TNI, dan anggota Polri.\n\nOpsi A keliru karena materi tidak membatasi perjalanan dinas APBN hanya pada PNS.\n\nOpsi B keliru karena materi memasukkan CPNS, anggota TNI, dan anggota Polri dalam cakupan Pegawai Negeri.\n\nOpsi C keliru karena materi menyebut perjalanan dinas meliputi perjalanan dinas jabatan dan perjalanan dinas pindah.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 15/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 15,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai mendapat penugasan menghadiri kegiatan di kota yang sama selama 10 jam. Pegawai lain mendapat penugasan di kota yang sama selama 6 jam. Sementara itu, seorang pejabat harus menjalankan penugasan ke luar kota. Kepala subbagian ingin mengklasifikasikan ketiga penugasan berdasarkan penggolongan perjalanan dinas jabatan dalam materi. Klasifikasi mana yang paling tepat?",
+        "answer": "Penugasan dalam kota 10 jam masuk perjalanan dinas jabatan dalam kota lebih dari 8 jam, penugasan dalam kota 6 jam masuk dalam kota sampai dengan 8 jam, dan penugasan ke luar kota masuk melewati batas kota.",
+        "options": [
+          "Seluruh penugasan dalam kota selalu masuk satu kategori yang sama tanpa membedakan durasi.",
+          "Penugasan dalam kota 10 jam masuk perjalanan dinas jabatan dalam kota lebih dari 8 jam, penugasan dalam kota 6 jam masuk dalam kota sampai dengan 8 jam, dan penugasan ke luar kota masuk melewati batas kota.",
+          "Penugasan dalam kota 10 jam masuk perjalanan dinas pindah, penugasan dalam kota 6 jam masuk perjalanan dinas jabatan, dan penugasan luar kota tidak termasuk perjalanan dinas.",
+          "Seluruh penugasan hanya dapat diklasifikasikan setelah ada biaya hotel."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi penggolongan perjalanan dinas jabatan membagi perjalanan dinas jabatan menjadi di dalam kota dan melewati batas kota. Untuk di dalam kota, materi membedakan perjalanan dinas jabatan dalam kota sampai dengan 8 jam dan dalam kota lebih dari 8 jam.\n\nOpsi A keliru karena materi membedakan perjalanan dinas dalam kota berdasarkan durasi sampai dengan 8 jam dan lebih dari 8 jam.\n\nOpsi C keliru karena durasi dalam kota tidak membuat penugasan menjadi perjalanan dinas pindah.\n\nOpsi D keliru karena klasifikasi tidak bergantung pada ada atau tidaknya biaya hotel.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 16/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 16,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai mendapat penugasan mengikuti pendidikan setara S2 yang diselenggarakan di kota lain. Unit kerja ragu apakah kegiatan tersebut dapat diperlakukan sebagai perjalanan dinas jabatan. Dalam rapat, ada yang berpendapat perjalanan dinas jabatan hanya untuk rapat atau seminar. Pejabat eselon IV meminta rujukan pada daftar kegiatan perjalanan dinas jabatan dalam materi. Sikap mana yang paling sesuai?",
+        "answer": "Kegiatan tersebut dapat menjadi perjalanan dinas jabatan karena materi mencantumkan mengikuti pendidikan setara Diploma/S1/S2/S3 sebagai salah satu rangka perjalanan dinas jabatan.",
+        "options": [
+          "Kegiatan tersebut tidak dapat menjadi perjalanan dinas jabatan karena pendidikan selalu masuk perjalanan dinas pindah.",
+          "Kegiatan tersebut hanya dapat menjadi perjalanan dinas jabatan jika pegawai juga mengikuti rapat atau seminar.",
+          "Kegiatan tersebut dapat menjadi perjalanan dinas jabatan karena materi mencantumkan mengikuti pendidikan setara Diploma/S1/S2/S3 sebagai salah satu rangka perjalanan dinas jabatan.",
+          "Kegiatan tersebut hanya dapat dibiayai sebagai uang lembur karena dilakukan di luar kantor."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi perjalanan dinas jabatan mencantumkan beberapa rangka kegiatan, termasuk mengikuti pendidikan setara Diploma/S1/S2/S3. Dengan demikian, kegiatan mengikuti pendidikan setara S2 dapat termasuk perjalanan dinas jabatan sepanjang memenuhi ketentuan perjalanan dinas.\n\nOpsi A keliru karena materi tidak menyatakan pendidikan selalu menjadi perjalanan dinas pindah.\n\nOpsi B keliru karena daftar materi tidak membatasi perjalanan dinas jabatan hanya untuk rapat atau seminar.\n\nOpsi D keliru karena uang lembur adalah kompensasi kerja lembur berdasarkan Surat Perintah Kerja Lembur, bukan pengganti klasifikasi perjalanan dinas jabatan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 17/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 17,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang Pejabat Negara menjalankan perjalanan dinas jabatan ke suatu kota dan membutuhkan kendaraan untuk pelaksanaan tugas di tempat tujuan. Dalam estimasi biaya, staf memasukkan sewa kendaraan dalam kota sesuai biaya riil dan menyebut sudah termasuk pengemudi, bahan bakar minyak, dan pajak. Pegawai lain bertanya apakah fasilitas yang sama dapat diberikan kepada semua pelaksana SPD tanpa melihat jabatannya. Pejabat pengelola keuangan harus menjawab sesuai materi komponen perjalanan dinas jabatan. Jawaban mana yang tepat?",
+        "answer": "Sewa kendaraan dalam kota hanya diberikan kepada Pejabat Negara untuk keperluan pelaksanaan di tempat tujuan, sudah termasuk biaya pengemudi, bahan bakar minyak, dan pajak, serta dibayarkan sesuai biaya riil berpedoman pada standar biaya.",
+        "options": [
+          "Sewa kendaraan dalam kota hanya diberikan kepada Pejabat Negara untuk keperluan pelaksanaan di tempat tujuan, sudah termasuk biaya pengemudi, bahan bakar minyak, dan pajak, serta dibayarkan sesuai biaya riil berpedoman pada standar biaya.",
+          "Sewa kendaraan dalam kota diberikan kepada semua pegawai dan selalu dibayarkan lumpsum tanpa bukti.",
+          "Sewa kendaraan dalam kota hanya diberikan kepada Pejabat Eselon III dan PNS Golongan IV dalam perjalanan dinas pindah.",
+          "Sewa kendaraan dalam kota tidak pernah dapat dibebankan karena seluruh transportasi lokal sudah diganti dengan uang makan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi komponen perjalanan dinas jabatan menyebut sewa kendaraan dalam kota hanya diberikan kepada Pejabat Negara untuk keperluan pelaksanaan di tempat tujuan, sudah termasuk biaya pengemudi, bahan bakar minyak, dan pajak. Materi juga menyebut pembayaran dilakukan sesuai biaya riil dan berpedoman pada PMK mengenai standar biaya.\n\nOpsi B keliru karena materi tidak memberikan sewa kendaraan dalam kota kepada semua pegawai dan tidak menyebut pembayaran lumpsum.\n\nOpsi C keliru karena ketentuan Pejabat Eselon III atau PNS paling rendah Golongan IV dalam materi berkaitan dengan pembantu rumah tangga pada perjalanan dinas pindah, bukan sewa kendaraan dalam kota.\n\nOpsi D keliru karena materi mencantumkan sewa kendaraan dalam kota sebagai salah satu komponen perjalanan dinas jabatan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 18/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 18,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Bendahara menemukan beberapa klaim biaya perjalanan dinas yang mencurigakan. Salah satu klaim memakai bukti pengeluaran yang tidak autentik. Klaim lain memuat tarif hotel yang melebihi tarif resmi, dan terdapat pelaksanaan perjalanan dinas rangkap pada waktu yang sama. Atasan meminta bendahara menyusun daftar biaya yang tidak dapat dibebankan berdasarkan materi. Daftar mana yang paling tepat?",
+        "answer": "Bukti pengeluaran atau dokumen palsu, mark up tiket atau penginapan, pelaksanaan perjalanan dinas rangkap pada waktu yang sama, serta pelaksanaan dan pembayaran yang tidak sesuai ketentuan tidak dapat dibebankan.",
+        "options": [
+          "Semua klaim tetap dapat dibebankan sepanjang pegawai telah memiliki Surat Tugas.",
+          "Hanya bukti palsu yang tidak dapat dibebankan, sedangkan mark up dan perjalanan rangkap tetap dapat dibayar jika disetujui atasan langsung.",
+          "Biaya perjalanan dinas rangkap dapat dibebankan selama pegawai membuat dua laporan pertanggungjawaban terpisah.",
+          "Bukti pengeluaran atau dokumen palsu, mark up tiket atau penginapan, pelaksanaan perjalanan dinas rangkap pada waktu yang sama, serta pelaksanaan dan pembayaran yang tidak sesuai ketentuan tidak dapat dibebankan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi biaya perjalanan dinas yang tidak dapat dibebankan mencantumkan bukti pengeluaran atau dokumen palsu, melebihi tarif tiket atau biaya penginapan resmi, pelaksanaan perjalanan dinas rangkap pada waktu yang sama, serta pelaksanaan dan pembayaran biaya perjalanan dinas yang tidak sesuai ketentuan peraturan perundang-undangan.\n\nOpsi A keliru karena Surat Tugas tidak menghapus larangan pembebanan biaya yang tidak memenuhi ketentuan.\n\nOpsi B keliru karena mark up dan perjalanan dinas rangkap pada waktu yang sama juga termasuk biaya yang tidak dapat dibebankan.\n\nOpsi C keliru karena perjalanan dinas rangkap pada waktu yang sama secara materi termasuk biaya yang tidak dapat dibebankan, bukan menjadi sah karena laporan dipisahkan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 19/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 19,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket B",
+        "question": "Seorang pegawai akan melaksanakan perjalanan dinas pindah karena pindah tugas yang dibebankan pada DIPA KPDJP. Ia menyatakan tidak perlu memperbarui data keluarga di SIKKA karena tidak ada perubahan anggota keluarga. Beberapa minggu kemudian, ia meminta bendahara menggunakan seluruh data anak lama tanpa validasi UPK Lokal. Pejabat eselon IV harus memberi arahan sesuai Surat Edaran Direktur Jenderal Pajak Nomor SE-33/PJ/2021 sebagaimana dicantumkan dalam materi. Arahan mana yang tepat?",
+        "answer": "Pelaksana perjalanan dinas wajib melakukan pemutakhiran data keluarga pada aplikasi SIKKA melalui UPK Lokal baik ada perubahan maupun tidak; jika tidak dilakukan, data anak yang menjadi dasar perhitungan SPD Pindah adalah anak berusia kurang dari 21 tahun sejak tanggal mulai berlaku keputusan pindah.",
+        "options": [
+          "Pemutakhiran data keluarga hanya wajib dilakukan jika ada perubahan data keluarga, dan tanpa pemutakhiran seluruh anak tetap dihitung tanpa batas usia.",
+          "Pelaksana perjalanan dinas wajib melakukan pemutakhiran data keluarga pada aplikasi SIKKA melalui UPK Lokal baik ada perubahan maupun tidak; jika tidak dilakukan, data anak yang menjadi dasar perhitungan SPD Pindah adalah anak berusia kurang dari 21 tahun sejak tanggal mulai berlaku keputusan pindah.",
+          "Pemutakhiran data keluarga dilakukan setelah SPD Pindah dibayar dan tidak memengaruhi dasar perhitungan biaya.",
+          "Data keluarga untuk SPD Pindah cukup diambil dari daftar hadir pegawai ASN pada bulan berjalan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut pelaksana perjalanan dinas pindah dalam rangka pindah tugas yang dibebankan pada DIPA KPDJP wajib melakukan pemutakhiran data keluarga pada aplikasi SIKKA melalui UPK Lokal baik ada perubahan maupun tidak ada perubahan, sebagai dasar perhitungan biaya perjalanan dinas pindah dan untuk divalidasi oleh UPK Lokal. Materi juga menyebut jika kewajiban tersebut tidak dilaksanakan, data anak yang menjadi dasar perhitungan SPD Pindah adalah anak yang berusia kurang dari 21 tahun terhitung sejak tanggal mulai berlaku keputusan pindah.\n\nOpsi A keliru karena materi mewajibkan pemutakhiran baik ada perubahan maupun tidak ada perubahan.\n\nOpsi C keliru karena pemutakhiran data keluarga menjadi dasar perhitungan biaya perjalanan dinas pindah, bukan dilakukan setelah pembayaran tanpa pengaruh.\n\nOpsi D keliru karena daftar hadir pegawai ASN berkaitan dengan uang makan, bukan dasar data keluarga untuk SPD Pindah.\n\n## Rekap Kunci Jawaban\n\n| No. | Kunci |\n|---:|:---:|\n| 1 | C |\n| 2 | A |\n| 3 | D |\n| 4 | B |\n| 5 | A |\n| 6 | C |\n| 7 | B |\n| 8 | D |\n| 9 | C |\n| 10 | A |\n| 11 | D |\n| 12 | B |\n| 13 | A |\n| 14 | C |\n| 15 | D |\n| 16 | B |\n| 17 | C |\n| 18 | A |\n| 19 | D |\n| 20 | B |\n\n## Quality Gate Report\n\n**Output type**: Document\n**Gate result**: PASS\n\n### Findings\n\nTidak ada temuan blocking pada pemeriksaan manual dan validasi otomatis.\n\n### What was verified\n\n- Validator skill mendeteksi 20 soal.\n- Setiap soal memakai opsi A-D.\n- Setiap soal memiliki kunci dan pembahasan opsi salah.\n- Distribusi kunci tervalidasi seimbang: A=5, B=5, C=5, D=5.\n- Tidak ada label tingkat kesulitan.\n- Setiap stem soal memenuhi minimal 4 kalimat.\n- Substansi bersumber dari isi aktual PDF.\n- Paket B menghindari pengulangan framing utama dari Paket A.\n\n### Recommendation\n\nSHIP.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket B soal 20/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-b",
+          "label": "B",
+          "order": 4,
+          "questionNumber": 20,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nilai-kemenkeu-studi-kasus-paket-c",
+    "categoryId": "nilai-kemenkeu",
+    "name": "NILAI (Studi Kasus) Paket C",
+    "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+    "packageLabel": "C",
+    "packageIndex": 5,
+    "questions": [
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang CPNS mulai melaksanakan tugas pada tanggal 2 Mei. Pada tahun tersebut, tanggal 1 Mei merupakan hari libur. CPNS tersebut bertanya apakah gajinya tetap baru dibayarkan bulan berikutnya karena ia mulai bekerja pada tanggal 2. Staf keuangan perlu membedakan kondisi ini dari kasus tanggal 2 ketika tanggal 1 bukan hari libur. Arahan mana yang paling tepat?",
+        "answer": "Gaji dibayarkan mulai bulan berkenaan karena pelaksanaan tugas dimulai tanggal 2 ketika tanggal 1 adalah hari libur.",
+        "options": [
+          "Gaji dibayarkan mulai bulan berikutnya karena setiap pegawai yang mulai pada tanggal 2 tidak dihitung sebagai kondisi awal bulan.",
+          "Gaji tidak dapat dibayarkan sampai CPNS menerima kenaikan gaji berkala pertama.",
+          "Gaji dibayarkan mulai bulan berkenaan karena pelaksanaan tugas dimulai tanggal 2 ketika tanggal 1 adalah hari libur.",
+          "Gaji dibayarkan secara proporsional sejak tanggal 2 tanpa mengikuti ketentuan kondisi awal bulan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut gaji PNS/CPNS dibayarkan berdasarkan kondisi awal bulan pegawai. Materi memberi pengecualian bahwa jika pelaksanaan tugas dimulai tanggal 2 dan tanggal 1 adalah hari libur, gaji dibayarkan mulai bulan berkenaan.\n\nOpsi A keliru karena materi membedakan tanggal 2 ketika tanggal 1 bukan hari libur dan tanggal 2 ketika tanggal 1 hari libur.\n\nOpsi B keliru karena kenaikan gaji berkala bukan syarat awal pembayaran gaji CPNS dalam kasus ini.\n\nOpsi D keliru karena materi tidak menggunakan mekanisme proporsional sejak tanggal 2, tetapi menentukan bulan mulai pembayaran berdasarkan kondisi awal bulan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 1/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 1,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Dalam daftar gaji, seorang PNS dan keluarganya menerima tunjangan beras. Pada bulan tertentu, tunjangan beras diberikan dalam bentuk natura, bukan uang. Bendahara ragu apakah masih perlu melakukan potongan beras pada penghasilan pegawai. Pejabat eselon IV diminta memberi arahan agar pencatatan gaji sesuai dengan materi komponen pengurang gaji. Arahan mana yang benar?",
+        "answer": "Potongan beras dikenakan sebesar tunjangan beras yang diberikan apabila tunjangan beras dibayarkan dalam bentuk natura.",
+        "options": [
+          "Potongan beras dikenakan sebesar tunjangan beras yang diberikan apabila tunjangan beras dibayarkan dalam bentuk natura.",
+          "Potongan beras tidak pernah dikenakan karena tunjangan beras selalu menjadi tambahan bersih bagi pegawai.",
+          "Potongan beras dikenakan sebesar 1% dari total penghasilan sebulan dengan batas maksimal Rp120.000,00.",
+          "Potongan beras hanya dikenakan jika pegawai menempati rumah negara berdasarkan surat keputusan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi komponen pengurang gaji menyebut potongan beras sebesar tunjangan beras yang diberikan apabila tunjangan beras dibayarkan dalam bentuk natura.\n\nOpsi B keliru karena materi secara khusus mencantumkan potongan beras dalam kondisi tunjangan beras dibayarkan dalam bentuk natura.\n\nOpsi C keliru karena 1% dari total penghasilan sebulan dengan batas maksimal Rp120.000,00 merupakan ketentuan BPJS Kesehatan, bukan potongan beras.\n\nOpsi D keliru karena pegawai yang menempati rumah negara berkaitan dengan potongan sewa rumah negara, bukan potongan beras.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 2/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 2,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang PNS menempati rumah negara berdasarkan surat keputusan pejabat yang berwenang. Pada saat yang sama, pegawai tersebut juga memiliki kewajiban pengembalian utang kepada negara. Staf penggajian bertanya apakah kedua kondisi itu dapat menjadi dasar potongan pada gaji. Pejabat eselon IV perlu menjawab dengan membedakan potongan sewa rumah negara dan potongan lainnya sebagaimana materi. Pernyataan mana yang paling tepat?",
+        "answer": "Potongan sewa rumah negara dikenakan kepada PNS yang menempati rumah negara berdasarkan surat keputusan, sedangkan potongan lainnya dapat dikenakan apabila PNS mempunyai utang kepada negara selain potongan yang telah disebutkan.",
+        "options": [
+          "Potongan hanya dapat dilakukan untuk BPJS Kesehatan, sedangkan rumah negara dan utang kepada negara tidak termasuk komponen pengurang gaji.",
+          "Potongan sewa rumah negara hanya berlaku bagi pegawai yang tidak memiliki surat keputusan menempati rumah negara.",
+          "Utang kepada negara tidak boleh menjadi potongan lainnya karena seluruh potongan harus berasal dari tunjangan kinerja.",
+          "Potongan sewa rumah negara dikenakan kepada PNS yang menempati rumah negara berdasarkan surat keputusan, sedangkan potongan lainnya dapat dikenakan apabila PNS mempunyai utang kepada negara selain potongan yang telah disebutkan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menyebut potongan sewa rumah negara dikenakan kepada PNS yang menempati rumah negara berdasarkan SK menempati rumah negara dari pejabat yang berwenang, dengan besaran berdasarkan SK Menteri PUPR. Materi juga menyebut potongan lainnya dikenakan apabila PNS mempunyai utang kepada negara selain hal-hal yang telah disebutkan.\n\nOpsi A keliru karena materi mencantumkan potongan sewa rumah negara dan potongan lainnya sebagai komponen pengurang gaji.\n\nOpsi B keliru karena potongan sewa rumah negara justru dikenakan berdasarkan SK menempati rumah negara.\n\nOpsi C keliru karena materi menyebut utang kepada negara sebagai dasar potongan lainnya dan tidak mensyaratkan potongan tersebut berasal dari tunjangan kinerja.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 3/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 3,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Kepala subbagian umum sedang menelaah tunjangan kinerja beberapa pegawai. Ia menemukan pegawai dengan jabatan dan peringkat jabatan berbeda, serta pegawai yang memiliki catatan presensi dan hukuman disiplin. Dalam rapat, seorang staf mengira tunjangan kinerja hanya ditentukan oleh capaian kinerja tanpa memperhitungkan jabatan atau potongan. Pejabat tersebut perlu menyampaikan faktor yang benar sesuai materi. Pernyataan mana yang paling tepat?",
+        "answer": "Besaran tunjangan kinerja juga ditentukan oleh jabatan, peringkat jabatan, dan potongan tunjangan kinerja, termasuk kondisi tidak masuk bekerja, terlambat, pulang sebelum waktunya, tidak mengganti keterlambatan, tidak mengisi daftar hadir, dijatuhi hukuman disiplin, dan lainnya.",
+        "options": [
+          "Besaran tunjangan kinerja hanya ditentukan oleh daftar hadir pegawai dan tidak berkaitan dengan jabatan atau peringkat jabatan.",
+          "Besaran tunjangan kinerja juga ditentukan oleh jabatan, peringkat jabatan, dan potongan tunjangan kinerja, termasuk kondisi tidak masuk bekerja, terlambat, pulang sebelum waktunya, tidak mengganti keterlambatan, tidak mengisi daftar hadir, dijatuhi hukuman disiplin, dan lainnya.",
+          "Besaran tunjangan kinerja hanya ditentukan oleh uang makan dan uang lembur yang diterima pada bulan berjalan.",
+          "Potongan tunjangan kinerja hanya dapat dikenakan jika pegawai tidak berada di tempat tugas selama satu bulan penuh."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut besaran tunjangan kinerja juga ditentukan oleh jabatan, peringkat jabatan, dan potongan tunjangan kinerja. Materi merinci potongan tunjangan kinerja antara lain untuk pegawai yang tidak masuk bekerja atau tidak berada di tempat tugas selama 7,5 jam atau lebih dalam sehari, terlambat masuk, pulang sebelum waktunya, tidak mengganti waktu keterlambatan, tidak mengisi daftar hadir, dijatuhi hukuman disiplin, dan lainnya.\n\nOpsi A keliru karena jabatan dan peringkat jabatan disebut sebagai faktor besaran tunjangan kinerja.\n\nOpsi C keliru karena uang makan dan uang lembur bukan faktor yang disebut dalam bagian kriteria besaran tunjangan kinerja.\n\nOpsi D keliru karena materi menyebut potongan dapat timbul dari kondisi harian, misalnya tidak masuk bekerja atau tidak berada di tempat tugas selama 7,5 jam atau lebih dalam sehari.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 4/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 4,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai dijatuhi hukuman disiplin ringan berupa teguran lisan. Pegawai tersebut menyatakan bahwa teguran lisan seharusnya tidak berdampak pada tunjangan kinerja karena belum berbentuk teguran tertulis. Pengelola keuangan meminta arahan mengenai persentase dan lama pemotongan yang benar. Pejabat eselon IV harus merujuk pada tabel hukuman disiplin ringan dalam materi. Arahan mana yang tepat?",
+        "answer": "Teguran lisan dikenai pemotongan 25% selama 2 bulan.",
+        "options": [
+          "Teguran lisan tidak dikenai pemotongan tunjangan kinerja karena hanya berupa peringatan lisan.",
+          "Teguran lisan dikenai pemotongan 25% selama 6 bulan.",
+          "Teguran lisan dikenai pemotongan 50% selama 2 bulan.",
+          "Teguran lisan dikenai pemotongan 25% selama 2 bulan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi potongan tunjangan kinerja untuk hukuman disiplin ringan mencantumkan teguran lisan dengan persentase pemotongan 25% selama 2 bulan.\n\nOpsi A keliru karena materi tetap mencantumkan teguran lisan sebagai jenis hukuman dengan pemotongan tunjangan kinerja.\n\nOpsi B keliru karena 25% selama 6 bulan berlaku untuk pernyataan tidak puas secara tertulis.\n\nOpsi C keliru karena 50% bukan persentase untuk hukuman disiplin ringan berupa teguran lisan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 5/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 5,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang PNS dijatuhi hukuman disiplin sedang berupa penundaan kenaikan gaji berkala selama 1 tahun. Ia membandingkan kasusnya dengan hukuman penundaan kenaikan pangkat dan meminta masa pemotongan yang sama. Bendahara perlu menerapkan tabel hukuman disiplin sedang secara spesifik, bukan menyamakan semua jenis hukuman sedang. Pejabat eselon IV diminta menetapkan potongan yang sesuai materi. Ketetapan mana yang benar?",
+        "answer": "Tunjangan kinerja dipotong 50% selama 6 bulan.",
+        "options": [
+          "Tunjangan kinerja dipotong 50% selama 6 bulan.",
+          "Tunjangan kinerja dipotong 50% selama 9 bulan.",
+          "Tunjangan kinerja dipotong 50% selama 12 bulan.",
+          "Tunjangan kinerja dipotong 25% selama 6 bulan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi hukuman disiplin sedang menyebut penundaan kenaikan gaji berkala selama 1 tahun dikenai pemotongan tunjangan kinerja 50% selama 6 bulan.\n\nOpsi B keliru karena 50% selama 9 bulan berlaku untuk penundaan kenaikan pangkat selama 1 tahun.\n\nOpsi C keliru karena 50% selama 12 bulan berlaku untuk penurunan pangkat setingkat lebih rendah selama 1 tahun.\n\nOpsi D keliru karena 25% selama 6 bulan berlaku untuk hukuman disiplin ringan berupa pernyataan tidak puas secara tertulis.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 6/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 6,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Pada hari Senin, seorang pegawai DJP melakukan presensi masuk pukul 09.20. Hari tersebut mengikuti uraian potongan sesuai PMK-221/PMK.01/2021 untuk Senin dan Jumat sebagaimana ditampilkan dalam materi. Operator presensi perlu menentukan klasifikasi keterlambatan sebelum tunjangan kinerja dihitung. Pegawai tersebut mengira tidak ada potongan karena masih masuk sebelum pukul 09.30. Keputusan mana yang benar?",
+        "answer": "TL 1 dengan potongan 1% karena waktu masuk bekerja pukul 09.01 sampai dengan kurang dari 09.31.",
+        "options": [
+          "Tidak ada potongan karena pegawai masih masuk sebelum pukul 09.31.",
+          "TL 2 dengan potongan 1,25% karena pegawai masuk setelah pukul 09.01.",
+          "TL 1 dengan potongan 1% karena waktu masuk bekerja pukul 09.01 sampai dengan kurang dari 09.31.",
+          "TL 3 dengan potongan 2,5% karena semua keterlambatan pada hari Senin masuk TL 3."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi untuk Senin dan Jumat sesuai PMK-221/PMK.01/2021 menyebut TL 1 berlaku untuk waktu masuk bekerja pukul 09.01 sampai dengan kurang dari 09.31, dengan potongan 1%.\n\nOpsi A keliru karena rentang pukul 09.01 sampai dengan kurang dari 09.31 tetap masuk TL 1 dan dikenai potongan 1%.\n\nOpsi B keliru karena TL 2 untuk Senin dan Jumat berlaku pada pukul 09.31 sampai dengan kurang dari 10.01.\n\nOpsi D keliru karena TL 3 untuk Senin dan Jumat berlaku pada pukul 10.01 atau lebih dan/atau tidak mengisi daftar hadir masuk bekerja.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 7/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 7,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai tidak masuk kantor pada satu hari kerja karena izin. Pada hari tersebut, ia tidak melaksanakan tugas di tempat kerja dan tidak memenuhi daftar hadir sebagai kehadiran kerja. Staf pengelola tunjangan kinerja bertanya apakah kondisi izin diperlakukan sama dengan alpa dalam tabel potongan. Pejabat eselon IV harus menjawab berdasarkan uraian potongan terlambat masuk dalam materi. Jawaban mana yang tepat?",
+        "answer": "Dikenai potongan 5% karena materi menyebut tidak masuk kantor baik alpa maupun izin.",
+        "options": [
+          "Tidak ada potongan karena izin berbeda dari alpa.",
+          "Dikenai potongan 5% karena materi menyebut tidak masuk kantor baik alpa maupun izin.",
+          "Dikenai potongan 1% karena izin hanya setara TL 1.",
+          "Dikenai potongan 2,5% karena izin selalu diperlakukan sebagai TL 3."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi potongan tunjangan kinerja pada bagian terlambat masuk mencantumkan ALPA/IJIN sebagai tidak masuk kantor baik alpa maupun izin dengan potongan 5%.\n\nOpsi A keliru karena materi secara eksplisit memasukkan izin dalam kategori ALPA/IJIN untuk potongan 5%.\n\nOpsi C keliru karena TL 1 berkaitan dengan keterlambatan masuk pada rentang waktu tertentu, bukan tidak masuk kantor karena izin.\n\nOpsi D keliru karena TL 3 berbeda dari ALPA/IJIN, dan potongan untuk ALPA/IJIN dalam materi adalah 5%.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 8/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 8,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai pulang 20 menit lebih cepat dari waktu pulang yang seharusnya. Ia tetap mengisi daftar hadir pulang kerja, tetapi sistem mencatat selisih waktu pulang sebelum waktunya. Bendahara perlu menentukan kategori PSW dan potongan tunjangan kinerja. Pejabat eselon IV meminta agar kategori tidak disamakan dengan pegawai yang pulang lebih dari 31 menit. Keputusan mana yang tepat?",
+        "answer": "PSW 1 dengan potongan 0,5% karena pulang sebelum waktunya sampai dengan kurang dari 31 menit.",
+        "options": [
+          "PSW 1 dengan potongan 0,5% karena pulang sebelum waktunya sampai dengan kurang dari 31 menit.",
+          "PSW 2 dengan potongan 1% karena setiap pulang sebelum waktunya dikenai minimal 1%.",
+          "PSW 3 dengan potongan 1,25% karena pegawai tetap mengisi daftar hadir pulang kerja.",
+          "PSW 4 dengan potongan 2,5% karena setiap pulang sebelum waktunya dianggap tidak mengisi daftar hadir pulang."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi potongan tunjangan kinerja untuk pulang sebelum waktunya menyebut PSW 1 berlaku bagi yang pulang sebelum waktunya sampai dengan kurang dari 31 menit, dengan potongan 0,5%.\n\nOpsi B keliru karena PSW 2 berlaku untuk pulang sebelum waktunya 31 menit sampai dengan kurang dari 61 menit.\n\nOpsi C keliru karena PSW 3 berlaku untuk 61 menit sampai dengan kurang dari 91 menit.\n\nOpsi D keliru karena PSW 4 berlaku untuk 91 menit atau lebih dan/atau tidak mengisi daftar hadir pulang kerja.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 9/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 9,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai mengajukan Cuti Alasan Penting untuk mendampingi istri yang melahirkan selama 12 hari kerja. Unit kepegawaian menyetujui cuti tersebut sesuai ketentuan administratif. Pegawai berpendapat bahwa seluruh 12 hari kerja tidak dikenai potongan karena alasan kelahiran anak. Pengelola keuangan harus menerapkan tabel cuti tertentu dalam materi. Perlakuan mana yang benar?",
+        "answer": "Paling lama 10 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 5%.",
+        "options": [
+          "Seluruh 12 hari kerja dikenai potongan 0% karena CAP mendampingi istri melahirkan tidak memiliki batas hari.",
+          "Seluruh 12 hari kerja dikenai potongan 2,5% karena semua cuti terkait kesehatan keluarga diperlakukan seperti cuti sakit rawat inap.",
+          "Paling lama 5 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 5%.",
+          "Paling lama 10 hari kerja dikenai potongan 0%, dan hari berikutnya dikenai potongan 5%."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi cuti tertentu menyebut CAP mendampingi istri yang melahirkan memperoleh potongan 0% paling lama 10 hari kerja, sedangkan potongan hari berikutnya adalah 5%.\n\nOpsi A keliru karena materi membatasi potongan 0% untuk CAP mendampingi istri melahirkan paling lama 10 hari kerja.\n\nOpsi B keliru karena potongan 2,5% pada hari berikutnya berlaku untuk cuti sakit rawat jalan atau rawat inap, bukan CAP mendampingi istri melahirkan.\n\nOpsi C keliru karena batas paling lama 5 hari kerja berlaku untuk CAP melangsungkan perkawinan atau CAP keluarga sakit keras/meninggal dunia, bukan CAP mendampingi istri melahirkan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 10/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 10,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang PNS Golongan II hadir bekerja sesuai daftar hadir pada beberapa hari kerja dalam satu bulan. Staf keuangan baru memasukkan tarif uang makan Golongan II sama dengan Golongan III karena keduanya dianggap berada pada kelompok menengah. Bendahara juga perlu memastikan tarif PPh Pasal 21 Final yang benar. Pejabat eselon IV diminta memberi koreksi berdasarkan tabel uang makan dalam materi. Koreksi mana yang tepat?",
+        "answer": "Uang makan Golongan II sebesar Rp35.000,00 dengan tarif PPh Pasal 21 Final 0%.",
+        "options": [
+          "Uang makan Golongan II sebesar Rp37.000,00 dengan tarif PPh Pasal 21 Final 5%.",
+          "Uang makan Golongan II sebesar Rp35.000,00 dengan tarif PPh Pasal 21 Final 0%.",
+          "Uang makan Golongan II sebesar Rp41.000,00 dengan tarif PPh Pasal 21 Final 15%.",
+          "Uang makan Golongan II tidak diberikan berdasarkan daftar hadir, tetapi berdasarkan Surat Perintah Kerja Lembur."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi uang makan mengelompokkan Golongan I dan II dengan tarif uang makan Rp35.000,00 dan tarif PPh Pasal 21 Final 0%. Materi juga menyatakan uang makan diberikan kepada pegawai ASN berdasarkan daftar hadir pegawai ASN pada hari kerja dalam satu bulan.\n\nOpsi A keliru karena Rp37.000,00 dan tarif PPh Final 5% berlaku untuk Golongan III.\n\nOpsi C keliru karena Rp41.000,00 dan tarif PPh Final 15% berlaku untuk Golongan IV.\n\nOpsi D keliru karena Surat Perintah Kerja Lembur menjadi dasar uang lembur, bukan uang makan hari kerja biasa.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 11/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 11,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai ASN Golongan III menerima Surat Perintah Kerja Lembur dari pejabat yang berwenang. Ia bekerja lembur selama 2 jam 30 menit secara berturut-turut pada satu hari kerja. Bendahara harus menghitung tarif uang lembur per jam dan kemungkinan pemberian uang makan lembur. Pegawai lain menyarankan agar tarif Golongan III disamakan dengan Golongan IV karena durasi lemburnya lebih dari 2 jam. Pernyataan mana yang benar?",
+        "answer": "Tarif uang lembur per jam Golongan III adalah Rp30.000,00 dan uang makan lembur Golongan III sebesar Rp37.000,00 dapat diberikan maksimal 1 kali per hari setelah lembur paling kurang 2 jam berturut-turut.",
+        "options": [
+          "Tarif uang lembur per jam Golongan III adalah Rp36.000,00 dan uang makan lembur Golongan III sebesar Rp41.000,00.",
+          "Tarif uang lembur per jam Golongan III adalah Rp24.000,00 dan uang makan lembur tidak dapat diberikan walaupun lembur lebih dari 2 jam.",
+          "Tarif uang lembur per jam Golongan III adalah Rp30.000,00 dan uang makan lembur Golongan III sebesar Rp37.000,00 dapat diberikan maksimal 1 kali per hari setelah lembur paling kurang 2 jam berturut-turut.",
+          "Tarif uang lembur per jam Golongan III adalah Rp18.000,00 dan uang makan lembur hanya diberikan pada hari libur."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi uang lembur mencantumkan tarif uang lembur per jam Golongan III sebesar Rp30.000,00. Materi juga menyebut uang makan lembur diberikan setelah bekerja lembur paling kurang 2 jam secara berturut-turut, maksimal 1 kali per hari, dengan tarif Golongan III sebesar Rp37.000,00.\n\nOpsi A keliru karena Rp36.000,00 dan Rp41.000,00 adalah tarif untuk Golongan IV.\n\nOpsi B keliru karena Rp24.000,00 adalah tarif uang lembur per jam Golongan II dan syarat uang makan lembur terpenuhi apabila lembur paling kurang 2 jam berturut-turut.\n\nOpsi D keliru karena Rp18.000,00 adalah tarif uang lembur per jam Golongan I dan materi tidak mensyaratkan uang makan lembur hanya pada hari libur.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 12/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 12,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai akan menjalani tugas belajar dalam negeri. Pegawai lain pada unit yang sama menjalani tugas belajar mandiri tidak diberhentikan. Pengelola keuangan diminta membedakan hak atas gaji bersih dan tunjangan kinerja berdasarkan status tugas belajar masing-masing. Staf tidak boleh menyamakan seluruh status tugas belajar karena materi membedakan beberapa kategori. Pernyataan mana yang benar?",
+        "answer": "Pegawai tugas belajar dalam negeri menerima 100% gaji bersih, sedangkan PNS tugas belajar mandiri tidak diberhentikan menerima 100% dari total tunjangan kinerja.",
+        "options": [
+          "Pegawai tugas belajar dalam negeri menerima 50% gaji bersih, sedangkan PNS tugas belajar mandiri tidak diberhentikan menerima 50% tunjangan kinerja.",
+          "Pegawai tugas belajar dalam negeri tidak menerima gaji bersih, sedangkan PNS tugas belajar mandiri tidak diberhentikan menerima 75% tunjangan kinerja.",
+          "Pegawai tugas belajar dalam negeri menerima 75% gaji bersih, sedangkan PNS tugas belajar mandiri tidak diberhentikan menerima 100% tunjangan kinerja.",
+          "Pegawai tugas belajar dalam negeri menerima 100% gaji bersih, sedangkan PNS tugas belajar mandiri tidak diberhentikan menerima 100% dari total tunjangan kinerja."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi penghasilan pegawai tugas belajar menyebut pegawai tugas belajar dalam negeri menerima 100% dari gaji bersih pegawai tugas belajar yang bersangkutan. Materi juga menyebut PNS tugas belajar mandiri tidak diberhentikan menerima 100% dari total tunjangan kinerja.\n\nOpsi A keliru karena 50% gaji bersih berlaku untuk pegawai tugas belajar luar negeri yang tidak memiliki tanggungan keluarga dan pada gajinya tidak melekat tunjangan keluarga, bukan tugas belajar dalam negeri.\n\nOpsi B keliru karena materi tetap memberikan 100% gaji bersih untuk tugas belajar dalam negeri dan 100% tunjangan kinerja untuk tugas belajar mandiri tidak diberhentikan.\n\nOpsi C keliru karena 75% dalam materi berkaitan dengan tunjangan kinerja bagi PNS tugas belajar dibiayai diberhentikan, bukan gaji bersih pegawai tugas belajar dalam negeri.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 13/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 13,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai mendapat penugasan untuk menempuh ujian jabatan di luar kota. Dalam diskusi, seorang staf menyatakan bahwa perjalanan dinas jabatan hanya dapat dilakukan untuk pelaksanaan tugas rutin atau rapat. Staf lain menyebut bahwa beberapa kegiatan khusus juga termasuk dalam rangka perjalanan dinas jabatan. Pejabat eselon IV perlu memutuskan apakah penugasan tersebut dapat masuk cakupan perjalanan dinas jabatan menurut materi. Keputusan mana yang benar?",
+        "answer": "Menempuh ujian dinas atau ujian jabatan termasuk salah satu rangka perjalanan dinas jabatan.",
+        "options": [
+          "Menempuh ujian dinas atau ujian jabatan termasuk salah satu rangka perjalanan dinas jabatan.",
+          "Menempuh ujian jabatan hanya dapat dibiayai sebagai perjalanan dinas pindah.",
+          "Menempuh ujian jabatan hanya dapat dibiayai sebagai uang lembur karena tidak termasuk pelaksanaan tugas.",
+          "Menempuh ujian jabatan tidak dapat menjadi perjalanan dinas karena materi hanya mencantumkan rapat dan seminar."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi perjalanan dinas jabatan mencantumkan menempuh ujian dinas atau ujian jabatan sebagai salah satu rangka perjalanan dinas jabatan.\n\nOpsi B keliru karena perjalanan dinas pindah memiliki dasar dan tujuan berbeda, seperti pindah tugas atau pemulangan tertentu, bukan menempuh ujian jabatan.\n\nOpsi C keliru karena uang lembur merupakan kompensasi kerja lembur berdasarkan Surat Perintah Kerja Lembur, bukan klasifikasi untuk penugasan ujian jabatan.\n\nOpsi D keliru karena materi tidak membatasi perjalanan dinas jabatan hanya pada rapat dan seminar.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 14/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 14,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pelaksana SPD menyusun rincian biaya perjalanan dinas jabatan. Ia memasukkan uang harian, biaya transpor, biaya penginapan, dan biaya menjemput jenazah dalam satu daftar. Staf baru menyamakan seluruh komponen sebagai lumpsum karena lebih mudah dihitung. Pejabat pengelola keuangan harus mengoreksi cara pembayaran dan isi komponen berdasarkan materi. Koreksi mana yang paling tepat?",
+        "answer": "Uang harian terdiri atas uang makan, uang transpor lokal, dan uang saku serta dibayarkan lumpsum; biaya penginapan dibayarkan sesuai biaya riil; biaya menjemput atau mengantar jenazah dibayarkan sesuai biaya riil.",
+        "options": [
+          "Semua komponen perjalanan dinas jabatan selalu dibayar lumpsum, termasuk biaya penginapan dan biaya menjemput jenazah.",
+          "Uang harian dibayarkan secara riil berdasarkan kuitansi hotel, sedangkan biaya penginapan dibayarkan lumpsum.",
+          "Uang harian terdiri atas uang makan, uang transpor lokal, dan uang saku serta dibayarkan lumpsum; biaya penginapan dibayarkan sesuai biaya riil; biaya menjemput atau mengantar jenazah dibayarkan sesuai biaya riil.",
+          "Biaya menjemput atau mengantar jenazah tidak termasuk komponen perjalanan dinas jabatan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut uang harian terdiri atas uang makan, uang transpor lokal, dan uang saku, serta dibayarkan secara lumpsum sesuai jumlah hari riil pelaksanaan perjalanan dinas jabatan. Materi juga menyebut biaya penginapan dibayarkan sesuai biaya riil dan biaya menjemput atau mengantar jenazah dibayarkan sesuai biaya riil.\n\nOpsi A keliru karena tidak semua komponen perjalanan dinas jabatan dibayar lumpsum.\n\nOpsi B keliru karena uang harian dibayarkan lumpsum, sedangkan biaya penginapan dibayarkan sesuai biaya riil.\n\nOpsi D keliru karena materi mencantumkan biaya menjemput atau mengantar jenazah sebagai salah satu komponen perjalanan dinas jabatan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 15/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 15,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang Pejabat Eselon II menjalankan perjalanan dinas jabatan melewati batas kota. Ia menanyakan apakah berhak memperoleh uang representasi selama perjalanan dinas. Bendahara juga perlu memastikan cara pembayarannya agar tidak disamakan dengan biaya penginapan. Pejabat eselon IV diminta memberi arahan berdasarkan materi komponen perjalanan dinas jabatan. Arahan mana yang benar?",
+        "answer": "Uang representasi hanya diberikan kepada Pejabat Negara, Pejabat Eselon I, dan Pejabat Eselon II selama melakukan perjalanan dinas, serta dibayarkan secara lumpsum sebagai batas tertinggi sesuai standar biaya.",
+        "options": [
+          "Uang representasi diberikan kepada semua pelaksana SPD dan dibayarkan sesuai biaya riil berdasarkan bukti pengeluaran.",
+          "Uang representasi hanya diberikan kepada Pejabat Negara, Pejabat Eselon I, dan Pejabat Eselon II selama melakukan perjalanan dinas, serta dibayarkan secara lumpsum sebagai batas tertinggi sesuai standar biaya.",
+          "Uang representasi hanya diberikan kepada PNS Golongan III dan IV karena keduanya memiliki tanggung jawab teknis.",
+          "Uang representasi tidak dapat diberikan dalam perjalanan dinas jabatan karena sudah diganti dengan uang makan lembur."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut uang representasi hanya diberikan kepada Pejabat Negara, Pejabat Eselon I, dan Pejabat Eselon II selama melakukan perjalanan dinas. Materi juga menyebut uang representasi dibayarkan secara lumpsum dan merupakan batas tertinggi sebagaimana diatur dalam peraturan menteri keuangan mengenai standar biaya.\n\nOpsi A keliru karena uang representasi tidak diberikan kepada semua pelaksana SPD dan tidak dibayarkan sesuai biaya riil.\n\nOpsi C keliru karena materi tidak menetapkan hak uang representasi berdasarkan Golongan III dan IV.\n\nOpsi D keliru karena uang makan lembur berbeda dari uang representasi perjalanan dinas jabatan.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 16/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 16,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai melaksanakan perjalanan dinas jabatan dalam kota lebih dari 8 jam. Setelah selesai, ia menyerahkan Surat Tugas dan bukti pembayaran transportasi. Ia tidak melampirkan SPD yang ditandatangani PPK dan pejabat di tempat pelaksanaan perjalanan dinas, serta tidak melampirkan bukti pembayaran hotel atau tempat menginap lainnya. Bendahara perlu menjelaskan kelengkapan dokumen untuk kategori perjalanan ini berdasarkan materi. Penjelasan mana yang benar?",
+        "answer": "Untuk perjalanan dinas dalam kota lebih dari 8 jam, dokumen meliputi Surat Tugas, SPD yang telah ditandatangani PPK dan pejabat di tempat pelaksanaan atau pihak terkait dengan tanggal tiba dan berangkat pada lembar kedua, bukti pembayaran transportasi, serta bukti pembayaran hotel atau tempat menginap lainnya.",
+        "options": [
+          "Untuk perjalanan dinas dalam kota lebih dari 8 jam, dokumen meliputi Surat Tugas, SPD yang telah ditandatangani PPK dan pejabat di tempat pelaksanaan atau pihak terkait dengan tanggal tiba dan berangkat pada lembar kedua, bukti pembayaran transportasi, serta bukti pembayaran hotel atau tempat menginap lainnya.",
+          "Untuk perjalanan dinas dalam kota lebih dari 8 jam, dokumen cukup Surat Tugas dan Form Bukti Kehadiran jika tidak diterbitkan SPD.",
+          "Untuk perjalanan dinas dalam kota lebih dari 8 jam, dokumen cukup tiket pesawat dan boarding pass.",
+          "Untuk perjalanan dinas dalam kota lebih dari 8 jam, SPD tidak pernah diperlukan karena masih berada dalam kota."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi dokumen pertanggungjawaban perjalanan dinas dalam kota lebih dari 8 jam mencantumkan Surat Tugas, SPD yang telah ditandatangani oleh PPK dan pejabat di tempat pelaksanaan perjalanan dinas atau pihak terkait yang menjadi Tempat Tujuan Perjalanan Dinas dengan SPD lembar kedua berisi tanggal tiba dan berangkat, bukti pembayaran transportasi, serta bukti pembayaran hotel atau tempat menginap lainnya.\n\nOpsi B keliru karena Form Bukti Kehadiran jika tidak diterbitkan SPD berada pada daftar perjalanan dinas dalam kota sampai dengan 8 jam, bukan lebih dari 8 jam.\n\nOpsi C keliru karena tiket pesawat dan boarding pass bukan daftar cukup untuk perjalanan dinas dalam kota lebih dari 8 jam.\n\nOpsi D keliru karena materi tetap mencantumkan SPD untuk perjalanan dinas dalam kota lebih dari 8 jam.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 17/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 17,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Kantor sedang beralih dari proses perjadin manual ke e-Perjadin. Seorang staf mengira perubahan hanya menyentuh pemesanan tiket, sementara proses bukti kehadiran dan penyimpanan dokumen tetap sepenuhnya fisik seperti sebelumnya. Pejabat eselon IV harus menjelaskan perubahan proses bisnis baru e-Perjadin sebagaimana materi. Penjelasan perlu membedakan bukti kehadiran, tempat kedudukan, pengujian, dan penyimpanan dokumen. Penjelasan mana yang paling tepat?",
+        "answer": "Dalam e-Perjadin, bukti kehadiran menggunakan geotagging, Tempat Sah ditambahkan antara lain tempat kedudukan, lokasi FWS, tempat libur/cuti resmi, dan tujuan penugasan lainnya, pengujian dapat menggunakan bukti digital melalui aplikasi dan/atau bukti fisik yang diunggah, serta penyimpanan dilakukan dalam database e-Perjadin.",
+        "options": [
+          "Dalam e-Perjadin, bukti kehadiran tetap TTD dan cap SPD, tempat kedudukan hanya kantor asal, pengujian hanya bukti fisik, dan penyimpanan tetap fisik oleh pengelola keuangan.",
+          "Dalam e-Perjadin, bukti kehadiran tidak diperlukan, tempat kedudukan diganti seluruhnya dengan lokasi libur, dan seluruh pengujian dilakukan tanpa bukti.",
+          "Dalam e-Perjadin, bukti kehadiran cukup kuitansi hotel, pengujian hanya menggunakan tiket, dan penyimpanan dokumen dilakukan di arsip kertas unit kerja.",
+          "Dalam e-Perjadin, bukti kehadiran menggunakan geotagging, Tempat Sah ditambahkan antara lain tempat kedudukan, lokasi FWS, tempat libur/cuti resmi, dan tujuan penugasan lainnya, pengujian dapat menggunakan bukti digital melalui aplikasi dan/atau bukti fisik yang diunggah, serta penyimpanan dilakukan dalam database e-Perjadin."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi proses bisnis baru e-Perjadin menyebut bukti kehadiran berubah menjadi geotagging, Tempat Sah ditambahkan antara lain tempat kedudukan, lokasi FWS, tempat libur/cuti resmi, dan tujuan penugasan lainnya. Materi juga menyebut pengujian oleh pengelola keuangan menggunakan bukti digital melalui aplikasi dan/atau bukti fisik yang diunggah, serta penyimpanan dokumen dalam database e-Perjadin yang meliputi informasi elektronik, data elektronik, dan bukti pengeluaran.\n\nOpsi A keliru karena itu menggambarkan proses Perjadin manual, bukan e-Perjadin.\n\nOpsi B keliru karena e-Perjadin tetap memerlukan bukti kehadiran berupa geotagging dan bukti untuk pengujian.\n\nOpsi C keliru karena materi tidak menyatakan bukti kehadiran cukup kuitansi hotel dan penyimpanan e-Perjadin tidak dilakukan sebagai arsip kertas unit kerja semata.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 18/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 18,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pelaksana perjalanan dinas akan berangkat pada Senin pagi dari Tempat Kedudukan. Ia bertanya kapan geotagging keberangkatan dapat dilakukan dan bagaimana geotagging saat kepulangan dari Tempat Tujuan. Operator e-Perjadin juga mengingatkan bahwa geotagging tidak hanya dilakukan di satu titik. Pejabat eselon IV perlu memberikan arahan berdasarkan ketentuan geotagging dalam materi. Arahan mana yang benar?",
+        "answer": "Geotagging dilakukan minimal 4 kali, termasuk geotagging pada tanggal keberangkatan di Tempat Kedudukan atau Tempat Sah paling cepat pada hari kerja terakhir setelah jam kerja selesai sebelum penugasan dimulai, geotagging pada tanggal tiba di Tempat Tujuan, geotagging pada tanggal kepulangan di Tempat Tujuan paling lambat pada hari kerja pertama sebelum jam kerja dimulai setelah penugasan selesai, dan geotagging pada tanggal tiba di Tempat Kedudukan atau Tempat Sah.",
+        "options": [
+          "Geotagging cukup dilakukan satu kali pada saat tiba di Tempat Tujuan karena bukti transportasi sudah membuktikan keberangkatan dan kepulangan.",
+          "Geotagging keberangkatan harus dilakukan satu minggu sebelum penugasan dimulai dan geotagging kepulangan boleh dilakukan kapan saja setelah laporan selesai.",
+          "Geotagging dilakukan minimal 4 kali, termasuk geotagging pada tanggal keberangkatan di Tempat Kedudukan atau Tempat Sah paling cepat pada hari kerja terakhir setelah jam kerja selesai sebelum penugasan dimulai, geotagging pada tanggal tiba di Tempat Tujuan, geotagging pada tanggal kepulangan di Tempat Tujuan paling lambat pada hari kerja pertama sebelum jam kerja dimulai setelah penugasan selesai, dan geotagging pada tanggal tiba di Tempat Kedudukan atau Tempat Sah.",
+          "Geotagging hanya wajib dilakukan jika pegawai tidak dapat mengunggah foto atau surat pernyataan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut pelaksanaan perjalanan dinas menggunakan geotagging dilakukan minimal 4 kali dengan titik dan waktu tersebut. Materi memuat geotagging keberangkatan di Tempat Kedudukan atau Tempat Sah, tiba di Tempat Tujuan, kepulangan di Tempat Tujuan, dan tiba di Tempat Kedudukan atau Tempat Sah.\n\nOpsi A keliru karena materi mensyaratkan minimal 4 kali geotagging, bukan satu kali.\n\nOpsi B keliru karena materi menetapkan waktu keberangkatan paling cepat pada hari kerja terakhir setelah jam kerja selesai sebelum penugasan dimulai, bukan satu minggu sebelumnya.\n\nOpsi D keliru karena foto atau surat pernyataan adalah alternatif apabila pelaksana tidak dapat melakukan geotagging, bukan alasan geotagging hanya wajib dalam kondisi tersebut.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 19/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 19,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      },
+      {
+        "categoryId": "nilai-kemenkeu",
+        "topic": "NILAI (Studi Kasus) Paket C",
+        "question": "Seorang pegawai telah melaksanakan perjalanan dinas pindah karena pindah tugas. Ia menanyakan dokumen pertanggungjawaban SPD Pindah yang dapat diunduh melalui aplikasi SIKeu. Bendahara satuan kerja tempat tujuan pindah harus melakukan upload dokumen dan mengirimkan kelengkapan berkas ke Bagian Umum. Staf baru mengira cukup mengunggah Surat Tugas dan bukti transportasi seperti perjalanan dinas jabatan biasa. Pejabat eselon IV perlu menjelaskan daftar dokumen berdasarkan materi. Dokumen mana yang benar?",
+        "answer": "Cetakan Surat Perjalanan Dinas Pindah yang telah ditandatangani pihak yang berwenang, cetakan kuitansi yang sudah ditandatangani, dan cetakan rincian biaya perjalanan dinas pindah yang sudah ditandatangani.",
+        "options": [
+          "Surat Tugas, boarding pass, daftar pengeluaran riil, dan bukti pembayaran hotel.",
+          "Cetakan Surat Perjalanan Dinas Pindah yang telah ditandatangani pihak yang berwenang, cetakan kuitansi yang sudah ditandatangani, dan cetakan rincian biaya perjalanan dinas pindah yang sudah ditandatangani.",
+          "Form Bukti Kehadiran, bukti pembayaran transportasi, dan daftar hadir pegawai ASN.",
+          "Fotokopi SK Pensiun, fotokopi akta lahir pegawai pensiun, fotokopi SK pengangkatan CPNS, dan surat kuasa bermaterai untuk semua perjalanan dinas pindah."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut dokumen pertanggungjawaban SPD Pindah dapat diunduh melalui aplikasi SIKeu pada menu Riwayat SPD, yang terdiri atas cetakan Surat Perjalanan Dinas Pindah yang telah ditandatangani pihak berwenang, cetakan kuitansi yang sudah ditandatangani, dan cetakan rincian biaya perjalanan dinas pindah yang sudah ditandatangani.\n\nOpsi A keliru karena daftar tersebut merupakan dokumen yang lazim muncul pada perjalanan dinas jabatan melewati batas kota, bukan daftar dokumen SPD Pindah melalui SIKeu dalam materi.\n\nOpsi C keliru karena Form Bukti Kehadiran berkaitan dengan perjalanan dinas dalam kota sampai dengan 8 jam jika tidak diterbitkan SPD, bukan pertanggungjawaban SPD Pindah.\n\nOpsi D keliru karena dokumen tersebut merupakan berkas permohonan SPD Pindah Pensiun, bukan dokumen pertanggungjawaban SPD Pindah yang diunduh melalui SIKeu untuk pindah tugas.\n\n## Rekap Kunci Jawaban\n\n| No. | Kunci |\n|---:|:---:|\n| 1 | C |\n| 2 | A |\n| 3 | D |\n| 4 | B |\n| 5 | D |\n| 6 | A |\n| 7 | C |\n| 8 | B |\n| 9 | A |\n| 10 | D |\n| 11 | B |\n| 12 | C |\n| 13 | D |\n| 14 | A |\n| 15 | C |\n| 16 | B |\n| 17 | A |\n| 18 | D |\n| 19 | C |\n| 20 | B |\n\n## Quality Gate Report\n\n**Output type**: Document\n**Gate result**: PASS\n\n### Findings\n\nTidak ada temuan blocking pada pemeriksaan manual dan validasi otomatis.\n\n### What was verified\n\n- Validator skill mendeteksi 20 soal.\n- Setiap soal memakai opsi A-D.\n- Setiap soal memiliki kunci dan pembahasan opsi salah.\n- Distribusi kunci tervalidasi seimbang: A=5, B=5, C=5, D=5.\n- Tidak ada label tingkat kesulitan.\n- Setiap stem soal memenuhi minimal 4 kalimat.\n- Substansi bersumber dari isi aktual PDF.\n- Paket C menghindari pengulangan framing utama dari Paket A dan Paket B.\n\n### Recommendation\n\nSHIP.",
+        "source": {
+          "title": "Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Nilai-Nilai Kementerian Keuangan/Nilai-Nilai-Kementerian-Keuangan.pdf",
+          "note": "NILAI (Studi Kasus) Paket C soal 20/20; disusun dari isi aktual Nilai-Nilai-Kementerian-Keuangan.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "nilai-kemenkeu-studi-kasus-paket-c",
+          "label": "C",
+          "order": 5,
+          "questionNumber": 20,
+          "sourceTitle": "Nilai-Nilai-Kementerian-Keuangan.pdf"
+        }
+      }
+    ]
   }
 ]
