@@ -4779,6 +4779,1068 @@
     ]
   },
   {
+    "id": "kup-studi-kasus-paket-a",
+    "categoryId": "kup",
+    "name": "KUP (Studi Kasus) Paket A",
+    "sourceTitle": "KUP.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+    "packageLabel": "A",
+    "packageIndex": 4,
+    "questions": [
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Rafi membuka usaha jasa konsultasi pajak internal untuk beberapa koperasi kecil di kota tempat tinggalnya. Pada bulan pertama, ia mulai memperoleh penghasilan dari kegiatan usaha tersebut, tetapi belum memiliki NPWP. Ia beranggapan pendaftaran NPWP baru diperlukan setelah omzetnya besar atau setelah DJP mengirimkan teguran. Sebagai pejabat eselon IV yang membina fungsi pelayanan, Anda diminta menentukan tindakan yang paling sesuai berdasarkan ketentuan pendaftaran NPWP dalam materi KUP. Apa tindakan yang paling tepat?",
+        "answer": "Mendaftarkan diri paling lama satu bulan setelah kegiatan usaha atau pekerjaan bebas dilakukan pada KPP atau KP2KP wilayah tempat tinggalnya.",
+        "options": [
+          "Menunggu sampai akhir tahun pajak karena NPWP orang pribadi hanya wajib setelah SPT Tahunan disampaikan.",
+          "Menunggu sampai DJP menerbitkan NPWP secara jabatan karena pendaftaran mandiri tidak diperlukan bagi orang pribadi.",
+          "Mendaftarkan diri paling lama satu bulan setelah kegiatan usaha atau pekerjaan bebas dilakukan pada KPP atau KP2KP wilayah tempat tinggalnya.",
+          "Mendaftarkan diri hanya jika akumulasi penghasilan sudah melebihi PTKP selama dua tahun berturut-turut."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan orang pribadi yang melakukan kegiatan usaha atau pekerjaan bebas harus mendaftarkan NPWP paling lama satu bulan setelah kegiatan usaha atau pekerjaan bebas dilakukan. Pendaftaran dilakukan pada KPP atau KP2KP yang wilayah kerjanya meliputi tempat tinggal atau tempat kedudukan Wajib Pajak.\n\nOpsi A keliru karena kewajiban mendaftarkan diri tidak menunggu akhir tahun pajak atau penyampaian SPT Tahunan.\n\nOpsi B keliru karena NPWP secara jabatan merupakan mekanisme DJP ketika Wajib Pajak tidak melaksanakan kewajiban mendaftarkan diri, bukan pilihan utama yang menggantikan pendaftaran mandiri.\n\nOpsi D keliru karena ketentuan akhir bulan berikutnya setelah akumulasi penghasilan sama atau melebihi PTKP relevan untuk kondisi tertentu, sedangkan kasus ini sudah menunjukkan kegiatan usaha atau pekerjaan bebas.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 1/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 1,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Mira adalah pegawai swasta yang telah menikah dan memiliki NPWP sendiri sebelum menikah. Setelah menikah, ia dan suaminya membuat perjanjian pemisahan penghasilan dan harta secara tertulis. Mira tetap ingin melaksanakan hak dan memenuhi kewajiban perpajakannya secara terpisah dari suaminya. Staf pelayanan bertanya apakah NPWP Mira harus digabung ke NPWP suami. Berdasarkan materi KUP, keputusan paling tepat adalah apa?",
+        "answer": "Mira menggunakan NPWP sendiri karena ada perjanjian pemisahan penghasilan dan harta serta memilih kewajiban perpajakan terpisah.",
+        "options": [
+          "Mira menggunakan NPWP sendiri karena ada perjanjian pemisahan penghasilan dan harta serta memilih kewajiban perpajakan terpisah.",
+          "Mira wajib menggunakan NPWP suami karena semua wanita kawin tidak dapat memiliki NPWP atas nama sendiri.",
+          "Mira baru boleh menggunakan NPWP sendiri jika suaminya meninggal dan meninggalkan warisan belum terbagi.",
+          "Mira wajib menghapus NPWP sendiri karena status menikah otomatis menggabungkan seluruh pelaksanaan hak dan kewajiban perpajakan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan wanita kawin menggunakan NPWP sendiri jika hidup terpisah berdasarkan keputusan hakim, menghendaki secara tertulis berdasarkan perjanjian pemisahan penghasilan dan harta, memilih melaksanakan hak dan kewajiban perpajakan terpisah, atau warisan telah selesai dibagi.\n\nOpsi B keliru karena materi tidak menyatakan semua wanita kawin harus selalu menggunakan NPWP suami.\n\nOpsi C keliru karena suami meninggal dan meninggalkan warisan belum terbagi justru termasuk kondisi menggunakan NPWP suami dalam konteks penggabungan tertentu, bukan syarat umum Mira memakai NPWP sendiri.\n\nOpsi D keliru karena penggabungan tidak otomatis berlaku jika terdapat kondisi yang membolehkan pelaksanaan kewajiban perpajakan secara terpisah.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 2/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 2,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Pak Surya meninggal dunia dan meninggalkan beberapa aset usaha yang belum dibagi kepada para ahli waris. Semasa hidupnya, Pak Surya belum pernah memiliki NPWP. Salah satu ahli waris ditunjuk keluarga untuk mengurus harta peninggalan dan berkoordinasi dengan KPP. Ia ingin memastikan kewajiban administrasi perpajakan warisan belum terbagi tidak keliru. Berdasarkan materi KUP, tindakan yang benar adalah apa?",
+        "answer": "Wakil warisan belum terbagi mendaftarkan diri pada KPP untuk memperoleh NPWP dan TKU, paling lambat akhir bulan berikutnya setelah Pak Surya meninggal.",
+        "options": [
+          "Menunggu sampai seluruh warisan selesai dibagi karena warisan belum terbagi tidak termasuk subjek wajib daftar NPWP.",
+          "Menggunakan NPWP salah satu ahli waris karena NPWP pewaris belum pernah ada.",
+          "Mendaftarkan NPWP badan baru karena seluruh warisan belum terbagi diperlakukan sebagai badan usaha.",
+          "Wakil warisan belum terbagi mendaftarkan diri pada KPP untuk memperoleh NPWP dan TKU, paling lambat akhir bulan berikutnya setelah Pak Surya meninggal."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menyatakan warisan belum terbagi menggunakan NPWP Wajib Pajak orang pribadi yang meninggalkan warisan. Jika pewaris belum memiliki NPWP, wakil warisan belum terbagi wajib mendaftarkan diri pada KPP untuk memperoleh NPWP dan TKU, dengan jangka waktu paling lambat akhir bulan berikutnya setelah WP orang pribadi yang meninggalkan warisan meninggal dunia.\n\nOpsi A keliru karena warisan belum terbagi termasuk subjek wajib daftar NPWP dalam materi KUP.\n\nOpsi B keliru karena materi mengarahkan penggunaan NPWP pewaris, bukan NPWP salah satu ahli waris, dan jika pewaris belum memiliki NPWP maka wakil harus mendaftarkan warisan belum terbagi.\n\nOpsi C keliru karena materi tidak mengklasifikasikan warisan belum terbagi sebagai badan baru yang harus didaftarkan seperti badan usaha.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 3/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 3,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Lestari Niaga telah dikukuhkan sebagai PKP, tetapi sejak pertengahan tahun lalu tidak lagi melakukan penyerahan atau ekspor yang relevan. Perusahaan mengajukan permohonan pencabutan pengukuhan PKP secara elektronik dan melampirkan dokumen yang diminta. Sampai enam bulan sejak permohonan, belum ada keputusan Kepala KPP. Manajer pajak meminta arahan mengenai akibat hukum atas permohonan tersebut. Berdasarkan materi KUP, jawaban paling tepat adalah apa?",
+        "answer": "Permohonan dianggap dikabulkan dan keputusan pencabutan diterbitkan paling lama satu bulan sejak jangka waktu berakhir.",
+        "options": [
+          "Permohonan harus diajukan ulang karena pencabutan PKP hanya dapat dilakukan melalui pemeriksaan jabatan.",
+          "Permohonan dianggap dikabulkan dan keputusan pencabutan diterbitkan paling lama satu bulan sejak jangka waktu berakhir.",
+          "Permohonan otomatis ditolak karena tidak ada keputusan sampai enam bulan.",
+          "Permohonan hanya dianggap dikabulkan jika perusahaan sekaligus menghapus NPWP badan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP pada bagian pencabutan pengukuhan PKP menyebutkan jangka waktu pemeriksaan permohonan adalah enam bulan. Jika jangka waktu tersebut terlampaui, permohonan dianggap dikabulkan dan keputusan pencabutan diterbitkan paling lama satu bulan sejak jangka waktu berakhir.\n\nOpsi A keliru karena pencabutan PKP dapat dilakukan berdasarkan permohonan atau jabatan, bukan hanya melalui jabatan.\n\nOpsi C keliru karena materi menyatakan akibat terlampauinya jangka waktu adalah dianggap dikabulkan, bukan ditolak.\n\nOpsi D keliru karena pencabutan pengukuhan PKP tidak mensyaratkan penghapusan NPWP badan sebagai satu paket otomatis.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 4/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 4,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Gama Retail sedang diperiksa dan diminta memperlihatkan buku, catatan, dokumen, serta hasil pengolahan data yang menjadi dasar pembukuan. Direktur keuangan menyampaikan bahwa dokumen tersebut hanya disimpan tiga tahun karena perusahaan sudah memakai sistem digital. Ia juga menilai data elektronik cukup ditampilkan sekilas tanpa peminjaman atau akses pemeriksa. Sebagai atasan pemeriksa, Anda perlu menegaskan kewajiban pembukuan yang benar. Pernyataan mana yang paling sesuai dengan materi KUP?",
+        "answer": "Buku, catatan, dokumen, termasuk hasil pengolahan data, harus disimpan sepuluh tahun di Indonesia dan wajib diperlihatkan atau dipinjamkan jika diperiksa.",
+        "options": [
+          "Buku, catatan, dokumen, termasuk hasil pengolahan data, harus disimpan sepuluh tahun di Indonesia dan wajib diperlihatkan atau dipinjamkan jika diperiksa.",
+          "Buku dan catatan cukup disimpan tiga tahun sepanjang perusahaan menggunakan sistem digital.",
+          "Wajib Pajak badan boleh memilih pencatatan saja jika omzetnya belum melebihi Rp4,8 miliar.",
+          "Dokumen elektronik tidak termasuk dokumen yang harus dipinjamkan karena hanya dokumen kertas yang menjadi dasar pemeriksaan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan Wajib Pajak orang pribadi yang melakukan kegiatan usaha atau pekerjaan bebas dan Wajib Pajak badan wajib menyelenggarakan pembukuan. Buku, catatan, dokumen, termasuk hasil pengolahan data, disimpan sepuluh tahun di Indonesia dan jika diperiksa wajib diperlihatkan atau dipinjamkan.\n\nOpsi B keliru karena materi menetapkan jangka waktu penyimpanan sepuluh tahun, bukan tiga tahun.\n\nOpsi C keliru karena Wajib Pajak badan wajib menyelenggarakan pembukuan, sedangkan pengecualian tertentu dalam materi diarahkan pada Wajib Pajak orang pribadi.\n\nOpsi D keliru karena hasil pengolahan data termasuk dalam cakupan yang harus disimpan dan dapat diminta dalam pemeriksaan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 5/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 5,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Bendahara sebuah instansi melakukan pembayaran pajak melalui sistem elektronik menggunakan kode billing. Setelah pembayaran dilakukan melalui bank persepsi, ia menerima Bukti Penerimaan Negara dalam bentuk elektronik. Pada saat rekonsiliasi, muncul pertanyaan apakah bukti tersebut setara dengan Surat Setoran Pajak. Tim keuangan juga ingin mengetahui informasi penting yang harus tercantum di dalamnya. Berdasarkan materi KUP, jawaban yang benar adalah apa?",
+        "answer": "Bukti Penerimaan Negara diterbitkan oleh Collecting Agent, mencantumkan NTPN dan nomor transaksi, serta diakui sebagai bukti pembayaran yang sah dan sarana administrasi lain yang setara dengan SSP.",
+        "options": [
+          "Bukti Penerimaan Negara hanya bukti internal bank dan tidak diakui sebagai bukti pembayaran pajak yang sah.",
+          "Bukti Penerimaan Negara harus selalu berbentuk fisik dan tidak boleh berbentuk elektronik.",
+          "Bukti Penerimaan Negara hanya sah jika tidak mencantumkan NTPN karena NTPN bersifat internal DJP.",
+          "Bukti Penerimaan Negara diterbitkan oleh Collecting Agent, mencantumkan NTPN dan nomor transaksi, serta diakui sebagai bukti pembayaran yang sah dan sarana administrasi lain yang setara dengan SSP."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menjelaskan pembayaran elektronik menggunakan Sistem Billing DJP dengan kode billing dan dilakukan melalui Collecting Agent. BPN diterbitkan oleh Collecting Agent, mencantumkan NTPN, nomor transaksi bank atau lembaga persepsi, menjadi sarana administrasi lain yang setara dengan SSP, dan diakui sebagai bukti pembayaran yang sah.\n\nOpsi A keliru karena BPN diakui sebagai bukti pembayaran yang sah.\n\nOpsi B keliru karena materi menyebutkan format BPN dapat berupa dokumen fisik atau elektronik.\n\nOpsi C keliru karena NTPN justru merupakan salah satu informasi yang dicantumkan dalam BPN.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 6/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 6,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Aruna memiliki saldo deposit pajak karena sebelumnya melakukan pembayaran elektronik yang belum dialokasikan ke kewajiban tertentu. Beberapa minggu kemudian, perusahaan ingin memakai saldo tersebut untuk melunasi kewajiban pajak melalui pemindahbukuan. Staf pajak bertanya tanggal pembayaran mana yang akan digunakan setelah pemindahbukuan diterbitkan. Di sisi lain, manajemen mengira deposit pajak tidak dapat digunakan untuk pembayaran pajak. Berdasarkan materi KUP, pilihan yang paling tepat adalah apa?",
+        "answer": "Deposit pajak dapat digunakan melalui pemindahbukuan, dan tanggal pembayaran pada Bukti Pemindahbukuan mengacu pada tanggal pembayaran pajak dalam Surat Setoran Pajak.",
+        "options": [
+          "Deposit pajak tidak dapat digunakan untuk pembayaran pajak karena hanya menjadi saldo informasi.",
+          "Deposit pajak dapat digunakan melalui pemindahbukuan, dan tanggal pembayaran pada Bukti Pemindahbukuan mengacu pada tanggal pembayaran pajak dalam Surat Setoran Pajak.",
+          "Deposit pajak hanya dapat digunakan jika berasal dari imbalan bunga, dan tanggal pembayarannya selalu tanggal penerbitan SKPKPP.",
+          "Deposit pajak hanya sah jika dialokasikan pada hari yang sama dengan kode billing dibuat."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP mendefinisikan deposit pajak sebagai pembayaran pajak yang belum dialokasikan ke kewajiban tertentu. Deposit pajak dapat digunakan untuk pembayaran dan penyetoran pajak melalui pemindahbukuan, dengan tanggal pembayaran dalam Bukti Pemindahbukuan mengacu pada tanggal pembayaran pajak dalam Surat Setoran Pajak.\n\nOpsi A keliru karena materi secara eksplisit menyebutkan deposit pajak dapat digunakan untuk pembayaran dan penyetoran pajak melalui pemindahbukuan.\n\nOpsi C keliru karena deposit pajak dapat berasal dari pembayaran elektronik, pemindahbukuan, atau sisa kelebihan pembayaran pajak atau imbalan bunga, bukan hanya imbalan bunga.\n\nOpsi D keliru karena materi tidak mensyaratkan penggunaan deposit pada hari yang sama dengan pembuatan kode billing.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 7/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 7,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Nadia menyiapkan SPT Tahunan PPh orang pribadi untuk klien yang memiliki kekurangan pembayaran pajak. Klien tersebut ingin menyampaikan SPT lebih dahulu dan membayar kekurangannya beberapa hari kemudian karena tanggal jatuh tempo pembayaran berdekatan dengan hari libur. Nadia membaca materi KUP dan menemukan ada ketentuan khusus mengenai pelunasan kekurangan pembayaran berdasarkan SPT Tahunan. Ia perlu memberi jawaban yang tepat agar tidak terjadi keterlambatan. Apa jawaban yang seharusnya diberikan?",
+        "answer": "Kekurangan pembayaran berdasarkan SPT Tahunan PPh harus dilunasi sebelum SPT disampaikan, dengan batas maksimal tiga bulan setelah tahun pajak berakhir untuk orang pribadi.",
+        "options": [
+          "Kekurangan pembayaran boleh dilunasi setelah SPT disampaikan sepanjang masih dalam bulan yang sama.",
+          "Kekurangan pembayaran boleh ditunda ke hari kerja berikutnya jika bertepatan dengan hari libur, termasuk untuk SPT Tahunan PPh.",
+          "Kekurangan pembayaran berdasarkan SPT Tahunan PPh harus dilunasi sebelum SPT disampaikan, dengan batas maksimal tiga bulan setelah tahun pajak berakhir untuk orang pribadi.",
+          "Kekurangan pembayaran berdasarkan SPT Tahunan PPh baru wajib dibayar satu bulan sejak SPT disampaikan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan kekurangan pembayaran pajak berdasarkan SPT Tahunan PPh harus dilunasi sebelum SPT disampaikan. Untuk Pajak Penghasilan orang pribadi, jatuh tempo pembayaran maksimal tiga bulan setelah Tahun Pajak berakhir, dan ketentuan hari libur tidak berlaku untuk pembayaran pajak terutang berdasarkan SPT Tahunan PPh.\n\nOpsi A keliru karena pelunasan harus dilakukan sebelum SPT disampaikan, bukan sesudahnya.\n\nOpsi B keliru karena materi menyebutkan ketentuan hari kerja berikutnya jika hari libur tidak berlaku untuk pembayaran pajak terutang berdasarkan SPT Tahunan PPh dan SPT Tahunan Pajak Karbon.\n\nOpsi D keliru karena jangka waktu satu bulan dalam materi berkaitan dengan pembayaran STP, ketetapan, dan keputusan tertentu, bukan pelunasan kekurangan pembayaran berdasarkan SPT Tahunan PPh.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 8/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 8,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "KPP menerbitkan SKPKB kepada PT Mandiri Sentosa setelah pemeriksaan. Dalam pembahasan akhir hasil pemeriksaan, perusahaan menyetujui seluruh jumlah pajak yang masih harus dibayar. PT Mandiri Sentosa bukan Wajib Pajak usaha kecil dan tidak berada di daerah tertentu. Manajer perusahaan bertanya kapan jumlah tersebut harus dilunasi agar tidak masuk tahap penagihan. Berdasarkan materi KUP, jawaban paling tepat adalah apa?",
+        "answer": "Paling lama satu bulan terhitung sejak tanggal penerbitan SKP sesuai ketentuan umum KUP.",
+        "options": [
+          "Paling lama tiga bulan sejak SKPKB diterbitkan.",
+          "Paling lama dua bulan sejak SKPKB diterbitkan untuk semua Wajib Pajak.",
+          "Paling lama satu bulan sejak SKPKB diterima oleh Wajib Pajak, bukan sejak diterbitkan.",
+          "Paling lama satu bulan terhitung sejak tanggal penerbitan SKP sesuai ketentuan umum KUP."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP pada bagian jatuh tempo pelunasan dasar penagihan menyebutkan bahwa jika Wajib Pajak menyetujui seluruh jumlah pajak yang masih harus dibayar dalam pembahasan akhir hasil pemeriksaan, pelunasan dilakukan paling lama satu bulan terhitung sejak tanggal penerbitan SKP sesuai ketentuan umum UU KUP.\n\nOpsi A keliru karena jangka waktu tiga bulan tidak digunakan untuk pelunasan SKP yang disetujui seluruhnya dalam kasus ini.\n\nOpsi B keliru karena jangka waktu dua bulan berlaku untuk Wajib Pajak usaha kecil dan Wajib Pajak di daerah tertentu dalam kondisi yang disebutkan materi, sedangkan kasus menyatakan bukan keduanya.\n\nOpsi C keliru karena materi menyatakan satu bulan sejak tanggal penerbitan SKP, bukan sejak SKPKB diterima.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 9/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 9,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Bima Karya adalah PKP yang menyusun SPT Masa PPN. Dalam rapat internal, staf baru hanya memasukkan jumlah pajak yang telah disetor dan mengabaikan pengkreditan Pajak Masukan terhadap Pajak Keluaran. Ia beralasan fungsi SPT bagi PKP sama dengan fungsi SPT bagi pemotong pajak, yaitu hanya melaporkan pajak yang disetorkan. Supervisor meminta Anda mengoreksi pemahaman tersebut berdasarkan materi KUP. Pernyataan mana yang paling tepat?",
+        "answer": "Fungsi SPT bagi PKP mencakup penghitungan PPN dan PPnBM yang sebenarnya terutang, pengkreditan Pajak Masukan terhadap Pajak Keluaran, serta pembayaran atau pelunasan pajak dalam satu Masa Pajak.",
+        "options": [
+          "Fungsi SPT bagi PKP mencakup penghitungan PPN dan PPnBM yang sebenarnya terutang, pengkreditan Pajak Masukan terhadap Pajak Keluaran, serta pembayaran atau pelunasan pajak dalam satu Masa Pajak.",
+          "Fungsi SPT bagi PKP hanya melaporkan harta dan kewajiban sebagaimana fungsi SPT Wajib Pajak PPh.",
+          "Fungsi SPT bagi PKP sama dengan pemotong atau pemungut, yaitu semata melaporkan pajak yang dipotong atau dipungut dan disetorkan.",
+          "Fungsi SPT bagi PKP hanya sebagai permohonan pengembalian kelebihan pembayaran pajak."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menjelaskan fungsi SPT bagi Pengusaha Kena Pajak meliputi penghitungan jumlah PPN dan PPnBM yang sebenarnya terutang, pengkreditan Pajak Masukan terhadap Pajak Keluaran, serta pembayaran atau pelunasan pajak yang dilaksanakan sendiri atau melalui pihak lain dalam satu Masa Pajak.\n\nOpsi B keliru karena harta dan kewajiban merupakan bagian fungsi SPT bagi Wajib Pajak Pajak Penghasilan, bukan rumusan utama fungsi SPT bagi PKP.\n\nOpsi C keliru karena fungsi SPT bagi pemotong atau pemungut adalah melaporkan dan mempertanggungjawabkan pajak yang dipotong atau dipungut dan disetorkan, sedangkan PKP memiliki fungsi khusus terkait PPN dan PPnBM.\n\nOpsi D keliru karena SPT bagi PKP bukan hanya permohonan pengembalian, tetapi instrumen pelaporan penghitungan, pengkreditan, dan pelunasan pajak.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 10/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 10,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Nusa Global memperoleh izin Menteri Keuangan untuk menyelenggarakan pembukuan dengan bahasa asing dan mata uang selain rupiah. Ketika menyusun SPT, tim akuntansi ingin menyampaikan SPT sepenuhnya dalam bahasa asing karena pembukuannya memakai bahasa asing. Mereka juga bertanya apa standar umum pengisian SPT yang harus dipenuhi. Anda diminta memberikan arahan sesuai materi KUP. Jawaban yang paling tepat adalah apa?",
+        "answer": "SPT harus diisi benar, lengkap, dan jelas; Wajib Pajak yang diizinkan memakai pembukuan bahasa asing dan mata uang selain rupiah tetap menyampaikan SPT dalam bahasa Indonesia dengan mata uang selain rupiah yang diizinkan.",
+        "options": [
+          "SPT boleh disampaikan sepenuhnya dalam bahasa asing selama pembukuan perusahaan juga memakai bahasa asing.",
+          "SPT cukup memuat angka pajak kurang bayar karena unsur objek pajak dan unsur lain tidak perlu dilaporkan jika sudah ada laporan keuangan.",
+          "SPT harus diisi benar, lengkap, dan jelas; Wajib Pajak yang diizinkan memakai pembukuan bahasa asing dan mata uang selain rupiah tetap menyampaikan SPT dalam bahasa Indonesia dengan mata uang selain rupiah yang diizinkan.",
+          "SPT tidak perlu ditandatangani jika disampaikan dalam bentuk dokumen elektronik melalui Portal Wajib Pajak."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan kewajiban mengisi SPT dengan benar, lengkap, dan jelas. Wajib Pajak yang memperoleh izin Menteri Keuangan untuk menyelenggarakan pembukuan dengan bahasa asing dan mata uang selain rupiah wajib menyampaikan SPT dalam bahasa Indonesia dengan mata uang selain rupiah yang diizinkan.\n\nOpsi A keliru karena izin pembukuan dengan bahasa asing tidak berarti SPT boleh disampaikan sepenuhnya dalam bahasa asing.\n\nOpsi B keliru karena lengkap berarti memuat semua unsur terkait objek pajak dan unsur lain yang harus dilaporkan dalam SPT.\n\nOpsi D keliru karena materi tetap mewajibkan penandatanganan SPT, dan tanda tangan dapat berupa tanda tangan biasa, stempel, elektronik, atau digital.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 11/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 11,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Seorang Wajib Pajak menyampaikan SPT Lebih Bayar empat tahun setelah berakhirnya Tahun Pajak. Sebelum penyampaian itu, KPP telah menegur Wajib Pajak secara tertulis. SPT tersebut juga baru disampaikan setelah proses pemeriksaan atas Tahun Pajak yang sama dimulai. Kepala seksi pelayanan bertanya bagaimana status SPT itu dalam administrasi DJP. Berdasarkan materi KUP, pernyataan mana yang paling tepat?",
+        "answer": "SPT dapat dianggap tidak disampaikan dan DJP wajib memberitahukan kepada Wajib Pajak apabila SPT dianggap tidak disampaikan.",
+        "options": [
+          "SPT tetap harus diperlakukan sebagai SPT sah karena semua SPT Lebih Bayar wajib diproses tanpa batas waktu.",
+          "SPT dapat dianggap tidak disampaikan dan DJP wajib memberitahukan kepada Wajib Pajak apabila SPT dianggap tidak disampaikan.",
+          "SPT otomatis menjadi permohonan keberatan karena disampaikan setelah pemeriksaan dimulai.",
+          "SPT hanya dikenai denda, tetapi tetap dianggap disampaikan tanpa pemberitahuan dari DJP."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP menyebutkan SPT dianggap tidak disampaikan jika SPT Lebih Bayar disampaikan setelah tiga tahun sesudah berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak dan Wajib Pajak telah ditegur tertulis. SPT juga dianggap tidak disampaikan jika disampaikan setelah dilakukan pemeriksaan atau diterbitkan surat ketetapan pajak, dan DJP wajib memberitahukan kepada Wajib Pajak.\n\nOpsi A keliru karena materi menetapkan kondisi tertentu yang membuat SPT Lebih Bayar dianggap tidak disampaikan.\n\nOpsi C keliru karena SPT yang dianggap tidak disampaikan tidak otomatis berubah menjadi permohonan keberatan.\n\nOpsi D keliru karena materi tidak hanya mengatur denda, tetapi juga status SPT dianggap tidak disampaikan dan kewajiban pemberitahuan oleh DJP.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 12/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 12,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Cendana terlambat menyelesaikan audit internal sehingga belum siap menyampaikan SPT Tahunan PPh Badan. Sebelum batas waktu penyampaian SPT berakhir, perusahaan ingin mengajukan pemberitahuan perpanjangan. Perusahaan sudah memiliki penghitungan sementara pajak terutang dan laporan keuangan sementara. Jika masih ada kekurangan pembayaran, perusahaan juga menyiapkan SSP atau BPN. Berdasarkan materi KUP, perlakuan yang benar adalah apa?",
+        "answer": "Perpanjangan dapat diberikan paling lama dua bulan sejak batas waktu penyampaian SPT Tahunan dan pemberitahuan harus disampaikan sebelum batas waktu berakhir dengan lampiran yang dipersyaratkan.",
+        "options": [
+          "Perpanjangan dapat diberikan paling lama dua bulan sejak batas waktu penyampaian SPT Tahunan dan pemberitahuan harus disampaikan sebelum batas waktu berakhir dengan lampiran yang dipersyaratkan.",
+          "Perpanjangan dapat diberikan paling lama enam bulan dan pemberitahuan cukup disampaikan setelah batas waktu SPT berakhir.",
+          "Perpanjangan hanya berlaku untuk SPT Masa, bukan SPT Tahunan.",
+          "Perpanjangan otomatis berlaku tanpa penghitungan sementara pajak terutang, laporan keuangan sementara, atau bukti pembayaran jika ada kekurangan pajak."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP mengatur pemberitahuan perpanjangan penyampaian SPT Tahunan untuk paling lama dua bulan sejak batas waktu penyampaian SPT Tahunan. Pemberitahuan harus disampaikan sebelum batas waktu berakhir dan dilampiri penghitungan sementara pajak terutang, laporan keuangan sementara, serta SSP atau BPN jika terdapat kekurangan pembayaran pajak.\n\nOpsi B keliru karena jangka waktu perpanjangan dalam materi adalah paling lama dua bulan, bukan enam bulan, dan pemberitahuan harus sebelum batas waktu berakhir.\n\nOpsi C keliru karena bagian materi tersebut mengatur perpanjangan penyampaian SPT Tahunan.\n\nOpsi D keliru karena materi mensyaratkan lampiran tertentu, termasuk bukti pembayaran jika ada kekurangan pembayaran pajak.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 13/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 13,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Rajawali menemukan kesalahan dalam SPT Tahunan yang telah disampaikan. Kesalahan itu menyebabkan utang pajak menjadi lebih besar. Saat temuan ditemukan, DJP belum melakukan pemeriksaan dan belum melakukan pemeriksaan bukti permulaan secara terbuka kepada Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa. Direksi ingin membetulkan SPT dan memahami konsekuensi sanksinya. Berdasarkan materi KUP, jawaban paling tepat adalah apa?",
+        "answer": "Pembetulan dapat dilakukan dengan pernyataan tertulis sebelum pemeriksaan atau bukper terbuka; jika utang pajak menjadi lebih besar, dikenai sanksi administrasi berupa bunga dengan jumlah bulan paling lama 24 bulan.",
+        "options": [
+          "Pembetulan tidak dapat dilakukan karena SPT yang sudah disampaikan tidak dapat diubah dengan alasan apa pun.",
+          "Pembetulan hanya dapat dilakukan jika SPT semula menyatakan rugi atau lebih bayar.",
+          "Pembetulan dapat dilakukan tanpa sanksi karena semua pembetulan SPT dibebaskan dari bunga.",
+          "Pembetulan dapat dilakukan dengan pernyataan tertulis sebelum pemeriksaan atau bukper terbuka; jika utang pajak menjadi lebih besar, dikenai sanksi administrasi berupa bunga dengan jumlah bulan paling lama 24 bulan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menyebutkan Wajib Pajak dapat membetulkan SPT dengan menyampaikan pernyataan tertulis sepanjang belum dilakukan pemeriksaan atau pemeriksaan bukti permulaan secara terbuka. Jika utang pajak menjadi lebih besar, dikenai sanksi administrasi berupa bunga dengan jumlah bulan maksimal 24 bulan.\n\nOpsi A keliru karena materi membolehkan pembetulan SPT dalam syarat tertentu.\n\nOpsi B keliru karena pembetulan tidak hanya berlaku untuk SPT rugi atau lebih bayar, meskipun SPT pembetulan rugi atau lebih bayar memiliki batas waktu khusus.\n\nOpsi C keliru karena jika utang pajak menjadi lebih besar, materi menetapkan sanksi administrasi berupa bunga.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 14/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 14,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Samudra diperiksa untuk menguji kepatuhan pemenuhan kewajiban perpajakan. Pemeriksa meminta buku, catatan, dokumen, data elektronik, dan keterangan lain. Perusahaan menyelenggarakan pembukuan dengan sistem EDP melalui penyedia pihak ketiga. Direktur menyatakan data tidak dapat diberikan karena terikat kerahasiaan kontrak dengan penyedia sistem. Berdasarkan materi KUP, arahan yang benar adalah apa?",
+        "answer": "Wajib Pajak wajib memenuhi permintaan paling lama satu bulan, memberi akses atau unduhan data elektronik, dan kewajiban merahasiakan ditiadakan untuk keperluan pemeriksaan.",
+        "options": [
+          "Wajib Pajak dapat menolak seluruh permintaan karena rahasia pembukuan tetap berlaku dalam pemeriksaan pajak.",
+          "Wajib Pajak hanya wajib memberikan dokumen kertas, sedangkan akses atau unduhan data elektronik tidak termasuk kewajiban.",
+          "Wajib Pajak wajib memenuhi permintaan paling lama satu bulan, memberi akses atau unduhan data elektronik, dan kewajiban merahasiakan ditiadakan untuk keperluan pemeriksaan.",
+          "Wajib Pajak cukup menyampaikan ringkasan lisan tanpa memperlihatkan pembukuan atau dokumen pendukung."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan buku, catatan, dokumen, data, informasi, dan keterangan lain wajib dipenuhi paling lama satu bulan sejak permintaan disampaikan. Jika pembukuan menggunakan EDP, Wajib Pajak harus memberikan akses untuk mengakses atau mengunduh data, dan kewajiban merahasiakan pembukuan atau dokumen ditiadakan oleh permintaan untuk keperluan pemeriksaan.\n\nOpsi A keliru karena materi secara khusus meniadakan kewajiban merahasiakan untuk keperluan pemeriksaan.\n\nOpsi B keliru karena materi mencakup data elektronik dan kewajiban memberi akses atau unduhan data dari catatan dan dokumen elektronik.\n\nOpsi D keliru karena kewajiban pemeriksaan tidak hanya memberikan keterangan lisan, tetapi juga memperlihatkan atau meminjamkan buku, catatan, dokumen, dan data lain.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 15/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 15,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Tim pemeriksa mendatangi lokasi usaha CV Prisma untuk pemeriksaan. Pada hari pemeriksaan, pengurus tidak berada di tempat dan pegawai yang hadir sengaja tidak memberi kesempatan kepada pemeriksa untuk memasuki ruang penyimpanan dokumen. Tim juga menemukan indikasi bahwa dokumen dan data elektronik dapat dipindahkan atau diubah sebelum pemeriksa memperoleh akses. Pemeriksa mempertimbangkan langkah pengamanan terakhir. Berdasarkan materi KUP, tindakan yang tepat adalah apa?",
+        "answer": "Melakukan penyegelan atas tempat, ruang, benda bergerak atau tidak bergerak sebagai upaya terakhir untuk memperoleh atau mengamankan buku, catatan, dokumen, data elektronik, dan benda lain yang relevan.",
+        "options": [
+          "Langsung menerbitkan SKPKBT tanpa memperoleh atau mengamankan dokumen tambahan.",
+          "Melakukan penyegelan atas tempat, ruang, benda bergerak atau tidak bergerak sebagai upaya terakhir untuk memperoleh atau mengamankan buku, catatan, dokumen, data elektronik, dan benda lain yang relevan.",
+          "Menghentikan pemeriksaan karena Wajib Pajak tidak berada di tempat sehingga pemeriksa tidak lagi memiliki kewenangan.",
+          "Mengabaikan data elektronik karena penyegelan hanya dapat dilakukan atas ruangan fisik dan tidak boleh menyangkut data."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP menyebutkan penyegelan dapat dilakukan jika Wajib Pajak tidak berada di tempat atau sengaja tidak memberi kesempatan kepada pemeriksa memasuki tempat atau ruang yang dipandang perlu dan tidak memberi bantuan. Penyegelan merupakan upaya terakhir untuk memperoleh atau mengamankan buku, catatan, dokumen termasuk data elektronik, serta benda lain yang dapat memberi petunjuk tentang kegiatan usaha atau pekerjaan bebas Wajib Pajak.\n\nOpsi A keliru karena SKPKBT berkaitan dengan hasil pemeriksaan ulang dan data baru, bukan langkah langsung untuk kondisi penolakan akses dalam pemeriksaan.\n\nOpsi C keliru karena ketidakhadiran atau penolakan akses justru dapat menjadi dasar penyegelan, bukan menghentikan kewenangan pemeriksa.\n\nOpsi D keliru karena materi menyebutkan dokumen termasuk data yang dikelola secara elektronik dapat menjadi objek pengamanan melalui penyegelan, dengan ketentuan tidak menghentikan kelancaran operasional tertentu.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 16/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 16,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Aksara menyampaikan SPT dan menghitung sendiri pajak terutangnya. Beberapa bulan kemudian, DJP memperoleh bukti bahwa jumlah pajak terutang menurut SPT tidak benar. Direksi perusahaan berpendapat DJP tidak dapat menetapkan jumlah pajak karena sistem perpajakan menganut self-assessment. Seorang kepala seksi diminta menjelaskan posisi yang benar menurut materi KUP. Pernyataan mana yang paling tepat?",
+        "answer": "Dalam self-assessment Wajib Pajak menghitung, memperhitungkan, membayar, dan melaporkan sendiri pajak terutang, tetapi jika DJP memperoleh bukti bahwa jumlah pajak menurut SPT tidak benar, DJP menetapkan jumlah pajak terutang.",
+        "options": [
+          "Dalam self-assessment Wajib Pajak menghitung, memperhitungkan, membayar, dan melaporkan sendiri pajak terutang, tetapi jika DJP memperoleh bukti bahwa jumlah pajak menurut SPT tidak benar, DJP menetapkan jumlah pajak terutang.",
+          "Dalam self-assessment DJP tidak boleh menerbitkan ketetapan pajak dalam kondisi apa pun.",
+          "Jumlah pajak terutang hanya sah jika sejak awal didasarkan pada surat ketetapan pajak yang diterbitkan fiskus.",
+          "Jika SPT sudah disampaikan, jumlah pajak di dalamnya selalu final meskipun DJP memiliki data sebaliknya."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menjelaskan prinsip self-assessment, yaitu Wajib Pajak diberi kewenangan menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang. Namun Pasal 12 dalam materi juga menyatakan jika DJP mendapatkan bukti bahwa jumlah pajak terutang menurut SPT tidak benar, DJP menetapkan jumlah pajak yang terutang.\n\nOpsi B keliru karena materi menyebutkan DJP berwenang menerbitkan surat ketetapan pajak dalam kondisi tertentu.\n\nOpsi C keliru karena prinsip self-assessment tidak menggantungkan pembayaran pajak pada adanya surat ketetapan pajak.\n\nOpsi D keliru karena perhitungan Wajib Pajak dianggap benar sepanjang DJP tidak dapat membuktikan atau memiliki data sebaliknya.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 17/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 17,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Dalam pemeriksaan ulang PT Mahameru, DJP menemukan data baru yang belum diberitahukan pada saat penetapan sebelumnya. Data baru itu mengakibatkan tambahan jumlah pajak terutang. Namun dalam kasus lain, Wajib Pajak dengan kehendak sendiri memberikan pengakuan tertulis atas data yang mengakibatkan tambahan pajak tersebut. Staf penelaah ingin membedakan konsekuensi kedua situasi itu. Berdasarkan materi KUP, kesimpulan yang tepat adalah apa?",
+        "answer": "SKPKBT diterbitkan berdasarkan pemeriksaan ulang karena data baru; jika data baru yang menambah pajak terutang dimiliki DJP dikenai kenaikan 100 persen, sedangkan pengakuan tertulis Wajib Pajak atas kehendak sendiri tidak dikenai sanksi tersebut.",
+        "options": [
+          "SKPKBT tidak dapat diterbitkan setelah pemeriksaan ulang karena semua tambahan pajak harus ditagih dengan STP.",
+          "Data baru selalu bebas sanksi, baik ditemukan DJP maupun diakui Wajib Pajak.",
+          "Jika data baru dimiliki DJP dan menambah pajak terutang, sanksi kenaikan 100 persen tidak dikenakan.",
+          "SKPKBT diterbitkan berdasarkan pemeriksaan ulang karena data baru; jika data baru yang menambah pajak terutang dimiliki DJP dikenai kenaikan 100 persen, sedangkan pengakuan tertulis Wajib Pajak atas kehendak sendiri tidak dikenai sanksi tersebut."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menyebutkan SKPKBT diterbitkan dalam jangka waktu lima tahun berdasarkan pemeriksaan ulang jika terdapat data baru termasuk data yang semula belum terungkap. Materi membedakan data baru yang dimiliki DJP, yang dikenai sanksi kenaikan 100 persen, dan pengakuan tertulis dari Wajib Pajak atas kehendak sendiri, yang sanksinya tidak dikenakan.\n\nOpsi A keliru karena SKPKBT secara khusus diterbitkan berdasarkan pemeriksaan ulang dalam hal terdapat data baru.\n\nOpsi B keliru karena data baru yang dimiliki DJP dan menambah pajak terutang dikenai kenaikan 100 persen.\n\nOpsi C keliru karena materi menyatakan kebalikannya, yaitu data baru yang dimiliki DJP dikenai sanksi kenaikan 100 persen.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 18/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 18,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "PT Cakrawala dinyatakan pailit, dan kurator mengurus pemberesan harta perusahaan. Di saat yang sama, perusahaan memiliki utang pajak yang belum dilunasi. Kurator menanyakan apakah ia dapat dipandang sebagai wakil Wajib Pajak dan bagaimana tanggung jawab wakil atas pajak terutang. Ia juga ingin mengetahui apakah tanggung jawab itu selalu dapat dihindari hanya dengan menyatakan bertindak sebagai kurator. Berdasarkan materi KUP, jawaban paling tepat adalah apa?",
+        "answer": "Badan yang dinyatakan pailit diwakili oleh kurator, dan wakil bertanggung jawab secara pribadi atau renteng atas pembayaran pajak terutang kecuali dapat membuktikan dan meyakinkan DJP bahwa dalam kedudukannya benar-benar tidak mungkin dibebani tanggung jawab tersebut.",
+        "options": [
+          "Kurator tidak termasuk wakil Wajib Pajak karena hanya pengurus aktif yang dapat menjadi wakil badan.",
+          "Badan yang dinyatakan pailit diwakili oleh kurator, dan wakil bertanggung jawab secara pribadi atau renteng atas pembayaran pajak terutang kecuali dapat membuktikan dan meyakinkan DJP bahwa dalam kedudukannya benar-benar tidak mungkin dibebani tanggung jawab tersebut.",
+          "Kurator hanya bertanggung jawab atas biaya penagihan pajak, bukan pajak terutang.",
+          "Tanggung jawab wakil selalu hapus otomatis karena semua utang pajak badan pailit menjadi tanggungan pemegang saham."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP mencantumkan badan yang dinyatakan pailit diwakili oleh kurator. Materi juga menyatakan wakil bertanggung jawab secara pribadi atau renteng atas pembayaran pajak yang terutang, kecuali dapat membuktikan dan meyakinkan Direktur Jenderal Pajak bahwa dalam kedudukannya benar-benar tidak mungkin dibebani tanggung jawab tersebut.\n\nOpsi A keliru karena daftar wakil Wajib Pajak dalam materi secara jelas mencakup kurator untuk badan yang dinyatakan pailit.\n\nOpsi C keliru karena tanggung jawab wakil dalam materi mencakup pembayaran pajak yang terutang, bukan hanya biaya penagihan.\n\nOpsi D keliru karena materi tidak menyatakan tanggung jawab wakil hapus otomatis atau dialihkan sepenuhnya kepada pemegang saham.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 19/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 19,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket A",
+        "question": "Sebuah penyelenggara sistem elektronik memfasilitasi transaksi pemanfaatan jasa dari luar daerah pabean oleh konsumen di Indonesia. Menteri Keuangan menetapkan pihak tersebut sebagai pemungut pajak berdasarkan ketentuan pihak lain dalam materi KUP. Setelah ditetapkan, penyelenggara tidak menjalankan kewajiban pemungutan dan tidak menindaklanjuti teguran. Tim kebijakan meminta ringkasan konsekuensi yang dapat diterapkan. Berdasarkan materi KUP, pilihan paling tepat adalah apa?",
+        "answer": "Menteri Keuangan dapat menunjuk pihak lain yang terlibat langsung, memfasilitasi, atau merupakan penyelenggara sistem elektronik sebagai pemotong atau pemungut; untuk penyelenggara sistem elektronik dapat diterapkan teguran, putus akses, dan normalisasi akses melalui menteri di bidang komunikasi dan informatika berdasarkan permintaan Menteri Keuangan.",
+        "options": [
+          "Menteri Keuangan tidak dapat menunjuk pihak lain sebagai pemotong atau pemungut karena hanya Wajib Pajak langsung yang dapat memungut pajak.",
+          "Pihak lain hanya dapat dikenai teguran, tetapi tidak dapat dikenai putus akses atau normalisasi akses.",
+          "Menteri Keuangan dapat menunjuk pihak lain yang terlibat langsung, memfasilitasi, atau merupakan penyelenggara sistem elektronik sebagai pemotong atau pemungut; untuk penyelenggara sistem elektronik dapat diterapkan teguran, putus akses, dan normalisasi akses melalui menteri di bidang komunikasi dan informatika berdasarkan permintaan Menteri Keuangan.",
+          "Penunjukan pihak lain hanya berlaku untuk instansi pemerintah dan tidak berlaku untuk marketplace, PPMSE, kripto, atau layanan pinjam meminjam online."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP pada bagian penunjukan pihak lain menyebutkan Menteri Keuangan dapat menetapkan pihak lain sebagai pemotong atau pemungut, termasuk yang terlibat langsung, memfasilitasi, atau merupakan penyelenggara sistem elektronik. Untuk penyelenggara sistem elektronik, materi menampilkan mekanisme teguran, putus akses, dan normalisasi akses oleh menteri di bidang komunikasi dan informatika berdasarkan permintaan Menteri Keuangan.\n\nOpsi A keliru karena materi justru menyatakan Menteri Keuangan dapat menetapkan pihak lain sebagai pemotong atau pemungut.\n\nOpsi B keliru karena materi mencantumkan tidak hanya teguran, tetapi juga putus akses dan normalisasi akses dalam konteks penyelenggara sistem elektronik.\n\nOpsi D keliru karena materi memberi contoh pihak lain yang ditunjuk, termasuk marketplace dan ritel daring, PPMSE dalam dan luar negeri, penyelenggara PMSE atas transaksi kripto, serta penyelenggara layanan pinjam meminjam online.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket A soal 20/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-a",
+          "label": "A",
+          "order": 4,
+          "questionNumber": 20,
+          "sourceTitle": "KUP.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kup-studi-kasus-paket-b",
+    "categoryId": "kup",
+    "name": "KUP (Studi Kasus) Paket B",
+    "sourceTitle": "KUP.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+    "packageLabel": "B",
+    "packageIndex": 5,
+    "questions": [
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Sentra Logistik mulai beroperasi sebagai badan usaha di Indonesia, tetapi tidak mendaftarkan diri untuk memperoleh NPWP dan tidak mengajukan pengukuhan PKP meskipun telah memenuhi ketentuan. KPP kemudian memperoleh data dari hasil pemeriksaan dan penelitian administrasi. Berdasarkan data tersebut, KPP mempertimbangkan penerbitan NPWP dan/atau pengukuhan PKP secara jabatan. Manajemen perusahaan bertanya sejak kapan kewajiban perpajakan dapat ditarik dalam konteks penerbitan secara jabatan. Pilihan mana yang paling tepat?",
+        "answer": "Kewajiban perpajakan dapat berlaku paling lama 5 tahun sebelum diterbitkannya NPWP dan/atau dikukuhkannya sebagai PKP secara jabatan.",
+        "options": [
+          "Kewajiban perpajakan hanya berlaku sejak tanggal perusahaan mengajukan permohonan pendaftaran secara sukarela.",
+          "Kewajiban perpajakan dapat berlaku paling lama 5 tahun sebelum diterbitkannya NPWP dan/atau dikukuhkannya sebagai PKP secara jabatan.",
+          "Kewajiban perpajakan hanya berlaku mulai tahun pajak berikutnya setelah NPWP diterbitkan secara jabatan.",
+          "Kewajiban perpajakan berlaku tanpa batas waktu mundur sejak perusahaan pertama kali didirikan."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP menyebutkan bahwa jika Wajib Pajak tidak melaksanakan kewajiban mendaftarkan diri untuk memperoleh NPWP dan/atau pengukuhan PKP, KPP dapat menerbitkan NPWP atau mengukuhkan PKP secara jabatan berdasarkan hasil pemeriksaan atau penelitian administrasi. Dalam konteks tersebut, kewajiban perpajakan berlaku paling lama 5 tahun sebelum diterbitkannya NPWP dan/atau dikukuhkannya sebagai PKP.\n\nOpsi A keliru karena penerbitan secara jabatan justru dilakukan ketika Wajib Pajak tidak melaksanakan kewajiban pendaftaran atau pengukuhan sendiri.\n\nOpsi C keliru karena materi menyebutkan kewajiban dapat berlaku mundur paling lama 5 tahun, bukan hanya tahun pajak berikutnya.\n\nOpsi D keliru karena materi memberi batas paling lama 5 tahun, bukan tanpa batas waktu mundur.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 1/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 1,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "Rina membantu beberapa jenis Wajib Pajak menyiapkan pendaftaran NPWP dan pengukuhan PKP. Untuk Wajib Pajak orang pribadi, NIK yang digunakan sudah tervalidasi. Untuk Wajib Pajak badan, tersedia akta pendirian dan dokumen perubahan terakhir. Untuk instansi pemerintah, tersedia dokumen yang menunjukkan satuan kerja bertindak selaku pengguna APBN atau APBD. Rina ingin memilih saluran pendaftaran dan dokumen yang sesuai dengan materi KUP. Pilihan mana yang paling tepat?",
+        "answer": "Pendaftaran dapat dilakukan secara elektronik atau melalui pos, jasa ekspedisi, kurir, maupun langsung; sepanjang NIK tervalidasi, orang pribadi dan warisan belum terbagi tidak memerlukan dokumen, sedangkan badan dan instansi pemerintah memakai dokumen sesuai jenisnya.",
+        "options": [
+          "Semua jenis Wajib Pajak harus datang langsung ke KPP dan membawa dokumen pendirian badan.",
+          "Orang pribadi dan warisan belum terbagi tetap wajib melampirkan dokumen tambahan walaupun NIK sudah tervalidasi.",
+          "Instansi pemerintah cukup melampirkan NIK pengurus karena dokumen satuan kerja tidak diperlukan.",
+          "Pendaftaran dapat dilakukan secara elektronik atau melalui pos, jasa ekspedisi, kurir, maupun langsung; sepanjang NIK tervalidasi, orang pribadi dan warisan belum terbagi tidak memerlukan dokumen, sedangkan badan dan instansi pemerintah memakai dokumen sesuai jenisnya."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menyebutkan pendaftaran NPWP dan pengukuhan PKP dapat dilakukan melalui Portal Wajib Pajak, laman atau aplikasi terintegrasi, contact center, pos, jasa ekspedisi, jasa kurir, atau secara langsung. Untuk orang pribadi dan warisan belum terbagi, sepanjang NIK tervalidasi tidak diperlukan dokumen, sedangkan badan memerlukan dokumen pendirian atau pembentukan dan instansi pemerintah memerlukan dokumen satuan kerja pengguna APBN atau APBD.\n\nOpsi A keliru karena saluran pendaftaran tidak hanya langsung ke KPP dan dokumen pendirian badan tidak berlaku untuk semua jenis Wajib Pajak.\n\nOpsi B keliru karena materi menyatakan sepanjang NIK tervalidasi, orang pribadi dan warisan belum terbagi tidak memerlukan dokumen.\n\nOpsi C keliru karena instansi pemerintah memerlukan dokumen yang menunjukkan satuan kerja sebagai pengguna APBN atau APBD.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 2/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 2,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "Dimas adalah Wajib Pajak orang pribadi yang dahulu memiliki usaha percetakan kecil. Usahanya sudah berhenti dan ia tidak memperoleh penghasilan lain. Ia mengajukan permohonan penetapan Wajib Pajak nonaktif dengan dokumen sesuai ketentuan. Beberapa waktu kemudian, ia berencana membuka usaha baru dan tidak lagi memenuhi kriteria WP nonaktif. Berdasarkan materi KUP, perlakuan yang paling tepat adalah apa?",
+        "answer": "Kepala KPP dapat menetapkan WP nonaktif paling lama 5 hari kerja setelah permohonan, dan jika Dimas tidak lagi memenuhi kriteria WP nonaktif, Kepala KPP dapat mengaktifkan kembali berdasarkan permohonan atau jabatan.",
+        "options": [
+          "Kepala KPP dapat menetapkan WP nonaktif paling lama 5 hari kerja setelah permohonan, dan jika Dimas tidak lagi memenuhi kriteria WP nonaktif, Kepala KPP dapat mengaktifkan kembali berdasarkan permohonan atau jabatan.",
+          "WP nonaktif hanya dapat diberikan kepada badan, sehingga orang pribadi yang berhenti usaha harus langsung menghapus NPWP.",
+          "Penetapan WP nonaktif membutuhkan pemeriksaan paling lama 12 bulan sejak permohonan.",
+          "Jika sudah ditetapkan nonaktif, Wajib Pajak tidak dapat diaktifkan kembali dan harus memperoleh NPWP baru."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan kriteria WP orang pribadi nonaktif antara lain usaha atau pekerjaan bebas berhenti, WP nonusaha tidak memperoleh penghasilan, atau penghasilan lebih kecil dari PTKP. Keputusan penetapan WP nonaktif diterbitkan paling lama 5 hari kerja setelah permohonan, dan jika Wajib Pajak sudah tidak memenuhi kriteria WP nonaktif, Kepala KPP dapat mengaktifkan kembali berdasarkan permohonan atau jabatan.\n\nOpsi B keliru karena materi mencantumkan kriteria WP nonaktif untuk orang pribadi, instansi pemerintah, dan badan.\n\nOpsi C keliru karena jangka waktu 12 bulan berkaitan dengan penghapusan NPWP badan, bukan penetapan WP nonaktif.\n\nOpsi D keliru karena materi menyatakan WP nonaktif dapat diaktifkan kembali berdasarkan permohonan atau jabatan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 3/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 3,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Biru Sejahtera telah dilikuidasi dan tidak lagi memenuhi persyaratan subjektif dan objektif sebagai Wajib Pajak badan. Perusahaan mengajukan permohonan penghapusan NPWP dengan dokumen yang dipersyaratkan. Sampai melewati jangka waktu yang diatur, KPP belum menerbitkan keputusan. Konsultan perusahaan bertanya kapan keputusan seharusnya diberikan dan apa akibat jika jangka waktu terlampaui. Berdasarkan materi KUP, jawaban paling tepat adalah apa?",
+        "answer": "Keputusan penghapusan NPWP badan harus diterbitkan paling lama 12 bulan sejak permohonan; jika terlampaui, permohonan dianggap dikabulkan dan keputusan penghapusan diterbitkan paling lama 1 bulan sejak jangka waktu berakhir.",
+        "options": [
+          "Keputusan penghapusan NPWP badan harus diterbitkan paling lama 6 bulan sejak permohonan dan jika lewat dianggap ditolak.",
+          "Keputusan penghapusan NPWP badan harus diterbitkan paling lama 5 hari kerja dan jika lewat WP otomatis nonaktif.",
+          "Keputusan penghapusan NPWP badan harus diterbitkan paling lama 12 bulan sejak permohonan; jika terlampaui, permohonan dianggap dikabulkan dan keputusan penghapusan diterbitkan paling lama 1 bulan sejak jangka waktu berakhir.",
+          "Keputusan penghapusan NPWP badan tidak memiliki batas waktu selama KPP masih melakukan penelitian formal."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan keputusan penghapusan NPWP untuk Wajib Pajak badan diterbitkan dalam jangka waktu 12 bulan sejak permohonan. Jika jangka waktu terlampaui, permohonan dianggap dikabulkan dan keputusan penghapusan diterbitkan paling lama 1 bulan sejak jangka waktu berakhir.\n\nOpsi A keliru karena jangka waktu 6 bulan dalam materi berlaku untuk penghapusan NPWP orang pribadi, warisan belum terbagi, dan instansi pemerintah, bukan badan.\n\nOpsi B keliru karena 5 hari kerja berkaitan dengan penetapan WP nonaktif, bukan penghapusan NPWP badan.\n\nOpsi D keliru karena materi menetapkan batas waktu keputusan atas penghapusan NPWP badan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 4/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 4,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "Koperasi Tani Mandiri menyelenggarakan pencatatan karena termasuk Wajib Pajak yang diperbolehkan melakukan pencatatan. Pengurus koperasi mencatat peredaran bruto, penghasilan bruto, dan penghasilan yang dikenai pajak final. Namun ia tidak yakin apakah pencatatan harus mencakup penghasilan yang bukan objek pajak. Ia juga bertanya perbedaan pokok antara pencatatan dan pembukuan. Berdasarkan materi KUP, pernyataan yang paling tepat adalah apa?",
+        "answer": "Pencatatan terdiri atas data yang dikumpulkan secara teratur tentang peredaran atau penerimaan bruto dan/atau penghasilan bruto sebagai dasar menghitung pajak terutang, termasuk penghasilan bukan objek pajak dan/atau penghasilan yang dikenai pajak final.",
+        "options": [
+          "Pencatatan hanya berisi daftar aset dan kewajiban, sedangkan pembukuan hanya berisi peredaran bruto.",
+          "Pencatatan terdiri atas data yang dikumpulkan secara teratur tentang peredaran atau penerimaan bruto dan/atau penghasilan bruto sebagai dasar menghitung pajak terutang, termasuk penghasilan bukan objek pajak dan/atau penghasilan yang dikenai pajak final.",
+          "Pencatatan selalu harus ditutup dengan neraca dan laporan laba rugi seperti pembukuan.",
+          "Pembukuan tidak mencakup harta, kewajiban, modal, penghasilan, dan biaya."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP mendefinisikan pencatatan sebagai data yang dikumpulkan secara teratur tentang peredaran atau penerimaan bruto dan/atau penghasilan bruto sebagai dasar menghitung jumlah pajak terutang. Pencatatan juga mencakup penghasilan yang bukan objek pajak dan/atau yang dikenai pajak bersifat final.\n\nOpsi A keliru karena pencatatan bukan hanya daftar aset dan kewajiban, dan pembukuan bukan hanya peredaran bruto.\n\nOpsi C keliru karena penyusunan neraca dan laporan laba rugi merupakan bagian dari definisi pembukuan, bukan pencatatan.\n\nOpsi D keliru karena pembukuan justru mencakup harta, kewajiban, modal, penghasilan, biaya, serta harga perolehan dan penyerahan barang atau jasa.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 5/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 5,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Pusaka sedang menyusun kebijakan pembukuan internal untuk tahun pajak berjalan. Perusahaan ingin memakai bahasa Inggris dan mata uang dolar Amerika Serikat dalam pembukuannya. Manajer akuntansi juga ingin mengganti metode pencatatan setiap bulan agar hasil laporan lebih fleksibel. Tim pajak meminta panduan yang sesuai dengan ketentuan pembukuan dalam materi KUP. Pernyataan mana yang paling tepat?",
+        "answer": "Pembukuan harus berdasarkan standar akuntansi keuangan yang berlaku di Indonesia, beriktikad baik, mencerminkan keadaan sebenarnya, memakai huruf Latin, angka Arab, satuan rupiah, bahasa Indonesia, dan jika memakai bahasa asing atau mata uang selain rupiah harus mendapat izin Menteri serta konsisten dengan prinsip taat asas dan stelsel akrual atau kas.",
+        "options": [
+          "Pembukuan harus berdasarkan standar akuntansi keuangan yang berlaku di Indonesia, beriktikad baik, mencerminkan keadaan sebenarnya, memakai huruf Latin, angka Arab, satuan rupiah, bahasa Indonesia, dan jika memakai bahasa asing atau mata uang selain rupiah harus mendapat izin Menteri serta konsisten dengan prinsip taat asas dan stelsel akrual atau kas.",
+          "Pembukuan boleh memakai bahasa dan mata uang apa pun tanpa izin selama perusahaan memiliki transaksi luar negeri.",
+          "Prinsip taat asas tidak diperlukan karena Wajib Pajak boleh mengubah metode pencatatan setiap bulan.",
+          "Pembukuan tidak perlu mencerminkan kegiatan usaha sebenarnya sepanjang SPT telah dilaporkan tepat waktu."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan pembukuan harus berdasarkan standar akuntansi keuangan yang berlaku di Indonesia, beriktikad baik, dan mencerminkan keadaan atau kegiatan usaha yang sebenarnya. Pembukuan menggunakan huruf Latin, angka Arab, satuan mata uang rupiah, dan bahasa Indonesia, sedangkan penggunaan bahasa asing atau mata uang selain rupiah memerlukan izin Menteri serta harus konsisten dengan prinsip taat asas dan stelsel akrual atau kas.\n\nOpsi B keliru karena penggunaan bahasa asing atau mata uang selain rupiah memerlukan izin Menteri.\n\nOpsi C keliru karena materi menegaskan pembukuan harus konsisten dengan prinsip taat asas.\n\nOpsi D keliru karena pembukuan harus mencerminkan keadaan atau kegiatan usaha yang sebenarnya.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 6/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 6,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Lentera terlambat menyetor pajak untuk suatu Masa Pajak. Pembayaran baru dilakukan setelah tanggal jatuh tempo pembayaran. Bagian keuangan menanyakan bagaimana sanksi administrasi bunga dihitung menurut materi KUP. Mereka juga ingin mengetahui perlakuan bagian bulan dalam penghitungan tersebut. Pilihan mana yang paling tepat?",
+        "answer": "Sanksi berupa bunga dihitung setelah tanggal jatuh tempo pembayaran sampai tanggal pembayaran, paling lama 24 bulan, dan bagian dari bulan dihitung penuh satu bulan dengan tarif bunga per bulan yang ditetapkan Menteri Keuangan.",
+        "options": [
+          "Sanksi dihitung sejak awal Masa Pajak sampai akhir tahun pajak dan bagian bulan diabaikan.",
+          "Sanksi selalu berupa denda tetap tanpa memperhatikan jumlah pajak kurang bayar.",
+          "Sanksi dihitung sejak tanggal SPT disampaikan sampai tanggal SKP diterbitkan dan tanpa batas maksimal.",
+          "Sanksi berupa bunga dihitung setelah tanggal jatuh tempo pembayaran sampai tanggal pembayaran, paling lama 24 bulan, dan bagian dari bulan dihitung penuh satu bulan dengan tarif bunga per bulan yang ditetapkan Menteri Keuangan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP bagian keterlambatan pembayaran pajak Masa menyebutkan sanksi administrasi berupa bunga dihitung setelah tanggal jatuh tempo pembayaran sampai tanggal pembayaran. Pengenaan dilakukan paling lama 24 bulan dan bagian dari bulan dihitung penuh satu bulan, dengan tarif bunga per bulan yang ditetapkan Menteri Keuangan.\n\nOpsi A keliru karena periode penghitungan bukan sejak awal Masa Pajak sampai akhir tahun pajak dan bagian bulan tidak diabaikan.\n\nOpsi B keliru karena sanksi keterlambatan pembayaran berupa bunga berdasarkan pajak kurang bayar, tarif bunga per bulan, dan jumlah bulan.\n\nOpsi C keliru karena materi menyebutkan penghitungan dari setelah tanggal jatuh tempo pembayaran sampai tanggal pembayaran, bukan sejak SPT disampaikan sampai SKP diterbitkan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 7/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 7,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "Sebuah kantor pelayanan menerima pertanyaan dari dua Wajib Pajak. Wajib Pajak pertama menanyakan kapan Bea Meterai harus dibayar. Wajib Pajak kedua baru menerima SPPT PBB dan ingin mengetahui batas waktu pelunasan. Petugas ingin menjawab dengan ringkas sesuai materi pembayaran pajak. Pilihan jawaban mana yang paling tepat?",
+        "answer": "Bea Meterai wajib dibayar lunas pada saat terutang, sedangkan SPPT PBB harus dibayar 6 bulan sejak tanggal diterimanya SPPT.",
+        "options": [
+          "Bea Meterai dibayar paling lambat akhir bulan berikutnya, sedangkan SPPT PBB dibayar 1 bulan sejak diterima.",
+          "Bea Meterai dan SPPT PBB sama-sama dibayar paling lama 4 bulan setelah tahun pajak berakhir.",
+          "Bea Meterai wajib dibayar lunas pada saat terutang, sedangkan SPPT PBB harus dibayar 6 bulan sejak tanggal diterimanya SPPT.",
+          "Bea Meterai dibayar setelah diterbitkan STP, sedangkan SPPT PBB dibayar setelah Wajib Pajak mengajukan keberatan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan Bea Meterai wajib dibayar lunas pada saat terutang Bea Meterai. Untuk SPPT PBB, batas waktu pembayaran adalah 6 bulan sejak tanggal diterimanya SPPT.\n\nOpsi A keliru karena batas akhir bulan berikutnya tidak digunakan untuk Bea Meterai dalam materi tersebut, dan SPPT PBB bukan 1 bulan sejak diterima.\n\nOpsi B keliru karena jangka waktu 4 bulan setelah tahun pajak berakhir berkaitan dengan SPT Tahunan PPh badan, bukan Bea Meterai dan SPPT PBB.\n\nOpsi D keliru karena Bea Meterai tidak menunggu STP dan SPPT PBB tidak menunggu keberatan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 8/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 8,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Mandala mengalami kesulitan arus kas saat harus melunasi kekurangan pembayaran berdasarkan SPT Tahunan PPh. Perusahaan mengajukan permohonan untuk mengangsur pembayaran pajak. Dalam kasus lain, perusahaan juga memiliki SKPKB dan Putusan Banding yang masih harus dibayar. Kepala seksi penagihan perlu menjelaskan batas pemberian angsuran atau penundaan. Berdasarkan materi KUP, pilihan mana yang paling tepat?",
+        "answer": "Untuk pajak terutang berdasarkan SPT Tahunan PPh, pemberian angsuran atau penundaan paling lama sampai batas waktu penyampaian SPT PPh tahun pajak berikutnya, sedangkan untuk STP, SKPKB, SKPKBT, SK Pembetulan, SK Keberatan, SK Persetujuan Bersama, Putusan Banding, Putusan PK, dan STP PBB paling lama 24 bulan sejak diterbitkan keputusan.",
+        "options": [
+          "Untuk pajak terutang berdasarkan SPT Tahunan PPh, pemberian angsuran atau penundaan paling lama sampai batas waktu penyampaian SPT PPh tahun pajak berikutnya, sedangkan untuk STP, SKPKB, SKPKBT, SK Pembetulan, SK Keberatan, SK Persetujuan Bersama, Putusan Banding, Putusan PK, dan STP PBB paling lama 24 bulan sejak diterbitkan keputusan.",
+          "Semua jenis angsuran dan penundaan hanya boleh diberikan paling lama 1 bulan sejak keputusan diterbitkan.",
+          "Angsuran atas SPT Tahunan PPh selalu diberikan selama 24 bulan sejak keputusan tanpa memperhatikan batas penyampaian SPT tahun berikutnya.",
+          "Besar pembayaran angsuran boleh berubah bebas setiap bulan tanpa ditetapkan dalam keputusan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan pemberian angsuran atau penundaan untuk pajak terutang berdasarkan SPT Tahunan PPh paling lama sampai batas waktu penyampaian SPT PPh Tahun Pajak berikutnya. Untuk STP, SKPKB, SKPKBT, SK Pembetulan, SK Keberatan, SK Persetujuan Bersama, Putusan Banding, Putusan Peninjauan Kembali, dan STP PBB, jangka waktunya paling lama 24 bulan sejak diterbitkan keputusan.\n\nOpsi B keliru karena materi membedakan jangka waktu angsuran atau penundaan, bukan selalu 1 bulan.\n\nOpsi C keliru karena untuk SPT Tahunan PPh jangka waktu mengacu pada batas waktu penyampaian SPT PPh tahun pajak berikutnya.\n\nOpsi D keliru karena materi menyebutkan besar pembayaran ditetapkan dalam jumlah yang sama besar untuk setiap angsuran per bulan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 9/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 9,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "CV Elang terlambat menyampaikan beberapa jenis SPT. Salah satunya adalah SPT Masa PPN, satu lagi SPT Masa selain PPN, dan yang lain adalah SPT Tahunan PPh badan. Direktur meminta stafnya memperkirakan denda administrasi yang relevan. Staf tersebut mengira semua keterlambatan SPT dikenai denda yang sama. Berdasarkan materi KUP, pernyataan mana yang benar?",
+        "answer": "SPT Masa PPN dikenai denda Rp500.000, SPT Masa lainnya Rp100.000, SPT Tahunan WP orang pribadi Rp100.000, dan SPT Tahunan WP badan Rp1.000.000.",
+        "options": [
+          "Semua keterlambatan SPT dikenai denda Rp100.000 tanpa membedakan jenis SPT.",
+          "SPT Masa PPN dikenai denda Rp100.000, SPT Masa lainnya Rp500.000, dan SPT Tahunan WP badan Rp100.000.",
+          "SPT Tahunan WP badan tidak dikenai denda karena hanya Wajib Pajak orang pribadi yang dikenai sanksi.",
+          "SPT Masa PPN dikenai denda Rp500.000, SPT Masa lainnya Rp100.000, SPT Tahunan WP orang pribadi Rp100.000, dan SPT Tahunan WP badan Rp1.000.000."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menyebutkan denda telat atau tidak lapor SPT adalah Rp500.000 untuk SPT Masa PPN, Rp100.000 untuk SPT Masa lainnya, Rp100.000 untuk SPT Tahunan Wajib Pajak orang pribadi, dan Rp1.000.000 untuk SPT Tahunan Wajib Pajak badan.\n\nOpsi A keliru karena materi membedakan besaran denda berdasarkan jenis SPT.\n\nOpsi B keliru karena besaran denda SPT Masa PPN dan SPT Masa lainnya tertukar, serta SPT Tahunan WP badan seharusnya Rp1.000.000.\n\nOpsi C keliru karena SPT Tahunan WP badan dikenai denda Rp1.000.000 jika terlambat atau tidak dilaporkan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 10/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 10,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "Sebuah Wajib Pajak usaha kecil ingin menyampaikan satu SPT Masa untuk beberapa Masa Pajak sekaligus. Untuk PPh Pasal 25, bendahara perusahaan berencana membayar seluruh pajak yang wajib dilunasi menurut SPT tersebut sekaligus pada masa pajak terakhir. Untuk SPT Masa selain PPh Pasal 25, ia berencana menunda semua pembayaran sampai masa pajak terakhir juga. Supervisor meminta analisis apakah rencana itu sesuai materi KUP. Jawaban paling tepat adalah apa?",
+        "answer": "PPh Pasal 25 dapat dilaporkan untuk beberapa masa sekaligus dengan syarat pembayaran seluruh pajak dilakukan sekaligus paling lama dalam masa pajak terakhir, sedangkan SPT Masa selain itu dapat dilaporkan beberapa masa sekaligus dengan pembayaran masing-masing masa tetap sesuai batas waktu masa pajak yang bersangkutan.",
+        "options": [
+          "Semua pembayaran untuk semua jenis SPT Masa dapat ditunda sampai masa pajak terakhir.",
+          "PPh Pasal 25 dapat dilaporkan untuk beberapa masa sekaligus dengan syarat pembayaran seluruh pajak dilakukan sekaligus paling lama dalam masa pajak terakhir, sedangkan SPT Masa selain itu dapat dilaporkan beberapa masa sekaligus dengan pembayaran masing-masing masa tetap sesuai batas waktu masa pajak yang bersangkutan.",
+          "Pelaporan beberapa masa pajak dalam satu SPT Masa hanya berlaku untuk SPT Masa PPN.",
+          "Pelaporan beberapa masa pajak tidak boleh dilakukan oleh Wajib Pajak kriteria tertentu atau usaha kecil."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP mengatur Wajib Pajak dengan kriteria tertentu atau usaha kecil dapat menyampaikan SPT Masa PPh Pasal 25 untuk beberapa masa pajak sekaligus dengan syarat pembayaran seluruh pajak dilakukan sekaligus paling lama dalam masa pajak terakhir. Untuk SPT Masa selain PPh Pasal 25, pembayaran untuk masing-masing masa pajak tetap dilakukan sesuai batas waktu masa pajak yang bersangkutan.\n\nOpsi A keliru karena penundaan semua pembayaran sampai masa terakhir tidak berlaku untuk SPT Masa selain PPh Pasal 25.\n\nOpsi C keliru karena materi menyebutkan PPh Pasal 25 dan SPT Masa selain PPh Pasal 25, bukan hanya SPT Masa PPN.\n\nOpsi D keliru karena materi justru mengatur fasilitas pelaporan beberapa masa pajak bagi Wajib Pajak kriteria tertentu atau usaha kecil.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 11/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 11,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Angkasa menerima Surat Keputusan Keberatan atas tahun pajak sebelumnya. Keputusan tersebut menyatakan rugi fiskal yang berbeda dengan rugi fiskal yang telah dikompensasikan dalam SPT Tahunan tahun berjalan. Perusahaan belum dilakukan pemeriksaan atas SPT yang akan dibetulkan. Direksi bertanya langkah yang seharusnya dilakukan dan konsekuensi jika tidak melakukannya. Berdasarkan materi KUP, pilihan mana yang paling tepat?",
+        "answer": "Perusahaan dapat membetulkan SPT dalam jangka waktu 3 bulan sejak tanggal diterima keputusan atau putusan, sepanjang belum dilakukan pemeriksaan; jika tidak membetulkan, DJP menghitung kembali kompensasi kerugian dalam SPT secara jabatan.",
+        "options": [
+          "Perusahaan tidak boleh membetulkan SPT karena semua perubahan rugi fiskal hanya dapat dilakukan melalui pemeriksaan.",
+          "Perusahaan wajib menunggu Putusan Peninjauan Kembali sebelum dapat melakukan koreksi rugi fiskal.",
+          "Perusahaan dapat membetulkan SPT dalam jangka waktu 3 bulan sejak tanggal diterima keputusan atau putusan, sepanjang belum dilakukan pemeriksaan; jika tidak membetulkan, DJP menghitung kembali kompensasi kerugian dalam SPT secara jabatan.",
+          "Perusahaan cukup menyampaikan keberatan baru terhadap SPT Tahunan tahun berjalan tanpa membetulkan SPT."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan jika Wajib Pajak menerima SKP, SK Keberatan, SK Pembetulan, Putusan Banding, atau Putusan PK atas tahun pajak sebelumnya yang menyatakan rugi fiskal berbeda dengan rugi fiskal yang telah dikompensasikan dalam SPT Tahunan, Wajib Pajak dapat membetulkan SPT. Pembetulan dilakukan dalam jangka waktu 3 bulan sejak tanggal diterima dengan syarat belum dilakukan pemeriksaan, dan jika tidak membetulkan, DJP menghitung kembali kompensasi kerugian dalam SPT secara jabatan.\n\nOpsi A keliru karena materi memberi mekanisme pembetulan SPT dalam kondisi tersebut.\n\nOpsi B keliru karena pembetulan dapat dipicu oleh beberapa produk, termasuk SK Keberatan, tidak harus menunggu Putusan PK.\n\nOpsi D keliru karena materi mengatur pembetulan SPT atau penghitungan kembali secara jabatan, bukan keberatan baru terhadap SPT Tahunan tahun berjalan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 12/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 12,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Garuda sedang diperiksa atas SPT Tahunan. Sebelum SPHP disampaikan, tim internal menemukan bahwa SPT yang telah disampaikan tidak benar dan perusahaan ingin mengungkapkan keadaan yang sebenarnya. Direksi khawatir pengungkapan tersebut otomatis menghentikan pemeriksaan. Mereka meminta arahan tertulis berdasarkan materi KUP. Apa jawaban paling tepat?",
+        "answer": "Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan ketidakbenaran pengisian SPT dalam laporan tersendiri sebelum SPHP disampaikan, dan proses pemeriksaan tetap dilanjutkan sampai selesai.",
+        "options": [
+          "Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan ketidakbenaran pengisian SPT dalam laporan tersendiri sebelum SPHP disampaikan, dan proses pemeriksaan tetap dilanjutkan sampai selesai.",
+          "Pengungkapan ketidakbenaran hanya dapat dilakukan setelah SPHP disampaikan dan pemeriksaan harus dihentikan.",
+          "Pengungkapan ketidakbenaran hanya berlaku untuk SPT Masa PPN dan tidak berlaku untuk SPT Tahunan atau SPT Bagian Tahun Pajak.",
+          "Jika pemeriksaan sudah dimulai, Wajib Pajak sama sekali tidak dapat mengungkapkan ketidakbenaran pengisian SPT."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan walaupun DJP telah melakukan pemeriksaan, sepanjang SPHP belum disampaikan, Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan dalam laporan tersendiri ketidakbenaran pengisian SPT sesuai keadaan sebenarnya. Laporan tersendiri dapat terkait SPT Masa, SPT Tahunan, dan/atau SPT Bagian Tahun Pajak yang diperiksa, dan proses pemeriksaan tetap dilanjutkan sampai selesai.\n\nOpsi B keliru karena syarat dalam materi adalah sebelum SPHP disampaikan, bukan setelahnya, dan pemeriksaan tidak dihentikan.\n\nOpsi C keliru karena materi mencakup SPT Masa, SPT Tahunan, dan/atau SPT Bagian Tahun Pajak.\n\nOpsi D keliru karena materi tetap memberi ruang pengungkapan selama SPHP belum disampaikan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 13/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 13,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Karya Prima tidak menyampaikan SPT meskipun telah ditegur secara tertulis. Setelah dilakukan pemeriksaan, ditemukan PPh yang tidak atau kurang dibayar. Tim pemeriksa mempertimbangkan penerbitan SKPKB dan pengenaan sanksi yang sesuai. Manajer perusahaan menyatakan bahwa kondisi tidak menyampaikan SPT setelah teguran hanya dapat ditagih melalui STP. Berdasarkan materi KUP, pilihan mana yang benar?",
+        "answer": "SKPKB dapat diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil pemeriksaan, antara lain jika SPT tidak disampaikan setelah ditegur tertulis, dengan sanksi untuk PPh tidak atau kurang dibayar berupa bunga per bulan berdasarkan suku bunga acuan ditambah uplift factor 20 persen dibagi 12, maksimal 24 bulan.",
+        "options": [
+          "SKPKB tidak dapat diterbitkan karena SPT tidak disampaikan setelah teguran hanya menjadi dasar denda telat lapor.",
+          "SKPKB hanya dapat diterbitkan untuk kondisi lebih bayar dan tidak dapat memuat sanksi bunga.",
+          "SKPKB diterbitkan hanya jika ada data baru dalam pemeriksaan ulang.",
+          "SKPKB dapat diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil pemeriksaan, antara lain jika SPT tidak disampaikan setelah ditegur tertulis, dengan sanksi untuk PPh tidak atau kurang dibayar berupa bunga per bulan berdasarkan suku bunga acuan ditambah uplift factor 20 persen dibagi 12, maksimal 24 bulan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP menyebutkan SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil pemeriksaan dalam beberapa hal, termasuk SPT tidak disampaikan dan setelah ditegur tertulis tetap tidak disampaikan sesuai jangka waktu. Untuk PPh tidak atau kurang dibayar pada kelompok tersebut, materi mencantumkan bunga per bulan sebesar suku bunga acuan ditambah uplift factor 20 persen dibagi 12, maksimal 24 bulan.\n\nOpsi A keliru karena kondisi SPT tidak disampaikan setelah teguran termasuk salah satu dasar penerbitan SKPKB dalam materi.\n\nOpsi B keliru karena SKPKB berkaitan dengan pajak kurang bayar, bukan kondisi lebih bayar.\n\nOpsi C keliru karena data baru dalam pemeriksaan ulang berkaitan dengan SKPKBT, bukan SKPKB.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 14/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 14,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "Dalam satu pemeriksaan, KPP menemukan bahwa jumlah kredit pajak PT Nusantara sama dengan jumlah pajak yang terutang. Dalam kasus lain, KPP melakukan pemeriksaan atas SPT yang menunjukkan jumlah pajak yang dibayar lebih besar daripada pajak yang terutang. Staf baru bingung membedakan produk ketetapan yang harus diterbitkan. Ia juga mengira semua hasil pemeriksaan pasti menghasilkan SKPKB. Berdasarkan materi KUP, pilihan paling tepat adalah apa?",
+        "answer": "Jika kredit pajak atau pajak yang dibayar sama dengan pajak terutang, diterbitkan SKPN; jika berdasarkan pemeriksaan terdapat kredit pajak atau pembayaran lebih besar daripada pajak terutang, dapat diterbitkan SKPLB.",
+        "options": [
+          "Kedua kasus harus menghasilkan SKPKB karena pemeriksaan selalu menambah pajak yang harus dibayar.",
+          "Jika kredit pajak atau pajak yang dibayar sama dengan pajak terutang, diterbitkan SKPN; jika berdasarkan pemeriksaan terdapat kredit pajak atau pembayaran lebih besar daripada pajak terutang, dapat diterbitkan SKPLB.",
+          "Jika terdapat pembayaran lebih besar daripada pajak terutang, produk yang tepat selalu STP.",
+          "SKPN hanya diterbitkan berdasarkan penelitian, sedangkan SKPLB hanya dapat diterbitkan berdasarkan pemeriksaan ulang."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP menjelaskan SKPN diterbitkan apabila jumlah kredit pajak atau jumlah pajak yang dibayar sama dengan jumlah pajak yang terutang, atau pajak tidak terutang dan tidak ada kredit atau pembayaran pajak. SKPLB diterbitkan antara lain berdasarkan pemeriksaan terhadap SPT yang terdapat jumlah kredit pajak atau jumlah pajak yang dibayar lebih besar daripada jumlah pajak yang terutang.\n\nOpsi A keliru karena pemeriksaan tidak selalu menghasilkan SKPKB.\n\nOpsi C keliru karena kondisi pembayaran lebih besar daripada pajak terutang mengarah pada SKPLB, bukan STP.\n\nOpsi D keliru karena materi menyebutkan SKPN berdasarkan pemeriksaan, sedangkan SKPLB dapat diterbitkan berdasarkan penelitian atau pemeriksaan dalam kondisi tertentu.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 15/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 15,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PKP Sinar Abadi terlambat membuat Faktur Pajak atas beberapa penyerahan. Dalam kasus lain, hasil penelitian SPT menunjukkan kekurangan pembayaran pajak karena salah hitung. Terdapat juga Wajib Pajak yang dikenai sanksi administratif berupa denda. Kepala kantor meminta staf menentukan produk hukum yang tepat untuk menagih kondisi tersebut. Berdasarkan materi KUP, pilihan mana yang benar?",
+        "answer": "Direktur Jenderal Pajak dapat menerbitkan Surat Tagihan Pajak, antara lain untuk PPh tahun berjalan tidak atau kurang dibayar, kekurangan pembayaran akibat salah tulis atau salah hitung dari hasil penelitian SPT, sanksi administratif denda atau bunga, serta PKP yang tidak atau terlambat membuat Faktur Pajak.",
+        "options": [
+          "Semua kondisi tersebut hanya dapat ditindaklanjuti dengan SKPLB.",
+          "Kondisi tersebut tidak dapat ditagih karena bukan hasil pemeriksaan.",
+          "Direktur Jenderal Pajak dapat menerbitkan Surat Tagihan Pajak, antara lain untuk PPh tahun berjalan tidak atau kurang dibayar, kekurangan pembayaran akibat salah tulis atau salah hitung dari hasil penelitian SPT, sanksi administratif denda atau bunga, serta PKP yang tidak atau terlambat membuat Faktur Pajak.",
+          "Surat Tagihan Pajak hanya diterbitkan untuk mengembalikan imbalan bunga kepada Wajib Pajak."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan Direktur Jenderal Pajak menerbitkan STP dalam beberapa hal, termasuk PPh dalam tahun berjalan tidak atau kurang dibayar, dari hasil penelitian SPT terdapat kekurangan pembayaran pajak akibat salah tulis atau salah hitung, Wajib Pajak dikenai sanksi administratif berupa denda atau bunga, serta PKP tidak membuat atau terlambat membuat Faktur Pajak.\n\nOpsi A keliru karena SKPLB merupakan ketetapan lebih bayar, bukan instrumen untuk menagih kondisi dalam kasus.\n\nOpsi B keliru karena materi menyebutkan STP dapat diterbitkan antara lain berdasarkan hasil penelitian SPT.\n\nOpsi D keliru karena STP justru dapat diterbitkan jika terdapat imbalan bunga yang seharusnya tidak diberikan kepada Wajib Pajak, bukan hanya untuk mengembalikan imbalan bunga kepada Wajib Pajak.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 16/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 16,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "KPP akan menindaklanjuti utang pajak PT Rimba yang belum dilunasi. Produk yang menjadi dasar antara lain STP, SKPKB, SK Keberatan, dan Putusan Banding yang menyebabkan jumlah pajak masih harus dibayar bertambah. Juru sita juga menjelaskan bahwa penagihan bukan hanya pengiriman surat biasa. Ia menyebut adanya tindakan menegur, memperingatkan, memberitahukan Surat Paksa, penyitaan, penyanderaan, sampai penjualan barang yang disita. Berdasarkan materi KUP, pernyataan yang paling tepat adalah apa?",
+        "answer": "Penagihan Pajak adalah serangkaian tindakan agar Penanggung Pajak melunasi utang pajak dan biaya penagihan, dan dasar penagihan mencakup STP, SKPKB, SKPKBT, SK Pembetulan, SK Keberatan, Putusan Banding, Putusan PK yang menambah pajak, serta SK Persetujuan Bersama.",
+        "options": [
+          "Penagihan pajak hanya dapat dilakukan berdasarkan SPT yang disampaikan Wajib Pajak sendiri.",
+          "Putusan Banding tidak pernah menjadi dasar penagihan karena prosesnya di Pengadilan Pajak.",
+          "Penagihan pajak hanya berupa imbauan pembayaran tanpa tindakan hukum lanjutan.",
+          "Penagihan Pajak adalah serangkaian tindakan agar Penanggung Pajak melunasi utang pajak dan biaya penagihan, dan dasar penagihan mencakup STP, SKPKB, SKPKBT, SK Pembetulan, SK Keberatan, Putusan Banding, Putusan PK yang menambah pajak, serta SK Persetujuan Bersama."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi KUP mendefinisikan penagihan pajak sebagai serangkaian tindakan agar Penanggung Pajak melunasi utang pajak dan biaya penagihan pajak melalui tindakan seperti menegur, memperingatkan, memberitahukan Surat Paksa, penyitaan, penyanderaan, dan menjual barang yang disita. Materi juga mencantumkan dasar penagihan seperti STP, SKPKB, SKPKBT, SK Pembetulan, SK Keberatan, Putusan Banding, Putusan PK yang menyebabkan pajak bertambah, serta SK tentang Persetujuan Bersama.\n\nOpsi A keliru karena dasar penagihan dalam materi tidak terbatas pada SPT.\n\nOpsi B keliru karena Putusan Banding yang menyebabkan jumlah pajak masih harus dibayar bertambah termasuk dasar penagihan.\n\nOpsi C keliru karena penagihan pajak mencakup rangkaian tindakan hukum, bukan hanya imbauan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 17/20; disusun dari KUP.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 17,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Pertiwi menerima SKPKB dan tidak setuju atas sebagian jumlah pajak hasil pembahasan akhir pemeriksaan. Perusahaan ingin mengajukan keberatan. Staf perusahaan menyiapkan satu surat keberatan untuk beberapa jenis pajak dan beberapa masa pajak sekaligus. Selain itu, perusahaan belum melunasi jumlah yang telah disetujui dalam pembahasan akhir. Berdasarkan materi KUP, arahan yang paling tepat adalah apa?",
+        "answer": "Keberatan diajukan dalam jangka waktu 3 bulan, 1 keberatan untuk 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak, tertulis dalam bahasa Indonesia, mengemukakan jumlah menurut Wajib Pajak, dan harus melunasi paling sedikit jumlah yang disetujui dalam pembahasan akhir hasil pemeriksaan.",
+        "options": [
+          "Keberatan diajukan dalam jangka waktu 3 bulan, 1 keberatan untuk 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak, tertulis dalam bahasa Indonesia, mengemukakan jumlah menurut Wajib Pajak, dan harus melunasi paling sedikit jumlah yang disetujui dalam pembahasan akhir hasil pemeriksaan.",
+          "Keberatan dapat diajukan kapan saja sepanjang SKPKB belum ditagih dengan Surat Paksa.",
+          "Satu surat keberatan boleh mencakup semua jenis pajak dan semua masa pajak agar efisien.",
+          "Jumlah yang disetujui dalam pembahasan akhir tidak perlu dibayar sebelum keberatan karena seluruh pembayaran otomatis tertangguh."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi KUP menyebutkan keberatan diajukan dalam jangka waktu 3 bulan, harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak, tertulis dalam bahasa Indonesia, serta mengemukakan jumlah pajak yang terutang, dipotong, dipungut, atau rugi menurut Wajib Pajak. Materi juga mensyaratkan Wajib Pajak melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui dalam pembahasan akhir hasil pemeriksaan.\n\nOpsi B keliru karena materi menetapkan jangka waktu 3 bulan untuk pengajuan keberatan.\n\nOpsi C keliru karena materi mengharuskan 1 keberatan untuk 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak.\n\nOpsi D keliru karena pelunasan paling sedikit sejumlah yang disetujui dalam pembahasan akhir merupakan salah satu persyaratan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 18/20; disusun dari KUP.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 18,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Awan menerima Surat Keputusan Keberatan dan tetap tidak puas. Perusahaan mempertimbangkan banding ke Pengadilan Pajak. Pada saat yang sama, perusahaan juga ingin menggugat keputusan pencegahan dalam rangka penagihan pajak. Tim hukum meminta perbedaan ketentuan utama banding dan gugatan berdasarkan materi KUP. Pilihan mana yang paling tepat?",
+        "answer": "Banding diajukan atas Surat Keputusan Keberatan paling lama 3 bulan sejak diterima dan dilampiri salinan keputusan, sedangkan gugatan diajukan kepada Pengadilan Pajak dan tidak menunda atau menghalangi penagihan atau kewajiban perpajakan; gugatan atas pelaksanaan penagihan diajukan 14 hari dan objek selain itu 30 hari.",
+        "options": [
+          "Banding diajukan langsung atas SKPKB, sedangkan gugatan hanya dapat diajukan ke DJP.",
+          "Banding dapat diajukan paling lama 14 hari sejak Surat Keputusan Keberatan diterima, sedangkan gugatan terhadap pelaksanaan penagihan pajak diajukan paling lama 3 bulan.",
+          "Banding diajukan atas Surat Keputusan Keberatan paling lama 3 bulan sejak diterima dan dilampiri salinan keputusan, sedangkan gugatan diajukan kepada Pengadilan Pajak dan tidak menunda atau menghalangi penagihan atau kewajiban perpajakan; gugatan atas pelaksanaan penagihan diajukan 14 hari dan objek selain itu 30 hari.",
+          "Banding dan gugatan selalu menghentikan semua tindakan penagihan sampai putusan berkekuatan hukum tetap."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi KUP menyebutkan banding diajukan atas Surat Keputusan Keberatan paling lama 3 bulan sejak keputusan diterima dan dilampiri salinan Surat Keputusan Keberatan. Materi juga menyebutkan gugatan diajukan kepada Pengadilan Pajak, tidak menunda atau menghalangi penagihan pajak atau kewajiban perpajakan, dengan jangka waktu 14 hari untuk pelaksanaan penagihan dan 30 hari untuk objek gugatan selain pelaksanaan penagihan.\n\nOpsi A keliru karena banding diajukan atas Surat Keputusan Keberatan, bukan langsung atas SKPKB, dan gugatan diajukan kepada Pengadilan Pajak.\n\nOpsi B keliru karena jangka waktu banding adalah 3 bulan, sedangkan 14 hari berlaku untuk gugatan terhadap pelaksanaan penagihan pajak.\n\nOpsi D keliru karena materi menyebutkan gugatan tidak menunda atau menghalangi penagihan atau kewajiban perpajakan.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 19/20; disusun dari KUP.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 19,
+          "sourceTitle": "KUP.pdf"
+        }
+      },
+      {
+        "categoryId": "kup",
+        "topic": "KUP (Studi Kasus) Paket B",
+        "question": "PT Samara memperoleh putusan banding yang mengabulkan sebagian permohonannya sehingga terdapat kelebihan pembayaran pajak. Perusahaan menanyakan kemungkinan memperoleh imbalan bunga. Staf KPP juga perlu menjelaskan rumus umum dan batas jumlah bulan penghitungan. Di sisi lain, manajemen perusahaan menyangka imbalan bunga hanya diberikan untuk keterlambatan penerbitan SKPKPP. Berdasarkan materi KUP, pilihan paling tepat adalah apa?",
+        "answer": "Imbalan bunga dapat diberikan antara lain atas pengembalian kelebihan pembayaran pajak karena keberatan, banding, atau PK dikabulkan sebagian atau seluruhnya; penghitungannya menggunakan pajak lebih bayar dikali tarif bunga per bulan dikali jumlah bulan, maksimal 24 bulan, dan bagian bulan dihitung penuh 1 bulan.",
+        "options": [
+          "Imbalan bunga hanya diberikan jika SKPKPP terlambat diterbitkan dan tidak dapat diberikan atas keberatan, banding, atau peninjauan kembali yang dikabulkan.",
+          "Imbalan bunga dapat diberikan antara lain atas pengembalian kelebihan pembayaran pajak karena keberatan, banding, atau PK dikabulkan sebagian atau seluruhnya; penghitungannya menggunakan pajak lebih bayar dikali tarif bunga per bulan dikali jumlah bulan, maksimal 24 bulan, dan bagian bulan dihitung penuh 1 bulan.",
+          "Imbalan bunga selalu dihitung tanpa batas bulan karena seluruh masa sengketa harus diperhitungkan.",
+          "Tarif imbalan bunga ditetapkan oleh Wajib Pajak berdasarkan tingkat bunga pinjaman bank."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi KUP mencantumkan ruang lingkup imbalan bunga atas kelebihan pembayaran pajak karena permohonan keberatan, banding, atau peninjauan kembali yang dikabulkan sebagian atau seluruhnya. Materi juga menjelaskan rumus imbalan bunga sebagai pajak lebih bayar dikali tarif bunga per bulan dikali jumlah bulan, dengan jumlah bulan maksimal 24 bulan dan bagian bulan dihitung penuh 1 bulan.\n\nOpsi A keliru karena materi tidak membatasi imbalan bunga hanya pada keterlambatan penerbitan SKPKPP.\n\nOpsi C keliru karena materi memberi batas maksimal 24 bulan.\n\nOpsi D keliru karena tarif bunga ditetapkan melalui KMK oleh Menteri Keuangan, bukan ditentukan sendiri oleh Wajib Pajak.",
+        "source": {
+          "title": "KUP.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Ketentuan Umum Perpajakan (KUP)/KUP.pdf",
+          "note": "KUP (Studi Kasus) Paket B soal 20/20; disusun dari KUP.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kup-studi-kasus-paket-b",
+          "label": "B",
+          "order": 5,
+          "questionNumber": 20,
+          "sourceTitle": "KUP.pdf"
+        }
+      }
+    ]
+  },
+  {
     "id": "penelaah-keberatan-paket-a",
     "categoryId": "penelaah-keberatan",
     "name": "Materi Level 2 Paket A",
