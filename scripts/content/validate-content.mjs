@@ -72,8 +72,8 @@ const { questionBank, studyPackages } = loadQuestionBankModule();
 const errors = [];
 const warnings = [];
 const expectedLocalQuestionCount = 388;
-const expectedProvidedPackageCount = 62;
-const expectedProvidedQuestionCount = 1240;
+const expectedProvidedPackageCount = 87;
+const expectedProvidedQuestionCount = 1740;
 const expectedAnswerKeyQuestionCount = 277;
 const answerKeySourceTitle = "jawaban-soal-unresolved-281.xlsx";
 const answerKeySourceUrl = "/Users/persiapantubel/Downloads/Persiapan U-Kom/Soal-Unresolved/jawaban-soal-unresolved-281.xlsx";
@@ -102,8 +102,8 @@ recordCheck("provided PDF packages", () => {
 
   for (const providedPackage of providedQuestionPackages) {
     assert(providedPackage.questions.length === 20, `${providedPackage.id} should contain exactly 20 source questions.`);
-    assert(/-paket-[a-z]$/.test(providedPackage.id), `${providedPackage.id} should use alphabetic package id.`);
-    assert(/ Paket [A-Z]$/.test(providedPackage.name), `${providedPackage.id} should use alphabetic display name.`);
+    assert(/-paket-(?:[a-z]|\d+)$/.test(providedPackage.id), `${providedPackage.id} should use alphabetic or numeric package id.`);
+    assert(/ Paket (?:[A-Z]|\d+)$/.test(providedPackage.name), `${providedPackage.id} should use alphabetic or numeric display name.`);
     const renderedPackage = studyPackageById.get(providedPackage.id);
     assert(renderedPackage, `${providedPackage.id} is missing from studyPackages.`);
     assert(renderedPackage.questions.length === 20, `${providedPackage.id} should render exactly 20 questions.`);
