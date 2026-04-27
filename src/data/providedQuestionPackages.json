@@ -28672,5 +28672,1598 @@
         }
       }
     ]
+  },
+  {
+    "id": "kepegawaian-studi-kasus-paket-a",
+    "categoryId": "kepegawaian",
+    "name": "PEG (Studi Kasus) Paket A",
+    "sourceTitle": "Kepegawaian.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+    "packageLabel": "A",
+    "packageIndex": 0,
+    "questions": [
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Rina baru ditempatkan pada unit kepegawaian KPP dan diminta menjelaskan status pegawai pada sesi orientasi internal. Dalam sesi tersebut, terdapat peserta yang menyamakan ASN, Pegawai ASN, PNS, dan PPPK. Rina harus menjawab dengan membedakan profesi, kelompok pegawai, dan dasar pengangkatan. Ia juga harus mengaitkan penjelasannya dengan tugas pemerintahan yang diberikan kepada pegawai. Pernyataan manakah yang paling tepat untuk disampaikan Rina?",
+        "answer": "ASN adalah profesi bagi PNS dan PPPK yang bekerja pada instansi pemerintah, sedangkan Pegawai ASN adalah PNS dan PPPK yang diangkat oleh pejabat pembina kepegawaian dan diserahi tugas pemerintahan atau tugas negara lainnya.",
+        "options": [
+          "ASN adalah warga negara Indonesia yang diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu, sedangkan PNS adalah profesi bagi pegawai pemerintah.",
+          "Pegawai ASN hanya terdiri dari PNS, sedangkan PPPK merupakan tenaga kontrak yang tidak termasuk dalam pegawai aparatur sipil negara.",
+          "ASN adalah profesi bagi PNS dan PPPK yang bekerja pada instansi pemerintah, sedangkan Pegawai ASN adalah PNS dan PPPK yang diangkat oleh pejabat pembina kepegawaian dan diserahi tugas pemerintahan atau tugas negara lainnya.",
+          "PNS dan PPPK sama-sama diangkat secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi mendefinisikan ASN sebagai profesi bagi PNS dan PPPK yang bekerja pada instansi pemerintah. Materi juga menjelaskan Pegawai ASN sebagai PNS dan PPPK yang diangkat oleh pejabat pembina kepegawaian, diserahi tugas dalam jabatan pemerintahan atau tugas negara lainnya, dan diberikan penghasilan berdasarkan peraturan perundang-undangan.\n\nOpsi A keliru karena definisi warga negara Indonesia yang diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu merujuk pada PPPK, bukan ASN secara keseluruhan.\n\nOpsi B keliru karena Pegawai ASN terdiri dari PNS dan PPPK, sehingga PPPK tetap termasuk dalam Pegawai ASN.\n\nOpsi D keliru karena pengangkatan secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan merupakan ciri PNS, sedangkan PPPK diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 1/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 1,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Bagian SDM sedang memetakan pegawai yang akan memasuki masa pensiun. Seorang Pejabat Administrator akan mencapai usia 58 tahun pada bulan Juli. Pada saat yang sama, seorang Pejabat Pimpinan Tinggi Pratama akan mencapai usia 60 tahun pada bulan yang sama. Kepala bagian meminta staf memastikan batas usia pensiun dan tanggal mulai terhitung pensiun sesuai materi kepegawaian. Kesimpulan manakah yang paling tepat?",
+        "answer": "Pejabat Administrator memiliki batas usia pensiun 58 tahun, Pejabat Pimpinan Tinggi Pratama 60 tahun, dan TMT pensiun jatuh pada tanggal 1 bulan berikutnya setelah pegawai mencapai batas usia pensiun.",
+        "options": [
+          "Pejabat Administrator memiliki batas usia pensiun 58 tahun, Pejabat Pimpinan Tinggi Pratama 60 tahun, dan TMT pensiun jatuh pada tanggal 1 bulan berikutnya setelah pegawai mencapai batas usia pensiun.",
+          "Pejabat Administrator dan Pejabat Pimpinan Tinggi Pratama sama-sama memiliki batas usia pensiun 60 tahun, dengan TMT pensiun pada hari ulang tahun pegawai.",
+          "Pejabat Administrator memiliki batas usia pensiun 60 tahun, Pejabat Pimpinan Tinggi Pratama 58 tahun, dan TMT pensiun ditetapkan pada akhir tahun berjalan.",
+          "Pejabat Administrator dan Pejabat Pimpinan Tinggi Pratama sama-sama memiliki batas usia pensiun 58 tahun, dengan TMT pensiun pada tanggal 1 Januari tahun berikutnya."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut batas usia pensiun Jabatan Pimpinan Tinggi Utama, Madya, dan Pratama adalah 60 tahun, sedangkan Pejabat Administrator dan Pejabat Pengawas adalah 58 tahun. Materi juga menambahkan bahwa TMT pensiun adalah tanggal 1 bulan berikutnya setelah pegawai mencapai batas usia pensiun.\n\nOpsi B keliru karena Pejabat Administrator tidak memiliki batas usia pensiun 60 tahun dan TMT pensiun bukan pada hari ulang tahun pegawai.\n\nOpsi C keliru karena batas usia pensiun kedua jabatan tersebut tertukar dan materi tidak menetapkan TMT pensiun pada akhir tahun berjalan.\n\nOpsi D keliru karena Pejabat Pimpinan Tinggi Pratama memiliki batas usia pensiun 60 tahun, bukan 58 tahun, dan TMT pensiun tidak otomatis 1 Januari tahun berikutnya.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 2/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 2,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Dewi sedang memeriksa usulan kenaikan pangkat di unitnya. Salah satu pegawai berpendidikan S1/DIV berada pada pangkat Penata Muda golongan III/a. Pegawai lain bertanya kapan saja periode kenaikan pangkat PNS yang dapat digunakan dalam satu tahun. Dewi perlu memberi jawaban yang sesuai dengan materi karena usulan akan dijadwalkan melalui kalender kepegawaian. Kombinasi jawaban manakah yang paling tepat?",
+        "answer": "Penata Muda berada pada golongan III/a, dan periode kenaikan pangkat adalah 1 Februari, 1 April, 1 Juni, 1 Agustus, 1 Oktober, dan 1 Desember.",
+        "options": [
+          "Penata Muda berada pada golongan II/a, dan periode kenaikan pangkat adalah 1 Januari, 1 April, 1 Juli, dan 1 Oktober.",
+          "Penata Muda berada pada golongan III/a, dan periode kenaikan pangkat hanya 1 April dan 1 Oktober.",
+          "Penata Muda berada pada golongan III/b, dan periode kenaikan pangkat adalah 1 Februari, 1 Mei, 1 Agustus, dan 1 November.",
+          "Penata Muda berada pada golongan III/a, dan periode kenaikan pangkat adalah 1 Februari, 1 April, 1 Juni, 1 Agustus, 1 Oktober, dan 1 Desember."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi pangkat dan golongan menempatkan Penata Muda pada golongan III/a untuk pendidikan S1/DIV. Materi juga menyebut periode kenaikan pangkat PNS pada 1 Februari, 1 April, 1 Juni, 1 Agustus, 1 Oktober, dan 1 Desember.\n\nOpsi A keliru karena golongan II/a adalah Pengatur Muda, bukan Penata Muda, dan periodenya tidak sesuai dengan enam periode yang disebutkan dalam materi.\n\nOpsi B keliru karena meskipun golongan III/a benar, materi tidak membatasi periode kenaikan pangkat hanya pada 1 April dan 1 Oktober.\n\nOpsi C keliru karena golongan III/b adalah Penata Muda Tk. I, bukan Penata Muda, dan tanggal periodisasi yang disebutkan tidak sesuai dengan materi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 3/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 3,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Andi diminta membantu pegawai baru mengakses Kartu ASN Virtual. Pegawai tersebut mengira kartu harus dicetak fisik oleh unit kerja dan hanya berisi nama serta foto. Andi membaca kembali materi karena kartu tersebut digunakan sebagai identitas dan kelengkapan administrasi kepegawaian. Ia harus menjelaskan isi kartu dan alur umum penerbitannya secara benar. Pernyataan manakah yang paling tepat?",
+        "answer": "Kartu ASN Virtual merupakan identitas PNS atau PPPK selama menjadi ASN, memuat antara lain nomor seri, nama, NIP atau Nomor Induk PPPK, foto, dan QR code, serta dapat diakses dan diunduh oleh ASN pada MyASN BKN.",
+        "options": [
+          "Kartu ASN Virtual diterbitkan oleh kantor masing-masing dalam bentuk fisik dan hanya berlaku selama pegawai berada pada unit kerja yang sama.",
+          "Kartu ASN Virtual merupakan identitas PNS atau PPPK selama menjadi ASN, memuat antara lain nomor seri, nama, NIP atau Nomor Induk PPPK, foto, dan QR code, serta dapat diakses dan diunduh oleh ASN pada MyASN BKN.",
+          "Kartu ASN Virtual hanya memuat QR code tanpa data pegawai karena seluruh data disimpan oleh unit pengelola kepegawaian.",
+          "Kartu ASN Virtual diterbitkan oleh pegawai sendiri setelah mengunggah foto pada aplikasi MySAPK BKN tanpa proses pemutakhiran data oleh pejabat pembina kepegawaian atau pejabat yang ditunjuk."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyatakan Kartu ASN Virtual merupakan identitas bagi PNS atau PPPK yang berlaku selama yang bersangkutan menjadi ASN. Materi juga memuat isi kartu seperti nomor seri, nama ASN, NIP atau Nomor Induk PPPK, foto, QR code, dan menjelaskan bahwa kartu dapat diakses serta diunduh oleh ASN pada MyASN BKN.\n\nOpsi A keliru karena materi menekankan bentuk virtual, bukan kartu fisik yang diterbitkan kantor masing-masing, dan masa berlakunya selama menjadi ASN.\n\nOpsi C keliru karena QR code hanya salah satu unsur kartu, sedangkan kartu juga memuat nomor seri, nama, NIP atau Nomor Induk PPPK, foto, dan informasi lain.\n\nOpsi D keliru karena materi menunjukkan adanya peran pejabat pembina kepegawaian atau pejabat lain yang ditunjuk untuk memastikan status serta melakukan pemutakhiran data dan dokumen keputusan pengangkatan melalui Sistem Informasi ASN.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 4/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 4,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Seorang ASN baru saja melangsungkan perkawinan dan bertanya kepada petugas kepegawaian tentang kewajiban administrasi. Ia ingin menunda laporan karena merasa cukup membawa buku nikah saat diperlukan. Petugas harus menjelaskan batas waktu, kewajiban pelaporan, dan kanal yang digunakan. Dalam kasus tersebut, arahan manakah yang paling tepat?",
+        "answer": "ASN wajib membuat Laporan Perkawinan selambat-lambatnya 1 tahun sejak tanggal perkawinan melalui menu Layanan Mandiri Aplikasi SIKKA.",
+        "options": [
+          "ASN wajib membuat Laporan Perkawinan selambat-lambatnya 1 tahun sejak tanggal perkawinan melalui menu Layanan Mandiri Aplikasi SIKKA.",
+          "ASN hanya wajib membuat Laporan Perkawinan jika akan mengajukan Kartu ASN Virtual, dan batas waktunya paling lambat 3 bulan sejak tanggal perkawinan.",
+          "ASN tidak wajib membuat Laporan Perkawinan sepanjang perkawinan sudah dicatat menurut peraturan perundang-undangan.",
+          "ASN wajib membuat Laporan Perkawinan secara manual kepada BKN tanpa melalui SIKKA dan tanpa batas waktu tertentu."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut Laporan Perkawinan dibuat selambat-lambatnya 1 tahun sejak tanggal perkawinan. Materi juga menegaskan laporan wajib dibuat oleh setiap ASN yang melangsungkan perkawinan dan pembuatannya melalui menu Layanan Mandiri Aplikasi SIKKA.\n\nOpsi B keliru karena kewajiban laporan tidak dibatasi hanya untuk pengajuan Kartu ASN Virtual dan batas waktunya bukan 3 bulan.\n\nOpsi C keliru karena meskipun perkawinan yang sah dicatat menurut peraturan perundang-undangan, materi tetap mewajibkan ASN yang melangsungkan perkawinan membuat Laporan Perkawinan.\n\nOpsi D keliru karena materi menyebut penggunaan Aplikasi SIKKA dalam layanan mandiri, bukan pelaporan manual langsung kepada BKN tanpa batas waktu.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 5/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 5,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Unit pengembangan SDM sedang menyusun profil kompetensi pegawai untuk beberapa jabatan. Dalam diskusi, seorang anggota tim menyamakan kompetensi teknis, manajerial, dan sosial kultural. Tim juga diminta menjelaskan tingkatan penguasaan kompetensi agar pemetaan lebih konsisten. Kepala tim meminta satu rumusan yang paling sesuai dengan materi. Rumusan manakah yang sebaiknya dipakai?",
+        "answer": "Kompetensi jabatan terdiri dari teknis, manajerial, dan sosial kultural; tingkat penguasaan kompetensi meliputi Level 1 Paham atau Dalam Pengembangan, Level 2 Dasar, Level 3 Menengah, Level 4 Mumpuni, dan Level 5 Ahli.",
+        "options": [
+          "Kompetensi teknis digunakan untuk memimpin unit organisasi, kompetensi manajerial berkaitan dengan bidang teknis jabatan, dan level penguasaan hanya terdiri dari dasar, menengah, dan ahli.",
+          "Kompetensi sosial kultural hanya terkait kemampuan menggunakan aplikasi kerja, sedangkan kompetensi teknis dan manajerial tidak dapat diukur atau dikembangkan.",
+          "Kompetensi jabatan terdiri dari teknis, manajerial, dan sosial kultural; tingkat penguasaan kompetensi meliputi Level 1 Paham atau Dalam Pengembangan, Level 2 Dasar, Level 3 Menengah, Level 4 Mumpuni, dan Level 5 Ahli.",
+          "Kompetensi jabatan hanya terdiri dari teknis dan sosial kultural, sedangkan kompetensi manajerial tidak termasuk dalam standar kompetensi ASN."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut kompetensi jabatan terdiri atas kompetensi teknis, kompetensi manajerial, dan kompetensi sosial kultural. Materi juga memuat lima tingkat penguasaan kompetensi, yaitu Level 1 Paham/Dalam Pengembangan, Level 2 Dasar, Level 3 Menengah, Level 4 Mumpuni, dan Level 5 Ahli.\n\nOpsi A keliru karena definisi kompetensi teknis dan manajerial tertukar, serta jumlah level penguasaan kompetensi dalam materi adalah lima level.\n\nOpsi B keliru karena kompetensi sosial kultural terkait pengalaman berinteraksi dengan masyarakat majemuk dan nilai-nilai kemajemukan, bukan sekadar penggunaan aplikasi kerja.\n\nOpsi D keliru karena kompetensi manajerial secara eksplisit termasuk dalam kompetensi jabatan dan standar kompetensi ASN.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 6/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 6,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Sebuah KPP sedang menyusun rencana pengembangan kompetensi untuk tahun pembelajaran berikutnya. Tim ingin membedakan AKP Reguler, AKP Insidental, pembelajaran klasikal, pembelajaran nonklasikal, dan perhitungan Jam Pembelajaran. Seorang pegawai mengusulkan semua kegiatan coaching dan mentoring dimasukkan sebagai pembelajaran klasikal karena dilakukan bersama atasan. Kepala unit meminta pilihan yang paling tepat sesuai materi. Manakah jawaban yang benar?",
+        "answer": "AKP Reguler dilaksanakan terjadwal sebelum tahun pembelajaran berjalan, AKP Insidental dilaksanakan sepanjang tahun berjalan untuk kebutuhan strategis, jabatan, atau individu, coaching dan mentoring termasuk contoh pembelajaran nonklasikal, dan 1 JP setara 45 menit.",
+        "options": [
+          "AKP Reguler dilaksanakan sepanjang tahun berjalan, sedangkan AKP Insidental dilaksanakan terjadwal sebelum tahun pembelajaran berjalan.",
+          "AKP Reguler dilaksanakan terjadwal sebelum tahun pembelajaran berjalan, AKP Insidental dilaksanakan sepanjang tahun berjalan untuk kebutuhan strategis, jabatan, atau individu, coaching dan mentoring termasuk contoh pembelajaran nonklasikal, dan 1 JP setara 45 menit.",
+          "Pembelajaran klasikal adalah pembelajaran di luar kelas, sedangkan e-learning, OJT, dan magang termasuk pembelajaran klasikal.",
+          "Jam Pembelajaran tidak memerlukan bukti karena setiap kegiatan pengembangan kompetensi otomatis dihitung penuh sebagai JP."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut AKP Reguler dilaksanakan secara terjadwal sebelum tahun pembelajaran berjalan dan AKP Insidental dilaksanakan sepanjang tahun pembelajaran berjalan untuk memenuhi kebutuhan strategis, jabatan, atau individu. Materi juga menempatkan coaching dan mentoring sebagai contoh pembelajaran nonklasikal serta menyebut 1 JP sama dengan 45 menit.\n\nOpsi A keliru karena definisi AKP Reguler dan AKP Insidental tertukar.\n\nOpsi C keliru karena pembelajaran klasikal adalah tatap muka antara pengajar dan peserta di kelas yang sama, sedangkan e-learning, OJT, dan magang termasuk contoh pembelajaran nonklasikal.\n\nOpsi D keliru karena materi menyebut bukti JP seperti surat tanda tamat atau mengikuti pembelajaran, sertifikat, piagam, atau penghitungan sesuai PER-18/2019 bila bukti belum tersedia.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 7/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 7,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Kepala kantor meminta pejabat pengawas menjelaskan manajemen kinerja kepada pegawai baru. Beberapa pegawai mengira manajemen kinerja hanya berkaitan dengan penilaian individu akhir tahun. Dalam materi, manajemen kinerja mencakup organisasi dan pegawai, serta memiliki prinsip tertentu. Pejabat pengawas perlu membuat penjelasan yang tidak menyempitkan konsep tersebut. Pernyataan manakah yang paling tepat?",
+        "answer": "Manajemen kinerja adalah kegiatan mengoptimalkan sumber daya untuk meningkatkan kinerja organisasi dan pegawai dalam rangka mencapai tujuan organisasi, dengan prinsip objektif, terukur, akuntabel, partisipatif, dan transparan.",
+        "options": [
+          "Manajemen kinerja hanya merupakan proses pemberian nilai kepada pegawai pada akhir tahun, sehingga tidak mencakup pelaksanaan tugas organisasi.",
+          "Manajemen kinerja pegawai hanya berlaku untuk PNS dan tidak berlaku bagi CPNS atau PPPK.",
+          "Manajemen kinerja tidak memerlukan prinsip objektif dan terukur sepanjang target kinerja sudah disetujui pimpinan.",
+          "Manajemen kinerja adalah kegiatan mengoptimalkan sumber daya untuk meningkatkan kinerja organisasi dan pegawai dalam rangka mencapai tujuan organisasi, dengan prinsip objektif, terukur, akuntabel, partisipatif, dan transparan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi mendefinisikan manajemen kinerja sebagai kegiatan mengoptimalkan sumber daya untuk meningkatkan kinerja organisasi dan pegawai dalam rangka mencapai tujuan organisasi. Materi juga menyebut prinsip manajemen kinerja meliputi objektif, terukur, akuntabel, partisipatif, dan transparan.\n\nOpsi A keliru karena manajemen kinerja tidak hanya penilaian akhir tahun, tetapi mencakup pelaksanaan tugas dan fungsi untuk mencapai tujuan organisasi dan kinerja pegawai selama periode tertentu.\n\nOpsi B keliru karena materi memberi contoh manajemen kinerja pegawai mencakup PNS, CPNS, dan Pegawai Pemerintah dengan Perjanjian Kerja.\n\nOpsi C keliru karena prinsip objektif dan terukur disebut secara eksplisit dalam materi sebagai prinsip manajemen kinerja.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 8/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 8,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Sari menyusun SKP dan bingung membedakan Hasil Kinerja Utama, Hasil Kinerja Tambahan, perilaku kerja, serta lampiran SKP. Atasannya menekankan bahwa SKP merupakan dokumen kesepakatan hasil dialog kinerja. Sari lalu mengusulkan memasukkan seluruh inovasi sebagai HKU karena dianggap paling penting. Atasan meminta perbaikan sesuai struktur yang ada pada materi. Pilihan manakah yang paling tepat?",
+        "answer": "HKU mencerminkan uraian jabatan pegawai berdasarkan dialog kinerja dengan pimpinan, HKT merupakan tugas di luar uraian jabatan atau inovasi, dan SKP juga memuat perilaku kerja serta lampiran seperti sumber daya, skema pertanggungjawaban, dan konsekuensi.",
+        "options": [
+          "HKU adalah tugas di luar uraian jabatan dan inovasi, sedangkan HKT adalah hasil kerja yang mencerminkan uraian jabatan berdasarkan dialog kinerja.",
+          "SKP hanya memuat rencana hasil kerja dan target, tanpa perilaku kerja atau lampiran.",
+          "HKU mencerminkan uraian jabatan pegawai berdasarkan dialog kinerja dengan pimpinan, HKT merupakan tugas di luar uraian jabatan atau inovasi, dan SKP juga memuat perilaku kerja serta lampiran seperti sumber daya, skema pertanggungjawaban, dan konsekuensi.",
+          "Perilaku kerja tidak perlu ditetapkan dalam SKP karena hanya dinilai dalam dokumen evaluasi kinerja."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menjelaskan SKP sebagai dokumen kesepakatan hasil dialog kinerja antara pegawai dan atasan langsung atas rencana kinerja periode tertentu. Materi juga menyebut HKU mencerminkan uraian jabatan, HKT merupakan tugas di luar uraian jabatan atau inovasi, serta komponen SKP meliputi perilaku kerja dan lampiran SKP.\n\nOpsi A keliru karena definisi HKU dan HKT tertukar.\n\nOpsi B keliru karena materi menyebut SKP juga memiliki komponen perilaku kerja dan lampiran SKP, bukan hanya rencana hasil kerja dan target.\n\nOpsi D keliru karena perilaku kerja merupakan salah satu komponen dalam SKP berupa standar perilaku kerja dan ekspektasi yang diharapkan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 9/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 9,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Pada triwulan berjalan, seorang atasan langsung belum melakukan Dialog Kinerja Individu dengan bawahannya. Bawahan juga belum mengisi rencana aksi dan capaian trajectory pada aplikasi manajemen kinerja pegawai. Pengelola kinerja unit mengingatkan bahwa DKI dan umpan balik berkelanjutan merupakan bagian dari pelaksanaan kinerja pegawai. Atasan ingin tahu kewajiban masing-masing pihak dan metode pemberian umpan balik yang sesuai materi. Jawaban manakah yang paling tepat?",
+        "answer": "Atasan wajib berdialog dengan bawahan, mengevaluasi pelaksanaan rencana aksi, dan menyetujui rencana aksi serta penjelasan capaian; bawahan wajib berdialog dengan atasan, mengisi rencana aksi, dan mengisi capaian sesuai trajectory, sedangkan umpan balik dapat memakai sandwich model berupa apresiasi, masukan STAR-S, dan motivasi.",
+        "options": [
+          "DKI cukup dilakukan setahun sekali setelah evaluasi tahunan, dan bawahan tidak wajib mengisi rencana aksi.",
+          "Atasan wajib berdialog dengan bawahan, mengevaluasi pelaksanaan rencana aksi, dan menyetujui rencana aksi serta penjelasan capaian; bawahan wajib berdialog dengan atasan, mengisi rencana aksi, dan mengisi capaian sesuai trajectory, sedangkan umpan balik dapat memakai sandwich model berupa apresiasi, masukan STAR-S, dan motivasi.",
+          "DKI hanya berisi pemberian hukuman disiplin sehingga tidak berkaitan dengan trajectory kinerja atau rencana aksi.",
+          "Umpan balik berkelanjutan hanya boleh dilakukan secara langsung pada akhir tahun dan tidak dapat dilakukan secara insidental."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menjelaskan DKI sebagai kegiatan menyusun rencana aksi paling kurang di setiap periode trajectory melalui aplikasi manajemen kinerja pegawai. Materi juga merinci kewajiban atasan dan bawahan, serta menyebut sandwich model dalam umpan balik berkelanjutan yang terdiri dari apresiasi, masukan STAR-S, dan motivasi.\n\nOpsi A keliru karena DKI dilakukan paling kurang di setiap periode trajectory, bukan cukup setahun sekali setelah evaluasi tahunan.\n\nOpsi C keliru karena DKI berkaitan dengan rencana aksi, trajectory kinerja, dan capaian, bukan semata-mata pemberian hukuman disiplin.\n\nOpsi D keliru karena umpan balik berkelanjutan dilakukan triwulanan dan/atau insidental sesuai kebutuhan, serta dapat diberikan secara langsung atau tidak langsung.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 10/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 10,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Budi dipromosikan ke jabatan baru pada pertengahan tahun. Sebelum data jabatannya diubah, ia masih memiliki pelaporan kinerja pada jabatan lama yang belum diselesaikan. Setelah mulai melaksanakan tugas pada jabatan baru, ia juga harus menyusun SKP baru. Pengelola kinerja meminta Budi mengikuti ketentuan perpindahan jabatan dalam materi. Tindakan manakah yang paling tepat?",
+        "answer": "Budi menyelesaikan pelaporan kinerja jabatan lama maksimal 15 hari kalender setelah tanggal perpindahan jabatan, kemudian menyusun SKP paling lambat 15 hari kalender sejak mulai melaksanakan tugas pada jabatan baru melalui dialog kinerja dengan atasan langsung unit baru.",
+        "options": [
+          "Budi menyelesaikan pelaporan kinerja jabatan lama maksimal 15 hari kalender setelah tanggal perpindahan jabatan, kemudian menyusun SKP paling lambat 15 hari kalender sejak mulai melaksanakan tugas pada jabatan baru melalui dialog kinerja dengan atasan langsung unit baru.",
+          "Budi menunda pelaporan kinerja jabatan lama sampai evaluasi tahunan dan menyusun SKP baru pada akhir tahun berjalan.",
+          "Budi tidak perlu menyelesaikan pelaporan kinerja jabatan lama karena promosi menghapus kewajiban trajectory dan realisasi sebelumnya.",
+          "Budi cukup mengubah data jabatan baru tanpa dialog kinerja karena target SKP mengikuti unit lama sampai akhir tahun."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut sebelum melakukan perubahan data ke jabatan baru, pegawai menyelesaikan pelaporan kinerja pada jabatan lama maksimal 15 hari kalender setelah tanggal perpindahan jabatan. Setelah perubahan data ke jabatan baru, pegawai menyusun SKP paling lambat 15 hari kalender sejak mulai melaksanakan tugas pada jabatan baru dengan dialog kinerja bersama atasan langsung unit baru.\n\nOpsi B keliru karena materi menetapkan batas 15 hari kalender, bukan menunda sampai evaluasi tahunan atau akhir tahun.\n\nOpsi C keliru karena perpindahan jabatan tidak menghapus kewajiban menyelesaikan pelaporan kinerja pada jabatan lama.\n\nOpsi D keliru karena penyusunan SKP jabatan baru harus didahului dialog kinerja dengan atasan langsung pada unit baru melalui aplikasi manajemen kinerja pegawai.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 11/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 11,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Tim penilai kinerja sedang menjelaskan hasil evaluasi kepada pegawai. Seorang pegawai memperoleh NHK 92 dan NPK 101, tetapi ia belum memahami hubungan NHK, NPK, dan NKP. Pegawai lain bertanya apakah evaluasi hanya melihat hasil kerja tanpa perilaku kerja. Tim perlu menyampaikan rumusan umum yang benar dari materi. Pilihan manakah yang paling tepat?",
+        "answer": "Evaluasi kinerja pegawai dilakukan terhadap hasil kerja dan perilaku kerja, menghasilkan NKP dan Predikat Kinerja Pegawai, dengan rumus NKP = NHK 70% + NPK 30%.",
+        "options": [
+          "NKP dihitung hanya dari NHK karena perilaku kerja tidak memengaruhi predikat kinerja pegawai.",
+          "NKP dihitung dari NPK saja, sedangkan NHK hanya dipakai untuk menentukan Hasil Kinerja Tambahan.",
+          "NKP merupakan penjumlahan NHK dan NPK dengan bobot yang sama, sedangkan rating hasil kerja selalu di atas ekspektasi jika NHK minimal 90.",
+          "Evaluasi kinerja pegawai dilakukan terhadap hasil kerja dan perilaku kerja, menghasilkan NKP dan Predikat Kinerja Pegawai, dengan rumus NKP = NHK 70% + NPK 30%."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menyebut evaluasi kinerja pegawai dilakukan terhadap hasil kerja dan perilaku kerja pegawai yang menghasilkan Nilai Kinerja Pegawai dan Predikat Kinerja Pegawai. Materi juga mencantumkan rumus NKP = NHK 70% + NPK 30%.\n\nOpsi A keliru karena perilaku kerja menjadi bagian evaluasi dan berkontribusi dalam rumus NKP melalui NPK.\n\nOpsi B keliru karena NKP tidak dihitung dari NPK saja dan NHK bukan hanya untuk menentukan HKT.\n\nOpsi C keliru karena bobot NHK dan NPK tidak sama, serta rating hasil kerja di atas ekspektasi mensyaratkan NHK lebih dari 100, bukan minimal 90.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 12/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 12,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "UPK sedang menyusun usulan Tugas Belajar Dibiayai untuk beberapa program pendidikan. Tim ingin memastikan tahapan perencanaan sesuai materi sebelum mengusulkan pegawai ke proses seleksi. Ada anggota tim yang mengira RKTB dapat langsung dibuat oleh pegawai peminat beasiswa. Anggota lain menyatakan bahwa perencanaan harus melalui koordinasi dan penetapan formal. Pernyataan manakah yang paling tepat?",
+        "answer": "Perencanaan Tugas Belajar Dibiayai disusun dan diusulkan oleh UPK, dikoordinasikan, dikalibrasi, dan diharmonisasi oleh UPSDM, lalu dituangkan dan ditetapkan dalam RKTB oleh Sekretaris Jenderal untuk dan atas nama Menteri Keuangan dalam bentuk Keputusan Menteri Keuangan.",
+        "options": [
+          "RKTB disusun langsung oleh pegawai peminat beasiswa dan ditetapkan oleh perguruan tinggi penyelenggara.",
+          "Perencanaan Tugas Belajar Dibiayai disusun dan diusulkan oleh UPK, dikoordinasikan, dikalibrasi, dan diharmonisasi oleh UPSDM, lalu dituangkan dan ditetapkan dalam RKTB oleh Sekretaris Jenderal untuk dan atas nama Menteri Keuangan dalam bentuk Keputusan Menteri Keuangan.",
+          "RKTB hanya memuat daftar nama pegawai yang lulus seleksi perguruan tinggi sehingga tidak diperlukan sebelum seleksi.",
+          "Tugas Belajar Dibiayai tidak memiliki tahap pasca tugas belajar karena seluruh kewajiban selesai saat pegawai dinyatakan lulus."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi Pengelolaan Tugas Belajar Dibiayai menyebut perencanaan disusun dan diusulkan oleh UPK, kemudian dikoordinasikan, dikalibrasi, dan diharmonisasi oleh UPSDM. Materi juga menyatakan perencanaan dituangkan dan ditetapkan dalam RKTB oleh Sekretaris Jenderal untuk dan atas nama Menteri Keuangan dalam bentuk Keputusan Menteri Keuangan.\n\nOpsi A keliru karena RKTB bukan disusun langsung oleh pegawai peminat beasiswa dan bukan ditetapkan oleh perguruan tinggi.\n\nOpsi C keliru karena muatan RKTB mencakup program dan jenjang pendidikan acuan serta formasi program dan jenjang pendidikan, bukan hanya daftar pegawai yang lulus seleksi.\n\nOpsi D keliru karena materi memuat tahap pasca tugas belajar seperti penyelesaian, re-entry program, penempatan kembali, ketentuan ikatan dinas, dan ketentuan ganti kerugian.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 13/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 13,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Seorang PNS DJP ingin mengikuti Tugas Belajar Dibiayai jenjang S2. Ia baru bekerja 10 bulan sejak diangkat menjadi PNS, pangkatnya II/b, dan belum mendapatkan persetujuan atasan langsung. Ia berpendapat syarat tersebut dapat dilengkapi setelah diterima di perguruan tinggi. Petugas kepegawaian harus menilai kelayakan awal berdasarkan persyaratan dalam materi. Kesimpulan manakah yang paling tepat?",
+        "answer": "Pegawai tersebut belum memenuhi syarat karena harus telah bekerja minimal 1 tahun sejak diangkat menjadi PNS, untuk S2 harus memiliki pangkat dan golongan paling rendah III/a, dan harus mendapat persetujuan atasan langsung dengan memperhatikan realisasi RKTB.",
+        "options": [
+          "Pegawai tersebut memenuhi syarat karena jenjang S2 tidak mensyaratkan masa kerja, pangkat, atau persetujuan atasan.",
+          "Pegawai tersebut memenuhi syarat jika memiliki ijazah S1/DIV, meskipun masa kerja baru 10 bulan dan pangkat II/b.",
+          "Pegawai tersebut cukup mengajukan dokumen ke perguruan tinggi karena persyaratan kepegawaian hanya berlaku setelah surat tugas belajar diterbitkan.",
+          "Pegawai tersebut belum memenuhi syarat karena harus telah bekerja minimal 1 tahun sejak diangkat menjadi PNS, untuk S2 harus memiliki pangkat dan golongan paling rendah III/a, dan harus mendapat persetujuan atasan langsung dengan memperhatikan realisasi RKTB."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi persyaratan Tugas Belajar Dibiayai menyebut telah bekerja minimal 1 tahun sejak diangkat menjadi PNS. Untuk mengikuti S2, materi juga mensyaratkan ijazah S1/DIV dan pangkat/golongan paling rendah III/a, serta persetujuan atasan langsung dengan memperhatikan realisasi atas Rencana Kebutuhan Tugas Belajar.\n\nOpsi A keliru karena materi secara jelas mencantumkan syarat masa kerja, pangkat/golongan, ijazah, dan persetujuan atasan.\n\nOpsi B keliru karena ijazah S1/DIV saja tidak cukup jika masa kerja dan pangkat/golongan belum memenuhi syarat.\n\nOpsi C keliru karena persyaratan kepegawaian merupakan bagian dari seleksi dan penugasan Tugas Belajar Dibiayai, bukan hanya urusan perguruan tinggi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 14/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 14,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Nadia menjalani Tugas Belajar Dibiayai Diberhentikan selama dua tahun. Setelah lulus lebih cepat dari masa surat tugas belajar, ia bertanya kapan harus kembali aktif dan laporan apa yang perlu disampaikan. Ia juga ingin mengetahui konsekuensi ikatan dinasnya. Pengelola tugas belajar harus menjawab berdasarkan hak dan kewajiban pasca tugas belajar. Jawaban manakah yang paling tepat?",
+        "answer": "Nadia harus kembali aktif bekerja paling lambat 15 hari kerja setelah surat tugas belajar selesai atau setelah tanggal kelulusan jika lebih cepat, menyampaikan Laporan Selesai Studi paling lambat pada tanggal kembali aktif bekerja, dan menjalani ikatan dinas 2 kali masa studi.",
+        "options": [
+          "Nadia harus kembali aktif bekerja paling lambat 15 hari kerja setelah surat tugas belajar selesai atau setelah tanggal kelulusan jika lebih cepat, menyampaikan Laporan Selesai Studi paling lambat pada tanggal kembali aktif bekerja, dan menjalani ikatan dinas 2 kali masa studi.",
+          "Nadia tidak perlu kembali aktif sampai unit menerbitkan penempatan baru, dan ikatan dinasnya hanya 1 kali masa studi.",
+          "Nadia cukup menyampaikan Laporan Perkembangan Studi setelah lulus, sedangkan Laporan Selesai Studi hanya berlaku bagi Tugas Belajar Dibiayai Tidak Diberhentikan.",
+          "Nadia wajib menjalani ikatan dinas 3 kali masa studi dan tidak perlu mengikuti re-entry program sebelum ditempatkan kembali."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi penyelesaian Tugas Belajar Dibiayai Diberhentikan menyebut harus kembali aktif bekerja paling lambat 15 hari kerja setelah surat tugas belajar selesai atau setelah tanggal kelulusan jika lebih cepat. Materi juga menyebut Laporan Selesai Studi disampaikan paling lambat pada tanggal kembali aktif bekerja dan ikatan dinas untuk Tugas Belajar Dibiayai Diberhentikan adalah 2 kali masa studi.\n\nOpsi B keliru karena materi menetapkan batas kembali aktif bekerja 15 hari kerja dan ikatan dinas Tugas Belajar Dibiayai Diberhentikan bukan 1 kali masa studi.\n\nOpsi C keliru karena Laporan Selesai Studi tetap menjadi kewajiban bagi PNS Tugas Belajar Dibiayai Diberhentikan.\n\nOpsi D keliru karena materi menyebut ikatan dinas 2 kali masa studi dan kewajiban lain termasuk mengikuti Re-entry Program sebelum ditempatkan kembali.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 15/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 15,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Rafi adalah PNS organik DJP yang ingin mengajukan Tugas Belajar Mandiri. Ia tidak sedang cuti di luar tanggungan negara, telah bekerja lebih dari satu tahun sejak menjadi PNS, dan ingin mengambil program S2. Namun, ia belum memahami siapa yang berhak mengajukan serta alur pengajuan surat tugas. Ia meminta petugas menjelaskan secara ringkas sesuai materi. Penjelasan manakah yang paling tepat?",
+        "answer": "Pegawai yang berhak mengajukan Tugas Belajar Mandiri adalah PNS di lingkungan DJP yang secara organik bekerja di DJP termasuk yang dipekerjakan atau diperbantukan di luar DJP, dengan pengecualian CPNS dan pegawai yang sedang cuti di luar tanggungan negara; alurnya dimulai dari pengajuan permohonan dan dokumen pendukung, seleksi administrasi dan validasi, penerbitan surat tugas, lalu perekaman dan unggah surat tugas.",
+        "options": [
+          "Tugas Belajar Mandiri dapat diajukan oleh CPNS selama bekerja di lingkungan DJP dan cukup mendapat persetujuan perguruan tinggi.",
+          "PNS yang sedang menjalani cuti di luar tanggungan negara tetap berhak mengajukan Tugas Belajar Mandiri sepanjang memiliki persetujuan atasan langsung.",
+          "Pegawai yang berhak mengajukan Tugas Belajar Mandiri adalah PNS di lingkungan DJP yang secara organik bekerja di DJP termasuk yang dipekerjakan atau diperbantukan di luar DJP, dengan pengecualian CPNS dan pegawai yang sedang cuti di luar tanggungan negara; alurnya dimulai dari pengajuan permohonan dan dokumen pendukung, seleksi administrasi dan validasi, penerbitan surat tugas, lalu perekaman dan unggah surat tugas.",
+          "Tugas Belajar Mandiri hanya berlaku untuk pegawai yang diberhentikan dari jabatan sebelumnya dan tidak memiliki prosedur seleksi administrasi."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut pegawai yang berhak mengajukan Tugas Belajar Mandiri adalah PNS di lingkungan DJP yang secara organik bekerja di DJP termasuk yang dipekerjakan atau diperbantukan di luar DJP. Materi juga mengecualikan CPNS dan pegawai yang sedang menjalani cuti di luar tanggungan negara, serta menggambarkan alur pengajuan dari permohonan dan dokumen pendukung sampai perekaman dan unggah surat tugas.\n\nOpsi A keliru karena CPNS justru termasuk pengecualian dari pegawai yang berhak mengajukan Tugas Belajar Mandiri.\n\nOpsi B keliru karena pegawai yang sedang menjalani cuti di luar tanggungan negara juga termasuk pengecualian.\n\nOpsi D keliru karena Tugas Belajar Mandiri mencakup yang diberhentikan dan tidak diberhentikan, serta materi memuat seleksi administrasi dan validasi kelengkapan dokumen.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 16/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 16,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Sebuah unit sedang menata uraian tugas jabatan pelaksana. Beberapa pegawai menanyakan perbedaan Penelaah Teknis Kebijakan, Penata Layanan Operasional, Pengolah Data dan Informasi, serta Pengadministrasi Perkantoran. Kepala subbagian meminta staf mengklasifikasikan tugas sesuai definisi jabatan pelaksana umum dalam materi. Ada satu pegawai yang tugas utamanya mengelola, memverifikasi, dan menyusun data serta laporan berdasarkan urusan pemerintahan. Jabatan pelaksana umum yang paling sesuai adalah apa?",
+        "answer": "Pengolah Data dan Informasi.",
+        "options": [
+          "Penata Layanan Operasional.",
+          "Pengadministrasi Perkantoran.",
+          "Penelaah Teknis Kebijakan.",
+          "Pengolah Data dan Informasi."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi mendefinisikan Pengolah Data dan Informasi sebagai Jabatan Pelaksana yang melaksanakan pengelolaan, verifikasi, dan penyusunan terhadap data dan laporan berdasarkan urusan pemerintahan.\n\nOpsi A keliru karena Penata Layanan Operasional melaksanakan kegiatan pelayanan dan pengelolaan layanan teknis, bukan fokus utama pada pengelolaan, verifikasi, dan penyusunan data serta laporan.\n\nOpsi B keliru karena Pengadministrasi Perkantoran melakukan kegiatan dukungan administrasi perkantoran, pemerintahan, dan pelayanan publik.\n\nOpsi C keliru karena Penelaah Teknis Kebijakan melaksanakan dukungan teknis dalam rangka penyiapan bahan berdasarkan urusan pemerintahan, bukan fungsi utama pengolahan data dan informasi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 17/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 17,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Sidang Penilaian bagi Pelaksana Umum akan dilaksanakan setelah evaluasi tahunan. Seorang Pelaksana Umum diusulkan naik jabatan dan peringkat karena memiliki Predikat Kinerja Tahunan Baik selama dua periode evaluasi. Namun, tim sidang masih harus memastikan syarat lain seperti pangkat, pendidikan, formasi, hukuman disiplin, cuti di luar tanggungan negara, dan kemampuan kerja. Ketua sidang meminta rangkuman kriteria kenaikan yang sesuai materi. Pilihan manakah yang paling tepat?",
+        "answer": "Kenaikan jabatan dan peringkat mensyaratkan Predikat Kinerja Tahunan Sangat Baik atau Baik selama 2 periode evaluasi, pemenuhan syarat pangkat/golongan ruang dan pendidikan, tersedianya formasi, tidak sedang menjalani hukuman disiplin sedang atau berat, tidak sedang cuti di luar tanggungan negara, memenuhi penilaian kemampuan kerja, dan kriteria lain bila dipersyaratkan.",
+        "options": [
+          "Kenaikan jabatan dan peringkat mensyaratkan Predikat Kinerja Tahunan Sangat Baik atau Baik selama 2 periode evaluasi, pemenuhan syarat pangkat/golongan ruang dan pendidikan, tersedianya formasi, tidak sedang menjalani hukuman disiplin sedang atau berat, tidak sedang cuti di luar tanggungan negara, memenuhi penilaian kemampuan kerja, dan kriteria lain bila dipersyaratkan.",
+          "Kenaikan jabatan dan peringkat cukup didasarkan pada masa kerja dua tahun tanpa memperhatikan predikat kinerja, pendidikan, atau hukuman disiplin.",
+          "Pelaksana Umum yang sedang cuti di luar tanggungan negara tetap dapat dinaikkan jabatan dan peringkatnya jika formasi tersedia.",
+          "Predikat Kinerja Tahunan yang sudah digunakan sebagai dasar kenaikan dapat digunakan kembali sebagai bahan Sidang Penilaian berikutnya."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi ketentuan Sidang Penilaian bagi Pelaksana Umum mencantumkan kriteria kenaikan jabatan dan peringkat seperti Predikat Kinerja Tahunan Sangat Baik atau Baik selama 2 periode evaluasi, syarat pangkat/golongan dan pendidikan, formasi, tidak sedang menjalani hukuman disiplin sedang atau berat, tidak sedang cuti di luar tanggungan negara, penilaian kemampuan kerja, dan kriteria lain bila dipersyaratkan.\n\nOpsi B keliru karena masa kerja saja tidak cukup dan materi memuat berbagai syarat lain yang harus dipenuhi.\n\nOpsi C keliru karena tidak sedang cuti di luar tanggungan negara pada saat Sidang Penilaian merupakan salah satu kriteria.\n\nOpsi D keliru karena materi menyatakan Predikat Kinerja Tahunan Pegawai yang telah digunakan sebagai dasar kenaikan jabatan dan peringkat tidak dapat digunakan kembali sebagai bahan Sidang Penilaian berikutnya.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 18/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 18,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Maya bekerja pada unit daerah remote klasifikasi III dan ingin menggunakan cuti tahunan tambahan untuk menemui keluarga di homebase. Ia juga masih memiliki sisa cuti tahunan tambahan pada tahun berjalan. Selain itu, ia berencana menggabungkan cuti tambahan tersebut dengan cuti tahunan biasa. Petugas kepegawaian perlu memberi arahan sesuai ketentuan materi. Arahan manakah yang paling tepat?",
+        "answer": "Maya memperoleh cuti tahunan tambahan 9 hari kalender, sisa cuti tahun berjalan tidak dapat digunakan dan diakumulasi untuk tahun berikutnya, serta pengajuannya dapat ditambahkan sebelum dan/atau sesudah cuti tahunan.",
+        "options": [
+          "Maya memperoleh cuti tahunan tambahan 3 hari kalender, sisa cuti dapat diakumulasi ke tahun berikutnya, dan cuti tambahan tidak boleh digabung dengan cuti tahunan.",
+          "Maya memperoleh cuti tahunan tambahan 6 hari kalender, sisa cuti dapat dipakai kapan saja pada tahun berikutnya, dan penggunaannya harus terpisah dari cuti tahunan.",
+          "Maya memperoleh cuti tahunan tambahan 9 hari kalender, sisa cuti tahun berjalan tidak dapat digunakan dan diakumulasi untuk tahun berikutnya, serta pengajuannya dapat ditambahkan sebelum dan/atau sesudah cuti tahunan.",
+          "Maya memperoleh cuti tahunan tambahan 12 hari kalender untuk semua klasifikasi daerah remote dan wajib digunakan tanpa cuti tahunan biasa."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut kuota cuti tahunan tambahan untuk Unit Kerja Daerah Remote klasifikasi III adalah 9 hari kalender. Materi juga menyatakan sisa cuti tahunan tambahan pada tahun berjalan tidak dapat digunakan dan diakumulasi untuk tahun berikutnya, serta cuti tahunan tambahan diajukan dengan menambahkan sebelum dan/atau sesudah cuti tahunan.\n\nOpsi A keliru karena 3 hari kalender berlaku untuk klasifikasi I, bukan klasifikasi III, dan materi tidak membolehkan akumulasi sisa cuti tambahan.\n\nOpsi B keliru karena 6 hari kalender berlaku untuk klasifikasi II, bukan klasifikasi III, dan sisa cuti tambahan tidak dapat dipakai pada tahun berikutnya.\n\nOpsi D keliru karena 12 hari kalender berlaku untuk klasifikasi IV, bukan semua klasifikasi, dan materi memperbolehkan cuti tahunan tambahan diajukan sebelum dan/atau sesudah cuti tahunan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 19/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 19,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket A",
+        "question": "Seorang PNS golongan III/c berencana melakukan perjalanan ke luar negeri untuk kepentingan pribadi. Ia mengira cukup memberitahu atasan satu minggu sebelum keberangkatan. Pada saat yang sama, ia juga ingin mengajukan cuti yang akan dijalankan di luar negeri. Petugas kepegawaian harus menjelaskan batas waktu permohonan dan pejabat penandatangan surat izin sesuai materi. Jawaban manakah yang paling tepat?",
+        "answer": "Permohonan izin luar negeri diajukan lengkap melalui SIKKA paling lambat 1 bulan sebelum keberangkatan, kecuali untuk alasan tertentu yang disebutkan dalam materi, dan untuk golongan Ia sampai IIId penandatangan surat izin ke luar negeri serta surat izin cuti yang dijalankan di luar negeri adalah Kabag P4.",
+        "options": [
+          "Permohonan izin luar negeri diajukan paling lambat 3 hari kerja setelah keberangkatan dan ditandatangani oleh Direktur Jenderal Pajak untuk semua golongan.",
+          "Permohonan izin luar negeri diajukan lengkap melalui SIKKA paling lambat 1 bulan sebelum keberangkatan, kecuali untuk alasan tertentu yang disebutkan dalam materi, dan untuk golongan Ia sampai IIId penandatangan surat izin ke luar negeri serta surat izin cuti yang dijalankan di luar negeri adalah Kabag P4.",
+          "Permohonan izin luar negeri untuk kepentingan pribadi tidak memerlukan izin tertulis jika pegawai sudah mengajukan cuti tahunan.",
+          "Permohonan izin luar negeri bagi golongan III/c ditandatangani oleh Sesditjen, sedangkan batas waktu pengajuan hanya berlaku untuk golongan IV."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi izin luar negeri menyebut setiap PNS Kemenkeu yang akan melakukan perjalanan ke luar negeri untuk kepentingan pribadi wajib memperoleh izin tertulis terlebih dahulu. Materi juga menyatakan permohonan diajukan lengkap melalui SIKKA paling lambat 1 bulan sebelum keberangkatan, dengan pengecualian tertentu, dan penandatangan untuk golongan Ia sampai IIId adalah Kabag P4.\n\nOpsi A keliru karena batas 3 hari kerja adalah ketentuan permohonan izin atau pemberitahuan melalui SIKKA untuk kriteria bukan pelanggaran hari kerja dan jam kerja, bukan batas umum permohonan izin luar negeri sebelum keberangkatan.\n\nOpsi C keliru karena materi secara eksplisit mewajibkan izin tertulis terlebih dahulu untuk perjalanan luar negeri kepentingan pribadi.\n\nOpsi D keliru karena Sesditjen menandatangani untuk golongan IVa sampai IVb, sedangkan golongan III/c termasuk rentang Ia sampai IIId yang ditandatangani Kabag P4.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket A soal 20/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-a",
+          "label": "A",
+          "order": 0,
+          "questionNumber": 20,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kepegawaian-studi-kasus-paket-b",
+    "categoryId": "kepegawaian",
+    "name": "PEG (Studi Kasus) Paket B",
+    "sourceTitle": "Kepegawaian.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+    "packageLabel": "B",
+    "packageIndex": 1,
+    "questions": [
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Pada kegiatan orientasi pegawai, seorang fasilitator meminta peserta membedakan fungsi dan tugas ASN. Sebagian peserta menyebut ASN hanya berfungsi menjalankan administrasi internal kantor. Peserta lain menyatakan ASN juga memiliki peran menjaga persatuan bangsa. Fasilitator harus menutup diskusi dengan rumusan yang paling sesuai dengan materi. Pernyataan manakah yang paling tepat?",
+        "answer": "Fungsi ASN meliputi pelaksana kebijakan publik, pelayanan publik, serta perekat dan pemersatu bangsa; tugas ASN mencakup melaksanakan kebijakan publik, memberikan pelayanan publik yang profesional dan berkualitas, serta mempererat persatuan dan kesatuan NKRI.",
+        "options": [
+          "Fungsi ASN terbatas pada pelayanan administrasi internal, sedangkan tugas mempererat persatuan dan kesatuan hanya berlaku bagi pejabat struktural.",
+          "Fungsi ASN meliputi pelaksana kebijakan publik, pelayanan publik, serta perekat dan pemersatu bangsa; tugas ASN mencakup melaksanakan kebijakan publik, memberikan pelayanan publik yang profesional dan berkualitas, serta mempererat persatuan dan kesatuan NKRI.",
+          "ASN hanya bertugas melaksanakan kebijakan publik yang dibuat pejabat pembina kepegawaian, sedangkan pelayanan publik bukan bagian dari tugas ASN.",
+          "ASN berfungsi sebagai penyusun kebijakan politik, pelaksana kegiatan komersial negara, dan pengawas hubungan industrial."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut fungsi ASN sebagai pelaksana kebijakan publik, pelayanan publik, serta perekat dan pemersatu bangsa. Materi juga memuat tugas ASN untuk melaksanakan kebijakan publik yang dibuat oleh Pejabat Pembina Kepegawaian, memberikan pelayanan publik yang profesional dan berkualitas, serta mempererat persatuan dan kesatuan NKRI.\n\nOpsi A keliru karena fungsi ASN tidak terbatas pada pelayanan administrasi internal dan tugas mempererat persatuan bukan hanya untuk pejabat struktural.\n\nOpsi C keliru karena pelayanan publik yang profesional dan berkualitas merupakan salah satu tugas ASN dalam materi.\n\nOpsi D keliru karena fungsi yang disebutkan tidak sesuai dengan fungsi ASN dalam materi kepegawaian.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 1/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 1,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang pegawai baru meminta ringkasan tentang hak dan kewajiban Pegawai ASN. Ia mengira hak pegawai hanya berupa gaji, sedangkan kewajiban hanya masuk kerja tepat waktu. Mentor di unitnya ingin memberi penjelasan yang lebih lengkap sesuai materi. Penjelasan itu akan dipakai sebagai bahan pembinaan awal. Pilihan manakah yang paling tepat?",
+        "answer": "Hak Pegawai ASN mencakup penghasilan, penghargaan, tunjangan dan fasilitas, jaminan sosial, lingkungan kerja, pengembangan diri, dan bantuan hukum; kewajibannya mencakup setia pada Pancasila dan UUD 1945, menaati peraturan, melaksanakan nilai dasar ASN serta kode etik dan kode perilaku, menjaga netralitas, dan bersedia ditempatkan di wilayah NKRI serta perwakilan RI di luar negeri.",
+        "options": [
+          "Hak Pegawai ASN hanya berupa gaji, tunjangan, dan cuti, sedangkan kewajiban ASN hanya menaati jam kerja dan menyelesaikan target SKP.",
+          "Hak Pegawai ASN tidak mencakup bantuan hukum karena bantuan hukum hanya diberikan kepada pejabat yang sedang menjalani pemeriksaan disiplin.",
+          "Kewajiban Pegawai ASN hanya berlaku bagi PNS dan tidak berlaku bagi PPPK karena PPPK bekerja berdasarkan perjanjian kerja.",
+          "Hak Pegawai ASN mencakup penghasilan, penghargaan, tunjangan dan fasilitas, jaminan sosial, lingkungan kerja, pengembangan diri, dan bantuan hukum; kewajibannya mencakup setia pada Pancasila dan UUD 1945, menaati peraturan, melaksanakan nilai dasar ASN serta kode etik dan kode perilaku, menjaga netralitas, dan bersedia ditempatkan di wilayah NKRI serta perwakilan RI di luar negeri."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi merinci hak Pegawai ASN dalam tujuh kelompok, termasuk penghasilan, penghargaan, tunjangan dan fasilitas, jaminan sosial, lingkungan kerja, pengembangan diri, dan bantuan hukum. Materi juga merinci kewajiban seperti setia dan taat pada Pancasila, UUD 1945, NKRI, dan pemerintahan yang sah, menaati peraturan, melaksanakan nilai dasar dan kode etik, menjaga netralitas, serta bersedia ditempatkan.\n\nOpsi A keliru karena hak dan kewajiban Pegawai ASN dalam materi lebih luas dari gaji, tunjangan, cuti, jam kerja, dan SKP.\n\nOpsi B keliru karena bantuan hukum disebut sebagai salah satu hak Pegawai ASN dan dapat berupa litigasi maupun nonlitigasi.\n\nOpsi C keliru karena materi membahas Pegawai ASN yang terdiri dari PNS dan PPPK, sehingga kewajiban ASN tidak hanya dipahami untuk PNS.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 2/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 2,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Atasan langsung Rudi melihat bawahannya mengalami kesulitan menyusun strategi pencapaian target. Bawahan tersebut membutuhkan proses bertanya untuk menggali solusi, berbagi pengalaman dari pegawai yang ahli, dan pelatihan untuk menindaklanjuti rencana aksi. Di sisi lain, ada pegawai lain dengan masalah perilaku kerja yang menghambat target dan perlu pendekatan individual yang menjaga kerahasiaan. Atasan ingin memilih pendekatan sesuai materi manajemen kinerja. Pilihan manakah yang paling tepat?",
+        "answer": "Gunakan coaching untuk aktivitas bertanya, mentoring untuk berbagi pengetahuan dan pengalaman, formal dan informal training sebagai strategi pencapaian target atau rencana aksi, serta konseling kinerja untuk identifikasi dan penyelesaian masalah perilaku kerja secara individual dengan prinsip kerahasiaan dan tanggung jawab.",
+        "options": [
+          "Gunakan coaching untuk aktivitas bertanya, mentoring untuk berbagi pengetahuan dan pengalaman, formal dan informal training sebagai strategi pencapaian target atau rencana aksi, serta konseling kinerja untuk identifikasi dan penyelesaian masalah perilaku kerja secara individual dengan prinsip kerahasiaan dan tanggung jawab.",
+          "Gunakan konseling untuk semua kebutuhan karena coaching, mentoring, dan training hanya termasuk pengembangan kompetensi di luar manajemen kinerja.",
+          "Gunakan mentoring untuk bertanya tanpa arahan, coaching untuk berbagi pengalaman ahli, dan konseling untuk menyusun rencana aksi kelompok.",
+          "Gunakan formal dan informal training hanya setelah evaluasi tahunan selesai karena tidak dapat dilakukan berdasarkan umpan balik berkelanjutan."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menjelaskan tiga bentuk bimbingan kerja, yaitu coaching, mentoring, serta formal dan informal training. Materi juga menjelaskan konseling kinerja sebagai proses identifikasi dan penyelesaian masalah perilaku kerja pegawai yang menghambat target kinerja, dilaksanakan secara individual dengan prinsip kerahasiaan dan tanggung jawab.\n\nOpsi B keliru karena coaching, mentoring, serta formal dan informal training secara eksplisit disebut sebagai bentuk bimbingan kinerja.\n\nOpsi C keliru karena definisi coaching dan mentoring tertukar, serta konseling kinerja bukan forum penyusunan rencana aksi kelompok.\n\nOpsi D keliru karena formal dan informal training dapat menjadi strategi pencapaian target atau action plan dari coaching dan mentoring atau dilakukan berdasarkan umpan balik berkelanjutan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 3/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 3,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang pegawai ditunjuk sebagai Pelaksana Tugas dan perlu menyesuaikan informasi dalam SKP yang telah ditetapkan. Pada kasus lain, pegawai dimutasi sehingga struktur SKP berubah menyeluruh. Pengelola kinerja unit diminta menjelaskan perbedaan SKP Adendum dan penetapan kembali SKP. Ia juga harus menyampaikan mekanisme persetujuan atau reviu atas perubahan tersebut. Penjelasan manakah yang paling tepat?",
+        "answer": "SKP Adendum adalah perubahan informasi pada SKP yang telah ditetapkan dan tidak merevisi target serta capaian IKI yang sudah memiliki realisasi, contohnya pegawai yang ditunjuk sebagai Plt; penetapan kembali SKP dilakukan karena perubahan menyeluruh seperti mutasi, dan penyusunannya dilaksanakan sesuai kesepakatan dengan atasan serta disetujui atau direviu pengelola kinerja unit.",
+        "options": [
+          "SKP Adendum digunakan untuk perubahan menyeluruh karena mutasi, sedangkan penetapan kembali SKP digunakan untuk perubahan informasi kecil seperti penugasan Plt.",
+          "SKP Adendum boleh merevisi target dan capaian IKI yang telah memiliki realisasi, sedangkan SKP Komplemen tidak memerlukan kesepakatan dengan atasan.",
+          "SKP Adendum adalah perubahan informasi pada SKP yang telah ditetapkan dan tidak merevisi target serta capaian IKI yang sudah memiliki realisasi, contohnya pegawai yang ditunjuk sebagai Plt; penetapan kembali SKP dilakukan karena perubahan menyeluruh seperti mutasi, dan penyusunannya dilaksanakan sesuai kesepakatan dengan atasan serta disetujui atau direviu pengelola kinerja unit.",
+          "Setiap perubahan SKP harus menunggu evaluasi tahunan karena perubahan pada tahun berjalan tidak diatur dalam manajemen kinerja."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut SKP Adendum sebagai perubahan informasi pada SKP yang telah ditetapkan tanpa merevisi target dan capaian IKI yang telah memiliki realisasi, dengan contoh pegawai yang ditunjuk sebagai Plt. Materi juga menyebut penetapan kembali SKP karena perubahan menyeluruh seperti mutasi dan penyusunan SKP Adendum serta SKP Komplemen dilaksanakan sesuai kesepakatan dengan atasan dan disetujui atau direviu oleh pengelola kinerja unit.\n\nOpsi A keliru karena fungsi SKP Adendum dan penetapan kembali SKP tertukar.\n\nOpsi B keliru karena SKP Adendum tidak merevisi target dan capaian IKI yang telah memiliki realisasi, serta penyusunan tetap perlu kesepakatan dan reviu atau persetujuan.\n\nOpsi D keliru karena materi mengatur perubahan SKP pada tahun berjalan, termasuk adendum dan penetapan kembali.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 4/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 4,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Tim pengelola kinerja sedang menyiapkan sosialisasi evaluasi kinerja. Peserta bertanya kapan evaluasi periodik dan evaluasi tahunan dilakukan. Mereka juga menanyakan dokumen apa yang digunakan dalam pelaporan kinerja. Seorang pejabat penilai khawatir melewati batas penetapan dokumen evaluasi tahunan. Jawaban manakah yang paling tepat?",
+        "answer": "Evaluasi kinerja periodik dilakukan setiap periode tertentu, evaluasi tahunan atau akhir dilakukan paling lama akhir bulan Januari tahun berikutnya, dan pelaporan kinerja berbentuk Dokumen Evaluasi Kinerja yang dilampiri SKP beserta lampirannya dan Hasil Evaluasi Kinerja.",
+        "options": [
+          "Evaluasi periodik dilakukan paling lama akhir Januari tahun berikutnya, sedangkan evaluasi tahunan dilakukan setiap periode tertentu.",
+          "Evaluasi kinerja periodik dilakukan setiap periode tertentu, evaluasi tahunan atau akhir dilakukan paling lama akhir bulan Januari tahun berikutnya, dan pelaporan kinerja berbentuk Dokumen Evaluasi Kinerja yang dilampiri SKP beserta lampirannya dan Hasil Evaluasi Kinerja.",
+          "Dokumen Evaluasi Kinerja tidak perlu memuat predikat kinerja karena predikat hanya dicatat dalam aplikasi E-Performance.",
+          "Jika Pejabat Penilai Kinerja tidak menetapkan dokumen evaluasi tahunan sampai 31 Januari, dokumen dapat diabaikan sampai periode evaluasi berikutnya."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi membedakan evaluasi kinerja berdasarkan waktu pelaksanaan, yaitu evaluasi periodik setiap periode tertentu dan evaluasi tahunan atau akhir paling lama akhir bulan Januari tahun berikutnya. Materi juga menjelaskan pelaporan kinerja pegawai dilakukan dalam bentuk Dokumen Evaluasi Kinerja yang dilampiri dokumen SKP beserta lampirannya dan Hasil Evaluasi Kinerja.\n\nOpsi A keliru karena waktu evaluasi periodik dan tahunan tertukar.\n\nOpsi C keliru karena dokumen evaluasi kinerja memuat predikat kinerja serta catatan atau rekomendasi atasan.\n\nOpsi D keliru karena apabila Pejabat Penilai Kinerja tidak menetapkan dokumen evaluasi tahunan hingga 31 Januari, dokumen ditandatangani oleh atasan Pejabat Penilai Kinerja paling lambat minggu pertama bulan Februari.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 5/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 5,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Dalam penilaian perilaku kerja, seorang Pelaksana diminta mengajukan evaluator. Ia mengira cukup ada satu evaluator yaitu atasan langsung. Pada saat yang sama, pejabat penilai menanyakan risiko jika evaluator atau evaluee tidak menjalankan kewajiban administrasi evaluasi. Pengelola kinerja harus menjawab berdasarkan ketentuan jumlah evaluator dan penalti NPK dalam materi. Jawaban manakah yang paling tepat?",
+        "answer": "Pelaksana dinilai oleh 5 evaluator yang terdiri dari 1 atasan langsung dan 4 peers; evaluator yang tidak menjalankan kewajiban evaluasi dikenai pengurangan 2 poin per evaluee maksimal 10 poin, pejabat yang tidak menetapkan evaluator dikenai 2 poin setiap bawahan maksimal 10 poin, dan evaluee yang tidak mengajukan evaluator dikenai 5 poin.",
+        "options": [
+          "Pelaksana dinilai oleh 5 evaluator yang terdiri dari 1 atasan langsung dan 4 peers; evaluator yang tidak menjalankan kewajiban evaluasi dikenai pengurangan 2 poin per evaluee maksimal 10 poin, pejabat yang tidak menetapkan evaluator dikenai 2 poin setiap bawahan maksimal 10 poin, dan evaluee yang tidak mengajukan evaluator dikenai 5 poin.",
+          "Pelaksana dinilai oleh 3 evaluator yang terdiri dari atasan langsung, satu peer, dan satu bawahan; semua pelanggaran administrasi hanya diberi teguran tanpa pengurangan NPK.",
+          "Pelaksana dinilai oleh 5 evaluator yang terdiri dari 1 atasan langsung, 2 peers, dan 2 bawahan; evaluee yang tidak mengajukan evaluator dikenai pengurangan 10 poin.",
+          "Jumlah evaluator hanya diatur untuk pejabat struktural dan pejabat fungsional, sehingga Pelaksana tidak memiliki ketentuan evaluator."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut jumlah evaluator bagi Pelaksana adalah 5 orang, yaitu 1 atasan langsung dan 4 peers. Materi juga menyebut penalti NPK berupa pengurangan 2 poin per evaluee maksimal 10 poin bagi evaluator yang tidak menjalankan kewajiban evaluasi, 2 poin setiap bawahan maksimal 10 poin bagi pejabat yang tidak menetapkan evaluator, dan 5 poin bagi evaluee yang tidak mengajukan evaluator.\n\nOpsi B keliru karena jumlah evaluator Pelaksana bukan 3 orang dan materi memuat pengurangan nilai perilaku kerja.\n\nOpsi C keliru karena komposisi 1 atasan langsung, 2 peers, dan 2 bawahan berlaku untuk pejabat struktural atau pejabat fungsional tertentu yang memiliki fungsi supervisi, bukan Pelaksana.\n\nOpsi D keliru karena materi secara eksplisit mencantumkan jumlah evaluator untuk Pelaksana.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 6/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 6,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang pegawai memperoleh NHK 88 dan NPK 101 dalam simulasi penilaian. Tidak ada indeks capaian NPK per aspek core value ASN yang berada di bawah ekspektasi. Pegawai tersebut mengira hasil perilaku kerjanya membuat keseluruhan hasil kerja otomatis di atas ekspektasi. Tim pengelola kinerja ingin menjelaskan rating NHK dan NPK secara terpisah. Kesimpulan manakah yang paling tepat?",
+        "answer": "NHK 88 termasuk di bawah ekspektasi, sedangkan NPK 101 dapat termasuk di atas ekspektasi apabila tidak ada indeks capaian NPK per aspek atau core value ASN yang di bawah ekspektasi.",
+        "options": [
+          "NHK 88 termasuk sesuai ekspektasi, dan NPK 101 otomatis sesuai ekspektasi karena nilai di atas 100 tidak dipakai untuk perilaku kerja.",
+          "NHK 88 termasuk di atas ekspektasi karena mendekati 90, dan NPK 101 termasuk di bawah ekspektasi karena harus tepat 100.",
+          "NHK 88 termasuk di bawah ekspektasi, sedangkan NPK 101 dapat termasuk di atas ekspektasi apabila tidak ada indeks capaian NPK per aspek atau core value ASN yang di bawah ekspektasi.",
+          "NHK dan NPK tidak dikonversi menjadi rating karena hanya NKP yang boleh diberi kategori."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut rating hasil kerja di bawah ekspektasi apabila NHK kurang dari 90. Materi juga menyebut perilaku kerja di atas ekspektasi apabila NPK periodik atau tahunan bernilai minimal 100 dan tidak ada indeks capaian NPK per aspek atau core value ASN yang di bawah ekspektasi.\n\nOpsi A keliru karena NHK 88 berada di bawah batas sesuai ekspektasi dan NPK 101 tidak otomatis sesuai ekspektasi jika memenuhi syarat di atas ekspektasi.\n\nOpsi B keliru karena NHK di atas ekspektasi mensyaratkan NHK lebih dari 100, sedangkan NPK tidak harus tepat 100.\n\nOpsi D keliru karena materi secara khusus membahas konversi NHK dan NPK menjadi rating hasil kerja dan perilaku kerja.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 7/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 7,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Dalam sidang evaluasi, seorang pegawai memiliki hasil kerja sesuai ekspektasi dan perilaku kerja di bawah ekspektasi. Pegawai tersebut berpendapat predikatnya tetap Baik karena hasil kerjanya tidak buruk. Pejabat penilai harus menjelaskan kuadran predikat kinerja berdasarkan penggabungan rating hasil kerja dan perilaku kerja. Ia ingin menyampaikan kategori yang sesuai dengan materi. Predikat manakah yang tepat?",
+        "answer": "Kurang atau Misconduct, karena materi menempatkan hasil kerja sesuai ekspektasi dan perilaku kerja di bawah ekspektasi dalam predikat Kurang/Misconduct.",
+        "options": [
+          "Baik, karena hasil kerja sesuai ekspektasi selalu cukup untuk menutup perilaku kerja yang di bawah ekspektasi.",
+          "Butuh Perbaikan, karena kategori ini berlaku untuk semua kombinasi yang memiliki salah satu aspek di bawah ekspektasi.",
+          "Sangat Kurang, karena setiap perilaku kerja di bawah ekspektasi otomatis membuat predikat menjadi paling rendah.",
+          "Kurang atau Misconduct, karena materi menempatkan hasil kerja sesuai ekspektasi dan perilaku kerja di bawah ekspektasi dalam predikat Kurang/Misconduct."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi predikat kinerja menempatkan kombinasi hasil kerja sesuai ekspektasi dan perilaku kerja di bawah ekspektasi dalam kategori Kurang/Misconduct. Materi membedakan kategori ini dari Butuh Perbaikan, yang digunakan saat hasil kerja di bawah ekspektasi dan perilaku kerja di atas atau sesuai ekspektasi.\n\nOpsi A keliru karena perilaku kerja di bawah ekspektasi tetap memengaruhi predikat dan tidak otomatis tertutup oleh hasil kerja sesuai ekspektasi.\n\nOpsi B keliru karena Butuh Perbaikan tidak berlaku untuk semua kombinasi yang memiliki salah satu aspek di bawah ekspektasi.\n\nOpsi C keliru karena Sangat Kurang dalam materi terjadi ketika hasil kerja dan perilaku kerja sama-sama di bawah ekspektasi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 8/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 8,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang PNS mengajukan Tugas Belajar Dibiayai, tetapi saat ini ia sedang dicalonkan pada program Tugas Belajar Mandiri Diberhentikan. Ia juga pernah dihentikan tugas belajarnya satu tahun lalu sesuai ketentuan yang berlaku. Petugas kepegawaian diminta menilai status tugas belajar sebagai bagian dari persyaratan. Pegawai tersebut berharap proses tetap dilanjutkan karena belum menerima beasiswa baru. Kesimpulan manakah yang paling tepat?",
+        "answer": "Pegawai belum memenuhi persyaratan karena tidak boleh sedang menjalani atau dicalonkan pada program Tugas Belajar Dibiayai lain dan/atau Tugas Belajar Mandiri Diberhentikan, serta tidak boleh pernah dibatalkan atau dihentikan tugas belajarnya dalam waktu 2 tahun terakhir.",
+        "options": [
+          "Pegawai belum memenuhi persyaratan karena tidak boleh sedang menjalani atau dicalonkan pada program Tugas Belajar Dibiayai lain dan/atau Tugas Belajar Mandiri Diberhentikan, serta tidak boleh pernah dibatalkan atau dihentikan tugas belajarnya dalam waktu 2 tahun terakhir.",
+          "Pegawai tetap memenuhi persyaratan karena larangan hanya berlaku jika ia sudah resmi menerima beasiswa dari penyelenggara.",
+          "Pegawai memenuhi persyaratan selama tugas belajar yang dihentikan bukan pada jenjang pendidikan yang sama.",
+          "Pegawai tetap dapat lanjut seleksi jika bersedia membatalkan pencalonan Tugas Belajar Mandiri setelah dinyatakan lulus seleksi perguruan tinggi."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi persyaratan Tugas Belajar Dibiayai menyebut pegawai tidak sedang menjalani atau dicalonkan pada program Tugas Belajar Dibiayai lain dan/atau program Tugas Belajar Mandiri Diberhentikan. Materi juga mensyaratkan pegawai tidak pernah dibatalkan atau dihentikan tugas belajarnya sesuai ketentuan peraturan perundang-undangan dalam waktu 2 tahun terakhir.\n\nOpsi B keliru karena materi menggunakan frasa sedang menjalani atau dicalonkan, bukan hanya sudah menerima beasiswa.\n\nOpsi C keliru karena ketentuan tidak pernah dibatalkan atau dihentikan dalam 2 tahun terakhir berdiri sendiri dan tidak hanya terkait jenjang yang sama.\n\nOpsi D keliru karena materi tidak menyebut pembatalan setelah lulus seleksi perguruan tinggi sebagai cara memenuhi persyaratan status tugas belajar.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 9/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 9,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang PNS mengajukan Tugas Belajar Dibiayai di perguruan tinggi dalam negeri. Program studi yang dipilih sesuai rencana kebutuhan tugas belajar, tetapi akreditasi program studi masih C. Perguruan tinggi tersebut juga belum berakreditasi unggul atau A dan bukan perguruan tinggi kedinasan. PNS tersebut berpendapat hal itu dapat diperbaiki setelah kuliah berjalan. Penilaian manakah yang paling tepat?",
+        "answer": "Usulan belum memenuhi syarat karena untuk perguruan tinggi dalam negeri, program studi harus memiliki akreditasi paling rendah baik sekali atau B, dan perguruan tinggi harus berakreditasi unggul atau A atau tergolong perguruan tinggi kedinasan.",
+        "options": [
+          "Usulan dapat diterima karena selama program studi sesuai rencana kebutuhan tugas belajar, akreditasi program studi dan perguruan tinggi tidak menjadi persyaratan.",
+          "Usulan dapat diterima jika PNS menandatangani surat pernyataan bersedia pindah program studi setelah semester pertama.",
+          "Usulan hanya perlu memenuhi persyaratan umum Kementerian Pendidikan, sedangkan syarat akreditasi tidak berlaku untuk perguruan tinggi dalam negeri.",
+          "Usulan belum memenuhi syarat karena untuk perguruan tinggi dalam negeri, program studi harus memiliki akreditasi paling rendah baik sekali atau B, dan perguruan tinggi harus berakreditasi unggul atau A atau tergolong perguruan tinggi kedinasan."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi persyaratan Tugas Belajar Dibiayai menyebut program studi harus sesuai Rencana Kebutuhan TB. Khusus perguruan tinggi dalam negeri, program studi harus memiliki akreditasi paling rendah baik sekali atau B, dan perguruan tinggi berkenaan harus memiliki akreditasi unggul atau A atau tergolong perguruan tinggi kedinasan.\n\nOpsi A keliru karena kesesuaian dengan Rencana Kebutuhan TB bukan satu-satunya syarat program studi dan perguruan tinggi.\n\nOpsi B keliru karena materi tidak menyebut mekanisme memperbaiki ketidaksesuaian akreditasi setelah semester pertama sebagai pemenuhan syarat.\n\nOpsi C keliru karena materi secara khusus memuat syarat akreditasi untuk perguruan tinggi dalam negeri.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 10/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 10,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Lina menjalani Tugas Belajar Dibiayai Tidak Diberhentikan. Ia bertanya kepada pengelola kepegawaian apakah tetap memperoleh tunjangan, masa kerja, dan hak pegawai aktif. Ia juga ingin tahu apakah dapat memperoleh waktu bebas tugas untuk perkuliahan tatap muka. Pengelola harus membedakan haknya dari Tugas Belajar Dibiayai Diberhentikan. Jawaban manakah yang paling tepat?",
+        "answer": "Lina diberikan gaji sesuai ketentuan, 100% dari total tunjangan kinerja dan/atau tunjangan lain yang melekat pada jabatan, masa kerja diperhitungkan penuh dan dapat mengurangi masa ikatan dinas sebelumnya, serta untuk jenis tidak diberhentikan dapat diberikan seluruh hak pegawai aktif, waktu bebas tugas dengan izin, bantuan biaya perjalanan dinas untuk perkuliahan tatap muka, dan program pengembangan.",
+        "options": [
+          "Lina hanya menerima 75% tunjangan dan tidak mendapat hak pegawai aktif karena semua tugas belajar dibiayai diperlakukan sama.",
+          "Lina diberikan gaji sesuai ketentuan, 100% dari total tunjangan kinerja dan/atau tunjangan lain yang melekat pada jabatan, masa kerja diperhitungkan penuh dan dapat mengurangi masa ikatan dinas sebelumnya, serta untuk jenis tidak diberhentikan dapat diberikan seluruh hak pegawai aktif, waktu bebas tugas dengan izin, bantuan biaya perjalanan dinas untuk perkuliahan tatap muka, dan program pengembangan.",
+          "Lina tidak dapat dievaluasi kinerjanya selama menjalani tugas belajar karena status akademik menggantikan status kepegawaiannya.",
+          "Lina memperoleh 0% tunjangan sejak awal masa studi dan baru menerima tunjangan kembali setelah laporan selesai studi disetujui."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi hak PNS Tugas Belajar Dibiayai Tidak Diberhentikan menyebut gaji diberikan sesuai ketentuan, tunjangan diberikan 100%, masa kerja diperhitungkan penuh dan dapat mengurangi masa ikatan dinas sebelumnya, serta ada hak lain seperti seluruh hak pegawai aktif, waktu bebas tugas dengan izin, bantuan biaya perjalanan dinas untuk perkuliahan tatap muka, dan program pengembangan.\n\nOpsi A keliru karena tunjangan 75% berlaku untuk Tugas Belajar Dibiayai Diberhentikan, bukan Tidak Diberhentikan.\n\nOpsi C keliru karena materi menyebut evaluasi kinerja pegawai tetap dilakukan sesuai ketentuan peraturan.\n\nOpsi D keliru karena 0% tunjangan disebut pada konteks perpanjangan untuk Tugas Belajar Dibiayai Diberhentikan, bukan sejak awal masa studi pada Tugas Belajar Dibiayai Tidak Diberhentikan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 11/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 11,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Doni menjalani Tugas Belajar Dibiayai dan menerima pengingat kewajiban dari unitnya. Ia mengira selama studi tidak perlu responsif terhadap penugasan organisasi dan tidak perlu memperbarui data korespondensi. Ia juga belum memahami batas waktu Laporan Selesai Studi. Pengelola tugas belajar ingin memberi daftar kewajiban yang paling sesuai materi. Manakah arahan yang benar?",
+        "answer": "Doni wajib melaksanakan tugas belajar dengan tanggung jawab, menyelesaikan tepat waktu, memutakhirkan data dan mengimplementasikan manajemen kinerja, tetap responsif terhadap penugasan, menyampaikan Laporan Perkembangan Studi, menyampaikan Laporan Selesai Studi paling lama 15 hari kerja setelah surat tugas belajar selesai atau setelah tanggal kelulusan jika lebih cepat, memutakhirkan alamat korespondensi, menjaga nama baik Kementerian Keuangan dan Pemerintah RI, mematuhi ketentuan, serta menyelesaikan administrasi SPT, LHKPN, dan/atau ALPHA setiap tahun.",
+        "options": [
+          "Doni hanya wajib kuliah tepat waktu dan kewajiban SPT, LHKPN, atau ALPHA ditunda sampai kembali bekerja.",
+          "Doni tidak perlu menyampaikan Laporan Perkembangan Studi karena laporan hanya disampaikan saat selesai studi.",
+          "Doni wajib melaksanakan tugas belajar dengan tanggung jawab, menyelesaikan tepat waktu, memutakhirkan data dan mengimplementasikan manajemen kinerja, tetap responsif terhadap penugasan, menyampaikan Laporan Perkembangan Studi, menyampaikan Laporan Selesai Studi paling lama 15 hari kerja setelah surat tugas belajar selesai atau setelah tanggal kelulusan jika lebih cepat, memutakhirkan alamat korespondensi, menjaga nama baik Kementerian Keuangan dan Pemerintah RI, mematuhi ketentuan, serta menyelesaikan administrasi SPT, LHKPN, dan/atau ALPHA setiap tahun.",
+          "Doni hanya wajib memenuhi ketentuan perguruan tinggi karena status tugas belajar menghapus kewajiban sebagai pegawai."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi kewajiban PNS Tugas Belajar Dibiayai merinci kewajiban tugas dan kinerja, laporan studi, dan kewajiban lain. Materi menyebut kewajiban seperti melaksanakan tugas belajar dengan tanggung jawab, menyelesaikan tepat waktu, memutakhirkan data dan manajemen kinerja, tetap responsif, menyampaikan laporan perkembangan dan selesai studi, memutakhirkan alamat korespondensi, menjaga nama baik, mematuhi ketentuan, serta menyelesaikan administrasi SPT, LHKPN, dan/atau ALPHA setiap tahun.\n\nOpsi A keliru karena kewajiban administrasi SPT, LHKPN, dan/atau ALPHA tetap diselesaikan setiap tahun.\n\nOpsi B keliru karena materi mewajibkan Laporan Perkembangan Studi dan Laporan Selesai Studi.\n\nOpsi D keliru karena PNS tugas belajar tetap memiliki kewajiban sebagai pegawai sesuai materi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 12/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 12,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang PNS DJP ingin mengajukan Tugas Belajar Mandiri untuk program S2 kelas akhir pekan. Ia sudah bekerja lebih dari satu tahun dan memiliki ijazah S1. Ia menanyakan hal-hal yang perlu dipastikan saat pengajuan, termasuk akreditasi, izin PJJ atau kelas khusus, batas waktu permohonan surat tugas, jarak kampus, dan golongan minimal. Petugas memberi arahan berdasarkan materi pengajuan TB Mandiri. Arahan manakah yang paling tepat?",
+        "answer": "Program studi harus sesuai Lampiran PER-10 dengan akreditasi minimal B atau Baik Sekali, PJJ harus memiliki izin dari Kemendikbud-Ristek, tidak diatur golongan minimal, batas waktu permohonan penerbitan surat tugas H-1 bulan atau 5 hari kerja, jarak unit kerja ke kampus maksimal 60 km, dan masa studi mengikuti PMK-34/2024.",
+        "options": [
+          "Program studi harus sesuai Lampiran PER-10 dengan akreditasi minimal B atau Baik Sekali, PJJ harus memiliki izin dari Kemendikbud-Ristek, tidak diatur golongan minimal, batas waktu permohonan penerbitan surat tugas H-1 bulan atau 5 hari kerja, jarak unit kerja ke kampus maksimal 60 km, dan masa studi mengikuti PMK-34/2024.",
+          "Program studi boleh berakreditasi apa pun selama pegawai membiayai sendiri, jarak kampus tidak dibatasi, dan golongan minimal mengikuti jenjang S2 yaitu III/a.",
+          "Batas waktu pengajuan surat tugas selalu H-6 bulan, sedangkan izin PJJ tidak diperlukan jika kuliah dilakukan pada akhir pekan.",
+          "Tugas Belajar Mandiri tidak memerlukan kesesuaian program studi karena tidak menggunakan pembiayaan negara."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi hal yang perlu dipastikan saat pengajuan TB Mandiri memuat program studi sesuai Lampiran PER-10 dengan akreditasi minimal B atau Baik Sekali, PJJ harus ada izin dari Kemendikbud-Ristek, tidak diatur golongan minimal, batas waktu permohonan penerbitan surat tugas H-1 bulan atau 5 hari kerja, jarak unit kerja ke kampus maksimal 60 km, dan masa studi sesuai PMK-34/2024.\n\nOpsi B keliru karena materi tetap memuat syarat akreditasi dan jarak maksimal, serta menyebut tidak diatur golongan minimal.\n\nOpsi C keliru karena batas waktu yang disebut materi adalah H-1 bulan atau 5 hari kerja, dan PJJ harus memiliki izin.\n\nOpsi D keliru karena materi tetap mensyaratkan program studi sesuai ketentuan meskipun pembiayaan dilakukan secara mandiri.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 13/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 13,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Rosa lulus seleksi administrasi Tugas Belajar Mandiri Tidak Diberhentikan untuk jenjang S1/DIV. Ia bertanya berapa masa studi yang dapat dipertimbangkan dalam surat tugas. Ia juga mendengar ada kemungkinan program pengembangan sebelum seleksi perguruan tinggi. Pengelola tugas belajar harus menjelaskan ketentuan masa studi dan persiapan sesuai materi. Jawaban manakah yang paling tepat?",
+        "answer": "Pegawai yang lulus seleksi administrasi dapat diberikan program pengembangan oleh UPTB untuk persiapan seleksi perguruan tinggi, dan masa studi Tugas Belajar Mandiri Tidak Diberhentikan mempertimbangkan masa pendidikan normatif paling lama 6 tahun untuk S1/DIV serta masa matrikulasi dan/atau orientasi jika diperlukan.",
+        "options": [
+          "Masa studi S1/DIV paling lama 4 tahun dan tidak dapat ditambah masa matrikulasi atau orientasi.",
+          "Pegawai yang lulus seleksi administrasi dapat diberikan program pengembangan oleh UPTB untuk persiapan seleksi perguruan tinggi, dan masa studi Tugas Belajar Mandiri Tidak Diberhentikan mempertimbangkan masa pendidikan normatif paling lama 6 tahun untuk S1/DIV serta masa matrikulasi dan/atau orientasi jika diperlukan.",
+          "Masa studi S1/DIV paling lama 3 tahun dan program pengembangan hanya diberikan setelah pegawai selesai studi.",
+          "Masa studi Tugas Belajar Mandiri Tidak Diberhentikan tidak diatur karena pegawai tetap aktif bekerja pada jabatannya."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi menyebut pegawai yang lulus seleksi administrasi dapat diberikan program pengembangan oleh UPTB dalam rangka persiapan mengikuti seleksi perguruan tinggi. Materi juga menyebut masa studi Tugas Belajar Mandiri Tidak Diberhentikan mempertimbangkan masa pendidikan normatif program studi paling lama 6 tahun untuk jenjang S1/DIV dan masa matrikulasi dan/atau orientasi jika diperlukan.\n\nOpsi A keliru karena 4 tahun adalah masa normatif paling lama untuk DIII, bukan S1/DIV, dan materi memungkinkan pertimbangan masa matrikulasi atau orientasi jika diperlukan.\n\nOpsi C keliru karena 3 tahun adalah masa normatif paling lama untuk S2, bukan S1/DIV, dan program pengembangan diberikan dalam rangka persiapan seleksi perguruan tinggi.\n\nOpsi D keliru karena materi mengatur masa studi Tugas Belajar Mandiri Tidak Diberhentikan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 14/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 14,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Bayu menjalani Tugas Belajar Mandiri Diberhentikan. Ia ingin memastikan hak tunjangan, masa kerja, perpanjangan studi, dan kemungkinan cuti perkuliahan. Ia juga bertanya apakah tetap harus menyampaikan laporan studi dan mematuhi ketentuan sebagai PNS maupun mahasiswa. Petugas kepegawaian harus menjawab sesuai materi. Pilihan manakah yang paling tepat?",
+        "answer": "Pegawai Tugas Belajar Mandiri memiliki hak gaji dan tunjangan penuh, tetapi khusus yang diberhentikan tunjangannya sebesar 50%; masa kerja dihitung penuh dan bagi yang tidak diberhentikan dapat mengurangi masa ikatan dinas sebelumnya; perpanjangan studi paling lama 2 semester atau 1 tahun; dapat mengajukan cuti perkuliahan; dan tetap wajib melaksanakan tugas belajar dengan tanggung jawab, menyelesaikan tepat waktu, memutakhirkan data, mematuhi ketentuan, menjaga nama baik, menyampaikan laporan perkembangan dan laporan selesai studi.",
+        "options": [
+          "Bayu memperoleh tunjangan penuh, tidak memiliki batas perpanjangan studi, dan tidak wajib menyampaikan Laporan Perkembangan Studi.",
+          "Bayu tidak memperoleh gaji maupun tunjangan apa pun karena menjalani tugas belajar secara mandiri.",
+          "Bayu hanya wajib mematuhi ketentuan kampus dan tidak perlu menjaga nama baik Kementerian Keuangan selama diberhentikan dari jabatan.",
+          "Pegawai Tugas Belajar Mandiri memiliki hak gaji dan tunjangan penuh, tetapi khusus yang diberhentikan tunjangannya sebesar 50%; masa kerja dihitung penuh dan bagi yang tidak diberhentikan dapat mengurangi masa ikatan dinas sebelumnya; perpanjangan studi paling lama 2 semester atau 1 tahun; dapat mengajukan cuti perkuliahan; dan tetap wajib melaksanakan tugas belajar dengan tanggung jawab, menyelesaikan tepat waktu, memutakhirkan data, mematuhi ketentuan, menjaga nama baik, menyampaikan laporan perkembangan dan laporan selesai studi."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi hak Pegawai Tugas Belajar Mandiri menyebut gaji dan tunjangan penuh, khusus Tugas Belajar Mandiri Diberhentikan tunjangan sebesar 50%, evaluasi kinerja sesuai ketentuan, masa kerja dihitung penuh, kenaikan pangkat dan grading, perpanjangan studi paling lama 2 semester atau 1 tahun, serta dapat mengajukan cuti perkuliahan. Materi juga memuat kewajiban seperti melaksanakan tugas belajar dengan tanggung jawab, menyelesaikan tepat waktu, memutakhirkan alamat korespondensi dan data, mematuhi ketentuan, menjaga nama baik Kementerian Keuangan, menyampaikan Laporan Perkembangan Studi, dan Laporan Selesai Studi.\n\nOpsi A keliru karena khusus Tugas Belajar Mandiri Diberhentikan tunjangannya sebesar 50% dan tetap ada kewajiban laporan.\n\nOpsi B keliru karena materi tetap menyebut gaji dan tunjangan penuh dengan pengecualian khusus tunjangan 50% bagi yang diberhentikan.\n\nOpsi C keliru karena kewajiban menjaga kehormatan dan nama baik Kementerian Keuangan tetap disebut dalam materi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 15/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 15,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Unit kepegawaian sedang menempatkan uraian tugas beberapa jabatan pelaksana umum. Seorang pegawai bertugas memberi bimbingan, konsultasi, analisis, dan pengawasan terhadap wajib pajak untuk menggali potensi penerimaan negara di bidang perpajakan. Pegawai lain bertugas menelaah permohonan keberatan dan pengurangan atau penghapusan sanksi administrasi. Kepala unit ingin memastikan nama jabatan masing-masing sesuai materi. Pasangan jabatan manakah yang tepat?",
+        "answer": "Pegawai pertama adalah Account Representative dan pegawai kedua adalah Penelaah Keberatan.",
+        "options": [
+          "Pegawai pertama adalah Penelaah Keberatan dan pegawai kedua adalah Account Representative.",
+          "Pegawai pertama adalah Pengadministrasi Perkantoran dan pegawai kedua adalah Penata Layanan Operasional.",
+          "Pegawai pertama adalah Account Representative dan pegawai kedua adalah Penelaah Keberatan.",
+          "Pegawai pertama adalah Juru Sita Keuangan Negara dan pegawai kedua adalah Penilai Aset."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi mendefinisikan Account Representative sebagai Jabatan Pelaksana yang melaksanakan pemberian bimbingan, konsultasi, analisis, dan pengawasan terhadap wajib pajak untuk menggali potensi penerimaan negara di bidang perpajakan. Materi juga mendefinisikan Penelaah Keberatan sebagai Jabatan Pelaksana yang melaksanakan penelaahan terhadap permohonan keberatan, pengurangan atau penghapusan sanksi administrasi, serta pengurangan atau pembatalan ketetapan pajak yang tidak benar.\n\nOpsi A keliru karena kedua jabatan tersebut tertukar.\n\nOpsi B keliru karena Pengadministrasi Perkantoran dan Penata Layanan Operasional memiliki fungsi yang berbeda dari uraian kasus.\n\nOpsi D keliru karena Juru Sita Keuangan Negara dan Penilai Aset tidak sesuai dengan tugas bimbingan wajib pajak maupun penelaahan permohonan keberatan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 16/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 16,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Sebuah tim membahas rekomendasi bagi Pelaksana Umum yang memperoleh Predikat Kinerja Tahunan Kurang selama dua periode evaluasi. Pegawai tersebut sebelumnya belum pernah diturunkan jabatan dan peringkatnya. Pejabat penilai meminta dasar tindakan dalam Sidang Penilaian. Tim juga mengingatkan bahwa predikat yang telah digunakan sebagai dasar tindakan tidak dapat dipakai ulang. Rekomendasi manakah yang paling tepat?",
+        "answer": "Pelaksana Umum direkomendasikan penurunan jabatan dan peringkat 1 tingkat lebih rendah oleh Pejabat Penilai, dan Predikat Kinerja Tahunan yang telah digunakan sebagai dasar penurunan tidak dapat digunakan kembali sebagai bahan Sidang Penilaian berikutnya.",
+        "options": [
+          "Pelaksana Umum direkomendasikan penurunan jabatan dan peringkat 1 tingkat lebih rendah oleh Pejabat Penilai, dan Predikat Kinerja Tahunan yang telah digunakan sebagai dasar penurunan tidak dapat digunakan kembali sebagai bahan Sidang Penilaian berikutnya.",
+          "Pelaksana Umum tetap dalam jabatan dan peringkat karena penurunan hanya berlaku jika predikat Sangat Kurang selama tiga periode evaluasi.",
+          "Pelaksana Umum langsung direkomendasikan penurunan 2 tingkat lebih rendah meskipun belum pernah ditetapkan penurunan sebelumnya.",
+          "Pelaksana Umum tetap dapat menggunakan dua predikat Kurang yang sama untuk Sidang Penilaian berikutnya jika unit masih membutuhkan bahan evaluasi."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut Pelaksana Umum direkomendasikan penurunan jabatan dan peringkat 1 tingkat lebih rendah apabila memiliki Predikat Kinerja Tahunan Kurang atau Sangat Kurang selama 2 periode evaluasi. Materi juga menyatakan Predikat Kinerja Tahunan yang telah digunakan sebagai dasar penurunan jabatan dan peringkat tidak dapat digunakan kembali sebagai bahan Sidang Penilaian berikutnya.\n\nOpsi B keliru karena syarat penurunan dalam materi adalah Kurang atau Sangat Kurang selama 2 periode evaluasi, bukan Sangat Kurang selama tiga periode.\n\nOpsi C keliru karena penurunan 2 tingkat lebih rendah berlaku bagi Pelaksana Umum yang telah ditetapkan penurunan 1 tingkat dan kembali memiliki predikat Kurang atau Sangat Kurang dalam 2 periode evaluasi berikutnya.\n\nOpsi D keliru karena materi melarang penggunaan kembali predikat yang telah digunakan sebagai dasar penurunan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 17/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 17,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang pejabat pelaksana menduduki Jabatan Pelaksana Khusus. Ia telah memenuhi akumulasi masa kerja yang dipersyaratkan dan seluruh Predikat Kinerja Tahunan Pegawai bernilai Baik. Namun, ada pertanyaan mengenai syarat minimum masa kerja pada setiap peringkat jabatan dan kondisi yang membuat pegawai tetap dalam peringkat. Pejabat penilai meminta ringkasan aturan sesuai materi. Pilihan manakah yang paling tepat?",
+        "answer": "Pelaksana Khusus dapat direkomendasikan kenaikan peringkat 1 tingkat jika memenuhi akumulasi masa kerja, seluruh predikat kinerja tahunan bernilai Sangat Baik atau Baik, tidak sedang menjalani hukuman disiplin sedang atau berat, dan tidak sedang cuti di luar tanggungan negara; akumulasi masa kerja yang dipersyaratkan sekurang-kurangnya 2 tahun pada setiap peringkat jabatan kecuali jabatan yang memberi dukungan kepada Menteri atau Wakil Menteri, sedangkan tetap dalam peringkat dapat terjadi jika tidak memenuhi syarat kenaikan, sudah memiliki peringkat tertinggi, melebihi peringkat sesuai akumulasi masa kerja, atau pendidikannya tidak sesuai syarat penetapan pertama.",
+        "options": [
+          "Pelaksana Khusus dapat naik peringkat jika memiliki masa kerja 1 tahun pada setiap peringkat dan tidak perlu memperhatikan hukuman disiplin atau cuti di luar tanggungan negara.",
+          "Sidang Penilaian bagi Pelaksana Khusus dilaksanakan terpisah dari Pelaksana Umum dan tidak mengikuti waktu pelaksanaan Sidang Penilaian Pelaksana Umum.",
+          "Pelaksana Khusus selalu naik peringkat jika Predikat Kinerja Tahunan terakhir Baik, walaupun sudah memiliki peringkat tertinggi sesuai tugas jabatannya.",
+          "Pelaksana Khusus dapat direkomendasikan kenaikan peringkat 1 tingkat jika memenuhi akumulasi masa kerja, seluruh predikat kinerja tahunan bernilai Sangat Baik atau Baik, tidak sedang menjalani hukuman disiplin sedang atau berat, dan tidak sedang cuti di luar tanggungan negara; akumulasi masa kerja yang dipersyaratkan sekurang-kurangnya 2 tahun pada setiap peringkat jabatan kecuali jabatan yang memberi dukungan kepada Menteri atau Wakil Menteri, sedangkan tetap dalam peringkat dapat terjadi jika tidak memenuhi syarat kenaikan, sudah memiliki peringkat tertinggi, melebihi peringkat sesuai akumulasi masa kerja, atau pendidikannya tidak sesuai syarat penetapan pertama."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi Sidang Penilaian bagi Pelaksana Khusus menyebut kriteria kenaikan peringkat 1 tingkat lebih tinggi, termasuk memenuhi akumulasi masa kerja, seluruh Predikat Kinerja Tahunan Sangat Baik atau Baik, tidak sedang menjalani hukuman disiplin sedang atau berat, dan tidak sedang cuti di luar tanggungan negara. Materi juga menyebut akumulasi masa kerja sekurang-kurangnya 2 tahun pada setiap peringkat jabatan, kecuali jabatan Pelaksana Khusus yang memberi dukungan kepada Menteri atau Wakil Menteri, serta alasan tetap dalam peringkat.\n\nOpsi A keliru karena masa kerja minimal bukan 1 tahun dan syarat hukuman disiplin serta cuti di luar tanggungan negara tetap diperhatikan.\n\nOpsi B keliru karena Sidang Penilaian bagi Pelaksana Khusus diselenggarakan bersamaan dengan Sidang Penilaian bagi Pelaksana Umum.\n\nOpsi C keliru karena predikat Baik saja tidak otomatis menaikkan peringkat jika syarat lain tidak terpenuhi atau pegawai sudah memiliki peringkat tertinggi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 18/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 18,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Seorang PNS dan CPNS di unit yang sama bertanya tentang cuti tahunan dan cuti setengah hari. Keduanya baru bekerja terus-menerus selama 14 bulan. Salah satu pegawai ingin mengambil cuti setengah hari pagi dan tetap berharap memperoleh uang makan serta menggunakan flexy time. Petugas kepegawaian harus menjelaskan hak dan konsekuensi sesuai materi. Jawaban manakah yang paling tepat?",
+        "answer": "Cuti tahunan merupakan hak PNS dan CPNS yang telah bekerja paling kurang 1 tahun terus-menerus dengan kuota 12 hari per tahun; cuti setengah hari pagi mengharuskan datang paling lambat 12.30 dan pulang paling cepat 17.00, cuti setengah hari siang mengharuskan datang paling lambat 07.30 dan pulang paling cepat 12.00, serta pegawai tidak berhak atas uang makan dan lembur dan tidak berlaku flexy time.",
+        "options": [
+          "Cuti tahunan hanya hak PNS setelah bekerja 5 tahun, sedangkan CPNS tidak memiliki hak cuti tahunan.",
+          "Cuti setengah hari pagi memperbolehkan pegawai datang paling lambat 13.00 dan tetap berhak uang makan karena masih bekerja setengah hari.",
+          "Cuti tahunan merupakan hak PNS dan CPNS yang telah bekerja paling kurang 1 tahun terus-menerus dengan kuota 12 hari per tahun; cuti setengah hari pagi mengharuskan datang paling lambat 12.30 dan pulang paling cepat 17.00, cuti setengah hari siang mengharuskan datang paling lambat 07.30 dan pulang paling cepat 12.00, serta pegawai tidak berhak atas uang makan dan lembur dan tidak berlaku flexy time.",
+          "Cuti tahunan hanya dapat digunakan untuk alasan keluarga, sedangkan alasan lain harus memakai cuti karena alasan penting."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut cuti tahunan adalah hak bagi PNS dan CPNS yang telah bekerja paling kurang 1 tahun secara terus-menerus, dengan kuota cuti 12 hari per tahun. Materi juga mengatur cuti setengah hari pagi dan siang, serta menyebut pegawai tidak berhak atas uang makan dan lembur dan tidak berlaku flexy time.\n\nOpsi A keliru karena cuti tahunan berlaku bagi PNS dan CPNS yang telah bekerja paling kurang 1 tahun terus-menerus, bukan 5 tahun.\n\nOpsi B keliru karena batas datang cuti setengah hari pagi adalah paling lambat 12.30, serta pegawai tidak berhak atas uang makan dan lembur.\n\nOpsi D keliru karena materi menyebut cuti tahunan dapat digunakan untuk alasan apa pun.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 19/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 19,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket B",
+        "question": "Pegawai laki-laki ingin mendampingi istrinya melahirkan melalui operasi sesar. Di unit yang sama, pegawai lain perlu mengurus hak-hak salah satu anggota keluarga yang meninggal dunia. Keduanya bertanya apakah dapat mengajukan cuti karena alasan penting dan dokumen apa yang relevan. Petugas kepegawaian harus memberi arahan berdasarkan kriteria dan dokumen CAP dalam materi. Arahan manakah yang paling tepat?",
+        "answer": "Keduanya termasuk kriteria cuti karena alasan penting; pegawai laki-laki yang mendampingi istri melahirkan melampirkan Surat Keterangan Rawat Inap dari Unit Pelayanan Kesehatan, sedangkan mengurus hak-hak anggota keluarga yang meninggal dunia melampirkan Surat Keterangan Ahli Waris paling rendah dari Lurah atau Kepala Desa setempat.",
+        "options": [
+          "Mendampingi istri melahirkan tidak termasuk cuti karena alasan penting, sedangkan mengurus hak anggota keluarga meninggal cukup memakai surat pernyataan pribadi.",
+          "Keduanya termasuk kriteria cuti karena alasan penting; pegawai laki-laki yang mendampingi istri melahirkan melampirkan Surat Keterangan Rawat Inap dari Unit Pelayanan Kesehatan, sedangkan mengurus hak-hak anggota keluarga yang meninggal dunia melampirkan Surat Keterangan Ahli Waris paling rendah dari Lurah atau Kepala Desa setempat.",
+          "Keduanya harus menggunakan cuti besar karena cuti karena alasan penting hanya untuk pegawai yang melangsungkan perkawinan.",
+          "Cuti karena alasan penting tidak berlaku bagi CPNS dan tidak memiliki kuota pemberian dalam materi."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi kriteria cuti karena alasan penting mencantumkan pegawai laki-laki yang mendampingi istri melahirkan baik normal maupun operasi sesar dengan dokumen Surat Keterangan Rawat Inap dari Unit Pelayanan Kesehatan. Materi juga mencantumkan kegiatan mengurus hak-hak salah satu anggota keluarga yang meninggal dunia dengan dokumen Surat Keterangan Ahli Waris paling rendah dari Lurah atau Kepala Desa setempat.\n\nOpsi A keliru karena mendampingi istri melahirkan termasuk kriteria cuti karena alasan penting dan dokumen untuk mengurus hak anggota keluarga meninggal bukan surat pernyataan pribadi.\n\nOpsi C keliru karena kedua keadaan tersebut tercantum dalam cuti karena alasan penting, bukan cuti besar.\n\nOpsi D keliru karena materi menyebut cuti karena alasan penting berlaku juga bagi CPNS dan kuota pemberian 1 bulan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket B soal 20/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-b",
+          "label": "B",
+          "order": 1,
+          "questionNumber": 20,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kepegawaian-studi-kasus-paket-c",
+    "categoryId": "kepegawaian",
+    "name": "PEG (Studi Kasus) Paket C",
+    "sourceTitle": "Kepegawaian.pdf",
+    "sourceUrl": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+    "packageLabel": "C",
+    "packageIndex": 2,
+    "questions": [
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Dalam rapat pembinaan ASN, kepala seksi meminta staf menyusun bahan singkat tentang asas dan nilai dasar. Seorang staf mencampuradukkan asas penyelenggaraan ASN dengan core values ASN. Ia memasukkan Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif sebagai nilai dasar yang harus dipahami peserta. Kepala seksi juga meminta contoh asas seperti kepastian hukum, profesionalitas, dan netralitas tetap diletakkan pada kelompok yang tepat. Susunan manakah yang paling tepat?",
+        "answer": "Kepastian hukum, profesionalitas, proporsionalitas, keterpaduan, pendelegasian, netralitas, akuntabilitas, efektifitas dan efisiensi, keterbukaan, nondiskriminatif, persatuan dan kesatuan, keadilan dan kesetaraan, serta kesejahteraan ditempatkan sebagai asas; Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif ditempatkan sebagai nilai dasar.",
+        "options": [
+          "Kepastian hukum, profesionalitas, proporsionalitas, keterpaduan, pendelegasian, netralitas, akuntabilitas, efektifitas dan efisiensi, keterbukaan, nondiskriminatif, persatuan dan kesatuan, keadilan dan kesetaraan, serta kesejahteraan ditempatkan sebagai asas; Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif ditempatkan sebagai nilai dasar.",
+          "Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif ditempatkan sebagai asas, sedangkan kepastian hukum dan profesionalitas ditempatkan sebagai fungsi ASN.",
+          "Kepastian hukum, profesionalitas, netralitas, dan kesejahteraan ditempatkan sebagai kewajiban pegawai, sedangkan nilai dasar ASN hanya terdiri dari akuntabilitas dan efektifitas.",
+          "Semua unsur yang disebut dalam materi digabung sebagai jenis jabatan ASN karena dipakai untuk menentukan kedudukan pegawai dalam organisasi."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menampilkan kelompok asas seperti kepastian hukum, profesionalitas, proporsionalitas, keterpaduan, pendelegasian, netralitas, akuntabilitas, efektifitas dan efisiensi, keterbukaan, nondiskriminatif, persatuan dan kesatuan, keadilan dan kesetaraan, serta kesejahteraan. Materi juga menampilkan nilai dasar Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif.\n\nOpsi B keliru karena Berorientasi Pelayanan sampai Kolaboratif berada pada kelompok nilai dasar, bukan asas penyelenggaraan ASN.\n\nOpsi C keliru karena asas seperti kepastian hukum dan profesionalitas tidak dipindahkan menjadi kewajiban pegawai, dan nilai dasar tidak hanya terdiri dari akuntabilitas dan efektifitas.\n\nOpsi D keliru karena asas dan nilai dasar bukan jenis jabatan ASN.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 1/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 1,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Bagian organisasi sedang menyusun daftar jabatan untuk bahan orientasi CPNS. Dalam daftar itu terdapat Jabatan Pimpinan Tinggi Utama, Jabatan Administrator, Jabatan Pengawas, Jabatan Fungsional, dan Jabatan Pelaksana. Seorang peserta menanyakan mana yang termasuk jabatan manajerial dan mana yang masuk nonmanajerial. Fasilitator harus menjawab sesuai pengelompokan dalam materi. Jawaban manakah yang paling tepat?",
+        "answer": "Jabatan Pimpinan Tinggi Utama, Madya, Pratama, Jabatan Administrator, dan Jabatan Pengawas termasuk kelompok Jabatan PNS yang bersifat manajerial, sedangkan Jabatan Fungsional dan Jabatan Pelaksana berada pada kelompok nonmanajerial.",
+        "options": [
+          "Jabatan Fungsional dan Jabatan Pelaksana merupakan jabatan manajerial, sedangkan Jabatan Pimpinan Tinggi, Administrator, dan Pengawas merupakan jabatan nonmanajerial.",
+          "Semua jabatan PNS merupakan jabatan manajerial karena seluruhnya berada dalam organisasi pemerintah.",
+          "Jabatan Pimpinan Tinggi Utama, Madya, dan Pratama saja yang termasuk jabatan PNS, sedangkan Administrator, Pengawas, Fungsional, dan Pelaksana tidak termasuk.",
+          "Jabatan Pimpinan Tinggi Utama, Madya, Pratama, Jabatan Administrator, dan Jabatan Pengawas termasuk kelompok Jabatan PNS yang bersifat manajerial, sedangkan Jabatan Fungsional dan Jabatan Pelaksana berada pada kelompok nonmanajerial."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menampilkan Jabatan PNS yang mencakup Jabatan Pimpinan Tinggi Utama, Madya, Pratama, Jabatan Administrator, dan Jabatan Pengawas, serta menampilkan Jabatan Fungsional dan Jabatan Pelaksana sebagai kelompok jabatan lain. Dalam konteks batas usia pensiun, materi juga membedakan Jabatan Manajerial dan Jabatan NonManajerial dengan Pejabat Fungsional dan Pejabat Pelaksana pada kelompok nonmanajerial.\n\nOpsi A keliru karena Jabatan Fungsional dan Jabatan Pelaksana tidak diposisikan sebagai jabatan manajerial dalam pembagian tersebut.\n\nOpsi B keliru karena materi membedakan jabatan manajerial dan nonmanajerial.\n\nOpsi C keliru karena Administrator, Pengawas, Fungsional, dan Pelaksana juga disebut dalam materi jabatan PNS.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 2/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 2,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Unit kepegawaian menerima pertanyaan dari pegawai PPPK tentang data apa saja yang muncul melalui QR code pada Kartu ASN Virtual. Pegawai itu mengira QR code hanya berisi nomor seri kartu. Petugas mengecek materi dan menemukan bahwa QR code memuat beberapa informasi identitas dan status. Petugas perlu memberikan penjelasan yang lengkap tetapi tetap sesuai sumber. Informasi manakah yang paling tepat dijelaskan sebagai isi QR code?",
+        "answer": "Nama Aparatur Sipil Negara, NIP atau Nomor Induk PPPK, TMT PNS atau tanggal awal perjanjian kerja PPPK, instansi kerja, status kepegawaian, nomor seri Kartu ASN Virtual, dan tanggal penerbitan Kartu ASN Virtual.",
+        "options": [
+          "Hanya nama ASN dan foto pegawai karena informasi lain disimpan terpisah di aplikasi unit kerja.",
+          "Nama Aparatur Sipil Negara, NIP atau Nomor Induk PPPK, TMT PNS atau tanggal awal perjanjian kerja PPPK, instansi kerja, status kepegawaian, nomor seri Kartu ASN Virtual, dan tanggal penerbitan Kartu ASN Virtual.",
+          "Daftar riwayat jabatan, riwayat hukuman disiplin, seluruh nilai SKP, dan data keluarga pegawai.",
+          "Hanya NIP atau Nomor Induk PPPK dan tanda tangan pejabat pembina kepegawaian."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi Kartu ASN Virtual menyebut QR code berisi nama ASN, NIP atau Nomor Induk PPPK, TMT PNS atau tanggal awal perjanjian kerja PPPK, instansi kerja, status kepegawaian, nomor seri Kartu ASN Virtual, dan tanggal penerbitan Kartu ASN Virtual.\n\nOpsi A keliru karena QR code tidak hanya berisi nama dan foto.\n\nOpsi C keliru karena materi tidak menyebut QR code berisi riwayat jabatan, hukuman disiplin, seluruh nilai SKP, atau data keluarga.\n\nOpsi D keliru karena informasi dalam QR code lebih luas dari NIP atau Nomor Induk PPPK dan tidak disebut memuat tanda tangan pejabat pembina kepegawaian.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 3/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 3,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang ASN telah membuat Laporan Perkawinan dan ingin memahami alur pembuatan KARIS/KARSU ASN Virtual. Ia bertanya apakah setelah input di SIKKA seluruh proses selesai otomatis. Petugas menjelaskan bahwa pegawai, UPK Lokal, dan UPK Wilayah/Pusat memiliki peran berurutan. Petugas juga harus menyebut adanya pemutakhiran data keluarga dan peremajaan data pasangan. Alur manakah yang paling tepat?",
+        "answer": "Pegawai menginput Laporan Perkawinan di SIKKA, mencetak laporan dan meminta tanda tangan pejabat minimal Eselon III, lalu melengkapi dokumen dan menyerahkan kepada UPK Lokal; UPK Lokal memverifikasi, menyetujui, memutakhirkan data keluarga pada HRIS Kemenkeu, dan mengirim dokumen digital ke UPK Wilayah/Pusat; UPK Wilayah/Pusat memverifikasi serta melakukan tindak lanjut dan peremajaan data pasangan pada SIASN.",
+        "options": [
+          "Pegawai hanya mengunggah foto di MyASN BKN, lalu Kepala BKN langsung menerbitkan KARIS/KARSU tanpa verifikasi unit.",
+          "UPK Wilayah/Pusat memulai proses dengan menerbitkan laporan perkawinan, lalu pegawai baru mencetak dan meminta tanda tangan pejabat minimal Eselon III.",
+          "Pegawai menginput Laporan Perkawinan di SIKKA, mencetak laporan dan meminta tanda tangan pejabat minimal Eselon III, lalu melengkapi dokumen dan menyerahkan kepada UPK Lokal; UPK Lokal memverifikasi, menyetujui, memutakhirkan data keluarga pada HRIS Kemenkeu, dan mengirim dokumen digital ke UPK Wilayah/Pusat; UPK Wilayah/Pusat memverifikasi serta melakukan tindak lanjut dan peremajaan data pasangan pada SIASN.",
+          "Pegawai cukup menyerahkan dokumen ke UPK Lokal karena laporan tidak perlu diinput di SIKKA."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi prosedur pembuatan KARIS/KARSU ASN Virtual merinci tahapan pegawai, UPK Lokal, dan UPK Wilayah/Pusat. Pegawai menginput Laporan Perkawinan di SIKKA, mencetak laporan, meminta tanda tangan pejabat minimal Eselon III, melengkapi dokumen, dan menyerahkan ke UPK Lokal; UPK Lokal memverifikasi, menyetujui, melakukan pemutakhiran data keluarga pada HRIS Kemenkeu, dan mengirim dokumen digital; UPK Wilayah/Pusat melakukan verifikasi dan peremajaan data pasangan pada SIASN.\n\nOpsi A keliru karena proses KARIS/KARSU dalam materi tidak hanya mengunggah foto di MyASN BKN dan tetap melibatkan verifikasi unit.\n\nOpsi B keliru karena proses diawali pegawai melalui input Laporan Perkawinan di SIKKA, bukan oleh UPK Wilayah/Pusat.\n\nOpsi D keliru karena materi menyebut input Laporan Perkawinan di SIKKA sebagai tahap awal pegawai.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 4/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 4,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Tim penyusun kamus kompetensi teknis di unit SDM sedang membedakan kompetensi yang bersifat umum dan khusus. Mereka memiliki contoh kompetensi manajemen sumber daya manusia di bidang urusan kepegawaian. Mereka juga memiliki contoh analisis jabatan, perencanaan SDM, rekrutmen SDM, evaluasi jabatan, dan analisis beban kerja. Ketua tim meminta klasifikasi sesuai materi. Pilihan manakah yang paling tepat?",
+        "answer": "Kompetensi manajemen sumber daya manusia di bidang urusan kepegawaian merupakan contoh kompetensi umum atau generik, sedangkan analisis jabatan, perencanaan SDM, rekrutmen SDM, evaluasi jabatan, dan analisis beban kerja merupakan contoh kompetensi khusus atau spesifik di bidang urusan kepegawaian.",
+        "options": [
+          "Seluruh contoh tersebut termasuk kompetensi sosial kultural karena menyangkut interaksi pegawai.",
+          "Kompetensi manajemen sumber daya manusia di bidang urusan kepegawaian merupakan kompetensi khusus, sedangkan analisis jabatan dan perencanaan SDM merupakan kompetensi umum.",
+          "Semua contoh tersebut bukan bagian dari Kamus Kompetensi Teknis karena kamus teknis hanya memuat definisi level.",
+          "Kompetensi manajemen sumber daya manusia di bidang urusan kepegawaian merupakan contoh kompetensi umum atau generik, sedangkan analisis jabatan, perencanaan SDM, rekrutmen SDM, evaluasi jabatan, dan analisis beban kerja merupakan contoh kompetensi khusus atau spesifik di bidang urusan kepegawaian."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi Kamus Kompetensi Teknis membedakan kompetensi yang bersifat umum atau generik dan khusus atau spesifik. Materi memberi contoh kompetensi manajemen sumber daya manusia di bidang urusan kepegawaian sebagai generik, sedangkan analisis jabatan, perencanaan SDM, rekrutmen SDM, evaluasi jabatan, dan analisis beban kerja sebagai kompetensi khusus.\n\nOpsi A keliru karena contoh tersebut berada dalam konteks Kamus Kompetensi Teknis, bukan kompetensi sosial kultural.\n\nOpsi B keliru karena klasifikasi umum dan khususnya tertukar.\n\nOpsi C keliru karena Kamus Kompetensi Teknis berisi daftar jenis, definisi, deskripsi, dan indikator perilaku untuk setiap level kompetensi teknis.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 5/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 5,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang pejabat pengawas menangani layanan pada wilayah kerja yang masyarakatnya sangat beragam. Ia meminta bawahannya menjaga keterbukaan, peka terhadap perbedaan individu dan kelompok, serta membantu membangun hubungan sosial psikologis antara ASN, masyarakat, dan pemangku kepentingan. Bawahan bertanya kompetensi apa yang sedang ditekankan oleh atasan. Materi kepegawaian menjelaskan kompetensi ini berkaitan dengan pengalaman berinteraksi dengan masyarakat majemuk. Kompetensi apakah yang paling tepat?",
+        "answer": "Kompetensi sosial kultural.",
+        "options": [
+          "Kompetensi sosial kultural.",
+          "Kompetensi teknis jabatan.",
+          "Kompetensi pengadaan barang dan jasa.",
+          "Kompetensi pengelolaan anggaran."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menjelaskan kompetensi sosial kultural sebagai pengetahuan, keterampilan, dan sikap atau perilaku yang dapat diamati, diukur, dan dikembangkan terkait pengalaman berinteraksi dengan masyarakat majemuk. Materi juga memuat kemampuan mempromosikan toleransi, keterbukaan, peka terhadap perbedaan, dan membangun hubungan sosial psikologis.\n\nOpsi B keliru karena kompetensi teknis berkaitan spesifik dengan bidang teknis jabatan, bukan fokus utama pada masyarakat majemuk dan toleransi.\n\nOpsi C keliru karena pengadaan barang dan jasa tidak disebut sebagai klasifikasi kompetensi dalam kasus tersebut.\n\nOpsi D keliru karena pengelolaan anggaran bukan kompetensi yang digambarkan dalam materi pada konteks interaksi sosial kultural.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 6/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 6,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Unit pengembangan kompetensi ingin menilai apakah pegawai perlu program pembelajaran tambahan. Mereka mulai dari standar kompetensi jabatan, menyusun profil kompetensi pegawai, melakukan pengukuran kompetensi, lalu menggunakan hasilnya untuk pengembangan. Beberapa anggota tim menyebut AC dan SKJ dalam tahapan pengukuran. Kepala unit ingin memastikan alur tersebut sesuai materi. Alur manakah yang paling tepat?",
+        "answer": "Pengembangan kompetensi merupakan upaya pemenuhan kebutuhan kompetensi pegawai berdasarkan standar kompetensi jabatan dan/atau rencana pengembangan karir, dengan alur kamus, profil kompetensi pegawai, pengukuran kompetensi melalui AC atau SKJ, hasil, lalu pengembangan kompetensi.",
+        "options": [
+          "Pengembangan kompetensi dimulai dari hasil pembelajaran, lalu baru menyusun kamus kompetensi tanpa perlu standar kompetensi jabatan.",
+          "Profil kompetensi pegawai hanya digunakan setelah pegawai menyelesaikan tugas belajar formal, bukan untuk pengembangan kompetensi umum.",
+          "Pengembangan kompetensi merupakan upaya pemenuhan kebutuhan kompetensi pegawai berdasarkan standar kompetensi jabatan dan/atau rencana pengembangan karir, dengan alur kamus, profil kompetensi pegawai, pengukuran kompetensi melalui AC atau SKJ, hasil, lalu pengembangan kompetensi.",
+          "Pengukuran kompetensi tidak diperlukan karena pengembangan kompetensi selalu didasarkan pada usulan pegawai."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi menyebut pengembangan kompetensi sebagai upaya pemenuhan kebutuhan kompetensi pegawai berdasarkan standar kompetensi jabatan dan/atau rencana pengembangan karir. Materi juga menampilkan alur yang mengaitkan kamus, profil kompetensi pegawai, pengukuran kompetensi melalui AC atau SKJ, hasil, dan pengembangan kompetensi.\n\nOpsi A keliru karena alur dalam materi tidak dimulai dari hasil pembelajaran lalu baru menyusun kamus.\n\nOpsi B keliru karena profil kompetensi pegawai berada dalam konteks pengembangan kompetensi, bukan hanya setelah tugas belajar formal.\n\nOpsi D keliru karena materi menampilkan pengukuran kompetensi sebagai bagian dari alur pengembangan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 7/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 7,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "UPK merancang kegiatan pembelajaran untuk pegawai. Sebagian aktivitas dilakukan melalui praktik langsung terintegrasi di tempat kerja. Sebagian aktivitas dilakukan secara kolaboratif dalam komunitas atau bimbingan melalui interaksi dan observasi pihak lain. Aktivitas lainnya dilakukan melalui metode pelatihan di dalam kelas dan di luar kelas. Klasifikasi desain pembelajaran manakah yang paling tepat sesuai materi?",
+        "answer": "Desain pembelajaran mencakup aktivitas terintegrasi di tempat kerja melalui praktik langsung, aktivitas kolaboratif dalam komunitas maupun bimbingan melalui interaksi atau observasi pihak lain, serta aktivitas melalui metode dalam berbagai pelatihan di dalam kelas maupun di luar kelas.",
+        "options": [
+          "Semua aktivitas tersebut harus dimasukkan ke pembelajaran klasikal karena seluruhnya bertujuan meningkatkan kompetensi pegawai.",
+          "Desain pembelajaran mencakup aktivitas terintegrasi di tempat kerja melalui praktik langsung, aktivitas kolaboratif dalam komunitas maupun bimbingan melalui interaksi atau observasi pihak lain, serta aktivitas melalui metode dalam berbagai pelatihan di dalam kelas maupun di luar kelas.",
+          "Aktivitas praktik langsung di tempat kerja tidak termasuk pembelajaran karena tidak menghasilkan sertifikat.",
+          "Pembelajaran di luar kelas tidak dapat masuk desain pembelajaran karena pembelajaran hanya sah jika dilakukan tatap muka di kelas yang sama."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi desain pembelajaran memuat aktivitas pembelajaran terintegrasi di tempat kerja melalui praktik langsung, aktivitas kolaboratif dalam komunitas maupun bimbingan melalui interaksi atau observasi pihak lain, dan aktivitas pembelajaran melalui metode dalam berbagai pelatihan di dalam kelas maupun di luar kelas.\n\nOpsi A keliru karena materi membedakan bentuk aktivitas pembelajaran dan tidak menyebut semuanya harus menjadi pembelajaran klasikal.\n\nOpsi C keliru karena aktivitas praktik langsung di tempat kerja justru disebut dalam desain pembelajaran.\n\nOpsi D keliru karena materi juga memuat pembelajaran nonklasikal dan metode di luar kelas.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 8/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 8,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang analis kinerja diminta menjelaskan level manajemen kinerja di Kementerian Keuangan. Ia menyebut level KEMENKEU-WIDE untuk Menteri dan Wakil Menteri Keuangan. Ia juga menyebut level KEMENKEU-FIVE untuk Pelaksana dan Fungsional setara pelaksana. Peserta pelatihan bertanya apakah kedua contoh tersebut sesuai dengan kerangka dalam materi. Jawaban manakah yang paling tepat?",
+        "answer": "Pernyataan analis benar karena KEMENKEU-WIDE berada pada level Kementerian untuk Menteri dan Wakil Menteri Keuangan, sedangkan KEMENKEU-FIVE mencakup level Pelaksana dan Fungsional setara pelaksana.",
+        "options": [
+          "Pernyataan analis benar karena KEMENKEU-WIDE berada pada level Kementerian untuk Menteri dan Wakil Menteri Keuangan, sedangkan KEMENKEU-FIVE mencakup level Pelaksana dan Fungsional setara pelaksana.",
+          "Pernyataan analis keliru karena KEMENKEU-WIDE hanya berlaku untuk Pelaksana, sedangkan Menteri dan Wakil Menteri berada pada KEMENKEU-FIVE.",
+          "Pernyataan analis keliru karena kerangka manajemen kinerja tidak mengenal pembagian level.",
+          "Pernyataan analis benar hanya untuk KEMENKEU-WIDE, tetapi KEMENKEU-FIVE mencakup Pejabat Pimpinan Tinggi Madya Non Pimpinan UPK."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi kerangka kerja sistem manajemen kinerja menampilkan KEMENKEU-WIDE pada level Kementerian, yaitu Menteri dan Wakil Menteri Keuangan. Materi juga menampilkan KEMENKEU-FIVE sebagai level Pelaksana dan Fungsional setara pelaksana.\n\nOpsi B keliru karena posisi KEMENKEU-WIDE dan KEMENKEU-FIVE tertukar.\n\nOpsi C keliru karena materi secara eksplisit menampilkan pembagian level KEMENKEU-WIDE sampai KEMENKEU-FIVE.\n\nOpsi D keliru karena Pejabat Pimpinan Tinggi Madya Non Pimpinan UPK berada pada level KEMENKEU-ONE, bukan KEMENKEU-FIVE.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 9/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 9,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang pegawai menyusun Indikator Kinerja Individu untuk SKP. Atasan memintanya memastikan indikator mengikuti prinsip SMART-C, memiliki aspek indikator yang tepat, dan diklasifikasikan menurut validitas serta kendali. Pegawai tersebut mengira aspek indikator hanya kuantitas dan kualitas, sedangkan kendali hanya tinggi dan rendah. Atasan meminta koreksi sesuai materi. Koreksi manakah yang paling tepat?",
+        "answer": "Prinsip yang digunakan adalah SMART-C, aspek indikator meliputi kuantitas, kualitas, waktu, dan biaya, validitas IKU/IKI meliputi exact, proxy, dan activity, serta kendali IKU/IKI meliputi high, moderate, dan low.",
+        "options": [
+          "Prinsip yang digunakan adalah SMART tanpa C, aspek indikator hanya kuantitas dan kualitas, validitas hanya exact, dan kendali hanya high.",
+          "Prinsip yang digunakan adalah SMART-C, aspek indikator terdiri dari efektivitas, efisiensi, akuntabilitas, dan transparansi, validitas terdiri dari high, moderate, dan low.",
+          "Prinsip yang digunakan adalah SMART-C, aspek indikator meliputi kuantitas, kualitas, waktu, dan biaya, validitas IKU/IKI meliputi exact, proxy, dan activity, serta kendali IKU/IKI meliputi high, moderate, dan low.",
+          "SMART-C hanya digunakan untuk perjanjian kinerja pimpinan UPK dan tidak digunakan dalam perencanaan kinerja pegawai."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi perencanaan kinerja pegawai menampilkan prinsip SMART-C serta aspek indikator kuantitas, kualitas, waktu, dan biaya. Materi juga menampilkan validitas IKU/IKI berupa exact, proxy, dan activity, serta kendali IKU/IKI berupa high, moderate, dan low.\n\nOpsi A keliru karena materi menggunakan SMART-C dan aspek indikator lebih dari kuantitas dan kualitas.\n\nOpsi B keliru karena efektivitas, efisiensi, akuntabilitas, dan transparansi bukan daftar aspek indikator dalam bagian ini, serta high, moderate, dan low adalah kendali, bukan validitas.\n\nOpsi D keliru karena SMART-C muncul dalam bagian perencanaan kinerja pegawai.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 10/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 10,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Dalam penyusunan peta kinerja, sebuah unit menurunkan sasaran strategis dan IKU secara penuh kepada satu unit di bawahnya. Pada kasus lain, penurunan dilakukan secara parsial kepada dua unit atau lebih di bawahnya. Ada juga IKI yang dirumuskan sendiri oleh pegawai dan bukan hasil penurunan dari level yang lebih tinggi. Tim ingin menggunakan istilah yang tepat dalam materi. Pilihan manakah yang paling tepat?",
+        "answer": "Penurunan penuh disebut metode direct, penurunan parsial kepada dua unit atau lebih disebut metode indirect, sedangkan IKI yang dirumuskan pegawai yang bersangkutan dan bukan hasil penurunan atau penjabaran dari level yang lebih tinggi disebut non cascading.",
+        "options": [
+          "Penurunan penuh kepada satu unit di bawahnya disebut indirect, penurunan parsial kepada dua unit disebut non cascading, dan IKI yang dirumuskan sendiri disebut cascading peta.",
+          "Semua mekanisme tersebut disebut cascading peta karena semua berasal dari proses manajemen kinerja.",
+          "Non cascading adalah penurunan sasaran strategis secara penuh dari pimpinan UPK kepada pegawai.",
+          "Penurunan penuh disebut metode direct, penurunan parsial kepada dua unit atau lebih disebut metode indirect, sedangkan IKI yang dirumuskan pegawai yang bersangkutan dan bukan hasil penurunan atau penjabaran dari level yang lebih tinggi disebut non cascading."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi menjelaskan metode direct sebagai penurunan SS dan/atau IKU secara penuh kepada satu unit atau pegawai atau dua unit/pegawai pada level lebih rendah. Materi juga menjelaskan metode indirect sebagai penurunan secara parsial kepada dua unit atau pegawai atau lebih di bawahnya, dan non cascading sebagai IKI yang dirumuskan pada pegawai yang bersangkutan serta bukan hasil penurunan atau penjabaran dari level lebih tinggi.\n\nOpsi A keliru karena istilah direct, indirect, non cascading, dan cascading peta tertukar.\n\nOpsi B keliru karena tidak semua mekanisme disebut cascading peta.\n\nOpsi C keliru karena non cascading justru bukan hasil penurunan atau penjabaran dari pegawai pada level lebih tinggi.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 11/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 11,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang pegawai mencatat Hasil Kinerja Tambahan dalam dokumen perencanaan kinerja. Ia memasukkan kegiatan squad team, inovasi, dan penugasan lain yang tidak menjadi uraian jabatan utama. Rekannya berpendapat semua itu harus masuk HKU karena dinilai penting oleh pimpinan. Atasan meminta klasifikasi sesuai materi evaluasi kinerja. Manakah pernyataan yang tepat?",
+        "answer": "Squad team, inovasi, dan penugasan lain merupakan tiga bentuk HKT, sedangkan HKU adalah hasil kerja sesuai tugas dan fungsi pegawai berdasarkan hasil dialog kinerja.",
+        "options": [
+          "HKT hanya dapat berupa inovasi, sedangkan squad team dan penugasan lain harus dimasukkan ke perilaku kerja.",
+          "Squad team, inovasi, dan penugasan lain merupakan tiga bentuk HKT, sedangkan HKU adalah hasil kerja sesuai tugas dan fungsi pegawai berdasarkan hasil dialog kinerja.",
+          "HKU dan HKT tidak perlu dibedakan karena keduanya memiliki batas nilai maksimal yang sama.",
+          "HKT tidak masuk evaluasi kinerja karena hanya dokumen pendukung di luar SKP."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi evaluasi kinerja menyebut hasil kerja utama sesuai tugas dan fungsi pegawai atau hasil dialog kinerja. Materi juga menyebut hasil kerja tambahan terdiri dari tiga bentuk kinerja, yaitu squad team, inovasi, dan penugasan lain.\n\nOpsi A keliru karena materi tidak membatasi HKT hanya pada inovasi.\n\nOpsi C keliru karena materi membedakan HKU dan HKT serta menyebut batas nilai HKU maksimal 105 dan HKT maksimal 15.\n\nOpsi D keliru karena HKT menjadi bagian dari konsolidasi capaian hasil kerja dalam evaluasi kinerja.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 12/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 12,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang PNS menyelesaikan Tugas Belajar Dibiayai Diberhentikan selama dua tahun. Sebelumnya ia juga memiliki ikatan dinas dari pendidikan kedinasan yang belum selesai. Ia bertanya kepada UPSDM bagaimana urutan penyelesaian ikatan dinas dan kapan ijazah asli dapat diserahkan kembali. Pengelola harus menjawab berdasarkan ketentuan ikatan dinas dalam materi. Jawaban manakah yang paling tepat?",
+        "answer": "Ikatan dinas Tugas Belajar Dibiayai Diberhentikan adalah 2 kali masa studi, penyelesaian kewajiban ikatan dinas dilakukan mulai dari pendidikan terakhir secara berturut-turut hingga pendidikan paling awal, dan setelah ikatan dinas terpenuhi UPSDM menyerahkan asli ijazah serta transkrip nilai kepada PNS selesai tugas belajar.",
+        "options": [
+          "Ikatan dinas selalu diselesaikan dari pendidikan paling awal ke pendidikan terakhir, dan ijazah diserahkan sebelum ikatan dinas terpenuhi.",
+          "Ikatan dinas Tugas Belajar Dibiayai Diberhentikan adalah 1 kali masa studi dan dapat dihapus jika pegawai kembali bekerja tepat waktu.",
+          "Ikatan dinas Tugas Belajar Dibiayai Diberhentikan adalah 2 kali masa studi, penyelesaian kewajiban ikatan dinas dilakukan mulai dari pendidikan terakhir secara berturut-turut hingga pendidikan paling awal, dan setelah ikatan dinas terpenuhi UPSDM menyerahkan asli ijazah serta transkrip nilai kepada PNS selesai tugas belajar.",
+          "Ikatan dinas hanya berlaku untuk Tugas Belajar Mandiri, bukan Tugas Belajar Dibiayai."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi ketentuan ikatan dinas Tugas Belajar Dibiayai menyebut 2 kali masa studi untuk Tugas Belajar Dibiayai Diberhentikan. Materi juga menyebut penyelesaian kewajiban ikatan dinas dilakukan mulai dari pendidikan terakhir secara berturut-turut hingga pendidikan paling awal, dan jika ikatan dinas terpenuhi UPSDM menyerahkan asli ijazah serta transkrip nilai kepada PNS selesai tugas belajar.\n\nOpsi A keliru karena urutan penyelesaian dimulai dari pendidikan terakhir, bukan pendidikan paling awal.\n\nOpsi B keliru karena 1 kali masa studi berlaku untuk Tugas Belajar Dibiayai Tidak Diberhentikan.\n\nOpsi D keliru karena materi secara khusus memuat ketentuan ikatan dinas Tugas Belajar Dibiayai.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 13/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 13,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Pelaksana Umum di sebuah unit baru saja lulus Tugas Belajar dan memperoleh kenaikan pangkat. Pada saat Sidang Penilaian, pegawai tersebut baru memiliki satu Predikat Kinerja Tahunan Pegawai bernilai Baik. Pejabat penilai ingin mengetahui apakah perlu dilakukan penilaian kemampuan kerja dan kapan sidang berikutnya dilakukan. Ia juga ingin memastikan pendidikan hasil tugas belajar bisa digunakan untuk penetapan jabatan dan peringkat. Pilihan manakah yang paling tepat?",
+        "answer": "Dapat dilakukan penilaian Kemampuan Kerja bagi Pelaksana Umum karena pegawai memiliki 1 Predikat Kinerja Tahunan bernilai Sangat Baik atau Baik dan diusulkan kenaikan jabatan dan peringkat; penetapan berikutnya dilakukan melalui Sidang Penilaian tahun berikutnya berdasarkan 1 Predikat Kinerja Tahunan terakhir dengan mempertimbangkan hasil penilaian kemampuan kerja dan kriteria lain, sedangkan pendidikan hasil tugas belajar dapat digunakan dengan melampirkan salinan laporan penyelesaian pendidikan sebelum Sidang Penilaian.",
+        "options": [
+          "Dapat dilakukan penilaian Kemampuan Kerja bagi Pelaksana Umum karena pegawai memiliki 1 Predikat Kinerja Tahunan bernilai Sangat Baik atau Baik dan diusulkan kenaikan jabatan dan peringkat; penetapan berikutnya dilakukan melalui Sidang Penilaian tahun berikutnya berdasarkan 1 Predikat Kinerja Tahunan terakhir dengan mempertimbangkan hasil penilaian kemampuan kerja dan kriteria lain, sedangkan pendidikan hasil tugas belajar dapat digunakan dengan melampirkan salinan laporan penyelesaian pendidikan sebelum Sidang Penilaian.",
+          "Pegawai harus menunggu sampai memiliki 3 Predikat Kinerja Tahunan karena satu predikat tidak dapat digunakan untuk penilaian apa pun.",
+          "Pendidikan hasil tugas belajar tidak dapat digunakan untuk penetapan jabatan dan peringkat karena hanya pangkat lama yang boleh dipakai.",
+          "Sidang Penilaian wajib langsung menaikkan jabatan dan peringkat tanpa penilaian kemampuan kerja karena pegawai telah lulus Tugas Belajar."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi menyebut bagi Pelaksana Umum yang mendapatkan kenaikan pangkat atau golongan karena lulus UPKP atau lulus Tugas Belajar dan telah memiliki 1 Predikat Kinerja Tahunan, dilakukan penilaian Kemampuan Kerja jika predikat bernilai Sangat Baik atau Baik dan diusulkan kenaikan jabatan dan peringkat. Materi juga menyebut Sidang Penilaian tahun berikutnya berdasarkan 1 Predikat Kinerja Tahunan terakhir dengan mempertimbangkan hasil penilaian kemampuan kerja dan kriteria lain, serta pendidikan hasil Tugas Belajar atau Izin dapat digunakan dengan melampirkan salinan laporan penyelesaian pendidikan.\n\nOpsi B keliru karena materi secara eksplisit mengatur kondisi pegawai yang baru memiliki 1 Predikat Kinerja Tahunan.\n\nOpsi C keliru karena materi membolehkan pendidikan hasil Tugas Belajar atau Izin digunakan dalam penetapan jabatan dan peringkat dengan syarat dokumen pendukung.\n\nOpsi D keliru karena kenaikan tidak otomatis tanpa penilaian kemampuan kerja dan kriteria lain.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 14/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 14,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Sebuah unit perlu membedakan Juru Sita Keuangan Negara dan Penilai Aset dalam daftar Jabatan Pelaksana Umum. Seorang pegawai menyebut keduanya sama-sama melakukan penilaian dokumen perpajakan. Kepala unit meminta definisi yang lebih tepat sesuai materi. Ada uraian tugas tentang penagihan seketika dan sekaligus, pemberitahuan surat paksa, penyitaan, dan penyanderaan. Ada pula uraian tugas tentang penilaian aset, menyiapkan bahan perencanaan penilaian, dan menyusun laporan periodik rekapitulasi hasil penilaian. Pasangan jabatan manakah yang benar?",
+        "answer": "Uraian penagihan seketika dan sekaligus, pemberitahuan surat paksa, penyitaan, dan penyanderaan adalah Juru Sita Keuangan Negara; uraian penilaian aset, bahan perencanaan penilaian, dan laporan periodik rekapitulasi hasil penilaian adalah Penilai Aset.",
+        "options": [
+          "Uraian penagihan dan penyitaan adalah Penilai Aset, sedangkan uraian penilaian aset adalah Juru Sita Keuangan Negara.",
+          "Uraian penagihan seketika dan sekaligus, pemberitahuan surat paksa, penyitaan, dan penyanderaan adalah Juru Sita Keuangan Negara; uraian penilaian aset, bahan perencanaan penilaian, dan laporan periodik rekapitulasi hasil penilaian adalah Penilai Aset.",
+          "Kedua uraian tersebut merupakan tugas Account Representative karena sama-sama berkaitan dengan penerimaan negara.",
+          "Kedua uraian tersebut merupakan tugas Penelaah Keberatan karena sama-sama berkaitan dengan sengketa pajak."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi mendefinisikan Juru Sita Keuangan Negara sebagai Jabatan Pelaksana yang melaksanakan tindakan penagihan, termasuk penagihan seketika dan sekaligus, pemberitahuan surat paksa, penyitaan, dan penyanderaan. Materi juga mendefinisikan Penilai Aset sebagai Jabatan Pelaksana yang melakukan penilaian aset, menyiapkan bahan perencanaan penilaian, dan menyusun laporan periodik rekapitulasi hasil penilaian.\n\nOpsi A keliru karena kedua uraian jabatan tertukar.\n\nOpsi C keliru karena Account Representative berfokus pada bimbingan, konsultasi, analisis, dan pengawasan terhadap wajib pajak untuk menggali potensi penerimaan.\n\nOpsi D keliru karena Penelaah Keberatan berfokus pada penelaahan permohonan keberatan dan pengurangan atau pembatalan ketetapan pajak yang tidak benar.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 15/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 15,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang PNS mengalami sakit cukup lama dan mengajukan cuti sakit. Setelah mendekati satu tahun, pengelola kepegawaian perlu menjelaskan batas maksimal cuti sakit dan kewajiban uji kesehatan. Pada saat yang sama, ada pegawai yang mengajukan cuti karena gugur kandungan. Petugas harus menjelaskan dokumen dan batas waktu yang relevan. Jawaban manakah yang paling tepat?",
+        "answer": "Cuti sakit maksimal 1 tahun dan dapat ditambah maksimal 6 bulan, setelah 1 tahun wajib dilakukan Uji Kesehatan oleh Tim Pemeriksa Kesehatan; gugur kandungan diberikan maksimal 1,5 bulan dengan melampirkan surat keterangan dokter.",
+        "options": [
+          "Cuti sakit maksimal 3 bulan dan tidak dapat diperpanjang, sedangkan gugur kandungan menggunakan cuti karena alasan penting.",
+          "Cuti sakit maksimal 1 tahun tanpa perpanjangan dan tidak memerlukan uji kesehatan, sedangkan gugur kandungan maksimal 3 bulan.",
+          "Cuti sakit hanya berlaku bagi PNS dan tidak berlaku bagi CPNS dalam materi.",
+          "Cuti sakit maksimal 1 tahun dan dapat ditambah maksimal 6 bulan, setelah 1 tahun wajib dilakukan Uji Kesehatan oleh Tim Pemeriksa Kesehatan; gugur kandungan diberikan maksimal 1,5 bulan dengan melampirkan surat keterangan dokter."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi cuti sakit menyebut cuti sakit maksimal 1 tahun dan dapat ditambah maksimal 6 bulan, serta setelah 1 tahun wajib dilakukan Uji Kesehatan oleh Tim Pemeriksa Kesehatan. Materi juga menyebut gugur kandungan maksimal 1,5 bulan dengan dokumen surat keterangan dokter.\n\nOpsi A keliru karena batas cuti sakit bukan 3 bulan dan gugur kandungan dibahas dalam cuti sakit.\n\nOpsi B keliru karena materi menyebut cuti sakit dapat ditambah maksimal 6 bulan dan wajib uji kesehatan setelah 1 tahun.\n\nOpsi C keliru karena materi menyebut ketentuan cuti sakit berlaku juga bagi CPNS.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 16/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 16,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Nina adalah PNS yang telah bekerja terus-menerus selama enam tahun dan ingin mengambil cuti besar untuk alasan lain. Pada tahun yang sama, ia masih memiliki kuota cuti tahunan. Ia juga bertanya kapan cuti besar berikutnya bisa diajukan setelah cuti besar selesai. Petugas kepegawaian harus menjelaskan hak, durasi, dan konsekuensi cuti besar sesuai materi. Jawaban manakah yang paling tepat?",
+        "answer": "Cuti besar merupakan hak PNS yang telah bekerja paling singkat 5 tahun secara terus-menerus, diberikan paling lama 3 bulan, pegawai tidak berhak atas cuti tahunan tahun berjalan, dan cuti besar berikutnya diajukan 5 tahun dari selesainya cuti besar sebelumnya.",
+        "options": [
+          "Cuti besar hanya dapat diberikan setelah bekerja 10 tahun dan tetap memberi hak cuti tahunan pada tahun berjalan.",
+          "Cuti besar merupakan hak PNS yang telah bekerja paling singkat 5 tahun secara terus-menerus, diberikan paling lama 3 bulan, pegawai tidak berhak atas cuti tahunan tahun berjalan, dan cuti besar berikutnya diajukan 5 tahun dari selesainya cuti besar sebelumnya.",
+          "Cuti besar dapat diberikan paling lama 1 bulan dan berikutnya dapat diajukan setiap tahun jika cuti tahunan tidak dipakai.",
+          "Cuti besar hanya diberikan untuk ibadah haji pertama kali dan tidak dapat dipakai untuk alasan lain."
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Jawaban B benar karena materi cuti besar menyebut hak bagi PNS yang telah bekerja paling singkat 5 tahun secara terus-menerus. Materi juga menyebut cuti besar diberikan paling lama 3 bulan, tidak berhak atas cuti tahunan tahun berjalan, dan cuti besar berikutnya diajukan 5 tahun dari selesainya cuti besar sebelumnya.\n\nOpsi A keliru karena syarat masa kerja dalam materi adalah paling singkat 5 tahun, bukan 10 tahun, dan pegawai tidak berhak atas cuti tahunan tahun berjalan.\n\nOpsi C keliru karena durasi cuti besar paling lama 3 bulan dan tidak dapat diajukan setiap tahun.\n\nOpsi D keliru karena materi mencantumkan ibadah haji pertama kali, kelahiran anak ke-4 dan seterusnya, serta alasan lain.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 17/20; disusun dari Kepegawaian.pdf; kunci jawaban B."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 17,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang PNS wanita mengajukan cuti melahirkan untuk kelahiran anak kedua. Ia melampirkan surat keterangan dokter yang mencantumkan Hari Perkiraan Lahir. Atasan bertanya apakah cuti melahirkan hanya untuk PNS atau juga berlaku bagi CPNS. Pegawai juga menanyakan apakah durasinya selalu persis tiga bulan dalam semua keadaan. Penjelasan manakah yang paling tepat?",
+        "answer": "Cuti melahirkan merupakan hak PNS wanita untuk kelahiran anak pertama sampai ketiga, berlaku juga bagi CPNS, umumnya 3 bulan tetapi dapat kurang dari 3 bulan dalam keadaan tertentu, dan permohonan diajukan dengan melampirkan Surat Keterangan Dokter atau Bidan yang mencantumkan HPL.",
+        "options": [
+          "Cuti melahirkan hanya untuk kelahiran anak pertama dan tidak berlaku untuk anak kedua atau ketiga.",
+          "Cuti melahirkan harus selalu tepat 3 bulan dan tidak dapat kurang dalam keadaan apa pun.",
+          "Cuti melahirkan merupakan hak PNS wanita untuk kelahiran anak pertama sampai ketiga, berlaku juga bagi CPNS, umumnya 3 bulan tetapi dapat kurang dari 3 bulan dalam keadaan tertentu, dan permohonan diajukan dengan melampirkan Surat Keterangan Dokter atau Bidan yang mencantumkan HPL.",
+          "Cuti melahirkan mengurangi cuti tahunan dan ditetapkan dengan Keputusan Presiden seperti cuti bersama."
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "Jawaban C benar karena materi cuti melahirkan menyebut hak bagi PNS wanita untuk kelahiran anak pertama sampai ketiga. Materi juga menyebut durasi 3 bulan dengan catatan dapat kurang dari 3 bulan dalam keadaan tertentu, permohonan melampirkan Surat Keterangan Dokter atau Bidan yang mencantumkan HPL, dan berlaku juga bagi CPNS.\n\nOpsi A keliru karena cuti melahirkan berlaku untuk kelahiran anak pertama sampai ketiga.\n\nOpsi B keliru karena materi menyebut dapat kurang dari 3 bulan dalam keadaan tertentu.\n\nOpsi D keliru karena informasi tidak mengurangi cuti tahunan dan ditetapkan dengan Keputusan Presiden berada pada cuti bersama, bukan cuti melahirkan.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 18/20; disusun dari Kepegawaian.pdf; kunci jawaban C."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 18,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Pada pekan dengan libur panjang nasional, seorang pegawai bertanya tentang flexy time. Hari kerjanya bersinggungan dengan libur atau cuti bersama nasional long weekend. Pegawai lain bertanya tentang flexy time pada Selasa sampai Kamis biasa yang tidak termasuk kondisi tersebut. Pengelola kepegawaian juga perlu mengingatkan jam kerja reguler dalam 5 hari kerja. Jawaban manakah yang paling tepat?",
+        "answer": "Jumlah jam kerja reguler adalah 42 jam 45 menit dalam 5 hari kerja; pada Senin dan Jumat atau Selasa sampai Kamis yang bersinggungan dengan libur/cuti bersama nasional long weekend, flexy time paling lama 90 menit sebelum atau setelah ketentuan jam masuk bekerja, sedangkan Selasa sampai Kamis selain kondisi tersebut paling lama 30 menit.",
+        "options": [
+          "Jumlah jam kerja reguler adalah 42 jam 45 menit dalam 5 hari kerja; pada Senin dan Jumat atau Selasa sampai Kamis yang bersinggungan dengan libur/cuti bersama nasional long weekend, flexy time paling lama 90 menit sebelum atau setelah ketentuan jam masuk bekerja, sedangkan Selasa sampai Kamis selain kondisi tersebut paling lama 30 menit.",
+          "Jumlah jam kerja reguler adalah 40 jam dalam 5 hari kerja dan flexy time selalu 90 menit untuk semua hari.",
+          "Flexy time tidak berlaku dalam lingkungan Kementerian Keuangan karena semua pegawai wajib datang tepat 07.30.",
+          "Selasa sampai Kamis biasa memperoleh flexy time 90 menit, sedangkan hari yang bersinggungan dengan long weekend hanya 30 menit."
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "Jawaban A benar karena materi izin pegawai menyebut jumlah jam kerja reguler 42 jam 45 menit dalam 5 hari kerja. Materi juga menyebut kategori Senin dan Jumat atau Selasa sampai Kamis yang bersinggungan dengan libur atau cuti bersama nasional long weekend memiliki flexy time paling lama 90 menit, sedangkan Selasa sampai Kamis selain ketentuan tersebut paling lama 30 menit.\n\nOpsi B keliru karena jumlah jam kerja reguler dalam materi bukan 40 jam dan flexy time tidak selalu 90 menit.\n\nOpsi C keliru karena materi tetap mengatur flexy time.\n\nOpsi D keliru karena ketentuan 90 menit dan 30 menit tertukar.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 19/20; disusun dari Kepegawaian.pdf; kunci jawaban A."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 19,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      },
+      {
+        "categoryId": "kepegawaian",
+        "topic": "PEG (Studi Kasus) Paket C",
+        "question": "Seorang pegawai lupa melakukan presensi masuk kerja dan baru menyadari dua hari kemudian. Pada kasus lain, pegawai terlambat masuk kerja karena alasan yang dapat diberitahukan melalui aplikasi. Unit kepegawaian ingin memastikan keduanya tidak langsung diperlakukan sebagai pelanggaran hari kerja dan jam kerja jika bukti serta batas waktu dipenuhi. Pegawai bertanya bukti apa yang diperlukan dan kapan izin atau pemberitahuan harus diinput. Pilihan manakah yang paling tepat?",
+        "answer": "Kriteria bukan pelanggaran mencakup tidak masuk bekerja, terlambat masuk, pulang sebelum waktunya, dan tidak mengisi daftar hadir; bukti untuk tidak mengisi daftar hadir berupa berita acara lupa absen dan tangkapan layar CCTV, sedangkan surat izin atau pemberitahuan harus diinput pada SIKKA paling lambat 3 hari kerja setelah kejadian, dan berita acara lupa presensi dapat diinput sepanjang belum dijadikan dasar perhitungan tunjangan kinerja.",
+        "options": [
+          "Lupa presensi cukup dijelaskan lisan kepada atasan, sedangkan izin terlambat boleh diinput kapan saja selama belum akhir tahun.",
+          "Semua keterlambatan dan lupa presensi otomatis menjadi pelanggaran tanpa mekanisme surat izin atau berita acara.",
+          "Berita acara lupa presensi hanya dapat digunakan jika pegawai juga mengajukan izin luar negeri.",
+          "Kriteria bukan pelanggaran mencakup tidak masuk bekerja, terlambat masuk, pulang sebelum waktunya, dan tidak mengisi daftar hadir; bukti untuk tidak mengisi daftar hadir berupa berita acara lupa absen dan tangkapan layar CCTV, sedangkan surat izin atau pemberitahuan harus diinput pada SIKKA paling lambat 3 hari kerja setelah kejadian, dan berita acara lupa presensi dapat diinput sepanjang belum dijadikan dasar perhitungan tunjangan kinerja."
+        ],
+        "correctOptionIndex": 3,
+        "explanation": "Jawaban D benar karena materi kriteria bukan pelanggaran hari kerja dan jam kerja memuat ketidakhadiran, terlambat masuk, pulang sebelum waktunya, dan tidak mengisi daftar hadir. Materi juga menyebut bukti untuk tidak mengisi daftar hadir berupa berita acara lupa absen dan tangkapan layar CCTV, serta batas input surat izin atau pemberitahuan pada SIKKA paling lambat 3 hari kerja setelah kejadian dan berita acara lupa presensi dapat diinput sepanjang belum dijadikan dasar perhitungan tunjangan kinerja.\n\nOpsi A keliru karena lupa presensi memerlukan berita acara lupa absen dan tangkapan layar CCTV, bukan hanya penjelasan lisan.\n\nOpsi B keliru karena materi menyediakan kriteria dan bukti agar kondisi tertentu tidak menjadi pelanggaran.\n\nOpsi C keliru karena berita acara lupa presensi tidak terkait dengan izin luar negeri.",
+        "source": {
+          "title": "Kepegawaian.pdf",
+          "url": "/Users/persiapantubel/Downloads/Persiapan U-Kom/Materi/Kepegawaian/Kepegawaian.pdf",
+          "note": "PEG (Studi Kasus) Paket C soal 20/20; disusun dari Kepegawaian.pdf; kunci jawaban D."
+        },
+        "providedPackage": {
+          "id": "kepegawaian-studi-kasus-paket-c",
+          "label": "C",
+          "order": 2,
+          "questionNumber": 20,
+          "sourceTitle": "Kepegawaian.pdf"
+        }
+      }
+    ]
   }
 ]
